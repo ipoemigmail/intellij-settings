@@ -19,15 +19,8 @@
     <keyboard-shortcut first-keystroke="alt slash" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
-  <action id="Scala.ShowImplicitArguments" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="shift meta p" />
-  </action>
-  <action id="ToggleInlineHintsAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
 </keymap>
