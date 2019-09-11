@@ -10,12 +10,12 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.java</mask>
     <mask>*.scala</mask>
     <mask>*.conf</mask>
     <mask>*.sh</mask>
-    <mask>*.xml</mask>
     <mask>*.rb</mask>
     <mask>!*.java</mask>
+    <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
