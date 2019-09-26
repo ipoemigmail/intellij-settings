@@ -53,23 +53,6 @@
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/arel-6.0.4/lib" />
       </SOURCES>
     </library>
-    <library name="ast (v2.4.0, ruby-2.1.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/ast-2.4.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/ast-2.4.0/test" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/ast-2.4.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/ast-2.4.0/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/ast-2.4.0/test" />
-      </excluded>
-    </library>
     <library name="backports (v3.11.3, ruby-2.1.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -126,6 +109,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/binding_of_caller-0.8.0/test" />
@@ -133,6 +117,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/binding_of_caller-0.8.0/test" />
@@ -167,44 +152,24 @@
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/builder-3.2.3/rakelib" />
       </excluded>
     </library>
-    <library name="bundler (v1.16.2, ruby-2.1.0-p0) [gem]" type="rubylib">
+    <library name="bundler (v1.16.4, ruby-2.1.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.2/exe" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.2/lib" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.2/man" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.4/exe" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.4/lib" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.4/man" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.2/exe" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.2/lib" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.2/man" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.4/exe" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.4/lib" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.4/man" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.2/exe" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.2/man" />
-      </excluded>
-    </library>
-    <library name="bundler (v1.16.3, ruby-2.1.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.3/exe" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.3/lib" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.3/man" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.3/exe" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.3/lib" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.3/man" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.3/exe" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.3/man" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.4/exe" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/bundler-1.16.4/man" />
       </excluded>
     </library>
     <library name="capistrano (v3.1.0, ruby-2.1.0-p0) [gem]" type="rubylib">
@@ -234,11 +199,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/cassandra-driver/3.2.0" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/cassandra-driver-3.2.0/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/cassandra-driver-3.2.0/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/cassandra-driver/3.2.0" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/cassandra-driver-3.2.0/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/cassandra-driver-3.2.0/lib" />
       </SOURCES>
@@ -354,12 +321,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/debug_inspector-0.0.3/test" />
@@ -516,7 +485,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.18/lib" />
@@ -525,7 +493,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.18/lib" />
@@ -537,26 +504,6 @@
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.18/spec" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.18/libtest" />
-      </excluded>
-    </library>
-    <library name="ffi (v1.9.25, ruby-2.1.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.25/ext" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.25/lib" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.25/samples" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.25/ext" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.25/lib" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.25/samples" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.25/ext" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.25/samples" />
       </excluded>
     </library>
     <library name="flay (v2.12.0, ruby-2.1.0-p0) [gem]" type="rubylib">
@@ -727,23 +674,6 @@
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ione-1.2.4/spec" />
       </excluded>
     </library>
-    <library name="jaro_winkler (v1.5.1, ruby-2.1.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/jaro_winkler-1.5.1-x86_64-darwin-17/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/jaro_winkler-1.5.1-x86_64-darwin-17/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/jaro_winkler-1.5.1-x86_64-darwin-17/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/jaro_winkler-1.5.1-x86_64-darwin-17/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/jaro_winkler-1.5.1-x86_64-darwin-17/ext" />
-      </excluded>
-    </library>
     <library name="jenkins_api_client (v1.3.0, ruby-2.1.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -796,6 +726,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/json/1.8.6" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-1.8.6/data" />
@@ -806,6 +737,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/json/1.8.6" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-1.8.6/data" />
@@ -828,7 +760,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/json/2.1.0" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-2.1.0/data" />
@@ -840,7 +771,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/json/2.1.0" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-2.1.0/data" />
@@ -965,6 +895,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/mysql2/0.4.9" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/mysql2-0.4.9/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/mysql2-0.4.9/lib" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/mysql2-0.4.9/spec" />
@@ -973,6 +904,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/mysql2/0.4.9" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/mysql2-0.4.9/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/mysql2-0.4.9/lib" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/mysql2-0.4.9/spec" />
@@ -1048,7 +980,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/lib" />
@@ -1059,7 +990,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/lib" />
@@ -1089,44 +1019,21 @@
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/parallel-1.12.1/lib" />
       </SOURCES>
     </library>
-    <library name="parallel_tests (v2.21.3, ruby-2.1.0-p0) [gem]" type="rubylib">
+    <library name="parallel_tests (v2.22.0, ruby-2.1.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/parallel_tests-2.21.3/bin" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/parallel_tests-2.21.3/lib" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/parallel_tests-2.22.0/bin" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/parallel_tests-2.22.0/lib" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/parallel_tests-2.21.3/bin" />
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/parallel_tests-2.21.3/lib" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/parallel_tests-2.22.0/bin" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/parallel_tests-2.22.0/lib" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/parallel_tests-2.21.3/bin" />
-      </excluded>
-    </library>
-    <library name="parser (v2.5.1.1, ruby-2.1.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/parser-2.5.1.1/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/parser-2.5.1.1/doc" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/parser-2.5.1.1/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/parser-2.5.1.1/test" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/parser-2.5.1.1/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/parser-2.5.1.1/doc" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/parser-2.5.1.1/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/parser-2.5.1.1/test" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/parser-2.5.1.1/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/parser-2.5.1.1/doc" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/parser-2.5.1.1/test" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/parallel_tests-2.22.0/bin" />
       </excluded>
     </library>
     <library name="path_expander (v1.0.3, ruby-2.1.0-p0) [gem]" type="rubylib">
@@ -1144,23 +1051,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/path_expander-1.0.3/test" />
-      </excluded>
-    </library>
-    <library name="powerpack (v0.1.2, ruby-2.1.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/powerpack-0.1.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/powerpack-0.1.2/spec" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/powerpack-0.1.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/powerpack-0.1.2/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/powerpack-0.1.2/spec" />
       </excluded>
     </library>
     <library name="pry (v0.10.3, ruby-2.1.0-p0) [gem]" type="rubylib">
@@ -1363,23 +1253,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/rack-test-0.7.0/lib" />
       </SOURCES>
-    </library>
-    <library name="rainbow (v3.0.0, ruby-2.1.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/rainbow-3.0.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/rainbow-3.0.0/spec" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/rainbow-3.0.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/rainbow-3.0.0/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/rainbow-3.0.0/spec" />
-      </excluded>
     </library>
     <library name="rake (v10.1.0, ruby-2.1.0-p0) [gem]" type="rubylib">
       <properties>
@@ -1590,18 +1463,6 @@
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/rspec-mocks-2.14.6/spec" />
       </excluded>
     </library>
-    <library name="ruby-progressbar (v1.9.0, ruby-2.1.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/ruby-progressbar-1.9.0/lib" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/ruby-progressbar-1.9.0/lib" />
-      </SOURCES>
-    </library>
     <library name="ruby_parser (v3.11.0, ruby-2.1.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1738,6 +1599,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/thin/1.7.2" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/thin-1.7.2/bin" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/thin-1.7.2/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/thin-1.7.2/lib" />
@@ -1745,6 +1607,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/thin/1.7.2" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/thin-1.7.2/bin" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/thin-1.7.2/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/thin-1.7.2/lib" />
@@ -1807,6 +1670,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/thrift/0.9.3.0" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/thrift-0.9.3.0/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/thrift-0.9.3.0/lib" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/thrift-0.9.3.0/spec" />
@@ -1814,6 +1678,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/thrift/0.9.3.0" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/thrift-0.9.3.0/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/thrift-0.9.3.0/lib" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/thrift-0.9.3.0/spec" />
@@ -1881,26 +1746,6 @@
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/unicode-display_width-1.3.0/spec" />
       </excluded>
     </library>
-    <library name="unicode-display_width (v1.4.0, ruby-2.1.0-p0) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/unicode-display_width-1.4.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/unicode-display_width-1.4.0/data" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/unicode-display_width-1.4.0/spec" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/unicode-display_width-1.4.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/unicode-display_width-1.4.0/data" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/unicode-display_width-1.4.0/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/unicode-display_width-1.4.0/data" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.1.0/gems/unicode-display_width-1.4.0/spec" />
-      </excluded>
-    </library>
     <library name="zk (v1.9.6, ruby-2.1.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1932,6 +1777,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/zookeeper/1.4.11" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/zookeeper-1.4.11/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/zookeeper-1.4.11/lib" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/zookeeper-1.4.11/java" />
@@ -1942,6 +1788,7 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/zookeeper/1.4.11" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/zookeeper-1.4.11/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/zookeeper-1.4.11/lib" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/zookeeper-1.4.11/java" />
