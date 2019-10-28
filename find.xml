@@ -8,9 +8,10 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*_spec.rb</mask>
-    <mask>*.scala</mask>
     <mask>*.rb</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.conf</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
