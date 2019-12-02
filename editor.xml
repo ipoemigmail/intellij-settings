@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="13" />
     <option name="FONT_FAMILY" value="Fira Code Han" />
@@ -9,5 +12,9 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
   </component>
 </application>
