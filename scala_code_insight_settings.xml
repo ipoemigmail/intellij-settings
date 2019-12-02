@@ -2,5 +2,6 @@
   <component name="ScalaCodeInsightSettings">
     <option name="showFunctionReturnType" value="false" />
     <option name="showLocalVariableType" value="true" />
+    <option name="uniqueTypesToShowMethodChains" value="1" />
   </component>
 </application>
