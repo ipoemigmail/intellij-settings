@@ -104,4 +104,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="register_streaming_prod" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-streaming1; bin/register.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
 </toolSet>
