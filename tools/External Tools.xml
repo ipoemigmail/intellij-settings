@@ -1,22 +1,36 @@
 <toolSet name="External Tools">
+  <tool name="MacVim" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/opt/macvim/bin/gvim" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
   <tool name="deploy_batch_dev" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="bin/deploy.sh" />
-      <option name="PARAMETERS" value="$FileClass$" />
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="-c &quot;bin/deploy.sh $FileNameWithoutAllExtensions$&quot; " />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="deploy_batch_prod" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; bin/deploy.sh $FileNameWithoutAllExtensions$&quot; " />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="deploy_streaming_dev" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;CLUSTER_NAME=ks-streaming1; bin/deploy.sh $FileNameWithoutAllExtensions$&quot;" />
+      <option name="PARAMETERS" value="-c &quot;export CLUSTER_NAME=ks-streaming1; bin/deploy.sh $FileNameWithoutAllExtensions$&quot; " />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="deploy_streaming_prod" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;HADOOP_USER_NAME=hdfs; PHASE=prod; CLUSTER_NAME=ks-streaming1; bin/deploy.sh $FileNameWithoutAllExtensions$&quot;" />
+      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-streaming1; bin/deploy.sh $FileNameWithoutAllExtensions$&quot; " />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
