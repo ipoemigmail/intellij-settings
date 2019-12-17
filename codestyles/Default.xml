@@ -3,6 +3,9 @@
     <option name="SCALAFMT_USE_INTELLIJ_FORMATTER_FOR_RANGE_FORMAT" value="false" />
     <option name="FORMATTER" value="1" />
   </ScalaCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="HTML">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
