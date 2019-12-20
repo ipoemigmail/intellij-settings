@@ -686,7 +686,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.18/lib" />
@@ -695,7 +694,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.18/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.18/gen" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/ffi-1.9.18/lib" />
@@ -1071,7 +1069,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21/json/2.1.0" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-2.1.0/data" />
@@ -1083,7 +1080,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21/json/2.1.0" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/json-2.1.0/data" />
@@ -1405,7 +1401,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/lib" />
@@ -1416,7 +1411,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21/nokogiri/1.6.8.1" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/bin" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/ext" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/nokogiri-1.6.8.1/lib" />
@@ -1650,6 +1644,41 @@
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
         <root url="file://$USER_HOME$/Develop/Works/Kakao/Story/story-stats-request-log/venv/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2018.3/python_stubs/237727085" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 2.7 interpreter library">
+      <CLASSES>
+        <root url="file:///usr/local/Cellar/python@2/2.7.17/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.3/python_stubs/-1199944087" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/local/Cellar/python@2/2.7.17/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python@2/2.7.17/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+        <root url="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.3/python_stubs/-1199944087" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
