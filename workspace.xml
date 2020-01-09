@@ -1,5 +1,6 @@
 <application>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="Scala.ScalaTypeHintsSettingsModel" />
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value="Scala.TypeMismatchHintsSettingsModel" />
   </component>
 </application>
