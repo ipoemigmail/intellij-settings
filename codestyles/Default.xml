@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
   <ScalaCodeStyleSettings>
+    <option name="classCountToUseImportOnDemand" value="4" />
     <option name="SCALAFMT_USE_INTELLIJ_FORMATTER_FOR_RANGE_FORMAT" value="false" />
     <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
     <option name="FORMATTER" value="1" />
@@ -20,22 +21,6 @@
         <group>
           <type>DEPENDENT_METHODS</type>
           <order>BREADTH_FIRST</order>
-        </group>
-        <group>
-          <type>SCALA_KEEP_JAVA_GETTERS_SETTERS_TOGETHER</type>
-          <order>KEEP</order>
-        </group>
-        <group>
-          <type>SCALA_KEEP_SCALA_GETTERS_SETTERS_TOGETHER</type>
-          <order>KEEP</order>
-        </group>
-        <group>
-          <type>SCALA_SPLIT_BY_EXPRESSIONS</type>
-          <order>KEEP</order>
-        </group>
-        <group>
-          <type>SCALA_SPLIT_BY_IMPLICITS</type>
-          <order>KEEP</order>
         </group>
       </groups>
     </arrangement>
