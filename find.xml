@@ -15,5 +15,6 @@
     <mask>*.conf</mask>
     <mask>*.java</mask>
     <mask>*.scala</mask>
+    <mask>*.sbt</mask>
   </component>
 </application>
