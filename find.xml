@@ -16,5 +16,6 @@
     <mask>*.java</mask>
     <mask>*.scala</mask>
     <mask>*.sbt</mask>
+    <mask>*Serv*</mask>
   </component>
 </application>
