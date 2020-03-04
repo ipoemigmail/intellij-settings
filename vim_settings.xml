@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>314</entry>
-        <entry encoding="base64">XDxpc0JldGFcPg==</entry>
-        <entry encoding="base64">XDxpbXByZXNzaW9uXD4=</entry>
         <entry encoding="base64">XDx2aWRlb1w+</entry>
         <entry encoding="base64">XDxwYWdlTGFiZWxcPg==</entry>
         <entry encoding="base64">XDxwcmV2UGFnZUxhYmVsXD4=</entry>
@@ -27,6 +24,9 @@
         <entry>Default</entry>
         <entry>get</entry>
         <entry>ZLa</entry>
+        <entry>Option22</entry>
+        <entry>side eff</entry>
+        <entry>Environment Effect</entry>
       </history-search>
       <history-cmd>
         <entry>%s/StoryRequestLog/StoryContentsLog/g</entry>
@@ -158,11 +158,12 @@
         <mark key="." line="6" column="53" />
         <mark key="^" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_02_creation_effect/CreatingEffectSpec.scala" timestamp="1583329289248">
-        <mark key="[" line="16" column="41" />
-        <mark key="]" line="17" column="4" />
-        <mark key="^" line="17" column="4" />
-        <mark key="." line="17" column="3" />
+      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_02_creation_effect/CreatingEffectSpec.scala" timestamp="1583333351554">
+        <mark key="'" line="19" column="19" />
+        <mark key="[" line="50" column="75" />
+        <mark key="]" line="50" column="76" />
+        <mark key="^" line="50" column="76" />
+        <mark key="." line="50" column="75" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" timestamp="1583332315956">
         <mark key="'" line="152" column="1" />
@@ -178,11 +179,11 @@
         <mark key="[" line="30" column="36" />
         <mark key="]" line="30" column="51" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/TestingEffectSpec.scala" timestamp="1583331585894">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="78" column="26" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/TestingEffectSpec.scala" timestamp="1583333085800">
+        <mark key="'" line="81" column="57" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_03_basic_operations/BasicOperationsSpec.scala" timestamp="1583329296057">
         <mark key="[" line="9" column="42" />
@@ -222,9 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
-      <jump line="29" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
-      <jump line="36" column="33" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/etl/src/main/scala/story/etl/transformer/story_log/PushImpressionStatUDF.scala" />
       <jump line="44" column="75" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
       <jump line="37" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
       <jump line="30" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
@@ -322,6 +320,9 @@
       <jump line="79" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
       <jump line="9" column="2" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
       <jump line="152" column="1" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
+      <jump line="81" column="57" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/TestingEffectSpec.scala" />
+      <jump line="34" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_02_creation_effect/CreatingEffectSpec.scala" />
+      <jump line="19" column="19" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_02_creation_effect/CreatingEffectSpec.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,7 +331,7 @@
         <text>def spec: ZSpec[Environment, Failure]</text>
       </register>
       <register name="&quot;" type="4">
-        <text>: ZSpec[Environment, Any]</text>
+        <text>Exit.</text>
       </register>
       <register name="d" type="4">
         <text>Cacheable[A].decode</text>
@@ -2632,16 +2633,16 @@
         <text>StatChannelClientLog</text>
       </register>
       <register name="-" type="4">
-        <text>: ZSpec[Environment, Any]</text>
+        <text>Exit.</text>
       </register>
       <register name="/" type="4">
-        <text>ZLa</text>
+        <text>Environment Effect</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">TWFwKHVzZXJJZCAtPiBVc2VyUHJvZmlsZSh1c2VySWQsICJ1c2VyMCIpKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0TSgiMiIpIHsKICAgICAgICAgIGFzc2VydE0oSU8uc3VjY2VlZCgiSGVsbG8iKS50aW1lb3V0KER1cmF0aW9uLlplcm8pKShlcXVhbFRvKE5vbmUpKQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2716,34 +2717,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9naWMgPSAK</text>
+        <text encoding="base64">ICAgICAgICBaTGF5ZXIuZnJvbVMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0TSgiMiIpIHsKICAgICAgICAgIGFzc2VydE0oSU8uc3VjY2VlZCgiSGVsbG8iKS50aW1lb3V0KER1cmF0aW9uLlplcm8pKShlcXVhbFRvKE5vbmUpKQogICAgICAgIH0sCg==</text>
       </register>
       <register name="s" type="4">
         <text>Cacheable[A].encode</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0Q29uc29sZQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbG9naWMgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGVzdERiOiBaSU9bQW55LCBUaHJvd2FibGUsIERhdGFiYXNlXSA9IGZvciB7CiAgICAgICAgICBfIDwtIFRlc3REYXRhYmFzZS5saXZlLnNldFRlc3REYXRhKE1hcCh1c2VySWQgLT4gVXNlclByb2ZpbGUodXNlcklkLCAidXNlcjAiKSkpCiAgICAgICAgfSB5aWVsZCBUZXN0RGF0YWJhc2UKCiAgICAgICAgLy92YWwgbG9naWMgPSBsb29rZWR1cFByb2ZpbGUucHJvdmlkZU0odGVzdERiKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBUZXN0Q29uc29sZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHNldFRlc3REYXRhKG1hcDA6IE1hcFtVc2VySUQsIFVzZXJQcm9maWxlXSk6IFRhc2tbVW5pdF0gPQogICAgICAgIFRhc2sgeyBtYXAgPSBtYXAwIH0KCiAgICAgIGRlZiBnZXRUZXN0RGF0YTogVGFza1tNYXBbVXNlcklELCBVc2VyUHJvZmlsZV1dID0KICAgICAgICBUYXNrKG1hcCkKCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGVzdERiOiBaSU9bQW55LCBUaHJvd2FibGUsIERhdGFiYXNlXSA9IGZvciB7CiAgICAgICAgICBfIDwtIFRlc3REYXRhYmFzZS5saXZlLnNldFRlc3REYXRhKE1hcCh1c2VySWQgLT4gVXNlclByb2ZpbGUodXNlcklkLCAidXNlcjAiKSkpCiAgICAgICAgfSB5aWVsZCBUZXN0RGF0YWJhc2UKCiAgICAgICAgLy92YWwgbG9naWMgPSBsb29rZWR1cFByb2ZpbGUucHJvdmlkZU0odGVzdERiKQo=</text>
       </register>
       <register name="w" type="4">
         <text>b</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgdGVzdDogRGF0YWJhc2UgPSBIYXMoCiAgICBuZXcgRGF0YWJhc2UuU2VydmljZSB7CiAgICAgIHByaXZhdGUgdmFyIG1hcDogTWFwW1VzZXJJRCwgVXNlclByb2ZpbGVdID0gTWFwKCkKCiAgICAgIGRlZiBzZXRUZXN0RGF0YShtYXAwOiBNYXBbVXNlcklELCBVc2VyUHJvZmlsZV0pOiBUYXNrW1VuaXRdID0KICAgICAgICBUYXNrIHsgbWFwID0gbWFwMCB9CgogICAgICBkZWYgZ2V0VGVzdERhdGE6IFRhc2tbTWFwW1VzZXJJRCwgVXNlclByb2ZpbGVdXSA9CiAgICAgICAgVGFzayhtYXApCgogICAgICBkZWYgbG9va3VwKGlkOiBVc2VySUQpOiBUYXNrW1VzZXJQcm9maWxlXSA9CiAgICAgICAgVGFzayhtYXAoaWQpKQoKICAgICAgZGVmIHVwZGF0ZShpZDogVXNlcklELCBwcm9maWxlOiBVc2VyUHJvZmlsZSk6IFRhc2tbVW5pdF0gPQogICAgICAgIFRhc2suZWZmZWN0IHsgbWFwID0gbWFwICsgKGlkIC0+IHByb2ZpbGUpIH0KICAgIH0KICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgZGVmIHNldFRlc3REYXRhKG1hcDA6IE1hcFtVc2VySUQsIFVzZXJQcm9maWxlXSk6IFRhc2tbVW5pdF0gPQogICAgICAgIFRhc2sgeyBtYXAgPSBtYXAwIH0KCiAgICAgIGRlZiBnZXRUZXN0RGF0YTogVGFza1tNYXBbVXNlcklELCBVc2VyUHJvZmlsZV1dID0KICAgICAgICBUYXNrKG1hcCkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2755,9 +2756,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ZLa</last-search>
+      <last-search>Environment Effect</last-search>
       <last-offset />
-      <last-pattern>ZLa</last-pattern>
+      <last-pattern>Environment Effect</last-pattern>
       <last-replace>StoryLog</last-replace>
       <last-substitute>StoryClientLog</last-substitute>
       <last-dir>1</last-dir>
