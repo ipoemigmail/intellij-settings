@@ -47,8 +47,8 @@
         <entry>%s/StatPushLog/StatVideoPlaybackLog/g</entry>
         <entry>%s/StoryClientLog/StoryLog/g</entry>
         <entry>a</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -124,8 +124,8 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_05_handling_resources/HandlingResourcesSpec.scala" timestamp="1583329362116">
-        <mark key="'" line="10" column="4" />
+      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_05_handling_resources/HandlingResourcesSpec.scala" timestamp="1583332072580">
+        <mark key="'" line="21" column="24" />
         <mark key="[" line="16" column="41" />
         <mark key="]" line="16" column="41" />
         <mark key="^" line="12" column="4" />
@@ -164,12 +164,12 @@
         <mark key="^" line="17" column="4" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" timestamp="1583329470911">
-        <mark key="'" line="8" column="36" />
-        <mark key="[" line="119" column="65" />
-        <mark key="]" line="119" column="68" />
-        <mark key="^" line="119" column="68" />
-        <mark key="." line="119" column="67" />
+      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" timestamp="1583332315956">
+        <mark key="'" line="152" column="1" />
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="10" />
       </file>
       <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-1/zio_2.13-1.0.0-RC18-1-sources.jar!/zio/Has.scala" timestamp="1583331119850">
         <mark key="'" line="58" column="2" />
@@ -222,17 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="42" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyClientLog/StatPushConverter.scala" />
-      <jump line="47" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyClientLog/StatPushConverter.scala" />
-      <jump line="32" column="20" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
-      <jump line="63" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
-      <jump line="29" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/etl/src/main/scala/story/etl/transformer/story_log/PushImpressionStatUDF.scala" />
-      <jump line="18" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/etl/src/main/scala/story/etl/transformer/story_log/PushImpressionStatUDF.scala" />
-      <jump line="40" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
-      <jump line="24" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
-      <jump line="25" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
-      <jump line="42" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
-      <jump line="36" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
       <jump line="26" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
       <jump line="29" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
       <jump line="36" column="33" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/etl/src/main/scala/story/etl/transformer/story_log/PushImpressionStatUDF.scala" />
@@ -284,10 +273,8 @@
       <jump line="134" column="22" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
       <jump line="139" column="56" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
       <jump line="142" column="59" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="151" column="22" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
       <jump line="4" column="38" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
       <jump line="154" column="2" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="9" column="68" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
       <jump line="137" column="20" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
       <jump line="153" column="4" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
       <jump line="8" column="52" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_08_running_effects/RunningEffectSpec.scala" />
@@ -322,6 +309,19 @@
       <jump line="84" column="44" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/TestingEffectSpec.scala" />
       <jump line="88" column="61" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/TestingEffectSpec.scala" />
       <jump line="19" column="22" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_09_background/BackgroundSpec.scala" />
+      <jump line="138" column="22" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
+      <jump line="21" column="24" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_05_handling_resources/HandlingResourcesSpec.scala" />
+      <jump line="10" column="30" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
+      <jump line="151" column="6" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
+      <jump line="101" column="6" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
+      <jump line="11" column="22" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
+      <jump line="100" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
+      <jump line="78" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
+      <jump line="52" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
+      <jump line="44" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
+      <jump line="79" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
+      <jump line="9" column="2" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
+      <jump line="152" column="1" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,8 +329,8 @@
       <register name="a" type="4">
         <text>def spec: ZSpec[Environment, Failure]</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9naWMgPSAK</text>
+      <register name="&quot;" type="4">
+        <text>: ZSpec[Environment, Any]</text>
       </register>
       <register name="d" type="4">
         <text>Cacheable[A].decode</text>
@@ -2632,7 +2632,7 @@
         <text>StatChannelClientLog</text>
       </register>
       <register name="-" type="4">
-        <text>logic</text>
+        <text>: ZSpec[Environment, Any]</text>
       </register>
       <register name="/" type="4">
         <text>ZLa</text>
@@ -2641,7 +2641,7 @@
         <text encoding="base64">TWFwKHVzZXJJZCAtPiBVc2VyUHJvZmlsZSh1c2VySWQsICJ1c2VyMCIpKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9naWMgPSAK</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0TSgiMiIpIHsKICAgICAgICAgIGFzc2VydE0oSU8uc3VjY2VlZCgiSGVsbG8iKS50aW1lb3V0KER1cmF0aW9uLlplcm8pKShlcXVhbFRvKE5vbmUpKQogICAgICAgIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2716,37 +2716,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbG9naWMgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0Q29uc29sZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>Cacheable[A].encode</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGVzdERiOiBaSU9bQW55LCBUaHJvd2FibGUsIERhdGFiYXNlXSA9IGZvciB7CiAgICAgICAgICBfIDwtIFRlc3REYXRhYmFzZS5saXZlLnNldFRlc3REYXRhKE1hcCh1c2VySWQgLT4gVXNlclByb2ZpbGUodXNlcklkLCAidXNlcjAiKSkpCiAgICAgICAgfSB5aWVsZCBUZXN0RGF0YWJhc2UKCiAgICAgICAgLy92YWwgbG9naWMgPSBsb29rZWR1cFByb2ZpbGUucHJvdmlkZU0odGVzdERiKQo=</text>
+        <text encoding="base64">ICAgICAgICBUZXN0Q29uc29sZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGVzdERiOiBaSU9bQW55LCBUaHJvd2FibGUsIERhdGFiYXNlXSA9IGZvciB7CiAgICAgICAgICBfIDwtIFRlc3REYXRhYmFzZS5saXZlLnNldFRlc3REYXRhKE1hcCh1c2VySWQgLT4gVXNlclByb2ZpbGUodXNlcklkLCAidXNlcjAiKSkpCiAgICAgICAgfSB5aWVsZCBUZXN0RGF0YWJhc2UKCiAgICAgICAgLy92YWwgbG9naWMgPSBsb29rZWR1cFByb2ZpbGUucHJvdmlkZU0odGVzdERiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHNldFRlc3REYXRhKG1hcDA6IE1hcFtVc2VySUQsIFVzZXJQcm9maWxlXSk6IFRhc2tbVW5pdF0gPQogICAgICAgIFRhc2sgeyBtYXAgPSBtYXAwIH0KCiAgICAgIGRlZiBnZXRUZXN0RGF0YTogVGFza1tNYXBbVXNlcklELCBVc2VyUHJvZmlsZV1dID0KICAgICAgICBUYXNrKG1hcCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWwgdGVzdDogRGF0YWJhc2UgPSBIYXMoCiAgICBuZXcgRGF0YWJhc2UuU2VydmljZSB7CiAgICAgIHByaXZhdGUgdmFyIG1hcDogTWFwW1VzZXJJRCwgVXNlclByb2ZpbGVdID0gTWFwKCkKCiAgICAgIGRlZiBzZXRUZXN0RGF0YShtYXAwOiBNYXBbVXNlcklELCBVc2VyUHJvZmlsZV0pOiBUYXNrW1VuaXRdID0KICAgICAgICBUYXNrIHsgbWFwID0gbWFwMCB9CgogICAgICBkZWYgZ2V0VGVzdERhdGE6IFRhc2tbTWFwW1VzZXJJRCwgVXNlclByb2ZpbGVdXSA9CiAgICAgICAgVGFzayhtYXApCgogICAgICBkZWYgbG9va3VwKGlkOiBVc2VySUQpOiBUYXNrW1VzZXJQcm9maWxlXSA9CiAgICAgICAgVGFzayhtYXAoaWQpKQoKICAgICAgZGVmIHVwZGF0ZShpZDogVXNlcklELCBwcm9maWxlOiBVc2VyUHJvZmlsZSk6IFRhc2tbVW5pdF0gPQogICAgICAgIFRhc2suZWZmZWN0IHsgbWFwID0gbWFwICsgKGlkIC0+IHByb2ZpbGUpIH0KICAgIH0KICApCg==</text>
+        <text encoding="base64">ICAgICAgZGVmIHNldFRlc3REYXRhKG1hcDA6IE1hcFtVc2VySUQsIFVzZXJQcm9maWxlXSk6IFRhc2tbVW5pdF0gPQogICAgICAgIFRhc2sgeyBtYXAgPSBtYXAwIH0KCiAgICAgIGRlZiBnZXRUZXN0RGF0YTogVGFza1tNYXBbVXNlcklELCBVc2VyUHJvZmlsZV1dID0KICAgICAgICBUYXNrKG1hcCkKCg==</text>
       </register>
       <register name="w" type="4">
         <text>b</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB2YWwgdGVzdDogRGF0YWJhc2UgPSBIYXMoCiAgICBuZXcgRGF0YWJhc2UuU2VydmljZSB7CiAgICAgIHByaXZhdGUgdmFyIG1hcDogTWFwW1VzZXJJRCwgVXNlclByb2ZpbGVdID0gTWFwKCkKCiAgICAgIGRlZiBzZXRUZXN0RGF0YShtYXAwOiBNYXBbVXNlcklELCBVc2VyUHJvZmlsZV0pOiBUYXNrW1VuaXRdID0KICAgICAgICBUYXNrIHsgbWFwID0gbWFwMCB9CgogICAgICBkZWYgZ2V0VGVzdERhdGE6IFRhc2tbTWFwW1VzZXJJRCwgVXNlclByb2ZpbGVdXSA9CiAgICAgICAgVGFzayhtYXApCgogICAgICBkZWYgbG9va3VwKGlkOiBVc2VySUQpOiBUYXNrW1VzZXJQcm9maWxlXSA9CiAgICAgICAgVGFzayhtYXAoaWQpKQoKICAgICAgZGVmIHVwZGF0ZShpZDogVXNlcklELCBwcm9maWxlOiBVc2VyUHJvZmlsZSk6IFRhc2tbVW5pdF0gPQogICAgICAgIFRhc2suZWZmZWN0IHsgbWFwID0gbWFwICsgKGlkIC0+IHByb2ZpbGUpIH0KICAgIH0KICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldyBEYXRhYmFzZS5TZXJ2aWNlIHsKICAgICAgZGVmIGxvb2t1cChpZDogVXNlcklEKTogVGFza1tVc2VyUHJvZmlsZV0gPSA/Pz8KICAgICAgZGVmIHVwZGF0ZShpZDogVXNlcklELCBwcm9maWxlOiBVc2VyUHJvZmlsZSk6IFRhc2tbVW5pdF0gPSA/Pz8KICAgIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
