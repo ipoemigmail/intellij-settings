@@ -1,15 +1,8 @@
 <toolSet name="story-spark">
-  <tool name="assembly_only_batch" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="assembly_only" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
       <option name="PARAMETERS" value="-c &quot;bin/assembly.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="assembly_only_streaming" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-streaming1; bin/assembly.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
