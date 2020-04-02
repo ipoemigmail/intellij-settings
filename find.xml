@@ -10,10 +10,11 @@
     <mask>*_spec.rb</mask>
     <mask>*.rb</mask>
     <mask>*.xml</mask>
-    <mask>*.scala</mask>
-    <mask>*.sbt</mask>
     <mask>*Serv*</mask>
     <mask>*.conf</mask>
+    <mask>*.sbt</mask>
+    <mask>*.scala</mask>
     <mask>*.java</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
