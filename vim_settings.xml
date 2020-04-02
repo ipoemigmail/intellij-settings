@@ -7,46 +7,46 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx2aWRlb1w+</entry>
-        <entry encoding="base64">XDxwYWdlTGFiZWxcPg==</entry>
-        <entry encoding="base64">XDxwcmV2UGFnZUxhYmVsXD4=</entry>
-        <entry>StoryClientLog</entry>
-        <entry encoding="base64">XDxUYWdnZWRWYWx1ZVw+</entry>
-        <entry encoding="base64">XDxMYWJlbFRvXD4=</entry>
-        <entry>from</entry>
-        <entry encoding="base64">XDxwdXNoVHlwZUxhYmVsXD4=</entry>
-        <entry encoding="base64">XDxwdXNoU3VidHlwZURhdGFcPg==</entry>
-        <entry encoding="base64">XDxwdXNoU3VidHlwZVw+</entry>
-        <entry encoding="base64">XDxwcm9maWxlSWRcPg==</entry>
-        <entry>spec</entry>
-        <entry encoding="base64">XDxhc3NlcnRNXD4=</entry>
-        <entry>default</entry>
-        <entry>Default</entry>
-        <entry>get</entry>
-        <entry>ZLa</entry>
-        <entry>Option22</entry>
-        <entry>side eff</entry>
-        <entry>Environment Effect</entry>
+        <entry>Exit</entry>
+        <entry encoding="base64">XDx0aFw+</entry>
+        <entry>Std</entry>
+        <entry>UIO</entry>
+        <entry encoding="base64">XDxUZXN0Q29uc29sZVw+</entry>
+        <entry encoding="base64">XDxjb25zb2xlU3RhdGVcPg==</entry>
+        <entry>json</entry>
+        <entry encoding="base64">XDxmaWJcPg==</entry>
+        <entry encoding="base64">XDxjbG9ja1w+</entry>
+        <entry encoding="base64">XDxhZ2VcPg==</entry>
+        <entry encoding="base64">IGJpbmQ=</entry>
+        <entry encoding="base64">XDxSXD4=</entry>
+        <entry encoding="base64">XDxtYXBcPg==</entry>
+        <entry encoding="base64">XDxUZXN0RGF0YWJhc2VcPg==</entry>
+        <entry encoding="base64">XDxEZWZhdWx0RGF0YVw+</entry>
+        <entry>Timeout</entry>
+        <entry encoding="base64">XDx1c2VyXD4=</entry>
+        <entry>fail</entry>
+        <entry encoding="base64">XDxaSU9GdW5jdGlvbnNcPg==</entry>
+        <entry>fork\c</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/StoryRequestLog/StoryContentsLog/g</entry>
-        <entry encoding="base64">JzwsJz5zL1Byb2ZpbGUvQWRtaW4vZw==</entry>
-        <entry>%s/Arcus/Cassandra/g</entry>
-        <entry>%s/RedisLoad/S2Graph/g</entry>
-        <entry>%s/RedisDeps/KsHadoopHbase/g</entry>
-        <entry>%s/RedisLoad/KsHadoopHbase/g</entry>
-        <entry>%s/CassandraLoad/DbLoad/g</entry>
-        <entry>%s/accountReport/druidLoad/g</entry>
-        <entry>%s/AccountReport/DruidLoad/g</entry>
-        <entry>%s/PageCode/ActionCode/g</entry>
-        <entry>%s/StatChannelClient/StatClientAd/g</entry>
-        <entry>%s/StatClientAd/StatClient/g</entry>
-        <entry>%s/StoryChannelClient/StoryClient/g</entry>
-        <entry>%s/StatCtrLog/StatPushLog/g</entry>
-        <entry encoding="base64">JzwsJz5zLyksLykvZw==</entry>
-        <entry>%s/StatPushLog/StatVideoPlaybackLog/g</entry>
-        <entry>%s/StoryClientLog/StoryLog/g</entry>
-        <entry>a</entry>
+        <entry>%s/topic/Topic/g</entry>
+        <entry encoding="base64">JzwsJz5zL0tleVR5cGUvTG9uZy9n</entry>
+        <entry>%s/ActivityExpansion/Activity/g</entry>
+        <entry>%s/ActivityExpansion/Comments/g</entry>
+        <entry>%s/Comment/Group/g</entry>
+        <entry encoding="base64">JzwsJz5zL0dyb3VwL1Byb2ZpbGdl</entry>
+        <entry encoding="base64">JzwsJz5zL0dyb3VwL1Byb2ZpbGUvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0xvbmcvSW50L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1Byb2ZpbGUvU3RvcnlQbHVzRGV0YWlsL2c=</entry>
+        <entry>%s/Expansion//g</entry>
+        <entry>%s/ActivityExpansion/Comment/g</entry>
+        <entry>%s/ChActivityMonitor/Group/g</entry>
+        <entry>%s/StatMaster/Profile/g</entry>
+        <entry>%s/StatMaster/ProfileSlave/g</entry>
+        <entry>%s/Group/ProfileGroup/g</entry>
+        <entry>%s/ChActivityMonitor/StoryPlusDetail/g</entry>
+        <entry>%s/StatMaster/ChannelSlave/g</entry>
+        <entry encoding="base64">JzwsJz5zL0xpc3QvU2V0L2c=</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
@@ -71,7 +71,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -118,18 +118,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_04_handling_errors/HandlingErrorsSpec.scala" timestamp="1583329302821">
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="10" column="4" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="10" column="3" />
-      </file>
       <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_05_handling_resources/HandlingResourcesSpec.scala" timestamp="1583332072580">
         <mark key="'" line="21" column="24" />
         <mark key="[" line="16" column="41" />
         <mark key="]" line="16" column="41" />
         <mark key="^" line="12" column="4" />
         <mark key="." line="16" column="41" />
+      </file>
+      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_04_handling_errors/HandlingErrorsSpec.scala" timestamp="1583329302821">
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="10" column="4" />
+        <mark key="." line="10" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_01_summary/SummarySpec.scala" timestamp="1583331608899">
         <mark key="'" line="6" column="46" />
@@ -208,18 +208,18 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_01_fiber/FiberSpec.scala" timestamp="1583331903468">
+        <mark key="[" line="43" column="31" />
+        <mark key="]" line="43" column="33" />
+        <mark key="." line="43" column="32" />
+        <mark key="^" line="43" column="33" />
+      </file>
       <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_09_background/BackgroundSpec.scala" timestamp="1583331731296">
         <mark key="'" line="19" column="22" />
         <mark key="[" line="16" column="13" />
         <mark key="]" line="16" column="14" />
         <mark key="^" line="23" column="40" />
         <mark key="." line="16" column="14" />
-      </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_01_fiber/FiberSpec.scala" timestamp="1583331903468">
-        <mark key="[" line="43" column="31" />
-        <mark key="]" line="43" column="33" />
-        <mark key="." line="43" column="32" />
-        <mark key="^" line="43" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -2766,49 +2766,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed K</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed J</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
