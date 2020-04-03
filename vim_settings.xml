@@ -149,9 +149,6 @@
       <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/dev/zio/zio-test_2.13/1.0.0-RC18-1/zio-test_2.13-1.0.0-RC18-1-sources.jar!/zio/test/environment/package.scala" timestamp="1583331342101">
         <mark key="'" line="1458" column="11" />
       </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-1/zio_2.13-1.0.0-RC18-1-sources.jar!/zio/ZIO.scala" timestamp="1583328429532">
-        <mark key="'" line="3415" column="10" />
-      </file>
       <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/db/TestDatabase.scala" timestamp="1583331499686">
         <mark key="[" line="6" column="50" />
         <mark key="]" line="6" column="54" />
@@ -188,6 +185,13 @@
       <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_03_basic_operations/BasicOperationsSpec.scala" timestamp="1583329296057">
         <mark key="[" line="9" column="42" />
       </file>
+      <file name="$USER_HOME$/Develop/Personal/rust-study-tokio/src/main.rs" timestamp="1585811958236">
+        <mark key="'" line="9" column="30" />
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="41" />
+        <mark key="." line="20" column="40" />
+        <mark key="^" line="20" column="41" />
+      </file>
       <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/db/TestDatabaseService.scala" timestamp="1583330900365">
         <mark key="[" line="4" column="34" />
         <mark key="]" line="18" column="0" />
@@ -223,8 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
-      <jump line="87" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/labels/StoryStatPush.scala" />
       <jump line="31" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
       <jump line="46" column="16" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/converter/storyLog/StatPushImpressionConverter.scala" />
       <jump line="9" column="45" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_01_fiber/FiberSpec.scala" />
@@ -323,6 +325,8 @@
       <jump line="19" column="19" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_02_creation_effect/CreatingEffectSpec.scala" />
       <jump line="50" column="80" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_02_creation_effect/CreatingEffectSpec.scala" />
       <jump line="103" column="6" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_02_creation_effect/CreatingEffectSpec.scala" />
+      <jump line="6" column="0" filename="$USER_HOME$/Develop/Personal/rust-study-tokio/src/main.rs" />
+      <jump line="8" column="30" filename="$USER_HOME$/Develop/Personal/rust-study-tokio/src/main.rs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,7 +335,7 @@
         <text>def spec: ZSpec[Environment, Failure]</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Exit.</text>
+        <text>100</text>
       </register>
       <register name="d" type="4">
         <text>Cacheable[A].decode</text>
@@ -2633,7 +2637,7 @@
         <text>StatChannelClientLog</text>
       </register>
       <register name="-" type="4">
-        <text>Exit.</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>Environment Effect</text>
@@ -2642,7 +2646,7 @@
         <text encoding="base64">TWFwKHVzZXJJZCAtPiBVc2VyUHJvZmlsZSh1c2VySWQsICJ1c2VyMCIpKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIGhhbmRsZXMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2717,25 +2721,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBaTGF5ZXIuZnJvbVMK</text>
+        <text encoding="base64">ICAgIGZvciAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0TSgiMiIpIHsKICAgICAgICAgIGFzc2VydE0oSU8uc3VjY2VlZCgiSGVsbG8iKS50aW1lb3V0KER1cmF0aW9uLlplcm8pKShlcXVhbFRvKE5vbmUpKQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIHYK</text>
       </register>
       <register name="s" type="4">
         <text>Cacheable[A].encode</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9naWMgPSAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBaTGF5ZXIuZnJvbVMK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0Q29uc29sZQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0TSgiMiIpIHsKICAgICAgICAgIGFzc2VydE0oSU8uc3VjY2VlZCgiSGVsbG8iKS50aW1lb3V0KER1cmF0aW9uLlplcm8pKShlcXVhbFRvKE5vbmUpKQogICAgICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdGVzdERiOiBaSU9bQW55LCBUaHJvd2FibGUsIERhdGFiYXNlXSA9IGZvciB7CiAgICAgICAgICBfIDwtIFRlc3REYXRhYmFzZS5saXZlLnNldFRlc3REYXRhKE1hcCh1c2VySWQgLT4gVXNlclByb2ZpbGUodXNlcklkLCAidXNlcjAiKSkpCiAgICAgICAgfSB5aWVsZCBUZXN0RGF0YWJhc2UKCiAgICAgICAgLy92YWwgbG9naWMgPSBsb29rZWR1cFByb2ZpbGUucHJvdmlkZU0odGVzdERiKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbG9naWMgPSAK</text>
       </register>
       <register name="w" type="4">
         <text>b</text>
@@ -2744,7 +2748,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVmIHNldFRlc3REYXRhKG1hcDA6IE1hcFtVc2VySUQsIFVzZXJQcm9maWxlXSk6IFRhc2tbVW5pdF0gPQogICAgICAgIFRhc2sgeyBtYXAgPSBtYXAwIH0KCiAgICAgIGRlZiBnZXRUZXN0RGF0YTogVGFza1tNYXBbVXNlcklELCBVc2VyUHJvZmlsZV1dID0KICAgICAgICBUYXNrKG1hcCkKCg==</text>
+        <text encoding="base64">ICAgICAgICBUZXN0Q29uc29sZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
