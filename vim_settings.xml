@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Exit</entry>
         <entry encoding="base64">XDx0aFw+</entry>
         <entry>Std</entry>
         <entry>UIO</entry>
@@ -27,6 +26,7 @@
         <entry>fail</entry>
         <entry encoding="base64">XDxaSU9GdW5jdGlvbnNcPg==</entry>
         <entry>fork\c</entry>
+        <entry>ignore</entry>
       </history-search>
       <history-cmd>
         <entry>%s/topic/Topic/g</entry>
@@ -125,12 +125,6 @@
         <mark key="^" line="12" column="4" />
         <mark key="." line="16" column="41" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_04_handling_errors/HandlingErrorsSpec.scala" timestamp="1583329302821">
-        <mark key="[" line="9" column="41" />
-        <mark key="]" line="10" column="4" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="10" column="3" />
-      </file>
       <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_07_semaphore/SemaphoreSpec.scala" timestamp="1586100083949">
         <mark key="'" line="16" column="4" />
         <mark key="[" line="2" column="0" />
@@ -158,6 +152,9 @@
       </file>
       <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/dev/zio/zio-test_2.13/1.0.0-RC18-1/zio-test_2.13-1.0.0-RC18-1-sources.jar!/zio/test/environment/package.scala" timestamp="1583331342101">
         <mark key="'" line="1458" column="11" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio-streams_2.13/1.0.0-RC18-2/zio-streams_2.13-1.0.0-RC18-2-sources.jar!/zio/stream/ZSink.scala" timestamp="1586101473174">
+        <mark key="'" line="598" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/db/TestDatabase.scala" timestamp="1583331499686">
         <mark key="[" line="6" column="50" />
@@ -208,12 +205,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" timestamp="1586100915147">
-        <mark key="'" line="43" column="48" />
-        <mark key="[" line="57" column="42" />
-        <mark key="]" line="57" column="48" />
-        <mark key="." line="57" column="47" />
-        <mark key="^" line="57" column="48" />
+      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" timestamp="1586101981461">
+        <mark key="'" line="67" column="44" />
+        <mark key="[" line="83" column="15" />
+        <mark key="]" line="83" column="19" />
+        <mark key="." line="83" column="18" />
+        <mark key="^" line="83" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_01_fiber/FiberSpec.scala" timestamp="1583331903468">
         <mark key="[" line="43" column="31" />
@@ -233,13 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="42" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_02_creation_effect/CreatingEffectSpec.scala" />
-      <jump line="8" column="54" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_03_basic_operations/BasicOperationsSpec.scala" />
-      <jump line="54" column="4" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_03_basic_operations/BasicOperationsSpec.scala" />
-      <jump line="60" column="7" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_02_creation_effect/CreatingEffectSpec.scala" />
-      <jump line="8" column="53" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_04_handling_errors/HandlingErrorsSpec.scala" />
-      <jump line="94" column="4" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_04_handling_errors/HandlingErrorsSpec.scala" />
-      <jump line="84" column="40" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_04_handling_errors/HandlingErrorsSpec.scala" />
       <jump line="85" column="73" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_04_handling_errors/HandlingErrorsSpec.scala" />
       <jump line="3415" column="10" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-1/zio_2.13-1.0.0-RC18-1-sources.jar!/zio/ZIO.scala" />
       <jump line="10" column="56" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_05_handling_resources/HandlingResourcesSpec.scala" />
@@ -333,6 +323,13 @@
       <jump line="12" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_07_semaphore/SemaphoreSpec.scala" />
       <jump line="16" column="4" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_07_semaphore/SemaphoreSpec.scala" />
       <jump line="43" column="48" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
+      <jump line="54" column="0" filename="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio-streams_2.13/1.0.0-RC18-2/zio-streams_2.13-1.0.0-RC18-2-sources.jar!/zio/stream/ZSink.scala" />
+      <jump line="597" column="4" filename="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio-streams_2.13/1.0.0-RC18-2/zio-streams_2.13-1.0.0-RC18-2-sources.jar!/zio/stream/ZSink.scala" />
+      <jump line="598" column="25" filename="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio-streams_2.13/1.0.0-RC18-2/zio-streams_2.13-1.0.0-RC18-2-sources.jar!/zio/stream/ZSink.scala" />
+      <jump line="59" column="44" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
+      <jump line="60" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
+      <jump line="54" column="24" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
+      <jump line="66" column="44" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,7 +338,7 @@
         <text>def spec: ZSpec[Environment, Failure]</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Sink.collectAll[Int]</text>
+        <text>foldLeft</text>
       </register>
       <register name="d" type="4">
         <text>Cacheable[A].decode</text>
@@ -2643,16 +2640,23 @@
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Sink.collectAll[Int]</text>
+        <text>foldLeft</text>
       </register>
       <register name="/" type="4">
-        <text>Environment Effect</text>
+        <text>ignore</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0TSgiaWdub3JlIikgewogICAgICAgICAgdmFsIHN0cmVhbSA9IFN0cmVhbS5mcm9tSXRlcmFibGUoMSB0byAxMDApCgogICAgICAgICAgdmFsIHNpbmsgPSBTaW5rLmlnbm9yZVdoaWxlW0ludF0oXyA+IDIpCgogICAgICAgICAgYXNzZXJ0TShzdHJlYW0ucnVuKHNpbmspKShlcXVhbFRvKCgxMDEgdG8gMTAwMCkudG9MaXN0KSkKICAgICAgICB9LAo=</text>
+      <register name="0" type="4">
+        <text>,
+        testM(&quot;foldLeft&quot;) {
+          val stream = Stream.fromIterable(1 to 1000)
+
+          val sink = Sink.foldLeft[Int, Int](0)(_ + _)
+
+          assertM(stream.run(sink))(equalTo((1 to 1000).sum))
+        }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0cmVhbS5ydW4oc2luaykKCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBzaW5rID0gU2luay5kcmFpbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2660,32 +2664,32 @@
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgIHN0cmVhbS5ydW4oc2luaykKCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LAogICAgICBzdWl0ZSgiQ3JlYXRpbmcgc2lua3MiKSgKICAgICAgICB0ZXN0TSgid2l0aFBlcm1pdCIpIHsKICAgICAgICAgIHZhbCBzZW1UYXNrID0gKG46IEludCwgc2VtOiBTZW1hcGhvcmUpID0+CiAgICAgICAgICAgIGZvciB7CiAgICAgICAgICAgICAgXyA8LSBzZW0ud2l0aFBlcm1pdCh0YXNrKHMid2l0aFBlcm1pdCAtICRuIikpCiAgICAgICAgICAgIH0geWllbGQgKCkKCiAgICAgICAgICB2YWwgc2VtVGFza1NlcSA9IChzZW06IFNlbWFwaG9yZSkgPT4gKDEgdG8gMykubWFwKG4gPT4gc2VtVGFzayhuLCBzZW0pKQoKICAgICAgICAgIHZhbCBwcm9ncmFtID0gZm9yIHsKICAgICAgICAgICAgc2VtIDwtIFNlbWFwaG9yZS5tYWtlKHBlcm1pdHMgPSAxKQogICAgICAgICAgICBzZXEgPC0gWklPLmVmZmVjdFRvdGFsKHNlbVRhc2tTZXEoc2VtKSkKICAgICAgICAgICAgXyA8LSBaSU8uY29sbGVjdEFsbFBhcihzZXEpCiAgICAgICAgICB9IHlpZWxkICgpCgogICAgICAgICAgYXNzZXJ0TShUZXN0Q2xvY2suYWRqdXN0KDEuaG91cikgKj4gcHJvZ3JhbSkoZXF1YWxUbygoKSkpCiAgICAgICAgfSwKICAgICAgICB0ZXN0TSgid2l0aFBlcm1pdHMiKSB7CiAgICAgICAgICB2YWwgc2VtVGFzayA9IChuOiBJbnQsIHNlbTogU2VtYXBob3JlKSA9PgogICAgICAgICAgICBmb3IgewogICAgICAgICAgICAgIF8gPC0gc2VtLndpdGhQZXJtaXRzKDIpKHRhc2socyJ3aXRoUGVybWl0cyAtICRuIikpCiAgICAgICAgICAgIH0geWllbGQgKCkKCiAgICAgICAgICB2YWwgc2VtVGFza1NlcSA9IChzZW06IFNlbWFwaG9yZSkgPT4gKDEgdG8gMykubWFwKG4gPT4gc2VtVGFzayhuLCBzZW0pKQoKICAgICAgICAgIHZhbCBwcm9ncmFtID0gZm9yIHsKICAgICAgICAgICAgc2VtIDwtIFNlbWFwaG9yZS5tYWtlKHBlcm1pdHMgPSA1KQogICAgICAgICAgICBzZXEgPC0gWklPLmVmZmVjdFRvdGFsKHNlbVRhc2tTZXEoc2VtKSkKICAgICAgICAgICAgXyA8LSBaSU8uY29sbGVjdEFsbFBhcihzZXEpCiAgICAgICAgICB9IHlpZWxkICgpCgogICAgICAgICAgYXNzZXJ0TShUZXN0Q2xvY2suYWRqdXN0KDEuaG91cikgKj4gcHJvZ3JhbSkoZXF1YWxUbygoKSkpCiAgICAgICAgfQogICAgICAp</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHN0cmVhbS5ydW4oc2luaykKCg==</text>
       </register>
       <register name="s" type="4">
         <text>Cacheable[A].encode</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHppby50ZXN0Ll8K</text>
+      <register name="4" type="4">
+        <text encoding="base64">LAogICAgICBzdWl0ZSgiQ3JlYXRpbmcgc2lua3MiKSgKICAgICAgICB0ZXN0TSgid2l0aFBlcm1pdCIpIHsKICAgICAgICAgIHZhbCBzZW1UYXNrID0gKG46IEludCwgc2VtOiBTZW1hcGhvcmUpID0+CiAgICAgICAgICAgIGZvciB7CiAgICAgICAgICAgICAgXyA8LSBzZW0ud2l0aFBlcm1pdCh0YXNrKHMid2l0aFBlcm1pdCAtICRuIikpCiAgICAgICAgICAgIH0geWllbGQgKCkKCiAgICAgICAgICB2YWwgc2VtVGFza1NlcSA9IChzZW06IFNlbWFwaG9yZSkgPT4gKDEgdG8gMykubWFwKG4gPT4gc2VtVGFzayhuLCBzZW0pKQoKICAgICAgICAgIHZhbCBwcm9ncmFtID0gZm9yIHsKICAgICAgICAgICAgc2VtIDwtIFNlbWFwaG9yZS5tYWtlKHBlcm1pdHMgPSAxKQogICAgICAgICAgICBzZXEgPC0gWklPLmVmZmVjdFRvdGFsKHNlbVRhc2tTZXEoc2VtKSkKICAgICAgICAgICAgXyA8LSBaSU8uY29sbGVjdEFsbFBhcihzZXEpCiAgICAgICAgICB9IHlpZWxkICgpCgogICAgICAgICAgYXNzZXJ0TShUZXN0Q2xvY2suYWRqdXN0KDEuaG91cikgKj4gcHJvZ3JhbSkoZXF1YWxUbygoKSkpCiAgICAgICAgfSwKICAgICAgICB0ZXN0TSgid2l0aFBlcm1pdHMiKSB7CiAgICAgICAgICB2YWwgc2VtVGFzayA9IChuOiBJbnQsIHNlbTogU2VtYXBob3JlKSA9PgogICAgICAgICAgICBmb3IgewogICAgICAgICAgICAgIF8gPC0gc2VtLndpdGhQZXJtaXRzKDIpKHRhc2socyJ3aXRoUGVybWl0cyAtICRuIikpCiAgICAgICAgICAgIH0geWllbGQgKCkKCiAgICAgICAgICB2YWwgc2VtVGFza1NlcSA9IChzZW06IFNlbWFwaG9yZSkgPT4gKDEgdG8gMykubWFwKG4gPT4gc2VtVGFzayhuLCBzZW0pKQoKICAgICAgICAgIHZhbCBwcm9ncmFtID0gZm9yIHsKICAgICAgICAgICAgc2VtIDwtIFNlbWFwaG9yZS5tYWtlKHBlcm1pdHMgPSA1KQogICAgICAgICAgICBzZXEgPC0gWklPLmVmZmVjdFRvdGFsKHNlbVRhc2tTZXEoc2VtKSkKICAgICAgICAgICAgXyA8LSBaSU8uY29sbGVjdEFsbFBhcihzZXEpCiAgICAgICAgICB9IHlpZWxkICgpCgogICAgICAgICAgYXNzZXJ0TShUZXN0Q2xvY2suYWRqdXN0KDEuaG91cikgKj4gcHJvZ3JhbSkoZXF1YWxUbygoKSkpCiAgICAgICAgfQogICAgICAp</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc2VtVGFzayA9IChuOiBJbnQsIHNlbTogU2VtYXBob3JlKSA9PgogICAgICAgICAgZm9yIHsKICAgICAgICAgICAgXyA8LSBzZW0ud2l0aFBlcm1pdCh0YXNrKHMid2l0aFBlcm1pdCAtICRuIikpCiAgICAgICAgICB9IHlpZWxkICgpCgogICAgICAgIHZhbCBzZW1UYXNrU2VxID0gKHNlbTogU2VtYXBob3JlKSA9PiAoMSB0byAzKS5tYXAobiA9PiBzZW1UYXNrKG4sIHNlbSkpCgogICAgICAgIHZhbCBwcm9ncmFtID0gZm9yIHsKICAgICAgICAgIHNlbSA8LSBTZW1hcGhvcmUubWFrZShwZXJtaXRzID0gMSkKICAgICAgICAgIHNlcSA8LSBaSU8uZWZmZWN0VG90YWwoc2VtVGFza1NlcShzZW0pKQogICAgICAgICAgXyA8LSBaSU8uY29sbGVjdEFsbFBhcihzZXEpCiAgICAgICAgfSB5aWVsZCAoKQo=</text>
+        <text encoding="base64">aW1wb3J0IHppby50ZXN0Ll8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc2VtVGFzayA9IChuOiBJbnQsIHNlbTogU2VtYXBob3JlKSA9PgogICAgICAgICAgZm9yIHsKICAgICAgICAgICAgXyA8LSBzZW0ud2l0aFBlcm1pdCh0YXNrKHMid2l0aFBlcm1pdCAtICRuIikpCiAgICAgICAgICB9IHlpZWxkICgpCgogICAgICAgIHZhbCBzZW1UYXNrU2VxID0gKHNlbTogU2VtYXBob3JlKSA9PiAoMSB0byAzKS5tYXAobiA9PiBzZW1UYXNrKG4sIHNlbSkpCgogICAgICAgIHZhbCBwcm9ncmFtID0gZm9yIHsKICAgICAgICAgIHNlbSA8LSBTZW1hcGhvcmUubWFrZShwZXJtaXRzID0gMSkKICAgICAgICAgIHNlcSA8LSBaSU8uZWZmZWN0VG90YWwoc2VtVGFza1NlcShzZW0pKQogICAgICAgICAgXyA8LSBaSU8uY29sbGVjdEFsbFBhcihzZXEpCiAgICAgICAgfSB5aWVsZCAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgdGFzayhuYW1lOiBTdHJpbmcpID0KICAgIGZvciB7CiAgICAgIF8gPC0gY29uc29sZS5wdXRTdHJMbihzInN0YXJ0KCRuYW1lKSIpCiAgICAgIF8gPC0gWklPLnNsZWVwKER1cmF0aW9uKDIsIFRpbWVVbml0LlNFQ09ORFMpKQogICAgICBfIDwtIGNvbnNvbGUucHV0U3RyTG4ocyJlbmQoJG5hbWUpIikKICAgIH0geWllbGQgKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>b</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHJhaXQgU2luayB7fQo=</text>
+        <text encoding="base64">ICBkZWYgdGFzayhuYW1lOiBTdHJpbmcpID0KICAgIGZvciB7CiAgICAgIF8gPC0gY29uc29sZS5wdXRTdHJMbihzInN0YXJ0KCRuYW1lKSIpCiAgICAgIF8gPC0gWklPLnNsZWVwKER1cmF0aW9uKDIsIFRpbWVVbml0LlNFQ09ORFMpKQogICAgICBfIDwtIGNvbnNvbGUucHV0U3RyTG4ocyJlbmQoJG5hbWUpIikKICAgIH0geWllbGQgKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZiB0YXNrKG46IEludCkgPQogICAgICAgICAgICBmb3IgewogICAgICAgICAgICAgIF8gPC0gY29uc29sZS5wdXRTdHJMbihzInN0YXJ0KCRuKSIpCiAgICAgICAgICAgICAgXyA8LSBaSU8uc2xlZXAoRHVyYXRpb24oMiwgVGltZVVuaXQuU0VDT05EUykpCiAgICAgICAgICAgICAgXyA8LSBjb25zb2xlLnB1dFN0ckxuKHMiZW5kKCRuKSIpCiAgICAgICAgICAgIH0geWllbGQgKCkKCg==</text>
+        <text encoding="base64">dHJhaXQgU2luayB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2697,9 +2701,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Environment Effect</last-search>
+      <last-search>ignore</last-search>
       <last-offset />
-      <last-pattern>Environment Effect</last-pattern>
+      <last-pattern>ignore</last-pattern>
       <last-replace>StoryLog</last-replace>
       <last-substitute>StoryClientLog</last-substitute>
       <last-dir>1</last-dir>
