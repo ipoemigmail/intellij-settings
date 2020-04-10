@@ -47,8 +47,8 @@
         <entry>%s/ChActivityMonitor/StoryPlusDetail/g</entry>
         <entry>%s/StatMaster/ChannelSlave/g</entry>
         <entry encoding="base64">JzwsJz5zL0xpc3QvU2V0L2c=</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -131,12 +131,12 @@
       <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/org/apache/hbase/hbase-client/1.0.0-cdh5.5.1/hbase-client-1.0.0-cdh5.5.1-sources.jar!/org/apache/hadoop/hbase/client/Result.java" timestamp="1586422268546">
         <mark key="'" line="198" column="100" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" timestamp="1586479779941">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" timestamp="1586487023066">
         <mark key="'" line="14" column="28" />
-        <mark key="[" line="52" column="19" />
-        <mark key="]" line="52" column="20" />
-        <mark key="." line="52" column="20" />
-        <mark key="^" line="52" column="23" />
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="8" />
+        <mark key="." line="15" column="6" />
+        <mark key="^" line="15" column="8" />
       </file>
       <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/org/apache/hbase/hbase-common/1.0.0-cdh5.5.1/hbase-common-1.0.0-cdh5.5.1-sources.jar!/org/apache/hadoop/hbase/util/Bytes.java" timestamp="1586422532250">
         <mark key="'" line="64" column="13" />
@@ -158,11 +158,11 @@
         <mark key="]" line="34" column="49" />
         <mark key="." line="34" column="49" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration-dev.conf" timestamp="1586437384971">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration-dev.conf" timestamp="1586486673460">
         <mark key="'" line="20" column="28" />
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="15" column="46" />
-        <mark key="." line="23" column="22" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinementDeps.scala" timestamp="1586427167064">
         <mark key="'" line="12" column="2" />
@@ -224,9 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
-      <jump line="276" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="325" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
       <jump line="327" column="94" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
       <jump line="344" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
       <jump line="26" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
@@ -317,13 +314,16 @@
       <jump line="7" column="26" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
       <jump line="68" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
       <jump line="21" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
-      <jump line="41" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
-      <jump line="14" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
       <jump line="184" column="35" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
       <jump line="181" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
       <jump line="277" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
       <jump line="33" column="19" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
       <jump line="289" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="59" column="59" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
+      <jump line="32" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
+      <jump line="41" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
+      <jump line="14" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,8 +331,18 @@
       <register name="a" type="4">
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImZldGNoLi4uIikK</text>
+      <register name="&quot;" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2637,16 +2647,26 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>from</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oInNjYW5uZXIgc3RhcnQiKQo=</text>
+        <text encoding="base64">ICAgIC8vdGFibGVOYW1lTGlzdC5mb3JlYWNoIHsgdGFibGVOYW1lID0+CiAgICAvLyAgcHJpbnRsbihzIiR0YWJsZU5hbWUgLSBzdGFydCIpCiAgICAvLyAgdmFyIGNudCA9IDAKICAgIC8vICBmcm9tSGJhc2VTZXJ2aWNlLmZvcmVhY2hCYXRjaCh0YWJsZU5hbWUsIE5vbmUsIE5vbmUsIE5vbmUsIDEwMCkgeyB4cyA9PgogICAgLy8gICAgdmFsIHhzMSA9IHhzLnRvTGlzdAogICAgLy8gICAgdG9IYmFzZVNlcnZpY2UucHV0KHRhYmxlTmFtZSwgeHMxKQogICAgLy8gICAgY250ICs9IHhzMS5zaXplCiAgICAvLyAgICBwcmludGxuKHMiJHRhYmxlTmFtZSAtICRjbnQgZG9uZSIpCiAgICAvLyAgfQogICAgLy8gIHByaW50bG4ocyIkdGFibGVOYW1lIC0gZW5kIikKICAgIC8vfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImZldGNoLi4uIikK</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2721,25 +2741,35 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0ucmVjb3ZlciB7CiAgICAgIGNhc2UgZXggPT4KICAgICAgICBleC5wcmludFN0YWNrVHJhY2UoKQogICAgICAgIExpc3QuZW1wdHkKICAgIH0uZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgeHMxID0geHMudG9MaXN0CiAgICAgICAgdG9IYmFzZVNlcnZpY2UucHV0KHRhYmxlTmFtZSwgeHMxKQogICAgICAgIGNudCArPSB4czEuc2l6ZQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFRyeSB7Cg==</text>
+      <register name="3" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHNlbnRyeVNlcnZpY2U6IFNlbnRyeVNlcnZpY2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oInNjYW5uZXIgY3JlYXRlIGRvbmUiKQo=</text>
+        <text encoding="base64">ICAgIG5hbWVzcGFjZTogInN0b3J5c2VydmVyIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oInNjYW5uZXIgY3JlYXRlIHN0YXJ0IikK</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHMiJHRhYmxlTmFtZSAtICR7eHMuc2l6ZX0gZG9uZSIpCg==</text>
+        <text encoding="base64">ICAgICAgVGhyZWFkLnNsZWVwKDUwMDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgeHMxID0geHMudG9MaXN0CiAgICAgICAgY250ICs9IHhzMS5zaXplCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oImZldGNoLi4uIikK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2768,13 +2798,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oInNjYW5uZXIgY3JlYXRlIikK</text>
+        <text encoding="base64">ICAgIH0ucmVjb3ZlciB7CiAgICAgIGNhc2UgZXggPT4KICAgICAgICBleC5wcmludFN0YWNrVHJhY2UoKQogICAgICAgIExpc3QuZW1wdHkKICAgIH0uZ2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oInNjYW5uZXIgY3JlYXRlIikK</text>
+        <text encoding="base64">ICAgIFRyeSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
