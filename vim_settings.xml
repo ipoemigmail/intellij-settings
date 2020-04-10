@@ -131,12 +131,12 @@
       <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/org/apache/hbase/hbase-client/1.0.0-cdh5.5.1/hbase-client-1.0.0-cdh5.5.1-sources.jar!/org/apache/hadoop/hbase/client/Result.java" timestamp="1586422268546">
         <mark key="'" line="198" column="100" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" timestamp="1586478538948">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" timestamp="1586479779941">
         <mark key="'" line="14" column="28" />
-        <mark key="[" line="46" column="68" />
-        <mark key="]" line="46" column="68" />
-        <mark key="." line="46" column="68" />
-        <mark key="^" line="46" column="68" />
+        <mark key="[" line="52" column="19" />
+        <mark key="]" line="52" column="20" />
+        <mark key="." line="52" column="20" />
+        <mark key="^" line="52" column="23" />
       </file>
       <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/org/apache/hbase/hbase-common/1.0.0-cdh5.5.1/hbase-common-1.0.0-cdh5.5.1-sources.jar!/org/apache/hadoop/hbase/util/Bytes.java" timestamp="1586422532250">
         <mark key="'" line="64" column="13" />
@@ -146,8 +146,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="27" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" timestamp="1586438730490">
-        <mark key="'" line="288" column="28" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" timestamp="1586480907222">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
+        <mark key="^" line="224" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/spam/filter/service/SpamFilterService.scala" timestamp="1586404635378">
         <mark key="'" line="62" column="13" />
@@ -328,8 +331,8 @@
       <register name="a" type="4">
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oImZldGNoLi4uIikK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2634,7 +2637,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJsZVw+</text>
@@ -2643,7 +2646,7 @@
         <text encoding="base64">ICAgIHByaW50bG4oInNjYW5uZXIgc3RhcnQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHMiJHRhYmxlTmFtZSAtICR7eHMuc2l6ZX0gZG9uZSIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oImZldGNoLi4uIikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2718,25 +2721,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgeHMxID0geHMudG9MaXN0CiAgICAgICAgY250ICs9IHhzMS5zaXplCg==</text>
+        <text encoding="base64">ICAgIH0ucmVjb3ZlciB7CiAgICAgIGNhc2UgZXggPT4KICAgICAgICBleC5wcmludFN0YWNrVHJhY2UoKQogICAgICAgIExpc3QuZW1wdHkKICAgIH0uZ2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oInNjYW5uZXIgY3JlYXRlIikK</text>
+        <text encoding="base64">ICAgIFRyeSB7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHNlbnRyeVNlcnZpY2U6IFNlbnRyeVNlcnZpY2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oInNjYW5uZXIgY3JlYXRlIikK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oInNjYW5uZXIgY3JlYXRlIGRvbmUiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oInNjYW5uZXIgY3JlYXRlIHN0YXJ0IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9keSgK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHMiJHRhYmxlTmFtZSAtICR7eHMuc2l6ZX0gZG9uZSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHMiIikK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgeHMxID0geHMudG9MaXN0CiAgICAgICAgY250ICs9IHhzMS5zaXplCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2765,13 +2768,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB4czEK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oInNjYW5uZXIgY3JlYXRlIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4cy4K</text>
+        <text encoding="base64">ICAgIHByaW50bG4oInNjYW5uZXIgY3JlYXRlIikK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
