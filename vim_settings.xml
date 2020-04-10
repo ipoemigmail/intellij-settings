@@ -131,10 +131,10 @@
       <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/org/apache/hbase/hbase-client/1.0.0-cdh5.5.1/hbase-client-1.0.0-cdh5.5.1-sources.jar!/org/apache/hadoop/hbase/client/Result.java" timestamp="1586422268546">
         <mark key="'" line="198" column="100" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" timestamp="1586488232630">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" timestamp="1586492334279">
         <mark key="'" line="46" column="29" />
-        <mark key="[" line="46" column="68" />
-        <mark key="]" line="46" column="68" />
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="20" column="26" />
         <mark key="." line="46" column="68" />
         <mark key="^" line="19" column="8" />
       </file>
@@ -332,7 +332,7 @@
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>ch_contents_snapshot</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2631,7 +2631,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>alpha-story-hbase-cdh5.pg1.krane.9rum.cc</text>
+        <text>ch_contents_snapshot</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
