@@ -118,92 +118,65 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_05_handling_resources/HandlingResourcesSpec.scala" timestamp="1583332072580">
-        <mark key="'" line="21" column="24" />
-        <mark key="[" line="16" column="41" />
-        <mark key="]" line="16" column="41" />
-        <mark key="^" line="12" column="4" />
-        <mark key="." line="16" column="41" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" timestamp="1586426860333">
+        <mark key="'" line="34" column="6" />
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="39" column="25" />
+        <mark key="." line="39" column="25" />
+        <mark key="^" line="39" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_07_semaphore/SemaphoreSpec.scala" timestamp="1586100083949">
-        <mark key="'" line="16" column="4" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="55" column="1" />
-        <mark key="." line="40" column="36" />
-        <mark key="^" line="40" column="61" />
+      <file name="/Library/Java/JavaVirtualMachines/graalvm-ce-java8-20.0.0/Contents/Home/src.zip!/java/lang/Iterable.java" timestamp="1586426178217">
+        <mark key="'" line="50" column="16" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/Sink.scala" timestamp="1586099619728">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="10" />
-        <mark key="^" line="10" column="11" />
+      <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/org/apache/hbase/hbase-client/1.0.0-cdh5.5.1/hbase-client-1.0.0-cdh5.5.1-sources.jar!/org/apache/hadoop/hbase/client/Result.java" timestamp="1586422268546">
+        <mark key="'" line="198" column="100" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_01_summary/SummarySpec.scala" timestamp="1583331608899">
-        <mark key="'" line="6" column="46" />
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="15" column="25" />
-        <mark key="^" line="15" column="25" />
-        <mark key="." line="15" column="24" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" timestamp="1586439220970">
+        <mark key="'" line="14" column="28" />
+        <mark key="[" line="46" column="68" />
+        <mark key="]" line="46" column="68" />
+        <mark key="." line="46" column="68" />
+        <mark key="^" line="46" column="68" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/db/Database.scala" timestamp="1583331507575">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/org/apache/hbase/hbase-common/1.0.0-cdh5.5.1/hbase-common-1.0.0-cdh5.5.1-sources.jar!/org/apache/hadoop/hbase/util/Bytes.java" timestamp="1586422532250">
+        <mark key="'" line="64" column="13" />
       </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/dev/zio/zio-test_2.13/1.0.0-RC18-1/zio-test_2.13-1.0.0-RC18-1-sources.jar!/zio/test/environment/package.scala" timestamp="1583331342101">
-        <mark key="'" line="1458" column="11" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/chReputation/ChReputationDeps.scala" timestamp="1586418617354">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="1" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio-streams_2.13/1.0.0-RC18-2/zio-streams_2.13-1.0.0-RC18-2-sources.jar!/zio/stream/ZSink.scala" timestamp="1586103985423">
-        <mark key="'" line="1361" column="4" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" timestamp="1586438730490">
+        <mark key="'" line="288" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/db/TestDatabase.scala" timestamp="1583331499686">
-        <mark key="[" line="6" column="50" />
-        <mark key="]" line="6" column="54" />
-        <mark key="." line="6" column="53" />
-        <mark key="^" line="6" column="54" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/spam/filter/service/SpamFilterService.scala" timestamp="1586404635378">
+        <mark key="'" line="62" column="13" />
+        <mark key="[" line="34" column="48" />
+        <mark key="]" line="34" column="49" />
+        <mark key="." line="34" column="49" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_02_creation_effect/CreatingEffectSpec.scala" timestamp="1583333936234">
-        <mark key="'" line="103" column="6" />
-        <mark key="[" line="50" column="75" />
-        <mark key="]" line="50" column="76" />
-        <mark key="^" line="50" column="76" />
-        <mark key="." line="50" column="75" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration-dev.conf" timestamp="1586437384971">
+        <mark key="'" line="20" column="28" />
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="46" />
+        <mark key="." line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" timestamp="1583332315956">
-        <mark key="'" line="152" column="1" />
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="34" />
-        <mark key="." line="9" column="10" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinementDeps.scala" timestamp="1586427167064">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-1/zio_2.13-1.0.0-RC18-1-sources.jar!/zio/Has.scala" timestamp="1583331119850">
-        <mark key="'" line="58" column="2" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/spam/filter/SpamFilterStreaming.scala" timestamp="1586405594682">
+        <mark key="'" line="37" column="25" />
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="27" />
+        <mark key="." line="37" column="27" />
+        <mark key="^" line="37" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/TestingEffectSpec.scala" timestamp="1583333085800">
-        <mark key="'" line="81" column="57" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Personal/rust-study-tokio/src/main.rs" timestamp="1585811958236">
-        <mark key="'" line="9" column="30" />
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="41" />
-        <mark key="." line="20" column="40" />
-        <mark key="^" line="20" column="41" />
-      </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/db/TestDatabaseService.scala" timestamp="1583330900365">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/db/package.scala" timestamp="1583330311640">
-        <mark key="'" line="6" column="24" />
-      </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/db/DatabaseLive.scala" timestamp="1583330811650">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="9" column="4" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement-dev.conf" timestamp="1586419039716">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" timestamp="1586105116529">
         <mark key="'" line="20" column="27" />
@@ -213,136 +186,153 @@
         <mark key="." line="143" column="92" />
         <mark key="^" line="143" column="93" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_01_fiber/FiberSpec.scala" timestamp="1583331903468">
-        <mark key="[" line="43" column="31" />
-        <mark key="]" line="43" column="33" />
-        <mark key="." line="43" column="32" />
-        <mark key="^" line="43" column="33" />
-      </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_09_background/BackgroundSpec.scala" timestamp="1583331731296">
-        <mark key="'" line="19" column="22" />
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="14" />
-        <mark key="^" line="23" column="40" />
-        <mark key="." line="16" column="14" />
-      </file>
-      <file name="/fragment.java" timestamp="1585994513778">
+      <file name="/Dummy.txt" timestamp="1586427366738">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/hbase.conf" timestamp="1586427597950">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/real/hbase.conf" timestamp="1586419575416">
+        <mark key="'" line="2" column="2" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="9" column="5" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio-streams_2.13/1.0.0-RC18-2/zio-streams_2.13-1.0.0-RC18-2-sources.jar!/zio/stream/ZSink.scala" timestamp="1586103985423">
+        <mark key="'" line="1361" column="4" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" timestamp="1586427310749">
+        <mark key="[" line="33" column="40" />
+        <mark key="]" line="33" column="42" />
+        <mark key="." line="33" column="42" />
+        <mark key="^" line="33" column="42" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportStreaming.scala" timestamp="1586418751127">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="47" column="14" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigrationDeps.scala" timestamp="1586434645701">
+        <mark key="'" line="0" column="47" />
+        <mark key="[" line="14" column="70" />
+        <mark key="]" line="14" column="89" />
+        <mark key="." line="14" column="70" />
+        <mark key="^" line="10" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="40" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="50" column="20" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="58" column="20" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="67" column="27" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="75" column="28" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="87" column="24" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="97" column="25" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="103" column="38" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="106" column="59" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="109" column="63" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="112" column="54" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="115" column="95" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="118" column="81" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="127" column="21" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="134" column="22" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="139" column="56" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="142" column="59" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="4" column="38" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="154" column="2" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="137" column="20" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="153" column="4" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="8" column="52" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_08_running_effects/RunningEffectSpec.scala" />
-      <jump line="8" column="36" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="8" column="33" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/TestingEffectSpec.scala" />
-      <jump line="23" column="118" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/TestingEffectSpec.scala" />
-      <jump line="36" column="53" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/TestingEffectSpec.scala" />
-      <jump line="55" column="58" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/TestingEffectSpec.scala" />
-      <jump line="65" column="23" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/TestingEffectSpec.scala" />
-      <jump line="77" column="91" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/TestingEffectSpec.scala" />
-      <jump line="165" column="7" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-1/zio_2.13-1.0.0-RC18-1-sources.jar!/zio/Runtime.scala" />
-      <jump line="229" column="2" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-1/zio_2.13-1.0.0-RC18-1-sources.jar!/zio/Runtime.scala" />
-      <jump line="228" column="0" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-1/zio_2.13-1.0.0-RC18-1-sources.jar!/zio/Runtime.scala" />
-      <jump line="27" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_08_running_effects/RunningEffectSpec.scala" />
-      <jump line="7" column="31" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_09_background/BackgroundSpec.scala" />
-      <jump line="37" column="5" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_01_fiber/FiberSpec.scala" />
-      <jump line="73" column="24" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_02_creation_effect/CreatingEffectSpec.scala" />
-      <jump line="44" column="58" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_03_basic_operations/BasicOperationsSpec.scala" />
-      <jump line="75" column="51" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_04_handling_errors/HandlingErrorsSpec.scala" />
-      <jump line="86" column="40" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/TestingEffectSpec.scala" />
-      <jump line="9" column="21" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/db/package.scala" />
-      <jump line="6" column="24" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/db/package.scala" />
-      <jump line="7" column="49" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/db/TestDatabase.scala" />
-      <jump line="5" column="2" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/db/TestDatabase.scala" />
-      <jump line="10" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/db/Database.scala" />
-      <jump line="58" column="2" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-1/zio_2.13-1.0.0-RC18-1-sources.jar!/zio/Has.scala" />
-      <jump line="583" column="42" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/dev/zio/zio-test_2.13/1.0.0-RC18-1/zio-test_2.13-1.0.0-RC18-1-sources.jar!/zio/test/environment/package.scala" />
-      <jump line="1441" column="3" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/dev/zio/zio-test_2.13/1.0.0-RC18-1/zio-test_2.13-1.0.0-RC18-1-sources.jar!/zio/test/environment/package.scala" />
-      <jump line="1458" column="11" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/dev/zio/zio-test_2.13/1.0.0-RC18-1/zio-test_2.13-1.0.0-RC18-1-sources.jar!/zio/test/environment/package.scala" />
-      <jump line="17" column="27" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/db/Database.scala" />
-      <jump line="9" column="31" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/db/TestDatabase.scala" />
-      <jump line="84" column="44" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/TestingEffectSpec.scala" />
-      <jump line="88" column="61" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/TestingEffectSpec.scala" />
-      <jump line="19" column="22" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_09_background/BackgroundSpec.scala" />
-      <jump line="138" column="22" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="21" column="24" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_05_handling_resources/HandlingResourcesSpec.scala" />
-      <jump line="10" column="30" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="151" column="6" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="101" column="6" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="11" column="22" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="100" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="78" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="52" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="44" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="79" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="9" column="2" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="152" column="1" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_06_basic_concurrency/BasicConcurrencySpec.scala" />
-      <jump line="81" column="57" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_07_testing_effect/TestingEffectSpec.scala" />
-      <jump line="34" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_02_creation_effect/CreatingEffectSpec.scala" />
-      <jump line="19" column="19" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_02_creation_effect/CreatingEffectSpec.scala" />
-      <jump line="50" column="80" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_02_creation_effect/CreatingEffectSpec.scala" />
-      <jump line="103" column="6" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/overview/_02_creation_effect/CreatingEffectSpec.scala" />
-      <jump line="6" column="0" filename="$USER_HOME$/Develop/Personal/rust-study-tokio/src/main.rs" />
-      <jump line="8" column="30" filename="$USER_HOME$/Develop/Personal/rust-study-tokio/src/main.rs" />
-      <jump line="42" column="36" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_07_semaphore/SemaphoreSpec.scala" />
-      <jump line="35" column="39" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_07_semaphore/SemaphoreSpec.scala" />
-      <jump line="14" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_07_semaphore/SemaphoreSpec.scala" />
-      <jump line="45" column="28" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_07_semaphore/SemaphoreSpec.scala" />
-      <jump line="49" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_07_semaphore/SemaphoreSpec.scala" />
-      <jump line="8" column="21" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_07_semaphore/SemaphoreSpec.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_07_semaphore/SemaphoreSpec.scala" />
-      <jump line="26" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/Sink.scala" />
-      <jump line="13" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
-      <jump line="23" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
-      <jump line="40" column="44" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
-      <jump line="12" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_07_semaphore/SemaphoreSpec.scala" />
-      <jump line="16" column="4" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_07_semaphore/SemaphoreSpec.scala" />
-      <jump line="43" column="48" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
-      <jump line="54" column="0" filename="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio-streams_2.13/1.0.0-RC18-2/zio-streams_2.13-1.0.0-RC18-2-sources.jar!/zio/stream/ZSink.scala" />
-      <jump line="597" column="4" filename="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio-streams_2.13/1.0.0-RC18-2/zio-streams_2.13-1.0.0-RC18-2-sources.jar!/zio/stream/ZSink.scala" />
-      <jump line="598" column="25" filename="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio-streams_2.13/1.0.0-RC18-2/zio-streams_2.13-1.0.0-RC18-2-sources.jar!/zio/stream/ZSink.scala" />
-      <jump line="59" column="44" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
-      <jump line="60" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
-      <jump line="54" column="24" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
-      <jump line="66" column="44" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
-      <jump line="1367" column="41" filename="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio-streams_2.13/1.0.0-RC18-2/zio-streams_2.13-1.0.0-RC18-2-sources.jar!/zio/stream/ZSink.scala" />
-      <jump line="1361" column="4" filename="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio-streams_2.13/1.0.0-RC18-2/zio-streams_2.13-1.0.0-RC18-2-sources.jar!/zio/stream/ZSink.scala" />
-      <jump line="88" column="67" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
-      <jump line="119" column="6" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
-      <jump line="24" column="27" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
+      <jump line="44" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="276" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="325" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="327" column="94" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="344" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="26" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="278" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="279" column="23" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="13" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="45" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="64" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="10" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
+      <jump line="0" column="47" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigrationDeps.scala" />
+      <jump line="54" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
+      <jump line="74" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="21" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="235" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="17" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="33" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="40" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="27" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="75" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="308" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="195" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="334" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="335" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="264" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="243" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="241" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="200" column="36" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="201" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="310" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="286" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="345" column="61" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="349" column="85" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="51" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="355" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="356" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="361" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="324" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="400" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="367" column="36" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="223" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="287" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="221" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="194" column="44" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="50" column="16" filename="/Library/Java/JavaVirtualMachines/graalvm-ce-java8-20.0.0/Contents/Home/src.zip!/java/lang/Iterable.java" />
+      <jump line="66" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="16" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="15" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="43" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="34" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="97" column="47" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="12" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="95" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="13" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="101" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="54" column="30" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="47" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="63" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="46" column="26" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="18" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="36" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="70" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="14" column="61" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="73" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
+      <jump line="22" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="64" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
+      <jump line="71" column="16" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
+      <jump line="66" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
+      <jump line="47" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
+      <jump line="0" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/hbase.conf" />
+      <jump line="1" column="31" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration-dev.conf" />
+      <jump line="283" column="19" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="39" column="23" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="60" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="69" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="61" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="53" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="179" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="42" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="49" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="43" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="54" column="16" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="205" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="248" column="34" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="24" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration-dev.conf" />
+      <jump line="20" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration-dev.conf" />
+      <jump line="7" column="26" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
+      <jump line="68" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
+      <jump line="21" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
+      <jump line="41" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
+      <jump line="14" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
+      <jump line="184" column="35" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="181" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="277" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="33" column="19" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="289" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="4">
-        <text>def spec: ZSpec[Environment, Failure]</text>
+        <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBzaW5rID0gU2luay5jb2xsZWN0QWxsW1N0cmluZ10uY29udHJhbWFwW0ludF0oXy50b1N0cmluZyArICJpZCIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
-      <register name="d" type="4">
-        <text>Cacheable[A].decode</text>
+      <register name="d" type="2">
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2637,63 +2627,151 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVVbml0Cg==</text>
+      <register name="*" type="4">
+        <text>alpha-story-hbase-cdh5.pg1.krane.9rum.cc</text>
+      </register>
+      <register name="k" type="4">
+        <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>race</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250Rm5cPg==</text>
+        <text encoding="base64">XDx0YWJsZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>,
-        testM(&quot;race&quot;) {
-          val stream = Stream.fromIterable(4 to 1000)
-
-          val sink = Sink.collectAll[String].contramap[Int](_.toString + &quot;id&quot;)
-
-          assertM(stream.run(sink))(equalTo((4 to 1000).map(_.toString + &quot;id&quot;).toList))
-        }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4oInNjYW5uZXIgc3RhcnQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBzaW5rID0gU2luay5jb2xsZWN0QWxsW1N0cmluZ10uY29udHJhbWFwW0ludF0oXy50b1N0cmluZyArICJpZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHMiJHRhYmxlTmFtZSAtICR7eHMuc2l6ZX0gZG9uZSIpCg==</text>
       </register>
       <register name="q" type="4">
-        <text />
+        <keys>
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="76" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="90" code="0" mods="0" />
+          <key char="66" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="66" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBzaW5rID0gU2luay5mb2xkTGVmdFtJbnQsIEludF0oMCkoXyArIF8pLnJhY2UoU2luay5pZGVudGl0eVtJbnRdKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgeHMxID0geHMudG9MaXN0CiAgICAgICAgY250ICs9IHhzMS5zaXplCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBzaW5rID0gU2luay5jb2xsZWN0QWxsW0ludF0uZmlsdGVyKF8gPiAxMDApCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oInNjYW5uZXIgY3JlYXRlIikK</text>
       </register>
-      <register name="s" type="4">
-        <text>Cacheable[A].encode</text>
+      <register name="s" type="2">
+        <text encoding="base64">ICAgIHNlbnRyeVNlcnZpY2U6IFNlbnRyeVNlcnZpY2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJlYWQxW1N0cmluZywgSW50XSB7CiAgICAgICAgICAgICAgY2FzZSBTb21lKF8pID0+ICJTdHJlYW0gaXMgbm90IGVtcHR5IGJ1dCBmYWlsZWQgY29uZGl0aW9uIgogICAgICAgICAgICAgIGNhc2UgTm9uZSAgICA9PiAiU3RyZWFtIGlzIGVtcHR5IgogICAgICAgICAgICB9KF8gPiAzKQogICAgICAgICAgICAuY29sbGVjdEFsbAo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oInNjYW5uZXIgY3JlYXRlIikK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">U2luawogICAgICAgICAgICAucHVsbDFbU3RyaW5nLCBJbnQsIEludCwgSW50XShJTy5mYWlsKCJFbXB0eSBzdHJlYW0sIG5vIHZhbHVlIHRvIHB1bGwiKSkgeyBpbml0ID0+CiAgICAgICAgICAgICAgU2luay5mb2xkTGVmdFtJbnQsIEludF0oaW5pdCkoXyArIF8pCiAgICAgICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBzaW5rID0gU2luay5mcm9tRnVuY3Rpb25bSW50LCBJbnRdKF8gKiAyKS5jb2xsZWN0QWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keSgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBzaW5rID0gU2luay5mb2xkKDApKF8gPD0gMTAwKSgoYWNjLCBuOiBJbnQpID0+IChhY2MgKyBuLCBDaHVuay5lbXB0eSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHMiIikK</text>
       </register>
       <register name="w" type="4">
-        <text>b</text>
+        <keys>
+          <key char="94" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBzaW5rID0gU2luay5kcmFpbgo=</text>
+        <text encoding="base64">ICAgICAgICB4czEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0cmVhbS5ydW4oc2luaykKCg==</text>
+        <text encoding="base64">ICAgICAgICB4cy4K</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2702,41 +2780,17 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb250Rm5cPg==</last-search>
+      <last-search encoding="base64">XDx0YWJsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250Rm5cPg==</last-pattern>
-      <last-replace>StoryLog</last-replace>
-      <last-substitute>StoryClientLog</last-substitute>
+      <last-pattern encoding="base64">XDx0YWJsZVw+</last-pattern>
+      <last-replace>HbaseMigration</last-replace>
+      <last-substitute>DeviceIdRefinement</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
