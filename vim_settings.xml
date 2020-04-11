@@ -29,7 +29,6 @@
         <entry>hbase</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/topic/Topic/g</entry>
         <entry encoding="base64">JzwsJz5zL0tleVR5cGUvTG9uZy9n</entry>
         <entry>%s/ActivityExpansion/Activity/g</entry>
         <entry>%s/ActivityExpansion/Comments/g</entry>
@@ -48,6 +47,7 @@
         <entry>%s/StatMaster/ChannelSlave/g</entry>
         <entry encoding="base64">JzwsJz5zL0xpc3QvU2V0L2c=</entry>
         <entry>wa</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -118,9 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586427366738">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" timestamp="1586499935593">
         <mark key="'" line="34" column="6" />
         <mark key="[" line="56" column="71" />
@@ -131,20 +128,14 @@
       <file name="/Library/Java/JavaVirtualMachines/graalvm-ce-java8-20.0.0/Contents/Home/src.zip!/java/lang/Iterable.java" timestamp="1586426178217">
         <mark key="'" line="50" column="16" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/hbase.conf" timestamp="1586427597950">
-        <mark key="'" line="0" column="6" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/org/apache/hbase/hbase-client/1.0.0-cdh5.5.1/hbase-client-1.0.0-cdh5.5.1-sources.jar!/org/apache/hadoop/hbase/client/Result.java" timestamp="1586422268546">
         <mark key="'" line="198" column="100" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" timestamp="1586571060158">
-        <mark key="'" line="13" column="13" />
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="9" column="6" />
+      <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" timestamp="1586576106446">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="36" />
+        <mark key="." line="18" column="5" />
+        <mark key="^" line="18" column="6" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" timestamp="1586503545321">
         <mark key="'" line="22" column="17" />
@@ -154,6 +145,38 @@
       </file>
       <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/org/apache/hbase/hbase-common/1.0.0-cdh5.5.1/hbase-common-1.0.0-cdh5.5.1-sources.jar!/org/apache/hadoop/hbase/util/Bytes.java" timestamp="1586422532250">
         <mark key="'" line="64" column="13" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" timestamp="1586500500159">
+        <mark key="[" line="64" column="26" />
+        <mark key="]" line="64" column="33" />
+        <mark key="." line="64" column="32" />
+        <mark key="^" line="64" column="33" />
+      </file>
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-0.2.17/src/task/spawn.rs" timestamp="1586574172840" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration-dev.conf" timestamp="1586507414692">
+        <mark key="'" line="20" column="28" />
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinementDeps.scala" timestamp="1586427167064">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/thread/mod.rs" timestamp="1586574124976" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement-dev.conf" timestamp="1586419039716">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1586574223248">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/hbase.conf" timestamp="1586427597950">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/real/hbase.conf" timestamp="1586419575416">
         <mark key="'" line="2" column="2" />
@@ -172,33 +195,8 @@
       <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/Cargo.toml" timestamp="1586569339287">
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/chReputation/ChReputationDeps.scala" timestamp="1586418617354">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" timestamp="1586500500159">
-        <mark key="[" line="64" column="26" />
-        <mark key="]" line="64" column="33" />
-        <mark key="." line="64" column="32" />
-        <mark key="^" line="64" column="33" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportStreaming.scala" timestamp="1586418751127">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="47" column="14" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/DruidLoadService.scala" timestamp="1586499111919">
         <mark key="'" line="19" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration-dev.conf" timestamp="1586507414692">
-        <mark key="'" line="20" column="28" />
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="21" column="39" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinementDeps.scala" timestamp="1586427167064">
-        <mark key="'" line="12" column="2" />
-        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigrationDeps.scala" timestamp="1586434645701">
         <mark key="'" line="0" column="47" />
@@ -207,18 +205,8 @@
         <mark key="." line="14" column="70" />
         <mark key="^" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement-dev.conf" timestamp="1586419039716">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="1" column="23" />
-        <mark key="." line="11" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
-      <jump line="74" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
-      <jump line="21" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
-      <jump line="235" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
       <jump line="17" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="33" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="40" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
@@ -315,6 +303,10 @@
       <jump line="30" column="10" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/future/future.rs" />
       <jump line="77" column="2" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/future/future.rs" />
       <jump line="12" column="13" filename="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" />
+      <jump line="16" column="0" filename="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" />
+      <jump line="15" column="13" filename="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" />
+      <jump line="17" column="28" filename="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,7 +315,7 @@
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>(0..1000000)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2622,22 +2614,22 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>hbase-dev-ism-1.ay1.krane.9rum.cc</text>
+        <text>(0..1000000)</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">OiBWZWM8Xz4=</text>
       </register>
       <register name="/" type="4">
         <text>hbase</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgImhiYXNlLWRldi1pc20tMi5heTEua3JhbmUuOXJ1bS5jYzoyMTgxIgo=</text>
+        <text encoding="base64">YXN5bmMgZm4gd29ya2VyKG46IGk4KSAtPiAoKSB7CiAgICBsZXQgbXV0IGNudDogaTY0ID0gMDsKICAgIGxvb3AgewogICAgICAgIHByaW50bG4hKCJ3b3JrZXIge30gcnVubmluZyB7fSIsIG4sIGNudCk7CiAgICAgICAgY250ICs9IDE7CiAgICAgICAgdG9raW86OnRpbWU6OmRlbGF5X2ZvcihEdXJhdGlvbjo6ZnJvbV9zZWNzKDEpKS5hd2FpdDsKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBhID0gdmVjIShhc3luYyB7IDEgfSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vaHMuaXRlcigpLmZvcl9lYWNoKGFzeW5jIG1vdmUgfGh8IGguYXdhaXQpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2711,26 +2703,30 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="8">
+        <text>/
+/
+/</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGZkc2FmZHNhCg==</text>
+      <register name="3" type="8">
+        <text>/
+/
+/</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHNlbnRyeVNlcnZpY2U6IFNlbnRyeVNlcnZpY2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vISAK</text>
+        <text encoding="base64">IyFbZmVhdHVyZShhc3luY19hd2FpdCwgYXN5bmNfY2xvc3VyZSldCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKCJIZWxsbywgd29ybGQhIik7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGhzLml0ZXIoKS5tYXAofGh8IGguYXdhaXQpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAoKQo=</text>
+        <text encoding="base64">ICAgIGhzLm1hcAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2759,10 +2755,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBhID0gYXN5bmMgeyAxIH07Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvb3AgewogICAgICAgIHByaW50bG4hKCJ3b3JrZXIge30gcnVubmluZyB7fSIsIG4sIGNudCk7CiAgICAgICAgY250ICs9IDE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
