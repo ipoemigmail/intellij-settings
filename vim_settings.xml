@@ -46,8 +46,8 @@
         <entry>%s/ChActivityMonitor/StoryPlusDetail/g</entry>
         <entry>%s/StatMaster/ChannelSlave/g</entry>
         <entry encoding="base64">JzwsJz5zL0xpc3QvU2V0L2c=</entry>
-        <entry>wa</entry>
         <entry>W</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -118,6 +118,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1586574223248">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" timestamp="1586499935593">
         <mark key="'" line="34" column="6" />
         <mark key="[" line="56" column="71" />
@@ -128,8 +131,10 @@
       <file name="/Library/Java/JavaVirtualMachines/graalvm-ce-java8-20.0.0/Contents/Home/src.zip!/java/lang/Iterable.java" timestamp="1586426178217">
         <mark key="'" line="50" column="16" />
       </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/org/apache/hbase/hbase-client/1.0.0-cdh5.5.1/hbase-client-1.0.0-cdh5.5.1-sources.jar!/org/apache/hadoop/hbase/client/Result.java" timestamp="1586422268546">
-        <mark key="'" line="198" column="100" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/hbase.conf" timestamp="1586427597950">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" timestamp="1586609672073">
         <mark key="[" line="13" column="8" />
@@ -143,8 +148,8 @@
         <mark key="]" line="43" column="4" />
         <mark key="." line="43" column="4" />
       </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/org/apache/hbase/hbase-common/1.0.0-cdh5.5.1/hbase-common-1.0.0-cdh5.5.1-sources.jar!/org/apache/hadoop/hbase/util/Bytes.java" timestamp="1586422532250">
-        <mark key="'" line="64" column="13" />
+      <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/future/future.rs" timestamp="1586569821410">
+        <mark key="'" line="77" column="2" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_10_chunk/ChunkSpec.scala" timestamp="1586610732325">
         <mark key="'" line="52" column="43" />
@@ -152,35 +157,6 @@
         <mark key="]" line="54" column="20" />
         <mark key="." line="54" column="19" />
         <mark key="^" line="54" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" timestamp="1586500500159">
-        <mark key="[" line="64" column="26" />
-        <mark key="]" line="64" column="33" />
-        <mark key="." line="64" column="32" />
-        <mark key="^" line="64" column="33" />
-      </file>
-      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-0.2.17/src/task/spawn.rs" timestamp="1586574172840" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration-dev.conf" timestamp="1586507414692">
-        <mark key="'" line="20" column="28" />
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="21" column="39" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinementDeps.scala" timestamp="1586427167064">
-        <mark key="'" line="12" column="2" />
-        <mark key="[" line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libstd/thread/mod.rs" timestamp="1586574124976" />
-      <file name="/Dummy.txt" timestamp="1586574223248">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/hbase.conf" timestamp="1586427597950">
-        <mark key="'" line="0" column="6" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/future/future.rs" timestamp="1586569821410">
-        <mark key="'" line="77" column="2" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" timestamp="1586500072073">
         <mark key="[" line="42" column="68" />
@@ -191,8 +167,30 @@
       <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/Cargo.toml" timestamp="1586569339287">
         <mark key="^" line="3" column="36" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" timestamp="1586500500159">
+        <mark key="[" line="64" column="26" />
+        <mark key="]" line="64" column="33" />
+        <mark key="." line="64" column="32" />
+        <mark key="^" line="64" column="33" />
+      </file>
+      <file name="$USER_HOME$/Develop/Personal/web_scraper/Cargo.toml" timestamp="1586615244171">
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="11" column="56" />
+        <mark key="." line="11" column="55" />
+        <mark key="^" line="11" column="56" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/service/DruidLoadService.scala" timestamp="1586499111919">
         <mark key="'" line="19" column="1" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration-dev.conf" timestamp="1586507414692">
+        <mark key="'" line="20" column="28" />
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="21" column="39" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinementDeps.scala" timestamp="1586427167064">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigrationDeps.scala" timestamp="1586434645701">
         <mark key="'" line="0" column="47" />
@@ -201,22 +199,17 @@
         <mark key="." line="14" column="70" />
         <mark key="^" line="10" column="29" />
       </file>
+      <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586615760056">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="7" column="6" />
+      </file>
       <file name="/fragment.java" timestamp="1586609862584">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
-      <jump line="308" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="195" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="334" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="335" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="264" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="243" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="241" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="200" column="36" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="201" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="310" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
       <jump line="286" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
       <jump line="345" column="61" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
       <jump line="349" column="85" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
@@ -306,6 +299,17 @@
       <jump line="18" column="6" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_10_chunk/ChunkSpec.scala" />
       <jump line="46" column="69" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_10_chunk/ChunkSpec.scala" />
       <jump line="52" column="43" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_10_chunk/ChunkSpec.scala" />
+      <jump line="11" column="38" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="22" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="45" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="21" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="28" column="12" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="1" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="2" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="31" column="12" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="37" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="5" column="46" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="24" column="15" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,7 +318,7 @@
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>dropWhile</text>
+        <text>/</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2613,22 +2617,22 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>(0..1000000)</text>
+        <text>https://www.coupang.com</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>dropWhile</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>hbase</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBhcnJheSA9IENodW5rKDEsIDIsIDMpLnRvQXJyYXkK</text>
+      <register name="0" type="4">
+        <text>reqwest::Client::builder().gzip(true).build()?</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBzZXEgPSBDaHVuayg5LCAyLCA1LCAxLCA2KS4K</text>
+        <text encoding="base64">ICAgIGxldCByZXNwID0gCgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2702,26 +2706,35 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>reqwest::Client::builder().gzip(true).build()?
+        .get(url)
+        .header(&quot;accept&quot;, &quot;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9&quot;)
+        .header(&quot;accept-encoding&quot;, &quot;gzip&quot;)
+        .header(&quot;accept-language&quot;, &quot;ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7&quot;)
+        .header(&quot;user-agent&quot;, &quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36&quot;)
+        .send()
+        .await?
+        .text()
+        .await?;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2h1bmsgPSAK</text>
+        <text encoding="base64">ICAgIG1hdGNoIHJlcXdlc3Q6OkNsaWVudDo6YnVpbGRlcigpLmd6aXAodHJ1ZSkuYnVpbGQoKT8gewogICAgICAgIE9rKGNsaWVudCkgPT4gCiAgICB9Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHNlbnRyeVNlcnZpY2U6IFNlbnRyeVNlcnZpY2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAudW53cmFwKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIENodW5rKDEpLnRha2UK</text>
+        <text encoding="base64">ICAgICAgICAudW53cmFwKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBjaHVuayA9IENodW5rKDksIDIsIDUsIDEsIDYpLmNvbGxlY3RXaGlsZSB7IGNhc2UgZWxlbWVudCBpZiBlbGVtZW50ID49IDIgPT4gdHJ1ZSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAuZ3ppcChmYWxzZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBtdXQgY2xpZW50ID0gcmVxd2VzdDo6Q2xpZW50OjpuZXcoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2750,10 +2763,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBjb2xsZWN0Q2h1bmsgPSBDaHVuaygiSGVsbG8gWklPIiwgMS41LCAiSGVsbG8gWklPIE5JTyIsIDIuMCwgIlNvbWUgc3RyaW5nIiwgMi41KQo=</text>
+        <text encoding="base64">ICAgICAgICAuaGVhZGVyKCJhY2NlcHQtZW5jb2RpbmciLCAiZ3ppcCwgZGVmbGF0ZSwgYnIiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBjaHVuayA9IENodW5rKDEsIDIsIDMpICsrIENodW5rKDQsIDUsIDYpCg==</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
