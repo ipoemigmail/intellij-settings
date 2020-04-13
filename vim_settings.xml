@@ -149,11 +149,12 @@
         <mark key="]" line="17" column="56" />
         <mark key="." line="17" column="56" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586615760056">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
-        <mark key="^" line="7" column="6" />
+      <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586789883063">
+        <mark key="'" line="27" column="43" />
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="34" column="23" />
+        <mark key="." line="34" column="22" />
+        <mark key="^" line="34" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/SendPushAlpha.scala" timestamp="1586737848226">
         <mark key="[" line="4" column="3" />
@@ -161,11 +162,10 @@
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch-dev.conf" timestamp="1586742688449" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/birthday/src/main/scala/birthday/_02_CreateBirthdayCard.scala" timestamp="1586743005704" />
-      <file name="$USER_HOME$/Develop/Personal/web_scraper/Cargo.toml" timestamp="1586615244171">
-        <mark key="[" line="11" column="56" />
-        <mark key="]" line="11" column="56" />
-        <mark key="." line="11" column="55" />
-        <mark key="^" line="11" column="56" />
+      <file name="$USER_HOME$/Develop/Personal/web_scraper/Cargo.toml" timestamp="1586787417798">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/escher/cuesheet/StoryCueSheet.scala" timestamp="1586737936958" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/birthday/src/main/scala/birthday/_01_ExtractBirthdayUsers.scala" timestamp="1586743118598" />
@@ -175,10 +175,6 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/util/PushUtil.scala" timestamp="1586742916996" />
     </filemarks>
     <jumps>
-      <jump line="287" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="221" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="194" column="44" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="50" column="16" filename="/Library/Java/JavaVirtualMachines/graalvm-ce-java8-20.0.0/Contents/Home/src.zip!/java/lang/Iterable.java" />
       <jump line="66" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
       <jump line="16" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
       <jump line="15" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
@@ -253,7 +249,6 @@
       <jump line="11" column="38" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
       <jump line="22" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
       <jump line="45" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
-      <jump line="21" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
       <jump line="28" column="12" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
@@ -275,6 +270,11 @@
       <jump line="61" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
       <jump line="62" column="16" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
       <jump line="69" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="26" column="19" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="25" column="24" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="32" column="4" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="29" column="38" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="21" column="43" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -283,7 +283,7 @@
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>getAdmin()</text>
+        <text>!</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2588,16 +2588,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>getAdmin()</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRBZG1pblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBydW5XaXRoVGFibGVbQV0odGFibGVOYW1lOiBTdHJpbmcsIHJldHJ5Q250OiBJbnQgPSAzKShib2R5OiBUYWJsZSA9PiBBKTogQSA9IHsKICAgIHZhbCB0YWJsZSA9IGdldFRhYmxlKHRhYmxlTmFtZSkKICAgIHZhbCByZXN1bHQgPSBUcnkoYm9keSh0YWJsZSkpCiAgICB0YWJsZS5jbG9zZSgpCiAgICByZXN1bHQuZ2V0CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAi66m066eI7Iqk7YGsIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuISgie30iLCBuYW1lKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2672,25 +2672,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRUYWJsZShzIiRuYW1lc3BhY2VQcmVmaXgkdGFibGVOYW1lIiwgcmV0cnlDbnQgLSAxKQo=</text>
+        <text encoding="base64">ICAgICAgICAi66m066eI7Iqk7YGsIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAdGFpbHJlYwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHNlbnRyeVNlcnZpY2U6IFNlbnRyeVNlcnZpY2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAdGFpbHJlYwogIHByaXZhdGUgZGVmIGdldENvbm5lY3Rpb24ocmV0cnlDbnQ6IEludCA9IDMpOiBDb25uZWN0aW9uID0gCgo=</text>
+        <text encoding="base64">ICAgICAgICBuYW1lLmNvbnRhaW5zKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAdGFpbHJlYwogIHByaXZhdGUgZGVmIGdldENvbm5lY3Rpb24oKTogCgo=</text>
+        <text encoding="base64">ICAgICAgICBuYW1lLmNvbnRhaW5zCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcyA9IFN0cmluZzo6bmV3KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFRydW5jYXRlCg==</text>
+        <text encoding="base64">ICAgIGxldCBodG1sID0gZ2V0X2NvbnRlbnRzKHVybCkuYXdhaXQ/OwogICAgLy9wcmludGxuISgie30iLCBodG1sKTsKICAgIGxldCBkb2MgPSBIdG1sOjpwYXJzZV9kb2N1bWVudCgmaHRtbCk7CgogICAgbGV0IG5vdyA9IExvY2FsOjpub3coKTsKICAgIHByaW50bG4hKCJ7Oj99Iiwgbm93LnRvX3JmYzMzMzlfb3B0cyhTZWNvbmRzRm9ybWF0OjpNaWxsaXMsIGZhbHNlKSk7CiAgICBsZXQgbGlfc2VsZWN0b3IgPSBTZWxlY3Rvcjo6cGFyc2UoIiNwcm9kdWN0TGlzdCA+IGxpIikudW53cmFwKCk7CiAgICBsZXQgbmFtZV9zZWxlY3RvciA9IFNlbGVjdG9yOjpwYXJzZSgiZGQgPiBkaXYubmFtZSIpLnVud3JhcCgpOwogICAgZm9yIGVsZW0gaW4gZG9jLnNlbGVjdCgmbGlfc2VsZWN0b3IpIHt9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2719,10 +2719,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhYmxlLnRyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0b0hiYXNlU2VydmljZS50cnVuCg==</text>
+        <text encoding="base64">ICAgIC8vbGV0IHVybCA9ICJodHRwczovL3d3dy5jb3VwYW5nLmNvbSI7CiAgICAvL2xldCB1cmwgPSAiaHR0cHM6Ly93d3cubmF2ZXIuY29tIjsKICAgIC8vbGV0IGh0dHBzID0gSHR0cHNDb25uZWN0b3I6Om5ldygpOwogICAgLy9sZXQgY2xpZW50ID0gQ2xpZW50OjpidWlsZGVyKCkuYnVpbGQ6OjxfLCBoeXBlcjo6Ym9keTo6Qm9keT4oaHR0cHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
