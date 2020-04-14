@@ -138,7 +138,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" timestamp="1586826661821" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" timestamp="1586830087750">
+        <mark key="[" line="283" column="0" />
+        <mark key="]" line="283" column="30" />
+        <mark key="^" line="283" column="30" />
+        <mark key="." line="283" column="29" />
+      </file>
       <file name="$USER_HOME$/Develop/Personal/web_scraper/Cargo.toml" timestamp="1586827905446">
         <mark key="[" line="11" column="56" />
         <mark key="]" line="11" column="56" />
@@ -155,7 +160,7 @@
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigrationDeps.scala" timestamp="1586823530042" />
-      <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586828385335">
+      <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586828856782">
         <mark key="'" line="12" column="8" />
         <mark key="[" line="75" column="30" />
         <mark key="]" line="75" column="31" />
@@ -271,8 +276,8 @@
       <register name="a" type="4">
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>blocking::</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2570,8 +2575,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>10.195.25.196</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpCg==</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
