@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250Rm5cPg==</entry>
-        <entry>hbase</entry>
         <entry encoding="base64">XDxwYXBpSG9zdEFscGhhXD4=</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry encoding="base64">XDxnZXRDb25uZWN0aW9uXD4=</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDx3aGl0ZUNoYW5uZWxzQ2FuZGlkYXRlc1w+</entry>
         <entry>LocalDate</entry>
         <entry encoding="base64">XDxmaWxlc1w+</entry>
+        <entry>hadoop</entry>
+        <entry>hbas</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0dyb3VwL1Byb2ZpbGdl</entry>
@@ -125,11 +125,6 @@
         <mark key="^" line="21" column="6" />
         <mark key="." line="21" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetdata/SuggestChannelExtractor.scala" timestamp="1586852798084">
-        <mark key="'" line="115" column="2" />
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="222" column="2" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/Friendship.scala" timestamp="1586853976539">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -139,6 +134,13 @@
         <mark key="'" line="53" column="0" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/build.sbt" timestamp="1586856042484">
+        <mark key="'" line="12" column="22" />
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="39" />
+        <mark key="^" line="24" column="124" />
+        <mark key="." line="26" column="39" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/AllInstances.scala" timestamp="1586854480589">
         <mark key="[" line="12" column="30" />
@@ -150,6 +152,9 @@
         <mark key="'" line="51" column="118" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="113" column="3" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project/Dependencies.scala" timestamp="1586855949582">
+        <mark key="'" line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/service/DateParserPattern.scala" timestamp="1586853005903">
         <mark key="'" line="6" column="2" />
@@ -201,6 +206,7 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="11" />
       </file>
+      <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/org/apache/hadoop/hadoop-core/2.6.0-mr1-cdh5.5.1/hadoop-core-2.6.0-mr1-cdh5.5.1.jar!/org/apache/hadoop/mapreduce/TaskID.class" timestamp="1586855533330" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/FriendshipInstances.scala" timestamp="1586854243437">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -214,27 +220,11 @@
         <mark key="^" line="50" column="18" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch.scala" timestamp="1586852237001">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="159" column="1" />
-        <mark key="." line="129" column="19" />
-        <mark key="^" line="129" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientViewable.scala" timestamp="1586851311796">
-        <mark key="'" line="124" column="36" />
-        <mark key="[" line="125" column="43" />
-        <mark key="]" line="125" column="45" />
-        <mark key="." line="125" column="44" />
-        <mark key="^" line="125" column="45" />
-      </file>
       <file name="/fragment.java" timestamp="1586854267445">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
-      <jump line="112" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
       <jump line="113" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
       <jump line="114" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
       <jump line="115" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
@@ -333,6 +323,8 @@
       <jump line="33" column="60" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="103" column="3" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="390" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="87" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project/Dependencies.scala" />
+      <jump line="12" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/build.sbt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,7 +333,7 @@
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2646,10 +2638,10 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxlc1w+</text>
+        <text>hbas</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdpdGggU3RvcnlMb2dMYWJlbEluc3RhbmNlcwo=</text>
@@ -2744,9 +2736,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxmaWxlc1w+</last-search>
+      <last-search>hbas</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxlc1w+</last-pattern>
+      <last-pattern>hbas</last-pattern>
       <last-replace>DateTime</last-replace>
       <last-substitute>LocalDate</last-substitute>
       <last-dir>1</last-dir>
