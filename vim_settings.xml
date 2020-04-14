@@ -160,12 +160,12 @@
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigrationDeps.scala" timestamp="1586823530042" />
-      <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586834244056">
+      <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586834363166">
         <mark key="'" line="90" column="13" />
-        <mark key="[" line="85" column="8" />
-        <mark key="]" line="85" column="10" />
-        <mark key="^" line="85" column="10" />
-        <mark key="." line="85" column="8" />
+        <mark key="[" line="36" column="55" />
+        <mark key="]" line="36" column="64" />
+        <mark key="^" line="36" column="64" />
+        <mark key="." line="36" column="63" />
       </file>
     </filemarks>
     <jumps>
@@ -277,7 +277,7 @@
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>text</text>
+        <text>/</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2582,7 +2582,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>Bytes</text>
