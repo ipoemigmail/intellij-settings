@@ -47,8 +47,8 @@
         <entry encoding="base64">JzwsJz5zL0xpc3QvU2V0L2c=</entry>
         <entry>W</entry>
         <entry>28</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,7 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" timestamp="1586826626955" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" timestamp="1586839222836">
         <mark key="[" line="283" column="0" />
         <mark key="]" line="283" column="30" />
@@ -126,25 +125,22 @@
         <mark key="." line="283" column="29" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/service/ModelGeneratorServiceDefault.scala" timestamp="1586843073330" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch-prod.conf" timestamp="1586844579020">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="6" column="36" />
-        <mark key="." line="6" column="35" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch-prod.conf" timestamp="1586847165964">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
         <mark key="^" line="6" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration-dev.conf" timestamp="1586823574874">
-        <mark key="'" line="20" column="28" />
-        <mark key="[" line="21" column="7" />
-        <mark key="]" line="21" column="39" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphStreaming.scala" timestamp="1586839585451" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/service/HiveViewServiceDefault.scala" timestamp="1586840657628">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" timestamp="1586846882988">
+        <mark key="[" line="218" column="44" />
+        <mark key="]" line="218" column="74" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/service/HiveViewServiceDefault.scala" timestamp="1586847125339">
         <mark key="'" line="6" column="54" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="50" column="36" />
-        <mark key="^" line="43" column="15" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586834363166">
         <mark key="'" line="90" column="13" />
@@ -161,12 +157,12 @@
       <file name="/Dummy.txt" timestamp="1586827694636">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch-dev.conf" timestamp="1586844038884">
-        <mark key="'" line="7" column="23" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="12" column="14" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch-dev.conf" timestamp="1586847167971">
+        <mark key="'" line="6" column="23" />
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="11" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatchTest.scala" timestamp="1586840371820">
         <mark key="[" line="27" column="35" />
@@ -180,12 +176,13 @@
         <mark key="^" line="13" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecovery.scala" timestamp="1586839473917" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch.scala" timestamp="1586842833950">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/birthday/src/main/scala/birthday/_01_ExtractBirthdayUsers.scala" timestamp="1586845796684" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch.scala" timestamp="1586847192705">
         <mark key="'" line="68" column="0" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="81" />
-        <mark key="." line="151" column="2" />
-        <mark key="^" line="86" column="29" />
+        <mark key="[" line="129" column="15" />
+        <mark key="]" line="129" column="20" />
+        <mark key="." line="129" column="19" />
+        <mark key="^" line="129" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/SyncToLocalBatch.scala" timestamp="1586842837158">
         <mark key="'" line="18" column="26" />
@@ -311,7 +308,7 @@
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1024</text>
+        <text>info</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2610,22 +2607,22 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>&quot;/kakaostory/log/model/code&quot;</text>
+        <text>SPARK_DRIVER_EXTRA_JAVA_OPTIONS</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>1024</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3BhcmsueWFybi5tYXhBcHBBdHRlbXB0cyA9IDEK</text>
+        <text encoding="base64">ICAgICAgICBvbmx5UHJvZC5mb3JlYWNoKF8gPT4gc3Bhcmsuc3FsKGRyb3BRdWVyeSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgcGF0aE1hbmFnZXI6IFBhdGhNYW5hZ2VyUGhhc2UgPSBuZXcgUGF0aE1hbmFnZXJQaGFzZSgpKFBoYXNlLlByb2QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2700,25 +2697,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgZW52OiBFbnZpcm9ubWVudCA9CiAgICBFbnZpcm9ubWVudC5kZXBsb3lPckVsc2UoVGVzdEhhZG9vcEVudmlyb25tZW50KHRoaXMuZ2V0Q2xhc3MsIFBoYXNlLlRlc3QsIEhhZG9vcENsdXN0ZXIuS3NCYXRjaCkpCg==</text>
+        <text encoding="base64">ICAgIHBoYXNlIG1hdGNoIHsKICAgICAgY2FzZSBQaGFzZS5Qcm9kID0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgY2FzZSBfID0+CiAgICB9Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHNlbnRyeVNlcnZpY2U6IFNlbnRyeVNlcnZpY2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgaGl2ZVZpZXdTZXJ2aWNlOiBIaXZlVmlld1NlcnZpY2UgPSBuZXcgSGl2ZVZpZXdTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNyZWF0ZShzcGFyazogU3BhcmtTZXNzaW9uKShsYWJlbDogU3RyaW5nLCBmaWVsZHM6IExpc3RbU3RyaW5nXSk6IFVuaXQgPSB7fQogIH0K</text>
+        <text encoding="base64">ICAgIG9ubHlQcm9kLmZvcmVhY2goXyA9PiBzcGFyay5zcWwoZHJvcFF1ZXJ5KSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB2aWV3TmFtZSA9IGdldFZpZXdOYW1lKGxhYmVsKQogICAgdmFsIGNyZWF0ZVF1ZXJ5ID0gZ2V0Q3JlYXRlUXVlcnkobGFiZWwsIGZpZWxkcykKICAgIHZhbCBkcm9wUXVlcnkgPSBnZXREcm9wUXVlcnkobGFiZWwpCiAgICBsb2dTZXJ2aWNlLmluZm8ocyItLS0gY3JlYXRlIGhpdmUgdmlldyA6ICR7dmlld05hbWV9X3YyIikKICAgIGxvZ1NlcnZpY2UuaW5mbyhkcm9wUXVlcnkpCiAgICBzcGFyay5zcWwoZHJvcFF1ZXJ5KQoKICAgIGxvZ1NlcnZpY2UuaW5mbyhjcmVhdGVRdWVyeSkKICAgIHNwYXJrLnNxbChjcmVhdGVRdWVyeSkK</text>
+        <text encoding="base64">ICAgICAgICBzcGFyay5zcWwoZHJvcFF1ZXJ5KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBsb2NhbENvZGVCYXNlUGF0aCA9IGxvY2FsQ29kZUJhc2VQYXRoCgo=</text>
+        <text encoding="base64">c3BhcmsuZXhlY3V0b3IubWVtb3J5T3ZlcmhlYWQgPSAxMDI0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBjaGFuZ2VCYXNlUGF0aCA9IGNvbmZpZy5nZXRTdHJpbmcoImNoYW5nZUJhc2VQYXRoIikK</text>
+        <text encoding="base64">c3BhcmsuZXhlY3V0b3IubWVtb3J5T3ZlcmhlYWQgPSA0MTk2Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2747,13 +2744,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgcmVtb3RlQ29kZUJhc2UgPSBjb2RlQmFzZVBhdGgKICB2YWwgbG9jYWxDb2RlQmFzZSA9ICJwcm9qZWN0LXN1Ym1vZHVsZS9zdG9yeS1zcGFyay1iYXNlL2RhdGEvc3JjL21haW4vc2NhbGEvY29tL2tha2FvL3N0b3J5L2xvZy9tb2RlbC9zdG9yeUxvZyIKCg==</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgcGF0aE1hbmFnZXI6IFBhdGhNYW5hZ2VyUGhhc2UgPSBuZXcgUGF0aE1hbmFnZXJQaGFzZSgpKFBoYXNlLlByb2QpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgY29kZUJhc2VQYXRoID0gIi90bXAvYmVuL2xvZy9tb2RlbC9jb2RlIgogIHZhbCBjaGFuZ2VCYXNlID0gIi90bXAvYmVuL2xvZy9tb2RlbC9jaGFuZ2VzIgoK</text>
+        <text encoding="base64">ICB2YWwgZW52OiBFbnZpcm9ubWVudCA9CiAgICBFbnZpcm9ubWVudC5kZXBsb3lPckVsc2UoVGVzdEhhZG9vcEVudmlyb25tZW50KHRoaXMuZ2V0Q2xhc3MsIFBoYXNlLlRlc3QsIEhhZG9vcENsdXN0ZXIuS3NCYXRjaCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
