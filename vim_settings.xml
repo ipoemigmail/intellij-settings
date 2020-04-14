@@ -118,13 +118,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" timestamp="1586822067308">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="6" />
-        <mark key="^" line="17" column="6" />
-        <mark key="." line="17" column="4" />
+      <file name="/Dummy.txt" timestamp="1586822684904">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/Collect.scala" timestamp="1586737671864" />
+      <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" timestamp="1586822431337">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/CollectAlpha.scala" timestamp="1586737678230">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="81" />
@@ -135,46 +136,37 @@
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/Cargo.toml" timestamp="1586793197345">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Personal/web_scraper/Cargo.toml" timestamp="1586787417798">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/" timestamp="1586822667345">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration-dev.conf" timestamp="1586740542451">
         <mark key="'" line="20" column="28" />
         <mark key="[" line="21" column="7" />
         <mark key="]" line="21" column="39" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/birthday/src/main/scala/birthday/_03_CreateBirthdayReverseMap.scala" timestamp="1586743054445" />
-      <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586793033741">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586823016876">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/SendPushAlpha.scala" timestamp="1586737848226">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="82" />
       </file>
-      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-util-0.3.4/src/future/join_all.rs" timestamp="1586822260079" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch-dev.conf" timestamp="1586742688449" />
-      <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/Cargo.toml" timestamp="1586793197345">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/birthday/src/main/scala/birthday/_02_CreateBirthdayCard.scala" timestamp="1586743005704" />
-      <file name="$USER_HOME$/Develop/Personal/web_scraper/Cargo.toml" timestamp="1586787417798">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/escher/cuesheet/StoryCueSheet.scala" timestamp="1586737936958" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/birthday/src/main/scala/birthday/_01_ExtractBirthdayUsers.scala" timestamp="1586743118598" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch.scala" timestamp="1586742661740" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/S2GraphService.scala" timestamp="1586785480014" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/job/PushSenderJob.conf" timestamp="1586742956409" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/util/PushUtil.scala" timestamp="1586742916996" />
     </filemarks>
     <jumps>
-      <jump line="95" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
-      <jump line="13" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
       <jump line="101" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
       <jump line="54" column="30" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
       <jump line="47" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
@@ -273,6 +265,8 @@
       <jump line="10" column="13" filename="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" />
       <jump line="15" column="6" filename="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" />
       <jump line="16" column="6" filename="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" />
+      <jump line="62" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="47" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -281,7 +275,7 @@
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhzLmF3YWl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2595,7 +2589,7 @@
         <text>reqwest::Client::builder().gzip(true).build()?</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhzLmF3YWl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2670,25 +2664,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIGZ1dHVyZXM6OnN0cmVhbTo6e0Z1dHVyZXNPcmRlcmVkLCBTdHJlYW1FeHR9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXN5bmMgZm4gCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHNlbnRyeVNlcnZpY2U6IFNlbnRyeVNlcnZpY2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIGZ1dHVyZXM6OnByZWx1ZGU6Oio7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b2tpbzo6dGltZTo6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBhID0gYXN5bmMgeyBocy5pdGVyKCkubWFwKHx4fCB4LmF3YWl0LnVud3JhcCgpKSB9Owo=</text>
+        <text encoding="base64">ICAgIGpvaW5fYWxsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhzLmF3YWl0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyFbZmVhdHVyZShmdXR1cmVzX2FwaSldCg==</text>
+        <text encoding="base64">dXNlIGZ1dHVyZXM6OnN0cmVhbTo6e0Z1dHVyZXNPcmRlcmVkLCBTdHJlYW1FeHR9Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2717,10 +2711,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IShocyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnV0dXJlcyA9ICIwLjMiCg==</text>
+        <text encoding="base64">dXNlIGZ1dHVyZXM6OnByZWx1ZGU6Oio7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
