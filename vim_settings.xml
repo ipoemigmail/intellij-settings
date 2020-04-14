@@ -160,15 +160,15 @@
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigrationDeps.scala" timestamp="1586823530042" />
-      <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586833174280">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586834244056">
+        <mark key="'" line="90" column="13" />
+        <mark key="[" line="85" column="8" />
+        <mark key="]" line="85" column="10" />
+        <mark key="^" line="85" column="10" />
+        <mark key="." line="85" column="8" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
       <jump line="64" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
       <jump line="71" column="16" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
@@ -268,6 +268,7 @@
       <jump line="77" column="60" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
       <jump line="0" column="11" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
       <jump line="8" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="87" column="13" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -275,8 +276,8 @@
       <register name="a" type="4">
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIHN0ZDo6aW86OkJ5dGVzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>text</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2581,7 +2582,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;bytes&quot;</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>Bytes</text>
