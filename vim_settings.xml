@@ -47,8 +47,8 @@
         <entry encoding="base64">JzwsJz5zL0xpc3QvU2V0L2c=</entry>
         <entry>W</entry>
         <entry>28</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,19 +118,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" timestamp="1586839222836">
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="30" />
-        <mark key="^" line="283" column="30" />
-        <mark key="." line="283" column="29" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/KurmaRequestLog.scala" timestamp="1586848373788" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryLabeledLogBaseInstances.scala" timestamp="1586848440384" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/service/ModelGeneratorServiceDefault.scala" timestamp="1586848973516">
+        <mark key="'" line="101" column="11" />
+        <mark key="[" line="101" column="100" />
+        <mark key="]" line="101" column="101" />
+        <mark key="." line="101" column="101" />
+        <mark key="^" line="101" column="57" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/service/ModelGeneratorServiceDefault.scala" timestamp="1586843073330" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch-prod.conf" timestamp="1586847165964">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="25" />
         <mark key="." line="5" column="25" />
         <mark key="^" line="6" column="36" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/ActivityToTromm.scala" timestamp="1586848344571" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphStreaming.scala" timestamp="1586839585451" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" timestamp="1586846882988">
         <mark key="[" line="218" column="44" />
@@ -142,21 +145,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586834363166">
-        <mark key="'" line="90" column="13" />
-        <mark key="[" line="36" column="55" />
-        <mark key="]" line="36" column="64" />
-        <mark key="^" line="36" column="64" />
-        <mark key="." line="36" column="63" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" timestamp="1586840945780">
         <mark key="[" line="13" column="26" />
         <mark key="]" line="13" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/model/GeneratorConfig.scala" timestamp="1586840480771" />
-      <file name="/Dummy.txt" timestamp="1586827694636">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch-dev.conf" timestamp="1586847167971">
         <mark key="'" line="6" column="23" />
         <mark key="[" line="5" column="24" />
@@ -168,12 +161,6 @@
         <mark key="[" line="27" column="35" />
         <mark key="]" line="27" column="35" />
         <mark key="." line="27" column="35" />
-      </file>
-      <file name="$USER_HOME$/Develop/Personal/web_scraper/Cargo.toml" timestamp="1586833189195">
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="13" column="12" />
-        <mark key="." line="13" column="11" />
-        <mark key="^" line="13" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecovery.scala" timestamp="1586839473917" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/birthday/src/main/scala/birthday/_01_ExtractBirthdayUsers.scala" timestamp="1586845796684" />
@@ -200,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration-dev.conf" />
       <jump line="7" column="26" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
       <jump line="68" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
       <jump line="21" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
@@ -300,6 +286,7 @@
       <jump line="6" column="34" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/SyncToLocalBatch.scala" />
       <jump line="46" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/SyncToLocalBatch.scala" />
       <jump line="17" column="26" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/SyncToLocalBatch.scala" />
+      <jump line="101" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/service/ModelGeneratorServiceDefault.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,7 +295,7 @@
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>P</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2613,13 +2600,13 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhbFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvbmx5UHJvZC5mb3JlYWNoKF8gPT4gc3Bhcmsuc3FsKGRyb3BRdWVyeSkpCg==</text>
+      <register name="0" type="4">
+        <text>x-forwarded-for</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2750,7 +2737,7 @@
         <text encoding="base64">ICB2YWwgZW52OiBFbnZpcm9ubWVudCA9CiAgICBFbnZpcm9ubWVudC5kZXBsb3lPckVsc2UoVGVzdEhhZG9vcEVudmlyb25tZW50KHRoaXMuZ2V0Q2xhc3MsIFBoYXNlLlRlc3QsIEhhZG9vcENsdXN0ZXIuS3NCYXRjaCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
