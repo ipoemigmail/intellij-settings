@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXBcPg==</entry>
         <entry encoding="base64">XDxUZXN0RGF0YWJhc2VcPg==</entry>
         <entry encoding="base64">XDxEZWZhdWx0RGF0YVw+</entry>
         <entry>Timeout</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxnZXRfY29udGVudHNcPg==</entry>
         <entry encoding="base64">XDxDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxyZXFfY2xpZW50XD4=</entry>
+        <entry>Bytes</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ActivityExpansion/Activity/g</entry>
@@ -47,8 +47,8 @@
         <entry encoding="base64">JzwsJz5zL0xpc3QvU2V0L2c=</entry>
         <entry>W</entry>
         <entry>28</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -144,11 +144,11 @@
         <mark key="^" line="283" column="30" />
         <mark key="." line="283" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/web_scraper/Cargo.toml" timestamp="1586827905446">
-        <mark key="[" line="11" column="56" />
-        <mark key="]" line="11" column="56" />
-        <mark key="." line="11" column="56" />
-        <mark key="^" line="11" column="67" />
+      <file name="$USER_HOME$/Develop/Personal/web_scraper/Cargo.toml" timestamp="1586833189195">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="12" />
+        <mark key="." line="13" column="11" />
+        <mark key="^" line="13" column="12" />
       </file>
       <file name="/" timestamp="1586822667345">
         <mark key="[" line="0" column="0" />
@@ -160,20 +160,14 @@
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigrationDeps.scala" timestamp="1586823530042" />
-      <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586830312297">
-        <mark key="'" line="12" column="8" />
-        <mark key="[" line="75" column="30" />
-        <mark key="]" line="75" column="31" />
-        <mark key="." line="75" column="30" />
-        <mark key="^" line="75" column="31" />
+      <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586833174280">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
-      <jump line="36" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
-      <jump line="70" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
-      <jump line="14" column="61" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
-      <jump line="73" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" />
       <jump line="22" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
       <jump line="64" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/deviceIdRefinement/DeviceIdRefinement.scala" />
@@ -264,11 +258,16 @@
       <jump line="36" column="19" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
       <jump line="81" column="30" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
       <jump line="83" column="36" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
       <jump line="13" column="38" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
       <jump line="72" column="9" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
       <jump line="37" column="32" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
       <jump line="12" column="8" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="75" column="51" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="64" column="9" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="78" column="31" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="77" column="60" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="0" column="11" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="8" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -277,7 +276,7 @@
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpCg==</text>
+        <text encoding="base64">dXNlIHN0ZDo6aW86OkJ5dGVzOwo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2582,18 +2581,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>blocking::</text>
+        <text>, &quot;bytes&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXFfY2xpZW50XD4=</text>
+        <text>Bytes</text>
       </register>
       <register name="0" type="4">
         <text>reqwest::blocking::Client::builder().gzip(true).build()?</text>
       </register>
-      <register name="1" type="4">
-        <text>reqwest::blocking::Client::builder()
-        .gzip(true)
-        .build()</text>
+      <register name="1" type="2">
+        <text encoding="base64">dXNlIHN0ZDo6aW86OkJ5dGVzOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2668,25 +2665,27 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIHByb2NfbWFjcm86OmJyaWRnZTo6Y2xpZW50OjpDbGllbnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAudW53cmFwKCkK</text>
+      <register name="3" type="4">
+        <text>reqwest::blocking::Client::builder()
+        .gzip(true)
+        .build()</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHNlbnRyeVNlcnZpY2U6IFNlbnRyeVNlcnZpY2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">dXNlIHByb2NfbWFjcm86OmJyaWRnZTo6Y2xpZW50OjpDbGllbnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuYXdhaXQ/Owo=</text>
+        <text encoding="base64">ICAgICAgICAudW53cmFwKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuYXdhaXQ/Owo=</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuYXdhaXQ/Cg==</text>
+        <text encoding="base64">ICAgICAgICAuYXdhaXQ/Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2715,13 +2714,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuYXdhaXQ/Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vcmVxdWVzdHMucG9zdCgiaHR0cDovL2FwaS5ub3RpLmRhdW1rYWthby5pby9zZW5kL2dyb3VwL2tha2FvdGFsayIsIGRhdGEgPSBNYXAoInRvIiAtPiAiOTAxNiIsICJtc2ciIC0+IG1zZykpCg==</text>
+        <text encoding="base64">ICAgICAgICAuYXdhaXQ/Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2730,9 +2729,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZXFfY2xpZW50XD4=</last-search>
+      <last-search>Bytes</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXFfY2xpZW50XD4=</last-pattern>
+      <last-pattern>Bytes</last-pattern>
       <last-replace>HbaseMigration</last-replace>
       <last-substitute>DeviceIdRefinement</last-substitute>
       <last-dir>1</last-dir>
