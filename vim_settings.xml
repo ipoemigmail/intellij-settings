@@ -47,8 +47,8 @@
         <entry>%s/Symbole/Symbol/g</entry>
         <entry>%s/LocalDate/DateTime/g</entry>
         <entry>a</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,15 +125,43 @@
         <mark key="^" line="21" column="8" />
         <mark key="." line="21" column="7" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/test/scala/com/kakao/story/spark/instances/StoryLabeledLogBaseInstancesTest.scala" timestamp="1586854371367">
+        <mark key="[" line="21" column="2" />
+        <mark key="]" line="21" column="8" />
+        <mark key="." line="21" column="7" />
+        <mark key="^" line="21" column="8" />
+      </file>
+      <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" timestamp="1586960658112">
+        <mark key="'" line="15" column="5" />
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="6" />
+        <mark key="." line="15" column="5" />
+        <mark key="^" line="15" column="6" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/FriendShip.scala" timestamp="1586853783366">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="58" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/test/scala/com/kakao/story/spark/instances/StoryAccessLogInstancesTest.scala" timestamp="1586854442055">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="12" column="45" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/Friendship.scala" timestamp="1586853976539">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/util/Date.scala" timestamp="1586853174814">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="71" column="0" />
+      <file name="/Dummy.txt" timestamp="1586960687897">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-util-0.3.4/src/future/join_all.rs" timestamp="1586960425878" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/FriendshipInstances.scala" timestamp="1586854243437">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="17" column="6" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/build.sbt" timestamp="1586914698917">
         <mark key="'" line="12" column="22" />
@@ -148,6 +176,12 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="30" />
       </file>
+      <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/Cargo.toml" timestamp="1586960184664">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="14" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="10" column="13" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" timestamp="1586853908035">
         <mark key="'" line="51" column="118" />
         <mark key="[" line="51" column="0" />
@@ -156,12 +190,8 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project/Dependencies.scala" timestamp="1586855949582">
         <mark key="'" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/service/DateParserPattern.scala" timestamp="1586853005903">
-        <mark key="'" line="6" column="2" />
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="15" column="2" />
-        <mark key="." line="15" column="1" />
-        <mark key="^" line="15" column="2" />
+      <file name="/" timestamp="1586960666368">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/Friendship.scala" timestamp="1586854015370">
         <mark key="[" line="20" column="16" />
@@ -172,46 +202,6 @@
         <mark key="[" line="29" column="28" />
         <mark key="]" line="29" column="28" />
         <mark key="." line="29" column="28" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/service/DateParserUtc.scala" timestamp="1586853001205">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="17" column="28" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/test/scala/com/kakao/story/spark/instances/StoryLabeledLogBaseInstancesTest.scala" timestamp="1586854371367">
-        <mark key="[" line="21" column="2" />
-        <mark key="]" line="21" column="8" />
-        <mark key="." line="21" column="7" />
-        <mark key="^" line="21" column="8" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/FriendShip.scala" timestamp="1586853783366">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="58" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/test/scala/com/kakao/story/spark/instances/StoryAccessLogInstancesTest.scala" timestamp="1586854442055">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="12" column="45" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/DateUtil.scala" timestamp="1586853151129">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="20" />
-        <mark key="." line="27" column="19" />
-        <mark key="^" line="27" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/instances/DateTimeInstances.scala" timestamp="1586853195256">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="11" />
-        <mark key="^" line="10" column="11" />
-      </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/org/apache/hadoop/hadoop-core/2.6.0-mr1-cdh5.5.1/hadoop-core-2.6.0-mr1-cdh5.5.1.jar!/org/apache/hadoop/mapreduce/TaskID.class" timestamp="1586855533330" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/FriendshipInstances.scala" timestamp="1586854243437">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="17" column="6" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/util/PushUtil.scala" timestamp="1586853636593">
         <mark key="'" line="61" column="0" />
@@ -225,8 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
-      <jump line="114" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
       <jump line="115" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
       <jump line="116" column="42" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
       <jump line="117" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
@@ -325,6 +313,8 @@
       <jump line="390" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="87" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project/Dependencies.scala" />
       <jump line="12" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/build.sbt" />
+      <jump line="14" column="54" filename="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" />
+      <jump line="15" column="5" filename="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,7 +323,7 @@
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>000</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2638,16 +2628,19 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>000</text>
       </register>
       <register name="/" type="4">
         <text>hbas</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpdGggU3RvcnlMb2dMYWJlbEluc3RhbmNlcwo=</text>
+        <text encoding="base64">dXNlIHRva2lvOjp0YXNrOjpKb2luSGFuZGxlOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRzLnRha2UoMTAwKS5mb3JlYWNoKHByaW50bG4pCg==</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2674,25 +2667,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhpdmVWaWV3U2VydmljZTogSGl2ZVZpZXdTZXJ2aWNlLAogICAgbW9kZWxHZW5lcmF0b3JTZXJ2aWNlOiBNb2RlbEdlbmVyYXRvclNlcnZpY2UK</text>
+        <text encoding="base64">ICAgIGRzLnRha2UoMTAwKS5mb3JlYWNoKHByaW50bG4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAqCg==</text>
+        <text encoding="base64">ICAgIGhpdmVWaWV3U2VydmljZTogSGl2ZVZpZXdTZXJ2aWNlLAogICAgbW9kZWxHZW5lcmF0b3JTZXJ2aWNlOiBNb2RlbEdlbmVyYXRvclNlcnZpY2UK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHNlbnRyeVNlcnZpY2U6IFNlbnRyeVNlcnZpY2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5sb2cubW9kZWwuU3RvcnlBY2Nlc3NMb2cK</text>
+        <text encoding="base64">ICAqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5sb2cubW9kZWwuRnJpZW5kc2hpcAppbXBvcnQgY29tLmtha2FvLnN0b3J5LmxvZy5zZXJ2aWNlLlBhdGhNYW5hZ2VyUGhhc2UKaW1wb3J0IGNvbS5rYWthby5zdG9yeS5tb2RlbC57SGFkb29wQ2x1c3RlciwgUGhhc2V9CmltcG9ydCBjb20ua2FrYW8uc3RvcnkubW9kZWwuZW52aXJvbm1lbnQuVGVzdEhhZG9vcEVudmlyb25tZW50CmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3BhcmsubW9kZWwuRGFpbHkKaW1wb3J0IGNvbS5rYWthby5zdG9yeS5zcGFyay5zZXJ2aWNlLntTZXNzaW9uTWFuYWdlciwgU2Vzc2lvbk1hbmFnZXJQaGFzZX0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5zcGFyay50eXBlY2xhc3MuRGF0YXNldFJlYWRlcgppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuU3BhcmtTZXNzaW9uCmltcG9ydCBvcmcuc2NhbGF0ZXN0LmZ1bnN1aXRlLkFueUZ1blN1aXRlCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5sb2cubW9kZWwuU3RvcnlBY2Nlc3NMb2cK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgZW52ID0gVGVzdEhhZG9vcEVudmlyb25tZW50KHRoaXMuZ2V0Q2xhc3MsIFBoYXNlLlRlc3QsIEhhZG9vcENsdXN0ZXIuS3NCYXRjaCkKICBpbXBsaWNpdCB2YWwgcGhhc2U6IFBoYXNlID0gZW52LnBoYXNlCiAgaW1wbGljaXQgdmFsIHBhdGhNYW5hZ2VyOiBQYXRoTWFuYWdlclBoYXNlID0gbmV3IFBhdGhNYW5hZ2VyUGhhc2UoKShQaGFzZS5Qcm9kKQogIGltcGxpY2l0IHZhbCBzZXNzaW9uTWFuYWdlcjogU2Vzc2lvbk1hbmFnZXIgPSBuZXcgU2Vzc2lvbk1hbmFnZXJQaGFzZShTZXNzaW9uTWFuYWdlci5nZXRTcGFya0NvbmYoZW52LmNvbmZpZykpCiAgdmFsIHNwYXJrOiBTcGFya1Nlc3Npb24gPSBzZXNzaW9uTWFuYWdlci5nZXRPckNyZWF0ZVNlc3Npb24KCiAgaWdub3JlKCJEYXRhc2V0UmVhZGVyIikgewogICAgdmFsIHAgPSBIb3VybHkoIjIwMjAtMDMtMjciLCAiMTYiKQogICAgdmFsIGRzID0gRGF0YXNldFJlYWRlcltTdG9yeUFjY2Vzc0xvZ10ucmVhZChzcGFyaykocCwgcCkKICAgIGRzLnNjaGVtYS5wcmludFRyZWVTdHJpbmcoKQogIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5sb2cubW9kZWwuRnJpZW5kc2hpcAppbXBvcnQgY29tLmtha2FvLnN0b3J5LmxvZy5zZXJ2aWNlLlBhdGhNYW5hZ2VyUGhhc2UKaW1wb3J0IGNvbS5rYWthby5zdG9yeS5tb2RlbC57SGFkb29wQ2x1c3RlciwgUGhhc2V9CmltcG9ydCBjb20ua2FrYW8uc3RvcnkubW9kZWwuZW52aXJvbm1lbnQuVGVzdEhhZG9vcEVudmlyb25tZW50CmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3BhcmsubW9kZWwuRGFpbHkKaW1wb3J0IGNvbS5rYWthby5zdG9yeS5zcGFyay5zZXJ2aWNlLntTZXNzaW9uTWFuYWdlciwgU2Vzc2lvbk1hbmFnZXJQaGFzZX0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5zcGFyay50eXBlY2xhc3MuRGF0YXNldFJlYWRlcgppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuU3BhcmtTZXNzaW9uCmltcG9ydCBvcmcuc2NhbGF0ZXN0LmZ1bnN1aXRlLkFueUZ1blN1aXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBpbmxpbmUKICAgIHByaXZhdGUgZGVmIGdldERzKHNwYXJrOiBTcGFya1Nlc3Npb24pKGZpbGVzOiBTZXFbU3RyaW5nXSk6IERhdGFzZXRbRnJpZW5kc2hpcF0gPSB7CiAgICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwogICAgICBzcGFyay5yZWFkCiAgICAgICAgLnRleHRGaWxlKGZpbGVzOiBfKikKICAgICAgICAuZmxhdE1hcCB7IGxpbmUgPT4KICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cgo=</text>
+        <text encoding="base64">ICB2YWwgZW52ID0gVGVzdEhhZG9vcEVudmlyb25tZW50KHRoaXMuZ2V0Q2xhc3MsIFBoYXNlLlRlc3QsIEhhZG9vcENsdXN0ZXIuS3NCYXRjaCkKICBpbXBsaWNpdCB2YWwgcGhhc2U6IFBoYXNlID0gZW52LnBoYXNlCiAgaW1wbGljaXQgdmFsIHBhdGhNYW5hZ2VyOiBQYXRoTWFuYWdlclBoYXNlID0gbmV3IFBhdGhNYW5hZ2VyUGhhc2UoKShQaGFzZS5Qcm9kKQogIGltcGxpY2l0IHZhbCBzZXNzaW9uTWFuYWdlcjogU2Vzc2lvbk1hbmFnZXIgPSBuZXcgU2Vzc2lvbk1hbmFnZXJQaGFzZShTZXNzaW9uTWFuYWdlci5nZXRTcGFya0NvbmYoZW52LmNvbmZpZykpCiAgdmFsIHNwYXJrOiBTcGFya1Nlc3Npb24gPSBzZXNzaW9uTWFuYWdlci5nZXRPckNyZWF0ZVNlc3Npb24KCiAgaWdub3JlKCJEYXRhc2V0UmVhZGVyIikgewogICAgdmFsIHAgPSBIb3VybHkoIjIwMjAtMDMtMjciLCAiMTYiKQogICAgdmFsIGRzID0gRGF0YXNldFJlYWRlcltTdG9yeUFjY2Vzc0xvZ10ucmVhZChzcGFyaykocCwgcCkKICAgIGRzLnNjaGVtYS5wcmludFRyZWVTdHJpbmcoKQogIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2721,13 +2714,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGhkZnNVdGlsID0gSERGU1V0aWwuZ2V0CiAgICAgIHZhbCBmaWxlcyA9CiAgICAgICAgUGVyaW9kLmdldFJhbmdlSG91cmx5KGZyb20sIHRvKS5mbGF0TWFwKHAgPT4gTC5nZXRQYXRocyhsYWJlbCwgcCkuZmlsdGVyKGhkZnNVdGlsLmV4aXN0cykubWFwKHggPT4gcyIkeC8qLmd6IikpCiAgICAgIGdldERzKHNwYXJrKShmaWxlcykK</text>
+        <text encoding="base64">ICAgIEBpbmxpbmUKICAgIHByaXZhdGUgZGVmIGdldERzKHNwYXJrOiBTcGFya1Nlc3Npb24pKGZpbGVzOiBTZXFbU3RyaW5nXSk6IERhdGFzZXRbRnJpZW5kc2hpcF0gPSB7CiAgICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwogICAgICBzcGFyay5yZWFkCiAgICAgICAgLnRleHRGaWxlKGZpbGVzOiBfKikKICAgICAgICAuZmxhdE1hcCB7IGxpbmUgPT4KICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cm9iamUK</text>
+        <text encoding="base64">ICAgICAgdmFsIGhkZnNVdGlsID0gSERGU1V0aWwuZ2V0CiAgICAgIHZhbCBmaWxlcyA9CiAgICAgICAgUGVyaW9kLmdldFJhbmdlSG91cmx5KGZyb20sIHRvKS5mbGF0TWFwKHAgPT4gTC5nZXRQYXRocyhsYWJlbCwgcCkuZmlsdGVyKGhkZnNVdGlsLmV4aXN0cykubWFwKHggPT4gcyIkeC8qLmd6IikpCiAgICAgIGdldERzKHNwYXJrKShmaWxlcykK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
