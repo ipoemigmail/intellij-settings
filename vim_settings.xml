@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXBpSG9zdEFscGhhXD4=</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry encoding="base64">XDxnZXRDb25uZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxDb25uZWN0aW9uXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxmaWxlc1w+</entry>
         <entry>hadoop</entry>
         <entry>hbas</entry>
+        <entry>From</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0dyb3VwL1Byb2ZpbGdl</entry>
@@ -125,15 +125,11 @@
         <mark key="^" line="21" column="8" />
         <mark key="." line="21" column="7" />
       </file>
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/scraper-0.11.0/src/html/mod.rs" timestamp="1586994607944" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/Friendship.scala" timestamp="1586853976539">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/util/Date.scala" timestamp="1586853174814">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/build.sbt" timestamp="1586914698917">
         <mark key="'" line="12" column="22" />
@@ -155,6 +151,9 @@
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project/Dependencies.scala" timestamp="1586855949582">
         <mark key="'" line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/document.rs" timestamp="1586996488552">
+        <mark key="'" line="14" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/Friendship.scala" timestamp="1586854015370">
         <mark key="[" line="20" column="16" />
@@ -182,18 +181,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="12" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/instances/DateTimeInstances.scala" timestamp="1586853195256">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="11" />
-        <mark key="^" line="10" column="11" />
-      </file>
-      <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586917108266">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="36" column="30" />
-        <mark key="]" line="36" column="39" />
-        <mark key="^" line="36" column="39" />
-        <mark key="." line="36" column="38" />
+      <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586996568344">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/org/apache/hadoop/hadoop-core/2.6.0-mr1-cdh5.5.1/hadoop-core-2.6.0-mr1-cdh5.5.1.jar!/org/apache/hadoop/mapreduce/TaskID.class" timestamp="1586855533330" />
       <file name="/Dummy.txt" timestamp="1586916293641">
@@ -205,41 +197,21 @@
         <mark key="^" line="17" column="6" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/web_scraper/Cargo.toml" timestamp="1586916413504">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="1" />
+      <file name="$USER_HOME$/Develop/Personal/web_scraper/Cargo.toml" timestamp="1586994922465">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/util/PushUtil.scala" timestamp="1586853636593">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="50" column="18" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/tendril-0.4.1/src/tendril.rs" timestamp="1586995276560">
+        <mark key="[" line="206" column="9" />
+        <mark key="]" line="206" column="19" />
       </file>
       <file name="/fragment.java" timestamp="1586854267445">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
-      <jump line="115" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
-      <jump line="116" column="42" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
-      <jump line="117" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
-      <jump line="118" column="48" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
-      <jump line="119" column="46" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
-      <jump line="120" column="52" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
-      <jump line="121" column="48" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
-      <jump line="122" column="58" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
-      <jump line="123" column="40" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
-      <jump line="124" column="46" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
-      <jump line="125" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientExpose.scala" />
-      <jump line="99" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientViewable.scala" />
-      <jump line="100" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientViewable.scala" />
-      <jump line="101" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientViewable.scala" />
-      <jump line="102" column="26" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientViewable.scala" />
-      <jump line="103" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientViewable.scala" />
       <jump line="104" column="34" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientViewable.scala" />
       <jump line="105" column="30" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientViewable.scala" />
       <jump line="106" column="34" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientViewable.scala" />
@@ -323,6 +295,23 @@
       <jump line="87" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project/Dependencies.scala" />
       <jump line="12" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/build.sbt" />
       <jump line="36" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="9" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="80" column="46" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="13" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="93" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="81" column="48" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="33" column="14" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="134" column="0" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/document.rs" />
+      <jump line="42" column="0" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/document.rs" />
+      <jump line="46" column="45" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/document.rs" />
+      <jump line="133" column="4" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/document.rs" />
+      <jump line="41" column="4" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/document.rs" />
+      <jump line="39" column="31" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="40" column="44" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="14" column="14" filename="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/document.rs" />
+      <jump line="14" column="46" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
+      <jump line="65" column="0" filename="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,8 +319,8 @@
       <register name="a" type="4">
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>document</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXN5bmMgCgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2629,23 +2618,23 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIHNwYXJrLnJlYWQKICAgICAgLm9wdGlvbigiZGVsaW1pdGVyIiwgIlx0IikKICAgICAgLmNzdihzIiRMb2dQYXRoLyR7ZGF0ZS50b1N0cmluZygieXl5eU1NZGQiKX0iKQogICAgICAudG9ERigicHJvZmlsZUlkIiwgImZyaWVuZElkIikKICAgICAgLmFzW0ZyaWVuZHNoaXBdCg==</text>
+      <register name="*" type="4">
+        <text>reqwest</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>document</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
-        <text>hbas</text>
+        <text>From</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgiW3t9XSBydW5uaW5nIiwgZGF0ZV9zdHIpOwo=</text>
+        <text encoding="base64">dXNlIHNlbGVjdDo6ZG9jdW1lbnQ6OkRvY3VtZW50Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgiW3t9XSBydW5uaW5nIiwgZGF0ZV9zdHIpOwo=</text>
+        <text encoding="base64">YXN5bmMgCgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2672,39 +2661,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4hKAogICAgICAgICJzcGVuZCB0aW1lOiB7fSIsCiAgICAgICAgTG9jYWw6Om5vdygpLnRpbWVzdGFtcF9taWxsaXMoKSAtIHN0YXJ0X2R0LnRpbWVzdGFtcF9taWxsaXMoKQogICAgKTsK</text>
+        <text encoding="base64">Zm4gCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBzdGFydF9kdCA9IExvY2FsOjpub3coKTsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZG9jX3JlZjogJnN0ciA9IGh0bWwuYXNfcmVmKCk7Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHNlbnRyeVNlcnZpY2U6IFNlbnRyeVNlcnZpY2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuISgie30iLCBTdHJpbmc6OmZyb21fdXRmOChodG1sLnRvX3ZlYygpKS51bndyYXAoKSk7Cg==</text>
+        <text encoding="base64">dXNlIHNlbGVjdDo6ZG9jdW1lbnQ6OkRvY3VtZW50Owo=</text>
       </register>
-      <register name="5" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBCeXRlVGVuZHJpbC5mcm9tCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRzLnRha2UoMTAwKS5mb3JlYWNoKHByaW50bG4pCg==</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhpdmVWaWV3U2VydmljZTogSGl2ZVZpZXdTZXJ2aWNlLAogICAgbW9kZWxHZW5lcmF0b3JTZXJ2aWNlOiBNb2RlbEdlbmVyYXRvclNlcnZpY2UK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZG9jID0gCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2733,10 +2708,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAqCg==</text>
+        <text encoding="base64">dXNlIHNlbGVjdDo6cHJlbHVkZTo6KjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5sb2cubW9kZWwuU3RvcnlBY2Nlc3NMb2cK</text>
+        <text encoding="base64">dXNlIHRva2lvOjpwcmVsdWRlOjoqOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -2748,9 +2723,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>hbas</last-search>
+      <last-search>From</last-search>
       <last-offset />
-      <last-pattern>hbas</last-pattern>
+      <last-pattern>From</last-pattern>
       <last-replace>DateTime</last-replace>
       <last-substitute>LocalDate</last-substitute>
       <last-dir>1</last-dir>
