@@ -164,11 +164,6 @@
       <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/select-0.4.3/src/document.rs" timestamp="1586996488552">
         <mark key="'" line="14" column="14" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/test/scala/com/kakao/story/spark/instances/StoryAccessLogInstancesTest.scala" timestamp="1586854442055">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="12" column="45" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" timestamp="1586997781336">
         <mark key="'" line="175" column="38" />
       </file>
@@ -202,6 +197,8 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-hbase-gateway/src/main/java/com/kakao/story/hbase/gateway/notification/NotificationHBaseTemplate.java" timestamp="1586999852065" />
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/DeviceServiceImpl.java" timestamp="1586999673835" />
     </filemarks>
     <jumps>
       <jump line="103" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientViewable.scala" />
