@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDbGllbnRcPg==</entry>
         <entry encoding="base64">XDxyZXFfY2xpZW50XD4=</entry>
         <entry>Bytes</entry>
         <entry encoding="base64">XDxnZW5lcmF0b3JDb25maWdcPg==</entry>
@@ -27,6 +26,7 @@
         <entry>ev</entry>
         <entry>Array[Byte]</entry>
         <entry>Array\[Byte\]</entry>
+        <entry encoding="base64">XDxwdXRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Byb2ZpbGUvU3RvcnlQbHVzRGV0YWlsL2c=</entry>
@@ -45,10 +45,10 @@
         <entry>%s/LocalDate/DateTime/g</entry>
         <entry>a</entry>
         <entry encoding="base64">JzwsJz5zL292ZXJyaWRlIC8vZw==</entry>
-        <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zL0FycmF5W0J5dGVdL1N0cmluZy9n</entry>
         <entry encoding="base64">JzwsJz5zL0FycmF5XFtCeXRlXF0vU3RyaW5nL2c=</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,12 +125,12 @@
         <mark key="^" line="21" column="8" />
         <mark key="." line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" timestamp="1587005896307">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="87" column="118" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" timestamp="1587007102529">
+        <mark key="'" line="48" column="98" />
+        <mark key="[" line="49" column="7" />
+        <mark key="]" line="49" column="8" />
+        <mark key="." line="49" column="7" />
+        <mark key="^" line="49" column="8" />
       </file>
       <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/org/apache/hbase/hbase-client/1.0.0-cdh5.5.1/hbase-client-1.0.0-cdh5.5.1-sources.jar!/org/apache/hadoop/hbase/client/Result.java" timestamp="1586997260452">
         <mark key="'" line="760" column="37" />
@@ -202,11 +202,6 @@
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/DeviceServiceImpl.java" timestamp="1586999673835" />
     </filemarks>
     <jumps>
-      <jump line="121" column="56" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientViewable.scala" />
-      <jump line="122" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientViewable.scala" />
-      <jump line="123" column="44" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientViewable.scala" />
-      <jump line="124" column="36" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/storyLog/StoryStatClientViewable.scala" />
-      <jump line="127" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch.scala" />
       <jump line="3" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
@@ -298,10 +293,15 @@
       <jump line="59" column="40" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="44" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="133" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
-      <jump line="15" column="71" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="50" column="52" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="104" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="107" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="54" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="15" column="72" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="27" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="21" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="16" column="72" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="48" column="98" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,8 +309,8 @@
       <register name="a" type="4">
         <text>Bytes.toBytes(</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>flatMap</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2615,16 +2615,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>.map</text>
+        <text>flatMap</text>
       </register>
       <register name="/" type="4">
-        <text>Array\[Byte\]</text>
+        <text encoding="base64">XDxwdXRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgZGVmIGdldCh0YWJsZU5hbWU6IFN0cmluZywga2V5czogU2VxW0FycmF5W0J5dGVdXSkoCiAgICAgIGltcGxpY2l0IGV2OiBDbGFzc1RhZ1tTZXFbQXJyYXlbQnl0ZV1dXQogICk6IFNlcVtNYXBbQXJyYXlbQnl0ZV0sIE1hcFtBcnJheVtCeXRlXSwgQXJyYXlbQnl0ZV1dXV0KCiAgZGVmIGdldCh0YWJsZU5hbWU6IFN0cmluZywga2V5czogU2VxW0FycmF5W0J5dGVdXSwgZmFtaWx5OiBBcnJheVtCeXRlXSkoCiAgICAgIGltcGxpY2l0IGV2OiBDbGFzc1RhZ1tTZXFbQXJyYXlbQnl0ZV1dXQogICk6IFNlcVtNYXBbQXJyYXlbQnl0ZV0sIEFycmF5W0J5dGVdXV0KCiAgZGVmIGdldCh0YWJsZU5hbWU6IFN0cmluZywga2V5czogU2VxW0FycmF5W0J5dGVdXSwgZmFtaWx5OiBBcnJheVtCeXRlXSwgcXVhbGlmaWVyOiBBcnJheVtCeXRlXSkoCiAgICAgIGltcGxpY2l0IGV2OiBDbGFzc1RhZ1tTZXFbQXJyYXlbQnl0ZV1dXQogICk6IFNlcVtBcnJheVtCeXRlXV0gPSBnZXQodGFibGVOYW1lLCBrZXlzLCBmYW1pbHkpLmZsYXRNYXAoXy5nZXQocXVhbGlmaWVyKSkKCiAgZGVmIGdldCgKICAgICAgdGFibGVOYW1lOiBTdHJpbmcsCiAgICAgIGtleXM6IFNlcVtBcnJheVtCeXRlXV0sCiAgICAgIGZhbWlseTogQXJyYXlbQnl0ZV0sCiAgICAgIHF1YWxpZmllcjogQXJyYXlbQnl0ZV0sCiAgICAgIG1heFZlcnNpb246IEludAogICkoaW1wbGljaXQgZXY6IENsYXNzVGFnW1NlcVtBcnJheVtCeXRlXV1dKTogU2VxW0FycmF5W0J5dGVdXQo=</text>
+        <text encoding="base64">ICBkZWYgcHV0KHRhYmxlTmFtZTogU3RyaW5nLCBrZXk6IFN0cmluZywgZmFtaWx5OiBTdHJpbmcsIGRhdGE6IE1hcFtTdHJpbmcsIFN0cmluZ10pOiBVbml0ID0KICAgIHB1dCh0YWJsZU5hbWUsIEhiYXNlUHV0KGtleSwgZmFtaWx5LCBkYXRhKSkKCiAgZGVmIHB1dCh0YWJsZU5hbWU6IFN0cmluZywga2V5OiBTdHJpbmcsIGZhbWlseTogU3RyaW5nLCBxdWFsaWZpZXI6IFN0cmluZywgdmFsdWU6IFN0cmluZyk6IFVuaXQgPQogICAgcHV0KHRhYmxlTmFtZSwgSGJhc2VQdXQoa2V5LCBmYW1pbHksIHF1YWxpZmllciwgdmFsdWUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdldCh0YWJsZU5hbWUsIGtleSwgZmFtaWx5KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2650,26 +2650,28 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0KHRhYmxlTmFtZTogU3RyaW5nLCBrZXlzOiBTZXFbU3RyaW5nXSkoCiAgICAgIGltcGxpY2l0IGV2OiBDbGFzc1RhZ1tTZXFbU3RyaW5nXV0KICApOiBTZXFbTWFwW1N0cmluZywgTWFwW1N0cmluZywgU3RyaW5nXV1dCgogIGRlZiBnZXQodGFibGVOYW1lOiBTdHJpbmcsIGtleXM6IFNlcVtTdHJpbmddLCBmYW1pbHk6IFN0cmluZykoCiAgICAgIGltcGxpY2l0IGV2OiBDbGFzc1RhZ1tTZXFbU3RyaW5nXV0KICApOiBTZXFbTWFwW1N0cmluZywgU3RyaW5nXV0KCiAgZGVmIGdldCh0YWJsZU5hbWU6IFN0cmluZywga2V5czogU2VxW1N0cmluZ10sIGZhbWlseTogU3RyaW5nLCBxdWFsaWZpZXI6IFN0cmluZykoCiAgICAgIGltcGxpY2l0IGV2OiBDbGFzc1RhZ1tTZXFbU3RyaW5nXV0KICApOiBTZXFbU3RyaW5nXQoKICBkZWYgZ2V0KAogICAgICB0YWJsZU5hbWU6IFN0cmluZywKICAgICAga2V5czogU2VxW1N0cmluZ10sCiAgICAgIGZhbWlseTogU3RyaW5nLAogICAgICBxdWFsaWZpZXI6IFN0cmluZywKICAgICAgbWF4VmVyc2lvbjogSW50CiAgKShpbXBsaWNpdCBldjogQ2xhc3NUYWdbU2VxW1N0cmluZ11dKTogU2VxW1N0cmluZ10K</text>
+      <register name="2" type="4">
+        <text>(
+      implicit ev: ClassTag[Seq[Array[Byte]]]
+  )</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmZsYXRNYXAobSA9PiBtLmdldChCeXRlcy50b0J5dGVzKHF1YWxpZmllcikpLm1hcChCeXRlcy50b1N0cmluZykpCg==</text>
+        <text encoding="base64">ICAgICAgaW1wbGljaXQgZXY6IENsYXNzVGFnW1NlcVtBcnJheVtCeXRlXV1dCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHNlbnRyeVNlcnZpY2U6IFNlbnRyeVNlcnZpY2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmZsYXRNYXAobSA9PiBtLmdldChCeXRlcy50b0J5dGVzKHF1YWxpZmllcikpLm1hcChCeXRlcy50b1N0cmluZykpCg==</text>
+        <text encoding="base64">ICAgICAgaW1wbGljaXQgZXY6IENsYXNzVGFnW1NlcVtBcnJheVtCeXRlXV1dCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0KHRhYmxlTmFtZTogU3RyaW5nLCBrZXlzOiBTZXFbU3RyaW5nXSk6IFNlcVtNYXBbU3RyaW5nLCBNYXBbU3RyaW5nLCBTdHJpbmddXV0gPQogICAgZ2V0KHRhYmxlTmFtZSwga2V5cy5tYXAoQnl0ZXMudG9CeXRlcykpCiAgICAgIC5tYXAgeyBtID0+CiAgICAgICAgbS5tYXAgewogICAgICAgICAgY2FzZSAoazEsIHYxKSA9PiAoQnl0ZXMudG9TdHJpbmcoazEpLCB2MS5tYXAgeyBjYXNlIChrMiwgdjIpID0+IChCeXRlcy50b1N0cmluZyhrMiksIEJ5dGVzLnRvU3RyaW5nKHYyKSkgfSkKICAgICAgICB9CiAgICAgIH0KCiAgZGVmIGdldCh0YWJsZU5hbWU6IFN0cmluZywga2V5czogU2VxW1N0cmluZ10sIGZhbWlseTogU3RyaW5nKTogU2VxW01hcFtTdHJpbmcsIFN0cmluZ11dID0KICAgIGdldCh0YWJsZU5hbWUsIGtleXMubWFwKEJ5dGVzLnRvQnl0ZXMpLCBCeXRlcy50b0J5dGVzKGZhbWlseSkpCiAgICAgIC5tYXAobSA9PiBtLm1hcCB7IGNhc2UgKGssIHYpID0+IChCeXRlcy50b1N0cmluZyhrKSwgQnl0ZXMudG9TdHJpbmcodikpIH0pCgogIGRlZiBnZXQodGFibGVOYW1lOiBTdHJpbmcsIGtleXM6IFNlcVtTdHJpbmddLCBmYW1pbHk6IFN0cmluZywgcXVhbGlmaWVyOiBTdHJpbmcpOiBTZXFbU3RyaW5nXSA9CiAgICBnZXQodGFibGVOYW1lLCBrZXlzLm1hcChCeXRlcy50b0J5dGVzKSwgQnl0ZXMudG9CeXRlcyhmYW1pbHkpKQogICAgICAuZmxhdE1hcChtID0+IG0uZ2V0KEJ5dGVzLnRvQnl0ZXMocXVhbGlmaWVyKSkubWFwKEJ5dGVzLnRvU3RyaW5nKSkK</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQue0V4ZWN1dGlvbkNvbnRleHQsIEZ1dHVyZX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0KHRhYmxlTmFtZTogU3RyaW5nLCBrZXk6IEFycmF5W0J5dGVdLCBmYW1pbHk6IEFycmF5W0J5dGVdKTogT3B0aW9uW01hcFtBcnJheVtCeXRlXSwgQXJyYXlbQnl0ZV1dXSA9CiAgICBnZXQodGFibGVOYW1lLCBrZXkpLmZsYXRNYXAobSA9PiBtLmdldChmYW1pbHkpKQoK</text>
+        <text encoding="base64">ICBkZWYgcHV0cyh0YWJsZU5hbWU6IFN0cmluZywga2V5OiBTdHJpbmcsIGZhbWlseTogU3RyaW5nLCBkYXRhOiBNYXBbU3RyaW5nLCBTdHJpbmddKTogVW5pdCA9CiAgICBwdXQodGFibGVOYW1lLCBIYmFzZVB1dChrZXksIGZhbWlseSwgZGF0YSkpCgogIGRlZiBwdXRzKHRhYmxlTmFtZTogU3RyaW5nLCBrZXk6IFN0cmluZywgZmFtaWx5OiBTdHJpbmcsIHF1YWxpZmllcjogU3RyaW5nLCB2YWx1ZTogU3RyaW5nKTogVW5pdCA9CiAgICBwdXQodGFibGVOYW1lLCBIYmFzZVB1dChrZXksIGZhbWlseSwgcXVhbGlmaWVyLCB2YWx1ZSkpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0KHRhYmxlTmFtZTogU3RyaW5nLCBrZXlzOiBTZXFbQXJyYXlbQnl0ZV1dKTogU2VxW01hcFtBcnJheVtCeXRlXSwgTWFwW0FycmF5W0J5dGVdLCBBcnJheVtCeXRlXV1dXQoK</text>
+        <text encoding="base64">ICBkZWYgcHV0QXN5bmModGFibGVOYW1lOiBTdHJpbmcsIGhiYXNlUHV0czogU2VxW0hiYXNlUHV0XSkoaW1wbGljaXQgZWM6IEV4ZWN1dGlvbkNvbnRleHQpOiBGdXR1cmVbVW5pdF0gPQogICAgRnV0dXJlKHB1dCh0YWJsZU5hbWUsIGhiYXNlUHV0cykpCgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2698,13 +2700,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0KAogICAgICB0YWJsZU5hbWU6IFN0cmluZywKICAgICAga2V5czogU2VxW0FycmF5W0J5dGVdXSwKICAgICAgZmFtaWx5OiBBcnJheVtCeXRlXQogICk6IFNlcVtNYXBbQXJyYXlbQnl0ZV0sIEFycmF5W0J5dGVdXV0K</text>
+        <text encoding="base64">ICBkZWYgcHV0QXN5bmModGFibGVOYW1lOiBTdHJpbmcsIGtleTogU3RyaW5nLCBmYW1pbHk6IFN0cmluZywgZGF0YTogTWFwW1N0cmluZywgU3RyaW5nXSkoCiAgICAgIGltcGxpY2l0IGVjOiBFeGVjdXRpb25Db250ZXh0CiAgKTogRnV0dXJlW1VuaXRdID0gRnV0dXJlKHB1dCh0YWJsZU5hbWUsIGtleSwgZmFtaWx5LCBkYXRhKSkKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgZGVmIGdldCgKICAgICAgdGFibGVOYW1lOiBTdHJpbmcsCiAgICAgIGtleTogQXJyYXlbQnl0ZV0KICApOiBPcHRpb25bTWFwW0FycmF5W0J5dGVdLCBNYXBbQXJyYXlbQnl0ZV0sIEFycmF5W0J5dGVdXV1dCg==</text>
+        <text encoding="base64">ICBkZWYgcHV0cyh0YWJsZU5hbWU6IFN0cmluZywgaGJhc2VQdXRzOiBTZXFbSGJhc2VQdXRdKTogVW5pdAoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2713,9 +2715,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Array\[Byte\]</last-search>
+      <last-search encoding="base64">XDxwdXRzXD4=</last-search>
       <last-offset />
-      <last-pattern>Array\[Byte\]</last-pattern>
+      <last-pattern encoding="base64">XDxwdXRzXD4=</last-pattern>
       <last-replace>String</last-replace>
       <last-substitute>Array\[Byte\]</last-substitute>
       <last-dir>1</last-dir>
