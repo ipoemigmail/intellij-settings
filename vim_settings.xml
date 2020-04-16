@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXFfY2xpZW50XD4=</entry>
-        <entry>Bytes</entry>
-        <entry encoding="base64">XDxnZW5lcmF0b3JDb25maWdcPg==</entry>
         <entry encoding="base64">XDxsb2NhbFw+</entry>
         <entry>Symbole</entry>
         <entry>'</entry>
@@ -22,11 +19,14 @@
         <entry>From</entry>
         <entry>toString</entry>
         <entry>getRow</entry>
-        <entry encoding="base64">b3ZlcnJpZGUg</entry>
         <entry>ev</entry>
         <entry>Array[Byte]</entry>
-        <entry>Array\[Byte\]</entry>
         <entry encoding="base64">XDxwdXRzXD4=</entry>
+        <entry encoding="base64">XDxkZWxzXD4=</entry>
+        <entry encoding="base64">b3ZlcnJpZGUg</entry>
+        <entry>maxVer</entry>
+        <entry>Array\[Byte\]</entry>
+        <entry encoding="base64">XDxnZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1Byb2ZpbGUvU3RvcnlQbHVzRGV0YWlsL2c=</entry>
@@ -44,11 +44,11 @@
         <entry>%s/Symbole/Symbol/g</entry>
         <entry>%s/LocalDate/DateTime/g</entry>
         <entry>a</entry>
-        <entry encoding="base64">JzwsJz5zL292ZXJyaWRlIC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL0FycmF5W0J5dGVdL1N0cmluZy9n</entry>
+        <entry encoding="base64">JzwsJz5zL292ZXJyaWRlIC8vZw==</entry>
+        <entry>wa</entry>
         <entry encoding="base64">JzwsJz5zL0FycmF5XFtCeXRlXF0vU3RyaW5nL2c=</entry>
         <entry>w</entry>
-        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,12 +125,12 @@
         <mark key="^" line="21" column="8" />
         <mark key="." line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" timestamp="1587007102529">
-        <mark key="'" line="48" column="98" />
-        <mark key="[" line="49" column="7" />
-        <mark key="]" line="49" column="8" />
-        <mark key="." line="49" column="7" />
-        <mark key="^" line="49" column="8" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" timestamp="1587011153143">
+        <mark key="'" line="57" column="69" />
+        <mark key="[" line="60" column="85" />
+        <mark key="]" line="60" column="96" />
+        <mark key="." line="60" column="95" />
+        <mark key="^" line="60" column="96" />
       </file>
       <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/org/apache/hbase/hbase-client/1.0.0-cdh5.5.1/hbase-client-1.0.0-cdh5.5.1-sources.jar!/org/apache/hadoop/hbase/client/Result.java" timestamp="1586997260452">
         <mark key="'" line="760" column="37" />
@@ -144,11 +144,8 @@
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/hbaseMigration/HbaseMigration.scala" timestamp="1586997458445" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetdata/SuggestChannelExtractor.scala" timestamp="1586997414758" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" timestamp="1587002951752">
-        <mark key="'" line="282" column="16" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" timestamp="1587009650770">
+        <mark key="'" line="279" column="6" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/kafka-cluster.conf" timestamp="1587005026728" />
       <file name="$USER_HOME$/Develop/Personal/web_scraper/src/main.rs" timestamp="1586996568344">
@@ -202,31 +199,6 @@
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/DeviceServiceImpl.java" timestamp="1586999673835" />
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch.scala" />
-      <jump line="3" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="22" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="145" column="34" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="61" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetdata/SuggestChannelExtractor.scala" />
-      <jump line="23" column="30" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetdata/SuggestChannelExtractor.scala" />
-      <jump line="64" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetdata/SuggestChannelExtractor.scala" />
-      <jump line="82" column="49" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetdata/SuggestChannelExtractor.scala" />
-      <jump line="99" column="52" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetdata/SuggestChannelExtractor.scala" />
-      <jump line="107" column="102" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetdata/SuggestChannelExtractor.scala" />
-      <jump line="115" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetdata/SuggestChannelExtractor.scala" />
-      <jump line="30" column="23" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="6" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/service/DateParserPattern.scala" />
-      <jump line="17" column="49" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/util/Date.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/util/Date.scala" />
-      <jump line="54" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/util/Date.scala" />
-      <jump line="5" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/util/Date.scala" />
-      <jump line="2" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/DateUtil.scala" />
-      <jump line="6" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/DateUtil.scala" />
-      <jump line="25" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/DateUtil.scala" />
-      <jump line="28" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/DateUtil.scala" />
-      <jump line="46" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/DateUtil.scala" />
-      <jump line="34" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/util/Date.scala" />
-      <jump line="53" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/util/Date.scala" />
       <jump line="395" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="187" column="37" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="190" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
@@ -283,15 +255,12 @@
       <jump line="31" column="83" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="35" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="38" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
-      <jump line="39" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="45" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="76" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
       <jump line="282" column="16" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
       <jump line="105" column="5" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="144" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
-      <jump line="36" column="102" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="59" column="40" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
-      <jump line="44" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="133" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="50" column="52" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="104" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
@@ -302,15 +271,45 @@
       <jump line="21" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="16" column="72" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
       <jump line="48" column="98" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="78" column="3" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="146" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="158" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="9" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="154" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="166" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="115" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="72" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="49" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="213" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="248" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="257" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="280" column="1" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="284" column="99" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="279" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
+      <jump line="124" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="13" column="60" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="12" column="87" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="39" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="43" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="44" column="48" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="46" column="64" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="36" column="3" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="56" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="19" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="20" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="55" column="53" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
+      <jump line="57" column="69" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseService.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="4">
-        <text>Bytes.toBytes(</text>
+        <text>(
+      implicit ev: ClassTag[Seq[String]]
+  )</text>
       </register>
       <register name="&quot;" type="4">
-        <text>flatMap</text>
+        <text>String</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2615,16 +2614,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>flatMap</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdXRzXD4=</text>
+        <text encoding="base64">XDxnZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgcHV0KHRhYmxlTmFtZTogU3RyaW5nLCBrZXk6IFN0cmluZywgZmFtaWx5OiBTdHJpbmcsIGRhdGE6IE1hcFtTdHJpbmcsIFN0cmluZ10pOiBVbml0ID0KICAgIHB1dCh0YWJsZU5hbWUsIEhiYXNlUHV0KGtleSwgZmFtaWx5LCBkYXRhKSkKCiAgZGVmIHB1dCh0YWJsZU5hbWU6IFN0cmluZywga2V5OiBTdHJpbmcsIGZhbWlseTogU3RyaW5nLCBxdWFsaWZpZXI6IFN0cmluZywgdmFsdWU6IFN0cmluZyk6IFVuaXQgPQogICAgcHV0KHRhYmxlTmFtZSwgSGJhc2VQdXQoa2V5LCBmYW1pbHksIHF1YWxpZmllciwgdmFsdWUpKQo=</text>
+        <text encoding="base64">ICBkZWYgZGVscyh0YWJsZU5hbWU6IFN0cmluZywga2V5czogU2VxW1N0cmluZ10sIGZhbWlseTogU3RyaW5nKSgKICAgICAgaW1wbGljaXQgZXY6IENsYXNzVGFnW1NlcVtTdHJpbmddXQogICk6IFVuaXQgPSBkZWxzKHRhYmxlTmFtZSwga2V5cy5tYXAoQnl0ZXMudG9CeXRlcyksIEJ5dGVzLnRvQnl0ZXMoZmFtaWx5KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldCh0YWJsZU5hbWUsIGtleSwgZmFtaWx5KQo=</text>
+        <text encoding="base64">ICAgICAgLm1hcChtID0+IG0ubWFwIHsgY2FzZSAoaywgdikgPT4gKEJ5dGVzLnRvU3RyaW5nKGspLCBCeXRlcy50b1N0cmluZyh2KSkgfSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2650,28 +2649,30 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>(
-      implicit ev: ClassTag[Seq[Array[Byte]]]
-  )</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLm1hcCB7IG0gPT4KICAgICAgICBtLm1hcCB7CiAgICAgICAgICBjYXNlIChrMSwgdjEpID0+IChCeXRlcy50b1N0cmluZyhrMSksIHYxLm1hcCB7IGNhc2UgKGsyLCB2MikgPT4gKEJ5dGVzLnRvU3RyaW5nKGsyKSwgQnl0ZXMudG9TdHJpbmcodjIpKSB9KQogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaW1wbGljaXQgZXY6IENsYXNzVGFnW1NlcVtBcnJheVtCeXRlXV1dCg==</text>
+        <text encoding="base64">ICBkZWYgZ2V0cyh0YWJsZU5hbWU6IFN0cmluZywga2V5czogU2VxW0FycmF5W0J5dGVdXSwgZmFtaWx5OiBBcnJheVtCeXRlXSwgcXVhbGlmaWVyOiBBcnJheVtCeXRlXSk6IFNlcVtBcnJheVtCeXRlXV0gPQogICAgZ2V0cyh0YWJsZU5hbWUsIGtleXMsIGZhbWlseSkuZmxhdE1hcChfLmdldChxdWFsaWZpZXIpKQoK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHNlbnRyeVNlcnZpY2U6IFNlbnRyeVNlcnZpY2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW1wbGljaXQgZXY6IENsYXNzVGFnW1NlcVtBcnJheVtCeXRlXV1dCg==</text>
+        <text encoding="base64">ICBkZWYgZ2V0KHRhYmxlTmFtZTogU3RyaW5nLCBrZXk6IEFycmF5W0J5dGVdLCBmYW1pbHk6IEFycmF5W0J5dGVdLCBxdWFsaWZpZXI6IEFycmF5W0J5dGVdKTogT3B0aW9uW0hiYXNlUmVjb3JkXSA9CiAgICBnZXQodGFibGVOYW1lLCBrZXksIGZhbWlseSkKCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQue0V4ZWN1dGlvbkNvbnRleHQsIEZ1dHVyZX0K</text>
+      <register name="5" type="4">
+        <text>(
+      implicit ev: ClassTag[Seq[String]]
+  )</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgcHV0cyh0YWJsZU5hbWU6IFN0cmluZywga2V5OiBTdHJpbmcsIGZhbWlseTogU3RyaW5nLCBkYXRhOiBNYXBbU3RyaW5nLCBTdHJpbmddKTogVW5pdCA9CiAgICBwdXQodGFibGVOYW1lLCBIYmFzZVB1dChrZXksIGZhbWlseSwgZGF0YSkpCgogIGRlZiBwdXRzKHRhYmxlTmFtZTogU3RyaW5nLCBrZXk6IFN0cmluZywgZmFtaWx5OiBTdHJpbmcsIHF1YWxpZmllcjogU3RyaW5nLCB2YWx1ZTogU3RyaW5nKTogVW5pdCA9CiAgICBwdXQodGFibGVOYW1lLCBIYmFzZVB1dChrZXksIGZhbWlseSwgcXVhbGlmaWVyLCB2YWx1ZSkpCgo=</text>
+      <register name="6" type="4">
+        <text>(
+      implicit ev: ClassTag[Seq[String]]
+  )</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgcHV0QXN5bmModGFibGVOYW1lOiBTdHJpbmcsIGhiYXNlUHV0czogU2VxW0hiYXNlUHV0XSkoaW1wbGljaXQgZWM6IEV4ZWN1dGlvbkNvbnRleHQpOiBGdXR1cmVbVW5pdF0gPQogICAgRnV0dXJlKHB1dCh0YWJsZU5hbWUsIGhiYXNlUHV0cykpCgo=</text>
+        <text encoding="base64">ICAgICAgaW1wbGljaXQgZXY6IENsYXNzVGFnW1NlcVtTdHJpbmddXQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2700,13 +2701,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgcHV0QXN5bmModGFibGVOYW1lOiBTdHJpbmcsIGtleTogU3RyaW5nLCBmYW1pbHk6IFN0cmluZywgZGF0YTogTWFwW1N0cmluZywgU3RyaW5nXSkoCiAgICAgIGltcGxpY2l0IGVjOiBFeGVjdXRpb25Db250ZXh0CiAgKTogRnV0dXJlW1VuaXRdID0gRnV0dXJlKHB1dCh0YWJsZU5hbWUsIGtleSwgZmFtaWx5LCBkYXRhKSkKCg==</text>
+        <text encoding="base64">ICBkZWYgZGVsKHRhYmxlTmFtZTogU3RyaW5nLCBrZXk6IFN0cmluZyk6IFVuaXQgPQogICAgZGVsKHRhYmxlTmFtZSwgQnl0ZXMudG9CeXRlcyhrZXkpKQogIAogIGRlZiBkZWwodGFibGVOYW1lOiBTdHJpbmcsIGtleTogU3RyaW5nLCBmYW1pbHk6IFN0cmluZyk6IFVuaXQgPQogICAgZGVsKHRhYmxlTmFtZSwgQnl0ZXMudG9CeXRlcyhrZXkpLCBCeXRlcy50b0J5dGVzKGZhbWlseSkpCgogIGRlZiBkZWxzKHRhYmxlTmFtZTogU3RyaW5nLCBrZXlzOiBTZXFbU3RyaW5nXSwgZmFtaWx5OiBPcHRpb25bU3RyaW5nXSkoCiAgICAgIGltcGxpY2l0IGV2OiBDbGFzc1RhZ1tTZXFbU3RyaW5nXV0KICApOiBVbml0ID0gZGVscyh0YWJsZU5hbWUsIGtleXMubWFwKEJ5dGVzLnRvQnl0ZXMpLCBmYW1pbHkubWFwKEJ5dGVzLnRvQnl0ZXMpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgcHV0cyh0YWJsZU5hbWU6IFN0cmluZywgaGJhc2VQdXRzOiBTZXFbSGJhc2VQdXRdKTogVW5pdAoK</text>
+        <text encoding="base64">ICBkZWYgZ2V0KHRhYmxlTmFtZTogU3RyaW5nLCBrZXk6IEFycmF5W0J5dGVdLCBmYW1pbHk6ICk6IE9wdGlvbltNYXBbQXJyYXlbQnl0ZV0sIEFycmF5W0J5dGVdXV0K</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2715,9 +2716,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwdXRzXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdXRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRcPg==</last-pattern>
       <last-replace>String</last-replace>
       <last-substitute>Array\[Byte\]</last-substitute>
       <last-dir>1</last-dir>
