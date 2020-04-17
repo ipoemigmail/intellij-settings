@@ -118,13 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/StoryPlusDetailRepo.scala" timestamp="1587102607944">
-        <mark key="'" line="2" column="6" />
-        <mark key="[" line="21" column="6" />
-        <mark key="]" line="21" column="7" />
-        <mark key="^" line="21" column="31" />
-        <mark key="." line="21" column="7" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch-prod.conf" timestamp="1587109494855">
         <mark key="'" line="0" column="30" />
         <mark key="[" line="11" column="0" />
@@ -151,9 +144,6 @@
         <mark key="." line="14" column="44" />
         <mark key="^" line="14" column="41" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetdata/SuggestChannelExtractor.scala" timestamp="1587102836815">
-        <mark key="'" line="69" column="37" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-submodule/escher-common/model/src/main/scala/escher/model/log/StoryClientLog.scala" timestamp="1587106149431">
         <mark key="'" line="103" column="30" />
       </file>
@@ -164,6 +154,7 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/spam/cleanPlatform/service/converter/feeding/ContentConverter.scala" timestamp="1587111930586" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/Period.scala" timestamp="1587110999904">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="57" column="29" />
@@ -206,6 +197,7 @@
         <mark key="^" line="11" column="2" />
         <mark key="." line="11" column="1" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/spam/cleanPlatform/service/converter/report/CommentReportConverter.scala" timestamp="1587111800959" />
       <file name="/fragment.java" timestamp="1587106901975">
         <mark key="[" line="0" column="0" />
       </file>
