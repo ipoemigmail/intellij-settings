@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>u.</entry>
-        <entry>u\.</entry>
-        <entry>x.log</entry>
-        <entry>x</entry>
-        <entry encoding="base64">XDxzdG9yeXBsdXNQYXJhbVw+</entry>
         <entry>time</entry>
         <entry>StoryPlusDetailRepo</entry>
         <entry encoding="base64">XDxTdG9yeVBsdXNEZXRhaWxcPg==</entry>
@@ -27,6 +22,11 @@
         <entry>findById</entry>
         <entry>isT</entry>
         <entry encoding="base64">XDxmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwMVw+</entry>
+        <entry>println</entry>
+        <entry encoding="base64">XDxDT05GSUdfUkVTT1VSQ0VcPg==</entry>
+        <entry>main</entry>
+        <entry encoding="base64">XDx3aGl0ZUNoYW5uZWxDb3VudFw+</entry>
+        <entry encoding="base64">XDx3aGl0ZUNoYW5uZWxBY3Rpdml0eVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0xpc3QvU2V0L2c=</entry>
@@ -46,8 +46,8 @@
         <entry>%s/StoryPlusDetailRepo/StoryPlusBlockedUserRepo/g</entry>
         <entry>%s/StoryPlusDetail/StoryPlusBlockedUser/g</entry>
         <entry encoding="base64">JzwsJz5zL2NoYW5uZWwvYWRtaW4vZw==</entry>
-        <entry>wa</entry>
         <entry>78</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -118,19 +118,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch-prod.conf" timestamp="1587109494855">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch-prod.conf" timestamp="1587133634494">
         <mark key="'" line="0" column="30" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="50" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" timestamp="1587116526135">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" timestamp="1587133594278">
         <mark key="'" line="48" column="34" />
         <mark key="[" line="48" column="67" />
         <mark key="]" line="48" column="67" />
         <mark key="." line="48" column="67" />
         <mark key="^" line="48" column="65" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/cuesheet-copied/src/main/scala/com/kakao/cuesheet/CueSheet.scala" timestamp="1587133039497" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/Period.scala" timestamp="1587116477389">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="44" column="14" />
@@ -142,6 +143,13 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="99" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" timestamp="1587133923901">
+        <mark key="'" line="201" column="2" />
+        <mark key="[" line="215" column="24" />
+        <mark key="]" line="215" column="39" />
+        <mark key="^" line="215" column="25" />
+        <mark key="." line="215" column="24" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryLogInstances.scala" timestamp="1587116299294">
         <mark key="[" line="65" column="8" />
         <mark key="]" line="65" column="14" />
@@ -152,25 +160,28 @@
         <mark key="]" line="110" column="14" />
         <mark key="." line="110" column="8" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetdata/UserActivityExtractor.scala" timestamp="1587108942942" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/KageService.scala" timestamp="1587115064020" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" timestamp="1587126474432">
-        <mark key="'" line="218" column="8" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/escher/cuesheet/StoryCueSheet.scala" timestamp="1587133071987">
+        <mark key="[" line="47" column="10" />
+        <mark key="]" line="47" column="39" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" timestamp="1587133773190">
+        <mark key="'" line="78" column="8" />
+        <mark key="[" line="0" column="53" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryAccessLogInstances.scala" timestamp="1587116265366">
         <mark key="[" line="46" column="8" />
         <mark key="]" line="46" column="14" />
         <mark key="." line="46" column="8" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/spam/cleanPlatform/service/converter/report/CommentReportConverter.scala" timestamp="1587111800959" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch-dev.conf" timestamp="1587128122722">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="22" />
-        <mark key="^" line="1" column="23" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch-dev.conf" timestamp="1587133626497">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="8" />
+        <mark key="^" line="3" column="9" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/DateUtil.scala" timestamp="1587114896507">
         <mark key="'" line="56" column="2" />
@@ -199,9 +210,6 @@
         <mark key="." line="20" column="33" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/stat/src/main/scala/story/stat/retention/model/Period.scala" timestamp="1587110924223">
-        <mark key="'" line="15" column="2" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryContentsLogInstances.scala" timestamp="1587116287769">
         <mark key="[" line="102" column="10" />
         <mark key="]" line="102" column="16" />
@@ -210,14 +218,6 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/service/DateParser.scala" timestamp="1587115302626" />
     </filemarks>
     <jumps>
-      <jump line="146" column="36" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
-      <jump line="6" column="16" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
-      <jump line="7" column="16" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
-      <jump line="14" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
-      <jump line="44" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
-      <jump line="125" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="115" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="33" column="51" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="421" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="44" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/StoryPlusDetailRepoDb.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/StoryPlusDetailRepoDb.scala" />
@@ -310,6 +310,14 @@
       <jump line="48" column="34" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
       <jump line="228" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="221" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="143" column="43" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="343" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="7" column="40" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="201" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" />
+      <jump line="293" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="190" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="88" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="78" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,8 +325,8 @@
       <register name="a" type="4">
         <text>StoryPlusBlockedUser</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vdmFsIHJvd1BhcnNlciA9IE1hY3JvLm5hbWVkUGFyc2VyW0NoYW5uZWxCbG9ja2VkVXNlcl0KCiAgICAvL3dpdGhEQigib2ZmaWNpYWwiKSB7IGltcGxpY2l0IGMgPT4KICAgIC8vICBTUUwiIiJzZWxlY3QgcHJvZmlsZV9pZCwgYmxvY2tlZF9wcm9maWxlX2lkIGZyb20gcGx1c19ibG9ja2VkX3VzZXJzIHdoZXJlIDEgPSAxIiIiLmFzKHJvd1BhcnNlci4qKQogICAgLy99LnRvREYoInByb2ZpbGVJZCIsICJibG9ja2VkUHJvZmlsZUlkIikK</text>
+      <register name="&quot;" type="4">
+        <text>CONFIG_RESOURCE</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2623,13 +2631,13 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>prod</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwMVw+</text>
+        <text encoding="base64">XDx3aGl0ZUNoYW5uZWxBY3Rpdml0eVw+</text>
       </register>
       <register name="0" type="4">
-        <text>blockedProfileId</text>
+        <text>CONFIG_RESOURCE</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8vdmFsIHJvd1BhcnNlciA9IE1hY3JvLm5hbWVkUGFyc2VyW0NoYW5uZWxCbG9ja2VkVXNlcl0KCiAgICAvL3dpdGhEQigib2ZmaWNpYWwiKSB7IGltcGxpY2l0IGMgPT4KICAgIC8vICBTUUwiIiJzZWxlY3QgcHJvZmlsZV9pZCwgYmxvY2tlZF9wcm9maWxlX2lkIGZyb20gcGx1c19ibG9ja2VkX3VzZXJzIHdoZXJlIDEgPSAxIiIiLmFzKHJvd1BhcnNlci4qKQogICAgLy99LnRvREYoInByb2ZpbGVJZCIsICJibG9ja2VkUHJvZmlsZUlkIikK</text>
@@ -2721,9 +2729,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwMVw+</last-search>
+      <last-search encoding="base64">XDx3aGl0ZUNoYW5uZWxBY3Rpdml0eVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwMVw+</last-pattern>
+      <last-pattern encoding="base64">XDx3aGl0ZUNoYW5uZWxBY3Rpdml0eVw+</last-pattern>
       <last-replace>admin</last-replace>
       <last-substitute>channel</last-substitute>
       <last-dir>1</last-dir>
