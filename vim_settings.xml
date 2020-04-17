@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>hbasePuts</entry>
         <entry encoding="base64">XDxyZXB1dGF0aW9uXD4=</entry>
         <entry encoding="base64">XDxub25lXD4=</entry>
         <entry>u.</entry>
@@ -27,6 +26,7 @@
         <entry>make</entry>
         <entry encoding="base64">XDxEYXRlVXRpbFw+</entry>
         <entry encoding="base64">XDxpdGVyYXRvclw+</entry>
+        <entry>findById</entry>
       </history-search>
       <history-cmd>
         <entry>%s/StatMaster/ChannelSlave/g</entry>
@@ -47,8 +47,8 @@
         <entry>%s/StoryPlusDetailRepo/StoryPlusBlockedUserRepo/g</entry>
         <entry>%s/StoryPlusDetail/StoryPlusBlockedUser/g</entry>
         <entry encoding="base64">JzwsJz5zL2NoYW5uZWwvYWRtaW4vZw==</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -154,17 +154,21 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/spam/cleanPlatform/service/converter/feeding/ContentConverter.scala" timestamp="1587111930586" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/spam/cleanPlatform/service/converter/feeding/ContentConverter.scala" timestamp="1587114125369">
+        <mark key="'" line="30" column="33" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/service/KafkaProducerServiceTest.scala" timestamp="1587113824443">
+        <mark key="'" line="13" column="24" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/Period.scala" timestamp="1587110999904">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="57" column="29" />
         <mark key="]" line="57" column="34" />
         <mark key="." line="57" column="33" />
         <mark key="^" line="57" column="34" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/redisLoad/RedisLoadDeps.scala" timestamp="1587103965119">
-        <mark key="[" line="54" column="88" />
-        <mark key="]" line="54" column="112" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryClientLog.scala" timestamp="1587105955845">
         <mark key="[" line="13" column="0" />
@@ -203,11 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="20" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="309" column="41" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="306" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="186" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="164" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="133" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="137" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
@@ -303,6 +302,11 @@
       <jump line="21" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/DateUtil.scala" />
       <jump line="34" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/DateUtil.scala" />
       <jump line="40" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/DateUtil.scala" />
+      <jump line="12" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/service/KafkaProducerServiceTest.scala" />
+      <jump line="28" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/spam/cleanPlatform/service/converter/feeding/ContentConverter.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/spam/cleanPlatform/service/converter/feeding/ContentConverter.scala" />
+      <jump line="23" column="20" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/spam/cleanPlatform/service/converter/feeding/ContentConverter.scala" />
+      <jump line="30" column="33" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/spam/cleanPlatform/service/converter/feeding/ContentConverter.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -311,7 +315,7 @@
         <text>StoryPlusBlockedUser</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBAZGVwcmVjYXRlZCgiVXNlIFBlcmlvZCIsICIiKQo=</text>
+        <text encoding="base64">ICB0ZXN0KCIyIikgewogICAgcHJpbnRsbihTdG9yeUlkLmRlY29kZVNob3J0UHJvZmlsZUlkKCJfOU1iSWk3IikpCiAgfQoK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2616,16 +2620,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>Days</text>
+        <text>ActivityId</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpdGVyYXRvclw+</text>
+        <text>findById</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAZGVwcmVjYXRlZCgiVXNlIFBlcmlvZCIsICIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm9vdERpciA9ICIvdG1wL2V2ZW50L3RhcmdldGluZ3B1c2gvd2FrZXVwIgo=</text>
+        <text encoding="base64">ICB0ZXN0KCIyIikgewogICAgcHJpbnRsbihTdG9yeUlkLmRlY29kZVNob3J0UHJvZmlsZUlkKCJfOU1iSWk3IikpCiAgfQoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2652,25 +2656,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm9vdERpciA9ICIvdG1wL2V2ZW50L3RhcmdldGluZ3B1c2gvd2FrZXVwIgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ID0gewogICAgbWVzc2FnZVNlcnZpY2Uuc2VuZChtZXNzYWdlKQogIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text encoding="base64">ID0gewogICAgbWVzc2FnZVNlcnZpY2Uuc2VuZChtZXNzYWdlKQogIH0=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ID0gewogICAgdGFyZ2V0RGF0YXMKICAgICAgLmNvYWxlc2NlKDQpCiAgICAgIC53cml0ZQogICAgICAubW9kZSgib3ZlcndyaXRlIikKICAgICAgLm9wdGlvbigiY29tcHJlc3Npb24iLCAiZ3ppcCIpCiAgICAgIC5qc29uKHNhdmVQYXRoKQogIH0=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ID0gewogICAgdmFsIGRhdGVzID0gRGF0ZVV0aWwuZGF0ZXModGFyZ2V0RGF0ZS5taW51c0RheXMoOTApLnRvU3RyaW5nKCksIHRhcmdldERhdGUubWludXNEYXlzKDEpLnRvU3RyaW5nKCkpCiAgICB2YWwgZnMgPSBGaWxlU3lzdGVtLmdldChuZXcgQ29uZmlndXJhdGlvbigpKQoKICAgIHZhbCBzb3VyY2UgPSBkYXRlcy5mbGF0TWFwIHsgZGF0ZSA9PgogICAgICB2YWwgcGF0aCA9IHMiJHJvb3REaXIvZGF0YS8ke2RhdGUudG9TdHJpbmcoInl5eXkvTU0vZGQiKX0vKiIKICAgICAgaWYgKGZzLmdsb2JTdGF0dXMobmV3IFBhdGgocGF0aCkpLnNpemUgPiAwKSB7CiAgICAgICAgU29tZShwYXRoKQogICAgICB9IGVsc2UgewogICAgICAgIE5vbmUKICAgICAgfQogICAgfQoKICAgIHNwYXJrLnJlYWQuanNvbihzb3VyY2U6IF8qKS50b0RGKCkuY2FjaGUoKQogIH0K</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">ID0gewogICAgcyIkcm9vdERpci90ZXN0LyR7dGFyZ2V0RGF0ZS50b1N0cmluZygieXl5eS9NTS9kZCIpfS9iZWZvcmVkYXlzPSR7YmVmb3JlRGF5c30lMDJkIgogIH0K</text>
+        <text encoding="base64">ID0gewogICAgdmFsIGRhdGVzID0gRGF0ZVV0aWwuZGF0ZXModGFyZ2V0RGF0ZS5taW51c0RheXMoOTApLnRvU3RyaW5nKCksIHRhcmdldERhdGUubWludXNEYXlzKDEpLnRvU3RyaW5nKCkpCiAgICB2YWwgZnMgPSBGaWxlU3lzdGVtLmdldChuZXcgQ29uZmlndXJhdGlvbigpKQoKICAgIHZhbCBzb3VyY2UgPSBkYXRlcy5mbGF0TWFwIHsgZGF0ZSA9PgogICAgICB2YWwgcGF0aCA9IHMiJHJvb3REaXIvZGF0YS8ke2RhdGUudG9TdHJpbmcoInl5eXkvTU0vZGQiKX0vKiIKICAgICAgaWYgKGZzLmdsb2JTdGF0dXMobmV3IFBhdGgocGF0aCkpLnNpemUgPiAwKSB7CiAgICAgICAgU29tZShwYXRoKQogICAgICB9IGVsc2UgewogICAgICAgIE5vbmUKICAgICAgfQogICAgfQoKICAgIHNwYXJrLnJlYWQuanNvbihzb3VyY2U6IF8qKS50b0RGKCkuY2FjaGUoKQogIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2699,13 +2703,13 @@
         </keys>
       </register>
       <register name="8" type="4">
+        <text encoding="base64">ID0gewogICAgcyIkcm9vdERpci90ZXN0LyR7dGFyZ2V0RGF0ZS50b1N0cmluZygieXl5eS9NTS9kZCIpfS9iZWZvcmVkYXlzPSR7YmVmb3JlRGF5c30lMDJkIgogIH0K</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">ID0gewogICAgcyIkcm9vdERpci90ZXN0LyR7dGFyZ2V0RGF0ZS50b1N0cmluZygieXl5eS9NTS9kZCIpfSIKICB9Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2714,9 +2718,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpdGVyYXRvclw+</last-search>
+      <last-search>findById</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpdGVyYXRvclw+</last-pattern>
+      <last-pattern>findById</last-pattern>
       <last-replace>admin</last-replace>
       <last-substitute>channel</last-substitute>
       <last-dir>1</last-dir>
