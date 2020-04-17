@@ -29,7 +29,6 @@
         <entry>isT</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/StatMaster/ChannelSlave/g</entry>
         <entry encoding="base64">JzwsJz5zL0xpc3QvU2V0L2c=</entry>
         <entry>W</entry>
         <entry>28</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zL2NoYW5uZWwvYWRtaW4vZw==</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>78</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -2713,7 +2713,7 @@
         <text encoding="base64">ICAgIFBlcmlvZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>78</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
