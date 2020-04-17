@@ -179,12 +179,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-2/zio_2.13-1.0.0-RC18-2-sources.jar!/zio/stm/TArray.scala" timestamp="1587048272533" />
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_11_tarray/TArraySpec.scala" timestamp="1587048507093">
-        <mark key="'" line="45" column="60" />
-        <mark key="[" line="45" column="68" />
-        <mark key="]" line="45" column="75" />
-        <mark key="." line="45" column="74" />
-        <mark key="^" line="45" column="75" />
+      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_11_tarray/TArraySpec.scala" timestamp="1587081942892">
+        <mark key="'" line="45" column="42" />
+        <mark key="[" line="52" column="18" />
+        <mark key="]" line="52" column="35" />
+        <mark key="^" line="48" column="10" />
+        <mark key="." line="52" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" timestamp="1586854715614">
         <mark key="'" line="388" column="0" />
@@ -277,7 +277,6 @@
       <jump line="31" column="20" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_11_tarray/TArraySpec.scala" />
       <jump line="28" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_11_tarray/TArraySpec.scala" />
       <jump line="39" column="33" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_11_tarray/TArraySpec.scala" />
-      <jump line="45" column="60" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_11_tarray/TArraySpec.scala" />
       <jump line="22" column="11" filename="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-2/zio_2.13-1.0.0-RC18-2-sources.jar!/zio/stm/STM.scala" />
       <jump line="321" column="0" filename="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-2/zio_2.13-1.0.0-RC18-2-sources.jar!/zio/stm/STM.scala" />
       <jump line="299" column="24" filename="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-2/zio_2.13-1.0.0-RC18-2-sources.jar!/zio/stm/ZSTM.scala" />
@@ -305,6 +304,7 @@
       <jump line="121" column="48" filename="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-2/zio_2.13-1.0.0-RC18-2-sources.jar!/zio/stm/ZSTM.scala" />
       <jump line="127" column="85" filename="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-2/zio_2.13-1.0.0-RC18-2-sources.jar!/zio/stm/ZSTM.scala" />
       <jump line="134" column="58" filename="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-2/zio_2.13-1.0.0-RC18-2-sources.jar!/zio/stm/ZSTM.scala" />
+      <jump line="45" column="42" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_11_tarray/TArraySpec.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,7 +313,7 @@
         <text>s&quot;$namespacePrefix$tableName&quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(Some(13)</text>
+        <text>tArrayUpdateElem</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2618,16 +2618,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>(Some(13)</text>
+        <text>tArrayUpdateElem</text>
       </register>
       <register name="/" type="4">
         <text>STM</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdEFycmF5R2V0RWxlbTogVUlPW0ludF0gPSAoCiAgICAgICAgICBmb3IgewogICAgICAgICAgICB0QXJyYXkgPC0gVEFycmF5Lm1ha2UoMSwgMiwgMywgNCkKICAgICAgICAgICAgZWxlbSA8LSB0QXJyYXkoMikKICAgICAgICAgIH0geWllbGQgZWxlbQogICAgICAgICkuY29tbWl0CgogICAgICAgIGFzc2VydE0odEFycmF5R2V0RWxlbSkoZXF1YWxUbygzKSkK</text>
+      <register name="0" type="4">
+        <text>tArrayUpdateMElem</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCB0QXJyYXlHZXRFbGVtOiBVSU9bSW50XSA9ICgKICAgICAgICAgICAgZm9yIHsKICAgICAgICAgICAgICB0QXJyYXkgPC0gVEFycmF5Lm1ha2UoMSwgMiwgMywgNCkKICAgICAgICAgICAgICBlbGVtIDwtIHRBcnJheSgyKQogICAgICAgICAgICB9IHlpZWxkIGVsZW0KICAgICAgICAgICkuY29tbWl0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCB0QXJyYXlVcGRhdGVFbGVtOiBaSU9bQW55LCBOb3RoaW5nLCBUQXJyYXlbSW50XV0gPSAoCiAgICAgICAgICAgIGZvciB7CiAgICAgICAgICAgICAgdEFycmF5IDwtIFRBcnJheS5tYWtlKDEsIDIsIDMsIDQpCiAgICAgICAgICAgICAgXyA8LSB0QXJyYXkudXBkYXRlKDIsIGVsID0+IGVsICsgMTApCiAgICAgICAgICAgIH0geWllbGQgdEFycmF5CiAgICAgICAgICApLmNvbW1pdAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2654,25 +2654,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRBcnJheS5jb21taXQK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCB0QXJyYXlVcGRhdGVFbGVtOiBaSU9bQW55LCBOb3RoaW5nLCBUQXJyYXlbSW50XV0gPSAoCiAgICAgICAgICAgIGZvciB7CiAgICAgICAgICAgICAgdEFycmF5IDwtIFRBcnJheS5tYWtlKDEsIDIsIDMsIDQpCiAgICAgICAgICAgICAgXyA8LSB0QXJyYXkudXBkYXRlKDIsIGVsID0+IGVsICsgMTApCiAgICAgICAgICAgIH0geWllbGQgdEFycmF5CiAgICAgICAgICApLmNvbW1pdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCB0QXJyYXlHZXRFbGVtOiBVSU9bSW50XSA9ICgKICAgICAgICAgICAgZm9yIHsKICAgICAgICAgICAgICB0QXJyYXkgPC0gVEFycmF5Lm1ha2UoMSwgMiwgMywgNCkKICAgICAgICAgICAgICBlbGVtIDwtIHRBcnJheSgyKQogICAgICAgICAgICB9IHlpZWxkIGVsZW0KICAgICAgICAgICkuY29tbWl0Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIHNlbnRyeVNlcnZpY2U6IFNlbnRyeVNlcnZpY2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3VpdGUoIlRyYW5zZm9ybSIpKAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRBcnJheS5jb21taXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCB0QXJyYXkgPSBUQXJyYXkubWFrZSgxLCAyLCAzKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGVzdE0oIkNvbmNhdGVuYXRpbmcgQ2h1bmsiKSB7CiAgICAgICAgdmFsIGNodW5rID0gQ2h1bmsoMSwgMiwgMykgKysgQ2h1bmsoNCwgNSwgNikKCiAgICAgICAgYXNzZXJ0TShaSU8oY2h1bmspKShlcXVhbFRvKENodW5rKDEsIDIsIDMsIDQsIDUsIDYpKSkKICAgICAgfSwKICAgICAgc3VpdGUoIkNvbGxlY3RpbmcgQ2h1bmsiKSgKICAgICAgICB0ZXN0TSgiY29sbGVjdDEiKSB7CiAgICAgICAgICB2YWwgY29sbGVjdENodW5rID0gQ2h1bmsoIkhlbGxvIFpJTyIsIDEuNSwgIkhlbGxvIFpJTyBOSU8iLCAyLjAsICJTb21lIHN0cmluZyIsIDIuNSkKICAgICAgICAgIHZhbCBjaHVuayA9IGNvbGxlY3RDaHVuay5jb2xsZWN0IHsgY2FzZSBzOiBTdHJpbmcgPT4gcyB9CgogICAgICAgICAgYXNzZXJ0TShaSU8oY2h1bmspKShlcXVhbFRvKENodW5rKCJIZWxsbyBaSU8iLCAiSGVsbG8gWklPIE5JTyIsICJTb21lIHN0cmluZyIpKSkKICAgICAgICB9LAogICAgICAgIHRlc3RNKCJjb2xsZWN0MiIpIHsKICAgICAgICAgIHZhbCBjb2xsZWN0Q2h1bmsgPSBDaHVuaygiSGVsbG8gWklPIiwgMS41LCAiSGVsbG8gWklPIE5JTyIsIDIuMCwgIlNvbWUgc3RyaW5nIiwgMi41KQogICAgICAgICAgdmFsIGNodW5rID0gY29sbGVjdENodW5rLmNvbGxlY3QgeyBjYXNlIGQ6IERvdWJsZSA9PiBkIH0KCiAgICAgICAgICBhc3NlcnRNKFpJTyhjaHVuaykpKGVxdWFsVG8oQ2h1bmsoMS41LCAyLjAsIDIuNSkpKQogICAgICAgIH0sCiAgICAgICAgdGVzdE0oImNvbGxlY3RXaGlsZTEiKSB7CiAgICAgICAgICB2YWwgY2h1bmsgPSBDaHVuaygiU2FyYWgiLCAiQm9iIiwgIkphbmUiKS5jb2xsZWN0V2hpbGUgeyBjYXNlIGVsZW1lbnQgaWYgZWxlbWVudCAhPSAiQm9iIiA9PiBlbGVtZW50IH0KCiAgICAgICAgICBhc3NlcnRNKFpJTyhjaHVuaykpKGVxdWFsVG8oQ2h1bmsoIlNhcmFoIikpKQogICAgICAgIH0sCiAgICAgICAgdGVzdE0oImNvbGxlY3RXaGlsZTIiKSB7CiAgICAgICAgICB2YWwgY2h1bmsgPSBDaHVuayg5LCAyLCA1LCAxLCA2KS5jb2xsZWN0V2hpbGUgeyBjYXNlIGVsZW1lbnQgaWYgZWxlbWVudCA+PSAyID0+IGVsZW1lbnQgfQoKICAgICAgICAgIGFzc2VydE0oWklPKGNodW5rKSkoZXF1YWxUbyhDaHVuayg5LCAyLCA1KSkpCiAgICAgICAgfQogICAgICApLAogICAgICB0ZXN0TSgiQ29tcGFyaW5nIENodW5rcyIpIHsKICAgICAgICBhc3NlcnRNKFpJTyhDaHVuaygiQSIsICJCIikgPT0gQ2h1bmsoIkEiLCAiQyIpKSkoZXF1YWxUbyhmYWxzZSkpCiAgICAgIH0sCiAgICAgIHN1aXRlKCJDb252ZXJ0aW5nIENodW5rcyIpKAogICAgICAgIHRlc3RNKCJ0b0FycmF5IikgewogICAgICAgICAgdmFsIGFycmF5ID0gQ2h1bmsoMSwgMiwgMykudG9BcnJheQoKICAgICAgICAgIGFzc2VydE0oWklPKGFycmF5KSkoZXF1YWxUbyhBcnJheSgxLCAyLCAzKSkpCiAgICAgICAgfSwKICAgICAgICB0ZXN0TSgidG9TZXEiKSB7CiAgICAgICAgICB2YWwgc2VxID0gQ2h1bmsoMSwgMiwgMykudG9TZXEKCiAgICAgICAgICBhc3NlcnRNKFpJTyhzZXEpKShlcXVhbFRvKFNlcSgxLCAyLCAzKSkpCiAgICAgICAgfQogICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgc3VpdGUoIlRyYW5zZm9ybSIpKAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2h1bmsgPSBDaHVuaygxLCAyLCAzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCB0QXJyYXkgPSBUQXJyYXkubWFrZSgxLCAyLCAzKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2701,10 +2701,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHJhaXQgVEFycmF5U3BlYyB7Cgp9Cg==</text>
+        <text encoding="base64">ICAgICAgdGVzdE0oIkNvbmNhdGVuYXRpbmcgQ2h1bmsiKSB7CiAgICAgICAgdmFsIGNodW5rID0gQ2h1bmsoMSwgMiwgMykgKysgQ2h1bmsoNCwgNSwgNikKCiAgICAgICAgYXNzZXJ0TShaSU8oY2h1bmspKShlcXVhbFRvKENodW5rKDEsIDIsIDMsIDQsIDUsIDYpKSkKICAgICAgfSwKICAgICAgc3VpdGUoIkNvbGxlY3RpbmcgQ2h1bmsiKSgKICAgICAgICB0ZXN0TSgiY29sbGVjdDEiKSB7CiAgICAgICAgICB2YWwgY29sbGVjdENodW5rID0gQ2h1bmsoIkhlbGxvIFpJTyIsIDEuNSwgIkhlbGxvIFpJTyBOSU8iLCAyLjAsICJTb21lIHN0cmluZyIsIDIuNSkKICAgICAgICAgIHZhbCBjaHVuayA9IGNvbGxlY3RDaHVuay5jb2xsZWN0IHsgY2FzZSBzOiBTdHJpbmcgPT4gcyB9CgogICAgICAgICAgYXNzZXJ0TShaSU8oY2h1bmspKShlcXVhbFRvKENodW5rKCJIZWxsbyBaSU8iLCAiSGVsbG8gWklPIE5JTyIsICJTb21lIHN0cmluZyIpKSkKICAgICAgICB9LAogICAgICAgIHRlc3RNKCJjb2xsZWN0MiIpIHsKICAgICAgICAgIHZhbCBjb2xsZWN0Q2h1bmsgPSBDaHVuaygiSGVsbG8gWklPIiwgMS41LCAiSGVsbG8gWklPIE5JTyIsIDIuMCwgIlNvbWUgc3RyaW5nIiwgMi41KQogICAgICAgICAgdmFsIGNodW5rID0gY29sbGVjdENodW5rLmNvbGxlY3QgeyBjYXNlIGQ6IERvdWJsZSA9PiBkIH0KCiAgICAgICAgICBhc3NlcnRNKFpJTyhjaHVuaykpKGVxdWFsVG8oQ2h1bmsoMS41LCAyLjAsIDIuNSkpKQogICAgICAgIH0sCiAgICAgICAgdGVzdE0oImNvbGxlY3RXaGlsZTEiKSB7CiAgICAgICAgICB2YWwgY2h1bmsgPSBDaHVuaygiU2FyYWgiLCAiQm9iIiwgIkphbmUiKS5jb2xsZWN0V2hpbGUgeyBjYXNlIGVsZW1lbnQgaWYgZWxlbWVudCAhPSAiQm9iIiA9PiBlbGVtZW50IH0KCiAgICAgICAgICBhc3NlcnRNKFpJTyhjaHVuaykpKGVxdWFsVG8oQ2h1bmsoIlNhcmFoIikpKQogICAgICAgIH0sCiAgICAgICAgdGVzdE0oImNvbGxlY3RXaGlsZTIiKSB7CiAgICAgICAgICB2YWwgY2h1bmsgPSBDaHVuayg5LCAyLCA1LCAxLCA2KS5jb2xsZWN0V2hpbGUgeyBjYXNlIGVsZW1lbnQgaWYgZWxlbWVudCA+PSAyID0+IGVsZW1lbnQgfQoKICAgICAgICAgIGFzc2VydE0oWklPKGNodW5rKSkoZXF1YWxUbyhDaHVuayg5LCAyLCA1KSkpCiAgICAgICAgfQogICAgICApLAogICAgICB0ZXN0TSgiQ29tcGFyaW5nIENodW5rcyIpIHsKICAgICAgICBhc3NlcnRNKFpJTyhDaHVuaygiQSIsICJCIikgPT0gQ2h1bmsoIkEiLCAiQyIpKSkoZXF1YWxUbyhmYWxzZSkpCiAgICAgIH0sCiAgICAgIHN1aXRlKCJDb252ZXJ0aW5nIENodW5rcyIpKAogICAgICAgIHRlc3RNKCJ0b0FycmF5IikgewogICAgICAgICAgdmFsIGFycmF5ID0gQ2h1bmsoMSwgMiwgMykudG9BcnJheQoKICAgICAgICAgIGFzc2VydE0oWklPKGFycmF5KSkoZXF1YWxUbyhBcnJheSgxLCAyLCAzKSkpCiAgICAgICAgfSwKICAgICAgICB0ZXN0TSgidG9TZXEiKSB7CiAgICAgICAgICB2YWwgc2VxID0gQ2h1bmsoMSwgMiwgMykudG9TZXEKCiAgICAgICAgICBhc3NlcnRNKFpJTyhzZXEpKShlcXVhbFRvKFNlcSgxLCAyLCAzKSkpCiAgICAgICAgfQogICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIGZ1dHVyZXM6OmZ1dHVyZTo6am9pbl9hbGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY2h1bmsgPSBDaHVuaygxLCAyLCAzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
