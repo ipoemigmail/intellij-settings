@@ -7,26 +7,26 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRGcmllbmRJbnRlcmVzdGluZ0NoYW5uZWxcPg==</entry>
-        <entry encoding="base64">XDxmcmllbmRJbnRlcmVzdGluZ0NoYW5uZWxcPg==</entry>
-        <entry encoding="base64">XDxmcmllbmRzXD4=</entry>
-        <entry encoding="base64">XDxmb2xsb3dlZXNcPg==</entry>
-        <entry encoding="base64">XDxjaGFubmVsQmxvY2tlZFVzZXJcPg==</entry>
-        <entry encoding="base64">XDxiZWZvcmVTZW5kU3VnZ2VzdENoYW5uZWxcPg==</entry>
-        <entry encoding="base64">XDx3aGl0ZUNoYW5uZWxBY3Rpdml0eTRQcm9maWxlXD4=</entry>
-        <entry encoding="base64">XDx3aGl0ZUNoYW5uZWxBY3Rpdml0eUZyb21Qcm9maWxlXD4=</entry>
-        <entry encoding="base64">XDxnZXRXaGl0ZUNoYW5uZWxBY3Rpdml0eTRQcm9maWxlXD4=</entry>
-        <entry encoding="base64">XDxmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwNF8xXD4=</entry>
-        <entry encoding="base64">XDxmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwNF8yXD4=</entry>
-        <entry encoding="base64">XDxmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwMVw+</entry>
-        <entry encoding="base64">XDxmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwMlw+</entry>
         <entry encoding="base64">XDxmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwM1w+</entry>
         <entry encoding="base64">XDxnZXRGcmllbmRDaGFubmVsQWN0aXZpdHlcPg==</entry>
         <entry encoding="base64">XDxmcmllbmRDaGFubmVsQWN0aXZpdHlcPg==</entry>
         <entry>and</entry>
         <entry encoding="base64">IGFuZA==</entry>
+        <entry encoding="base64">XDxDb25maWdGYWN0b3J5XD4=</entry>
+        <entry encoding="base64">XDxwcm9wZXJ0aWVzXD4=</entry>
+        <entry encoding="base64">XDxhcmdzXD4=</entry>
+        <entry encoding="base64">XDxTQ1JJUFRfUEFUSFw+</entry>
+        <entry encoding="base64">XDxDT05GSUdfUEFUSFw+</entry>
         <entry>cache</entry>
         <entry>unpersis</entry>
+        <entry encoding="base64">XDxmcmllbmRzXD4=</entry>
+        <entry encoding="base64">XDx3aGl0ZUNoYW5uZWxMaXN0XD4=</entry>
+        <entry encoding="base64">XDxjaGFubmVsTG9nc1w+</entry>
+        <entry encoding="base64">XDxmb2xsb3dlZXNcPg==</entry>
+        <entry encoding="base64">XDxjaGFubmVsQmxvY2tlZFVzZXJcPg==</entry>
+        <entry encoding="base64">XDxiZWZvcmVTZW5kU3VnZ2VzdENoYW5uZWxcPg==</entry>
+        <entry encoding="base64">XDx3aGl0ZUNoYW5uZWxBY3Rpdml0eTRQcm9maWxlXD4=</entry>
+        <entry encoding="base64">XDx3aGl0ZUNoYW5uZWxBY3Rpdml0eVw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -130,11 +130,6 @@
         <mark key="]" line="11" column="50" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryLogInstances.scala" timestamp="1587116299294">
-        <mark key="[" line="65" column="8" />
-        <mark key="]" line="65" column="14" />
-        <mark key="." line="65" column="8" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/FriendshipInstances.scala" timestamp="1587139010817">
         <mark key="[" line="20" column="18" />
         <mark key="]" line="20" column="23" />
@@ -176,23 +171,23 @@
         <mark key="]" line="110" column="14" />
         <mark key="." line="110" column="8" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" timestamp="1587200092184">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="27" column="4" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" timestamp="1587201542858">
+        <mark key="'" line="55" column="8" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="13" column="84" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/escher/cuesheet/StoryCueSheet.scala" timestamp="1587133071987">
         <mark key="[" line="47" column="10" />
         <mark key="]" line="47" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" timestamp="1587198949208">
-        <mark key="'" line="59" column="98" />
-        <mark key="[" line="46" column="102" />
-        <mark key="]" line="91" column="32" />
-        <mark key="^" line="91" column="32" />
-        <mark key="." line="91" column="31" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" timestamp="1587202170699">
+        <mark key="'" line="82" column="48" />
+        <mark key="[" line="91" column="27" />
+        <mark key="]" line="91" column="38" />
+        <mark key="." line="91" column="37" />
+        <mark key="^" line="91" column="38" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/test/scala/com/kakao/story/spark/model/PeriodTest.scala" timestamp="1587116317039">
         <mark key="[" line="20" column="16" />
@@ -206,12 +201,18 @@
         <mark key="^" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" timestamp="1587134475767">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" timestamp="1587202231205">
         <mark key="'" line="20" column="14" />
-        <mark key="[" line="214" column="37" />
-        <mark key="]" line="215" column="24" />
-        <mark key="." line="215" column="23" />
-        <mark key="^" line="215" column="24" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="35" />
+        <mark key="." line="218" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/read-config.sh" timestamp="1587201468204">
+        <mark key="'" line="13" column="70" />
+        <mark key="[" line="13" column="68" />
+        <mark key="]" line="13" column="70" />
+        <mark key="." line="13" column="69" />
+        <mark key="^" line="13" column="70" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/typeclass/DatasetReader.scala" timestamp="1587139187687">
         <mark key="[" line="8" column="0" />
@@ -221,67 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="74" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="91" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="36" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="6" column="31" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="58" column="58" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="61" column="62" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="189" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="75" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="162" column="59" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="149" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="60" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="199" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="235" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="306" column="63" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="303" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="300" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="284" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="275" column="54" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="214" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="217" column="88" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="249" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="250" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="251" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="274" column="49" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="247" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="296" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="294" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="256" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="269" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="295" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="266" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="268" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="271" column="9" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="272" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="273" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="277" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="278" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="280" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="281" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="265" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="230" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="255" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="193" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="205" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="204" column="37" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="207" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="241" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="240" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="239" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="238" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="233" column="37" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="232" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="229" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="245" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="292" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="182" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="71" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="84" column="72" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="86" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="388" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="22" column="20" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="106" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="224" column="50" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
@@ -293,12 +233,31 @@
       <jump line="378" column="84" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="53" column="52" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="18" column="33" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="46" column="99" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="7" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="12" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="21" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="24" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="40" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="9" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="8" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="31" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="32" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="36" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="46" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="13" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="44" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="33" column="16" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="47" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="58" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="14" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/read-config.sh" />
+      <jump line="13" column="70" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/read-config.sh" />
+      <jump line="395" column="56" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="40" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="57" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="67" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="136" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="154" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="163" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="175" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="201" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="221" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
@@ -311,16 +270,58 @@
       <jump line="344" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="367" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="368" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="79" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="59" column="98" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="7" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
-      <jump line="8" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
-      <jump line="12" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
-      <jump line="13" column="63" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
-      <jump line="21" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
-      <jump line="24" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
-      <jump line="40" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
+      <jump line="90" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="215" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="229" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="247" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="275" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="331" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="352" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="46" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="68" column="50" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="158" column="52" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="162" column="50" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="163" column="40" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="142" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="47" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="58" column="37" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="139" column="33" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="143" column="59" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="144" column="41" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="145" column="60" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="146" column="40" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="48" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="50" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="51" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="84" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="70" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="87" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="59" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="73" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="93" column="34" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="56" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="351" column="46" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="189" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="195" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="196" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="197" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="188" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="179" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="60" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="94" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="88" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="74" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="61" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="95" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="75" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="62" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="78" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="300" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="85" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="89" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="82" column="48" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,7 +330,7 @@
         <text>StoryPlusBlockedUser</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwo=</text>
+        <text encoding="base64">ICAgIC0tY29uZiBzcGFyay5kcml2ZXIubWVtb3J5IDhnIFwK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2627,23 +2628,23 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>/kakaostory/event/targetingpush/wakeup</text>
+      <register name="*" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20ua2FrYW8uc3RvcnkuYXBwcy5iYXRjaEpvYi5qb2IucHVzaC53YWtldXAKCmltcG9ydCBjb20ua2FrYW8uc3RvcnkuYXBwcy5iYXRjaEpvYi5qb2IucHVzaC5zZXJ2aWNlLntQdXNoQ29tbW9uU2VydmljZSwgUHVzaENvbW1vblNlcnZpY2VEZWZhdWx0fQppbXBvcnQgY29tLmtha2FvLnN0b3J5LmRiLnJlcG8uXwppbXBvcnQgY29tLmtha2FvLnN0b3J5LmxvZy5tb2RlbC57RnJpZW5kc2hpcCwgU3RvcnlSZXF1ZXN0TG9nfQppbXBvcnQgY29tLmtha2FvLnN0b3J5LmxvZy5zZXJ2aWNlLntQYXRoTWFuYWdlciwgUGF0aE1hbmFnZXJQaGFzZX0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5tb2RlbC5lbnZpcm9ubWVudC57RW52aXJvbm1lbnQsIFRlc3RIYWRvb3BFbnZpcm9ubWVudH0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5tb2RlbC57SGFkb29wQ2x1c3RlciwgUGhhc2V9CmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc2VydmljZS5Mb2dTZXJ2aWNlCmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3BhcmsuaW1wbGljaXRzLl8KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5zcGFyay5tb2RlbC57RGFpbHksIFN0b3J5UmVxdWVzdExvZ0ZvckRzfQppbXBvcnQgY29tLmtha2FvLnN0b3J5LnNwYXJrLnNlcnZpY2UuXwppbXBvcnQgY29tLmtha2FvLnN0b3J5LnNwYXJrLnR5cGVjbGFzcy5EYXRhc2V0UmVhZGVyCmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3RvcmFnZS5pbXBsaWNpdHMuXwppbXBvcnQgY29tLmtha2FvLnN0b3J5LnN0b3JhZ2UubW9kZWwuY2x1c3Rlci57QWRtaW5TbGF2ZSwgQ2hhbm5lbFNsYXZlfQppbXBvcnQgY29tLmtha2FvLnN0b3J5LnN0b3JhZ2Uuc2VydmljZS5fCmltcG9ydCBjb20udHlwZXNhZmUuY29uZmlnLkNvbmZpZwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuZXhwcmVzc2lvbnMuV2luZG93CmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5mdW5jdGlvbnMuXwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwue0RhdGFGcmFtZSwgRGF0YXNldCwgU3BhcmtTZXNzaW9uLCBmdW5jdGlvbnMgPT4gZn0KaW1wb3J0IG9yZy5qb2RhLnRpbWUuRGF0ZVRpbWUKCmltcG9ydCBzY2FsYS51dGlsLntSYW5kb20sIFRyeX0KCmZpbmFsIGNsYXNzIFN1Z2dlc3RDaGFubmVsRXh0cmFjdG9yQmF0Y2goCiAgICBpbXBsaWNpdAogICAgY29uZmlnOiBDb25maWcsCiAgICBsb2dTZXJ2aWNlOiBMb2dTZXJ2aWNlLAogICAgcGF0aE1hbmFnZXI6IFBhdGhNYW5hZ2VyLAogICAgZGF0ZVBhcnNlcjogRGF0ZVBhcnNlciwKICAgIHN0b3J5UGx1c0Jsb2NrZWRVc2VyUmVwbzogU3RvcnlQbHVzQmxvY2tlZFVzZXJSZXBvLAogICAgc3RvcnlQbHVzRGV0YWlsUmVwbzogU3RvcnlQbHVzRGV0YWlsUmVwbywKICAgIHN0b3J5UGx1c1Byb2ZpbGVUYWdSZXBvOiBTdG9yeVBsdXNQcm9maWxlVGFnUmVwbywKICAgIHB1c2hDb21tb25TZXJ2aWNlOiBQdXNoQ29tbW9uU2VydmljZQopIGV4dGVuZHMgU2VyaWFsaXphYmxlIHsKICBkZWYgcnVuKHNwYXJrOiBTcGFya1Nlc3Npb24pKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBVbml0ID0gewogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCgogICAgdmFsIHRhcmdldERhdGUgPSBUcnkgewogICAgICBkYXRlUGFyc2VyLnBhcnNlSG91cihhcmdzKDApKS5nZXRPckVsc2UoZGF0ZVBhcnNlci5kYXlEZWZhdWx0Lm1pbnVzSG91cnMoMSkpCiAgICB9LmdldE9yRWxzZShEYXRlVGltZS5ub3cpCgogICAgdmFsIHRhcmdldEJlZm9yZURheXMgPSBMaXN0KDMsIDgsIDExKQogICAgdmFsIGxvZ1BhdGggPSBwdXNoQ29tbW9uU2VydmljZS5nZXRXYWtldXBQdXNoVXNlckxvZ1BhdGgodGFyZ2V0RGF0ZSkKCiAgICB2YWwgeWVzdGVyZGF5ID0gRGFpbHkoRGF0ZVRpbWUubm93Lm1pbnVzRGF5cygxKS50b1N0cmluZygieXl5eS1NTS1kZCIpKQogICAgdmFsIGZyaWVuZHMgPSBEYXRhc2V0UmVhZGVyW0ZyaWVuZHNoaXBdLnJlYWQoc3BhcmspKHllc3RlcmRheSwgeWVzdGVyZGF5KS5yZXBhcnRpdGlvbignZnJpZW5kSWQpLmNhY2hlKCkKICAgIHZhbCB3aGl0ZUNoYW5uZWxMaXN0ID0gZ2V0V2hpdGVDaGFubmVsTGlzdChzcGFyaykKICAgIHZhbCBjaGFubmVsTG9ncyA9IGdldENoYW5uZWxMb2dzKHNwYXJrKSg3KQoKICAgIHZhbCBmb2xsb3dlZXMgPSBzcGFyay5yZWFkCiAgICAgIC50YWJsZSgic3JjLmZvbGxvd2VlcyIpCiAgICAgIC53aGVyZSgKICAgICAgICAnbG9nZGF0ZSA9PT0gdGFyZ2V0RGF0ZS50b1N0cmluZygieXl5eU1NZGQiKSBhbmQgKCdkZWFjdGl2YXRlZF9hdC5pc051bGwgb3IgJ2RlYWN0aXZhdGVkX2F0ID49IHRhcmdldERhdGUKICAgICAgICAgIC5taW51c0RheXMoMTgwKQogICAgICAgICAgLnRvU3RyaW5nKCJ5eXl5LU1NLWRkIikpCiAgICAgICkKICAgICAgLmNhY2hlKCkKICAgIHZhbCBjaGFubmVsQmxvY2tlZFVzZXIgPSBnZXRDaGFubmVsQmxvY2tlZFVzZXIoc3BhcmspCiAgICB2YWwgYmVmb3JlU2VuZFN1Z2dlc3RDaGFubmVsID0gcHVzaENvbW1vblNlcnZpY2UuZ2V0V2FrZXVwUHVzaEJlZm9yZVNlbmREYXRhKHNwYXJrKSh0YXJnZXREYXRlKQogICAgdmFsIHdoaXRlQ2hhbm5lbEFjdGl2aXR5NFByb2ZpbGUgPSBnZXRXaGl0ZUNoYW5uZWxBY3Rpdml0eTRQcm9maWxlKHNwYXJrKSh3aGl0ZUNoYW5uZWxMaXN0LCBjaGFubmVsTG9ncykKICAgIHZhbCB3aGl0ZUNoYW5uZWxBY3Rpdml0eSA9IGdldFdoaXRlQ2hhbm5lbEFjdGl2aXR5KHNwYXJrKSh3aGl0ZUNoYW5uZWxBY3Rpdml0eTRQcm9maWxlKQoKICAgIHRhcmdldEJlZm9yZURheXMuZm9yZWFjaCB7IGQgPT4KICAgICAgdmFsIHRhcmdldFVzZXIgPSBzcGFyay5yZWFkCiAgICAgICAgLmpzb24obG9nUGF0aCkKICAgICAgICAud2hlcmUoY29sKCJiZWZvcmVkYXlzIikgPT09IGYiJHtkfSUwMmQiKQogICAgICAgIC5yZXBhcnRpdGlvbigncHJvZmlsZV9pZCkKICAgICAgICAuY2FjaGUoKQoKICAgICAgdmFsIHRhcmdldEZyaWVuZHMgPSBnZXRUYXJnZXRGcmllbmRzKHNwYXJrKShmcmllbmRzLCB0YXJnZXRVc2VyKQogICAgICB2YWwgZnJpZW5kQ2hhbm5lbEFjdGl2aXR5ID0gZ2V0RnJpZW5kQ2hhbm5lbEFjdGl2aXR5KHNwYXJrKSgKICAgICAgICBmb2xsb3dlZXMsCiAgICAgICAgY2hhbm5lbEJsb2NrZWRVc2VyLAogICAgICAgIGJlZm9yZVNlbmRTdWdnZXN0Q2hhbm5lbCwKICAgICAgICB3aGl0ZUNoYW5uZWxBY3Rpdml0eTRQcm9maWxlLAogICAgICAgIHRhcmdldEZyaWVuZHMsCiAgICAgICAgdGFyZ2V0VXNlciwKICAgICAgICB3aGl0ZUNoYW5uZWxBY3Rpdml0eS5jb3VudCgpCiAgICAgICkKCiAgICAgIHRhcmdldFVzZXIudW5wZXJzaXN0KCkKICAgICAgdGFyZ2V0RnJpZW5kcy51bnBlcnNpc3QoKQoKICAgICAgdmFsIGZyaWVuZEludGVyZXN0aW5nQ2hhbm5lbCA9IGdldEZyaWVuZEludGVyZXN0aW5nQ2hhbm5lbChzcGFyaykoZnJpZW5kQ2hhbm5lbEFjdGl2aXR5KQogICAgICB2YWwgcHVzaFNlbmREYXRhID0gbWFrZVB1c2hTZW5kRGF0YShzcGFyaykoCiAgICAgICAgZnJpZW5kQ2hhbm5lbEFjdGl2aXR5LAogICAgICAgIGZyaWVuZEludGVyZXN0aW5nQ2hhbm5lbCwKICAgICAgICB3aGl0ZUNoYW5uZWxBY3Rpdml0eSwKICAgICAgICBmb2xsb3dlZXMsCiAgICAgICAgY2hhbm5lbEJsb2NrZWRVc2VyLAogICAgICAgIGJlZm9yZVNlbmRTdWdnZXN0Q2hhbm5lbAogICAgICApCgogICAgICBwdXNoQ29tbW9uU2VydmljZS5tYWtlVGFyZ2V0RmlsZShwdXNoU2VuZERhdGEsIHB1c2hDb21tb25TZXJ2aWNlLmdldFdha2V1cFB1c2hUZXN0TG9nUGF0aCh0YXJnZXREYXRlLCBkKSkKCiAgICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eS51bnBlcnNpc3QoKQogICAgICBmcmllbmRJbnRlcmVzdGluZ0NoYW5uZWwudW5wZXJzaXN0KCkKICAgICAgcHVzaFNlbmREYXRhLnVucGVyc2lzdCgpCiAgICB9CiAgfQoKICBwcml2YXRlIGRlZiBnZXRXaGl0ZUNoYW5uZWxMaXN0KHNwYXJrOiBTcGFya1Nlc3Npb24pID0gewogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCgogICAgLy8gMS4g7ZmU7J207Yq4IOyxhOuEkCDsoJXrs7Qg66Gc65SpICjqs7Xqs7XquLDqtIAg7KCc7Jm4KQogICAgdmFsIHdoaXRlQ2hhbm5lbHNDYW5kaWRhdGVzID0KICAgICAgc3RvcnlQbHVzRGV0YWlsUmVwby53aGl0ZUNoYW5uZWxzKCkuZmlsdGVyKGMgPT4gIVN0b3J5UGx1c0RldGFpbFJlcG8uRXhjbHVkZWRDYXRlZ29yeUlkcy5jb250YWlucyhjLmNhdGVnb3J5X2lkKSkKCiAgICAvLyAyLiDsg4Hsl4XshLEg7YOc6re46rCAIO2VnOqwnCDsnbTsg4Eg7Y+s7ZWo65CcIOyxhOuEkCDtlYTthLDrp4EKICAgIHZhbCBjb21tZXJjaWFsVGFnSWRzID0gU2VxKDEsIDIsIDMpCiAgICB3aGl0ZUNoYW5uZWxzQ2FuZGlkYXRlcwogICAgICAuZmlsdGVyKGMgPT4gewogICAgICAgIHN0b3J5UGx1c1Byb2ZpbGVUYWdSZXBvLmZpbmRCeUlkKGMucHJvZmlsZV9pZCAtPiBjb21tZXJjaWFsVGFnSWRzLmhlYWQpLmlzRW1wdHkgJiYKICAgICAgICAgIHN0b3J5UGx1c1Byb2ZpbGVUYWdSZXBvLmZpbmRCeUlkKGMucHJvZmlsZV9pZCAtPiBjb21tZXJjaWFsVGFnSWRzKDEpKS5pc0VtcHR5ICYmCiAgICAgICAgICBzdG9yeVBsdXNQcm9maWxlVGFnUmVwby5maW5kQnlJZChjLnByb2ZpbGVfaWQgLT4gY29tbWVyY2lhbFRhZ0lkcygyKSkuaXNFbXB0eQogICAgICB9KQogICAgICAudG9EUygpCiAgICAgIC5zZWxlY3QoInByb2ZpbGVfaWQiKQogICAgICAudG9ERigiY2hhbm5lbElkIikKICB9CgogIHByaXZhdGUgZGVmIGdldENoYW5uZWxMb2dzKHNwYXJrOiBTcGFya1Nlc3Npb24pKGJlZm9yZURheXM6IEludCkgPSB7CiAgICBpbXBvcnQgc3BhcmsuaW1wbGljaXRzLl8KCiAgICB2YWwgZnJvbSA9IERhaWx5KERhdGVUaW1lLm5vdy5taW51c0RheXMoYmVmb3JlRGF5cykudG9TdHJpbmcoInl5eXktTU0tZGQiKSkKICAgIHZhbCB0byA9IERhaWx5KERhdGVUaW1lLm5vdy50b1N0cmluZygieXl5eS1NTS1kZCIpKQoKICAgIGRlZiBjb25kaXRpb24xKGxvZzogU3RvcnlSZXF1ZXN0TG9nRm9yRHMpOiBCb29sZWFuID0KICAgICAgKGxvZy5jb250cm9sbGVyID09ICJhY3Rpdml0aWVzIiAmJiBsb2cuYWN0aW9uID09ICJzaG93IikgfHwKICAgICAgICAoKGxvZy5jb250cm9sbGVyID09ICJjb21tZW50cyIgfHwgbG9nLmNvbnRyb2xsZXIgPT0gImxpa2VzIikgJiYgbG9nLmFjdGlvbiA9PSAiY3JlYXRlIikgfHwKICAgICAgICAobG9nLmNvbnRyb2xsZXIgPT0gImZvbGxvd2luZyIgJiYgbG9nLmFjdGlvbiA9PSAiZm9sbG93IikKCiAgICBEYXRhc2V0UmVhZGVyW1N0b3J5UmVxdWVzdExvZ10KICAgICAgLnJlYWQoc3BhcmspKGZyb20sIHRvKQogICAgICAuZmlsdGVyKHggPT4gY29uZGl0aW9uMSh4KSAmJiB4LmlzU3RvcnlwbHVzKQogICAgICAubWFwKGxvZyA9PiAobG9nLnByb2ZpbGVJZCwgbG9nLnBhcmFtMS5zcGxpdCgiXyIpLmFwcGx5KDApLCBsb2cudHMpKQogICAgICAudG9ERigicHJvZmlsZUlkIiwgImNoYW5uZWxJZCIsICJ0cyIpCiAgICAgIC5jYWNoZSgpCiAgfQoKICBwcml2YXRlIGRlZiBnZXRDaGFubmVsQmxvY2tlZFVzZXIoc3Bhcms6IFNwYXJrU2Vzc2lvbik6IERhdGFGcmFtZSA9IHsKICAgIHNwYXJrCiAgICAgIC5jcmVhdGVEYXRhRnJhbWUoc3RvcnlQbHVzQmxvY2tlZFVzZXJSZXBvLmZpbmRBbGxVbmxpbWl0ZWQubWFwKHggPT4gKHgucHJvZmlsZV9pZCwgeC5ibG9ja2VkX3Byb2ZpbGVfaWQpKSkKICAgICAgLnRvREYoInByb2ZpbGVJZCIsICJibG9ja2VkUHJvZmlsZUlkIikKICB9CgogIHByaXZhdGUgZGVmIGdldFdoaXRlQ2hhbm5lbEFjdGl2aXR5NFByb2ZpbGUoCiAgICAgIHNwYXJrOiBTcGFya1Nlc3Npb24KICApKHdoaXRlQ2hhbm5lbExpc3Q6IERhdGFGcmFtZSwgY2hhbm5lbExvZ3M6IERhdGFGcmFtZSkgPSB7CiAgICBpbXBvcnQgc3BhcmsuaW1wbGljaXRzLl8KCiAgICB3aGl0ZUNoYW5uZWxMaXN0CiAgICAgIC5qb2luKGNoYW5uZWxMb2dzLCB3aGl0ZUNoYW5uZWxMaXN0KCJjaGFubmVsSWQiKSA9PT0gY2hhbm5lbExvZ3MoImNoYW5uZWxJZCIpKQogICAgICAuZ3JvdXBCeShjaGFubmVsTG9ncygicHJvZmlsZUlkIiksIGNoYW5uZWxMb2dzKCJjaGFubmVsSWQiKSkKICAgICAgLmFnZyhmLmNvdW50KGNoYW5uZWxMb2dzKCJjaGFubmVsSWQiKSkgYXMgJ2NudCwgZi5tYXgoY2hhbm5lbExvZ3MoInRzIikpIGFzICd0cykKICAgICAgLnNlbGVjdChjaGFubmVsTG9ncygicHJvZmlsZUlkIiksIGNoYW5uZWxMb2dzKCJjaGFubmVsSWQiKSwgJ2NudCwgJ3RzKQogICAgICAuY2FjaGUoKQogIH0KCiAgcHJpdmF0ZSBkZWYgZ2V0V2hpdGVDaGFubmVsQWN0aXZpdHkoc3Bhcms6IFNwYXJrU2Vzc2lvbikod2hpdGVDaGFubmVsQWN0aXZpdHlGcm9tUHJvZmlsZTogRGF0YUZyYW1lKSA9IHsKICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwoKICAgIHdoaXRlQ2hhbm5lbEFjdGl2aXR5RnJvbVByb2ZpbGUKICAgICAgLmdyb3VwQnkod2hpdGVDaGFubmVsQWN0aXZpdHlGcm9tUHJvZmlsZSgiY2hhbm5lbElkIikpCiAgICAgIC5hZ2coZi5zdW0od2hpdGVDaGFubmVsQWN0aXZpdHlGcm9tUHJvZmlsZSgiY250IikpIGFzICdjbnQpCiAgICAgIC5zZWxlY3Qocm93X251bWJlcigpLm92ZXIoV2luZG93Lm9yZGVyQnkoJ2NudC5kZXNjLCAnY2hhbm5lbElkKSkgYXMgJ3Jvd051bWJlciwgJ2NoYW5uZWxJZCwgJ2NudCkKICAgICAgLmNhY2hlKCkKICB9CgogIHByaXZhdGUgZGVmIGdldFRhcmdldEZyaWVuZHMoc3Bhcms6IFNwYXJrU2Vzc2lvbikoZnJpZW5kczogRGF0YXNldFtGcmllbmRzaGlwXSwgdGFyZ2V0VXNlcjogRGF0YUZyYW1lKSA9IHsKICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwoKICAgIHRhcmdldFVzZXIKICAgICAgLmpvaW4oZnJpZW5kcywgdGFyZ2V0VXNlcigicHJvZmlsZV9pZCIpID09PSBmcmllbmRzKCJwcm9maWxlSWQiKSwgImxlZnRfb3V0ZXIiKQogICAgICAuc2VsZWN0KHRhcmdldFVzZXIoInByb2ZpbGVfaWQiKSwgZnJpZW5kcygiZnJpZW5kSWQiKSkKICAgICAgLm1hcCB7IGEgPT4KICAgICAgICAoYS5nZXQoMCkudG9TdHJpbmcsIGlmIChhLmdldCgxKSA9PSBudWxsKSAiLTEiIGVsc2UgYS5nZXQoMSkudG9TdHJpbmcpCiAgICAgIH0KICAgICAgLnRvREYoInByb2ZpbGVJZCIsICJmcmllbmRJZCIpCiAgICAgIC5jYWNoZSgpCiAgfQoKICBwcml2YXRlIGRlZiBnZXRGcmllbmRDaGFubmVsQWN0aXZpdHkoc3Bhcms6IFNwYXJrU2Vzc2lvbikoCiAgICAgIGZvbGxvd2VlczogRGF0YUZyYW1lLAogICAgICBjaGFubmVsQmxvY2tlZFVzZXI6IERhdGFGcmFtZSwKICAgICAgYmVmb3JlU2VuZFN1Z2dlc3RDaGFubmVsOiBEYXRhRnJhbWUsCiAgICAgIHdoaXRlQ2hhbm5lbEFjdGl2aXR5NFByb2ZpbGU6IERhdGFGcmFtZSwKICAgICAgdGFyZ2V0RnJpZW5kczogRGF0YUZyYW1lLAogICAgICB0YXJnZXRVc2VyOiBEYXRhRnJhbWUsCiAgICAgIHdoaXRlQ2hhbm5lbENvdW50OiBMb25nCiAgKSA9IHsKICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwoKICAgIHZhbCBmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwMSA9IHRhcmdldEZyaWVuZHMKICAgICAgLmpvaW4oCiAgICAgICAgd2hpdGVDaGFubmVsQWN0aXZpdHk0UHJvZmlsZSwKICAgICAgICB0YXJnZXRGcmllbmRzKCJmcmllbmRJZCIpID09PSB3aGl0ZUNoYW5uZWxBY3Rpdml0eTRQcm9maWxlKCJwcm9maWxlSWQiKSwKICAgICAgICAibGVmdF9vdXRlciIKICAgICAgKQogICAgICAuc2VsZWN0KAogICAgICAgIHRhcmdldEZyaWVuZHMoInByb2ZpbGVJZCIpLAogICAgICAgIHRhcmdldEZyaWVuZHMoImZyaWVuZElkIiksCiAgICAgICAgd2hpdGVDaGFubmVsQWN0aXZpdHk0UHJvZmlsZSgiY2hhbm5lbElkIiksCiAgICAgICAgd2hpdGVDaGFubmVsQWN0aXZpdHk0UHJvZmlsZSgiY250IiksCiAgICAgICAgd2hpdGVDaGFubmVsQWN0aXZpdHk0UHJvZmlsZSgidHMiKQogICAgICApCiAgICAgIC5jYWNoZSgpCgogICAgdmFsIGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXAyID0gZnJpZW5kQ2hhbm5lbEFjdGl2aXR5U3RlcDEKICAgICAgLmpvaW4oCiAgICAgICAgZm9sbG93ZWVzLAogICAgICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXAxKCJwcm9maWxlSWQiKSA9PT0gZm9sbG93ZWVzKCJwcm9maWxlX2lkIikgYW5kCiAgICAgICAgICBmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwMSgiY2hhbm5lbElkIikgPT09IGZvbGxvd2VlcygiZm9sbG93ZWVfcHJvZmlsZV9pZCIpLAogICAgICAgICJsZWZ0YW50aSIKICAgICAgKQogICAgICAuam9pbigKICAgICAgICBjaGFubmVsQmxvY2tlZFVzZXIsCiAgICAgICAgZnJpZW5kQ2hhbm5lbEFjdGl2aXR5U3RlcDEoImNoYW5uZWxJZCIpID09PSBjaGFubmVsQmxvY2tlZFVzZXIoInByb2ZpbGVJZCIpIGFuZAogICAgICAgICAgZnJpZW5kQ2hhbm5lbEFjdGl2aXR5U3RlcDEoInByb2ZpbGVJZCIpID09PSBjaGFubmVsQmxvY2tlZFVzZXIoImJsb2NrZWRQcm9maWxlSWQiKSwKICAgICAgICAibGVmdGFudGkiCiAgICAgICkKICAgICAgLmpvaW4oCiAgICAgICAgYmVmb3JlU2VuZFN1Z2dlc3RDaGFubmVsLAogICAgICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXAxKCJwcm9maWxlSWQiKSA9PT0gYmVmb3JlU2VuZFN1Z2dlc3RDaGFubmVsKCJwcm9maWxlSWQiKSBhbmQKICAgICAgICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXAxKCJjaGFubmVsSWQiKSA9PT0gYmVmb3JlU2VuZFN1Z2dlc3RDaGFubmVsKCJhY3Rpdml0eUlkIiksCiAgICAgICAgImxlZnRhbnRpIgogICAgICApCiAgICAgIC5jYWNoZSgpCgogICAgZnJpZW5kQ2hhbm5lbEFjdGl2aXR5U3RlcDEudW5wZXJzaXN0KCkKCiAgICB2YWwgZnJpZW5kQ2hhbm5lbEFjdGl2aXR5U3RlcDMgPSB0YXJnZXRVc2VyCiAgICAgIC5qb2luKAogICAgICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXAyLAogICAgICAgIHRhcmdldFVzZXIoInByb2ZpbGVfaWQiKSA9PT0gZnJpZW5kQ2hhbm5lbEFjdGl2aXR5U3RlcDIoInByb2ZpbGVJZCIpLAogICAgICAgICJsZWZ0X291dGVyIgogICAgICApCiAgICAgIC5zZWxlY3QoCiAgICAgICAgdGFyZ2V0VXNlcigicHJvZmlsZV9pZCIpIGFzICdwcm9maWxlSWQsCiAgICAgICAgZnJpZW5kQ2hhbm5lbEFjdGl2aXR5U3RlcDIoImZyaWVuZElkIiksCiAgICAgICAgZnJpZW5kQ2hhbm5lbEFjdGl2aXR5U3RlcDIoImNoYW5uZWxJZCIpLAogICAgICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXAyKCJjbnQiKSwKICAgICAgICBmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwMigidHMiKQogICAgICApCiAgICAgIC5jYWNoZSgpCgogICAgZnJpZW5kQ2hhbm5lbEFjdGl2aXR5U3RlcDIudW5wZXJzaXN0KCkKCiAgICB2YWwgZnJpZW5kQ2hhbm5lbEFjdGl2aXR5U3RlcDRfMSA9IGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXAzCiAgICAgIC5ncm91cEJ5KAogICAgICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXAzKCJwcm9maWxlSWQiKSwKICAgICAgICBmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwMygiY2hhbm5lbElkIiksCiAgICAgICAgZnJpZW5kQ2hhbm5lbEFjdGl2aXR5U3RlcDMoImZyaWVuZElkIikKICAgICAgKQogICAgICAuYWdnKGYubWF4KCd0cykgYXMgJ3RzKQogICAgICAuc2VsZWN0KCdwcm9maWxlSWQsICdjaGFubmVsSWQsICdmcmllbmRJZCwgJ3RzKQogICAgICAuY2FjaGUoKQoKICAgIHZhbCBmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwNF8yID0gZnJpZW5kQ2hhbm5lbEFjdGl2aXR5U3RlcDMKICAgICAgLmdyb3VwQnkoZnJpZW5kQ2hhbm5lbEFjdGl2aXR5U3RlcDMoInByb2ZpbGVJZCIpLCBmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwMygiY2hhbm5lbElkIikpCiAgICAgIC5hZ2coCiAgICAgICAgZi5jb3VudChmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwMygiZnJpZW5kSWQiKSkgYXMgJ2NudCwKICAgICAgICBmLnN1bShmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwMygiY250IikpIGFzICdhY3Rpdml0eUNudCwKICAgICAgICBmLm1heCgndHMpIGFzICd0cwogICAgICApCiAgICAgIC5zZWxlY3QoJ3Byb2ZpbGVJZCwgJ2NoYW5uZWxJZCwgJ2NudCwgJ2FjdGl2aXR5Q250LCAndHMpCiAgICAgIC5jYWNoZSgpCgogICAgZnJpZW5kQ2hhbm5lbEFjdGl2aXR5U3RlcDMudW5wZXJzaXN0KCkKCiAgICB2YWwgZnJpZW5kQ2hhbm5lbEFjdGl2aXR5ID0gZnJpZW5kQ2hhbm5lbEFjdGl2aXR5U3RlcDRfMgogICAgICAuam9pbigKICAgICAgICBmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwNF8xLAogICAgICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXA0XzIoInByb2ZpbGVJZCIpID09PSBmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwNF8xKCJwcm9maWxlSWQiKQogICAgICAgICAgYW5kIGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXA0XzIoImNoYW5uZWxJZCIpID09PSBmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwNF8xKCJjaGFubmVsSWQiKSBhbmQKICAgICAgICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXA0XzIoInRzIikgPT09IGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXA0XzEoInRzIiksCiAgICAgICAgImxlZnRfb3V0ZXIiCiAgICAgICkKICAgICAgLnNlbGVjdCgKICAgICAgICBmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwNF8yKCJwcm9maWxlSWQiKSwKICAgICAgICBmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwNF8yKCJjaGFubmVsSWQiKSwKICAgICAgICBmcmllbmRDaGFubmVsQWN0aXZpdHlTdGVwNF8xKCJmcmllbmRJZCIpLAogICAgICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXA0XzIoImNudCIpLAogICAgICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXA0XzIoImFjdGl2aXR5Q250IikKICAgICAgKQogICAgICAubWFwIHsgYSA9PgogICAgICAgIHZhbCAoY2hhbm5lbElkLCBmcmllbmRJZCwgY250LCBhY3Rpdml0eUNudCkgPQogICAgICAgICAgaWYgKGEuZ2V0KDEpID09IG51bGwpIHsKICAgICAgICAgICAgKCgoUmFuZG9tLm5leHRJbnQoKS5hYnMgJSB3aGl0ZUNoYW5uZWxDb3VudCkgKyAxKS50b1N0cmluZywgIi0xIiwgIjAiLCAiMCIpCiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAoYS5nZXQoMSkudG9TdHJpbmcsIGEuZ2V0KDIpLnRvU3RyaW5nLCBhLmdldCgzKS50b1N0cmluZywgYS5nZXQoNCkudG9TdHJpbmcpCiAgICAgICAgICB9CgogICAgICAgIChhLmdldCgwKS50b1N0cmluZywgY2hhbm5lbElkLCBmcmllbmRJZCwgY250LCBhY3Rpdml0eUNudCkKICAgICAgfQogICAgICAudG9ERigicHJvZmlsZUlkIiwgImNoYW5uZWxJZCIsICJmcmllbmRJZCIsICJjbnQiLCAiYWN0aXZpdHlDbnQiKQogICAgICAuY2FjaGUoKQoKICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXA0XzEudW5wZXJzaXN0KCkKICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXA0XzIudW5wZXJzaXN0KCkKICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eQogIH0KCiAgcHJpdmF0ZSBkZWYgZ2V0RnJpZW5kSW50ZXJlc3RpbmdDaGFubmVsKHNwYXJrOiBTcGFya1Nlc3Npb24pKGZyaWVuZENoYW5uZWxBY3Rpdml0eTogRGF0YUZyYW1lKSA9IHsKICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwoKICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eQogICAgICAuZ3JvdXBCeShmcmllbmRDaGFubmVsQWN0aXZpdHkoInByb2ZpbGVJZCIpLCBmcmllbmRDaGFubmVsQWN0aXZpdHkoImFjdGl2aXR5Q250IiksIGZyaWVuZENoYW5uZWxBY3Rpdml0eSgiY250IikpCiAgICAgIC5hZ2coZi5tYXgoZnJpZW5kQ2hhbm5lbEFjdGl2aXR5KCJjaGFubmVsSWQiKSkgYXMgJ2NoYW5uZWxJZCkKICAgICAgLnNlbGVjdCgKICAgICAgICByb3dfbnVtYmVyKCkKICAgICAgICAgIC5vdmVyKFdpbmRvdy5wYXJ0aXRpb25CeSgncHJvZmlsZUlkKS5vcmRlckJ5KCdwcm9maWxlSWQsICdhY3Rpdml0eUNudC5kZXNjLCAnY250LmRlc2MpKSBhcyAncm93TnVtYmVyLAogICAgICAgICdwcm9maWxlSWQsCiAgICAgICAgJ2NoYW5uZWxJZAogICAgICApCiAgICAgIC5jYWNoZSgpCiAgfQoKICBwcml2YXRlIGRlZiBtYWtlUHVzaFNlbmREYXRhKHNwYXJrOiBTcGFya1Nlc3Npb24pKAogICAgICBmcmllbmRDaGFubmVsQWN0aXZpdHk6IERhdGFGcmFtZSwKICAgICAgZnJpZW5kSW50ZXJlc3RpbmdDaGFubmVsOiBEYXRhRnJhbWUsCiAgICAgIHdoaXRlQ2hhbm5lbEFjdGl2aXR5OiBEYXRhRnJhbWUsCiAgICAgIGZvbGxvd2VlczogRGF0YUZyYW1lLAogICAgICBjaGFubmVsQmxvY2tlZFVzZXI6IERhdGFGcmFtZSwKICAgICAgYmVmb3JlU2VuZFN1Z2dlc3RDaGFubmVsOiBEYXRhRnJhbWUKICApID0gewogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCgogICAgdmFsIHB1c2hTZW5kRGF0YVN0ZXAxID0gZnJpZW5kQ2hhbm5lbEFjdGl2aXR5CiAgICAgIC5qb2luKAogICAgICAgIGZyaWVuZEludGVyZXN0aW5nQ2hhbm5lbCwKICAgICAgICBmcmllbmRDaGFubmVsQWN0aXZpdHkoInByb2ZpbGVJZCIpID09PSBmcmllbmRJbnRlcmVzdGluZ0NoYW5uZWwoInByb2ZpbGVJZCIpIGFuZAogICAgICAgICAgZnJpZW5kQ2hhbm5lbEFjdGl2aXR5KCJjaGFubmVsSWQiKSA9PT0gZnJpZW5kSW50ZXJlc3RpbmdDaGFubmVsKCJjaGFubmVsSWQiKQogICAgICApCiAgICAgIC53aGVyZShmcmllbmRJbnRlcmVzdGluZ0NoYW5uZWwoInJvd051bWJlciIpID09PSAxKQogICAgICAuZ3JvdXBCeShmcmllbmRDaGFubmVsQWN0aXZpdHkoInByb2ZpbGVJZCIpKQogICAgICAuYWdnKAogICAgICAgIGYubWF4KGZyaWVuZENoYW5uZWxBY3Rpdml0eSgiY2hhbm5lbElkIikpIGFzICdjaGFubmVsSWQsCiAgICAgICAgZi5tYXgoZnJpZW5kQ2hhbm5lbEFjdGl2aXR5KCJmcmllbmRJZCIpKSBhcyAnZnJpZW5kSWQsCiAgICAgICAgZi5tYXgoZnJpZW5kQ2hhbm5lbEFjdGl2aXR5KCJjbnQiKSkgYXMgJ2NudAogICAgICApCiAgICAgIC5zZWxlY3QoJ3Byb2ZpbGVJZCwgJ2ZyaWVuZElkLCAnY2hhbm5lbElkLCAnY250KQogICAgICAuY2FjaGUoKQoKICAgIHZhbCBwdXNoU2VuZERhdGFTdGVwMiA9IHB1c2hTZW5kRGF0YVN0ZXAxCiAgICAgIC5qb2luKHdoaXRlQ2hhbm5lbEFjdGl2aXR5LCBwdXNoU2VuZERhdGFTdGVwMSgiY2hhbm5lbElkIikgPT09IHdoaXRlQ2hhbm5lbEFjdGl2aXR5KCJyb3dOdW1iZXIiKSwgImxlZnRfb3V0ZXIiKQogICAgICAubWFwIHsgYSA9PgogICAgICAgIHZhbCAoZnJpZW5kSWQsIGNoYW5uZWxJZCwgY250KSA9CiAgICAgICAgICBpZiAoYS5nZXQoMSkgPT0gIi0xIikgewogICAgICAgICAgICAoYS5nZXQoMSkudG9TdHJpbmcsIGEuZ2V0KDUpLnRvU3RyaW5nLCBhLmdldCgzKS50b1N0cmluZykKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIChhLmdldCgxKS50b1N0cmluZywgYS5nZXQoMikudG9TdHJpbmcsIGEuZ2V0KDMpLnRvU3RyaW5nKQogICAgICAgICAgfQoKICAgICAgICAoYS5nZXQoMCkudG9TdHJpbmcsIGZyaWVuZElkLCBjaGFubmVsSWQsIGNudCwgImNoYW5uZWwiKQogICAgICB9CiAgICAgIC50b0RGKCJwcm9maWxlSWQiLCAiZnJpZW5kSWQiLCAiYWN0aXZpdHlJZCIsICJjbnQiLCAidGFyZ2V0VHlwZSIpCiAgICAgIC5jYWNoZSgpCgogICAgcHVzaFNlbmREYXRhU3RlcDEudW5wZXJzaXN0KCkKCiAgICB2YWwgcHVzaFNlbmREYXRhID0gcHVzaFNlbmREYXRhU3RlcDIKICAgICAgLmpvaW4oCiAgICAgICAgZm9sbG93ZWVzLAogICAgICAgIHB1c2hTZW5kRGF0YVN0ZXAyKCJwcm9maWxlSWQiKSA9PT0gZm9sbG93ZWVzKCJwcm9maWxlX2lkIikgYW5kCiAgICAgICAgICBwdXNoU2VuZERhdGFTdGVwMigiYWN0aXZpdHlJZCIpID09PSBmb2xsb3dlZXMoImZvbGxvd2VlX3Byb2ZpbGVfaWQiKSwKICAgICAgICAibGVmdGFudGkiCiAgICAgICkKICAgICAgLmpvaW4oCiAgICAgICAgY2hhbm5lbEJsb2NrZWRVc2VyLAogICAgICAgIHB1c2hTZW5kRGF0YVN0ZXAyKCJhY3Rpdml0eUlkIikgPT09IGNoYW5uZWxCbG9ja2VkVXNlcigicHJvZmlsZUlkIikgYW5kCiAgICAgICAgICBwdXNoU2VuZERhdGFTdGVwMigicHJvZmlsZUlkIikgPT09IGNoYW5uZWxCbG9ja2VkVXNlcigiYmxvY2tlZFByb2ZpbGVJZCIpLAogICAgICAgICJsZWZ0YW50aSIKICAgICAgKQogICAgICAuam9pbigKICAgICAgICBiZWZvcmVTZW5kU3VnZ2VzdENoYW5uZWwsCiAgICAgICAgcHVzaFNlbmREYXRhU3RlcDIoInByb2ZpbGVJZCIpID09PSBiZWZvcmVTZW5kU3VnZ2VzdENoYW5uZWwoInByb2ZpbGVJZCIpIGFuZAogICAgICAgICAgcHVzaFNlbmREYXRhU3RlcDIoImFjdGl2aXR5SWQiKSA9PT0gYmVmb3JlU2VuZFN1Z2dlc3RDaGFubmVsKCJhY3Rpdml0eUlkIiksCiAgICAgICAgImxlZnRhbnRpIgogICAgICApCiAgICAgIC5zb3J0KCdwcm9maWxlSWQsICdhY3Rpdml0eUlkKQogICAgICAuY2FjaGUoKQoKICAgIHB1c2hTZW5kRGF0YVN0ZXAyLnVucGVyc2lzdCgpCiAgICBwdXNoU2VuZERhdGEKICB9Cn0KCm9iamVjdCBTdWdnZXN0Q2hhbm5lbEV4dHJhY3RvckJhdGNoIHsKICB2YWwgZW52OiBFbnZpcm9ubWVudCA9CiAgICBFbnZpcm9ubWVudC5kZXBsb3lPckVsc2UoVGVzdEhhZG9vcEVudmlyb25tZW50KHRoaXMuZ2V0Q2xhc3MsIFBoYXNlLlRlc3QsIEhhZG9vcENsdXN0ZXIuS3NCYXRjaCkpCiAgaW1wb3J0IGVudi5fCiAgaW1wbGljaXQgdmFsIHBhdGhNYW5hZ2VyOiBQYXRoTWFuYWdlclBoYXNlID0gbmV3IFBhdGhNYW5hZ2VyUGhhc2UoKShQaGFzZS5Qcm9kKQogIGltcGxpY2l0IHZhbCBzZXNzaW9uTWFuYWdlcjogU2Vzc2lvbk1hbmFnZXIgPSBuZXcgU2Vzc2lvbk1hbmFnZXJQaGFzZShTZXNzaW9uTWFuYWdlci5nZXRTcGFya0NvbmYoZW52LmNvbmZpZykpCiAgaW1wbGljaXQgdmFsIGRhdGVQYXJzZXI6IERhdGVQYXJzZXIgPSBuZXcgRGF0ZVBhcnNlclV0YwoKICBpbXBsaWNpdCB2YWwgY2hhbm5lbENvbm5lY3Rpb25NYW5hZ2VyOiBDb25uZWN0aW9uTWFuYWdlcltDaGFubmVsU2xhdmVdID0KICAgIENvbm5lY3Rpb25NYW5hZ2VyTXlzcWwuY2hhbm5lbChjb25maWcuZ2V0Q29uZmlnKCJrZGIiKSkKICBpbXBsaWNpdCB2YWwgYWRtaW5Db25uZWN0aW9uTWFuYWdlcjogQ29ubmVjdGlvbk1hbmFnZXJbQWRtaW5TbGF2ZV0gPQogICAgQ29ubmVjdGlvbk1hbmFnZXJNeXNxbC5hZG1pbihjb25maWcuZ2V0Q29uZmlnKCJrZGIiKSkKCiAgaW1wbGljaXQgdmFsIGNoYW5uZWxTcWxTZXJ2aWNlOiBTcWxTZXJ2aWNlW0NoYW5uZWxTbGF2ZV0gPSBuZXcgU3FsU2VydmljZU15c3FsW0NoYW5uZWxTbGF2ZV0KICBpbXBsaWNpdCB2YWwgYWRtaW5TcWxTZXJ2aWNlOiBTcWxTZXJ2aWNlW0FkbWluU2xhdmVdID0gbmV3IFNxbFNlcnZpY2VNeXNxbFtBZG1pblNsYXZlXQoKICBpbXBsaWNpdCB2YWwgc3RvcnlQbHVzQmxvY2tlZFVzZXJSZXBvOiBTdG9yeVBsdXNCbG9ja2VkVXNlclJlcG8gPSBuZXcgU3RvcnlQbHVzQmxvY2tlZFVzZXJSZXBvRGIKICBpbXBsaWNpdCB2YWwgc3RvcnlQbHVzRGV0YWlsUmVwbzogU3RvcnlQbHVzRGV0YWlsUmVwbyA9IG5ldyBTdG9yeVBsdXNEZXRhaWxSZXBvRGIKICBpbXBsaWNpdCB2YWwgc3RvcnlQbHVzUHJvZmlsZVRhZ1JlcG86IFN0b3J5UGx1c1Byb2ZpbGVUYWdSZXBvID0gbmV3IFN0b3J5UGx1c1Byb2ZpbGVUYWdSZXBvRGIKCiAgaW1wbGljaXQgdmFsIHB1c2hDb21tb25TZXJ2aWNlOiBQdXNoQ29tbW9uU2VydmljZSA9IG5ldyBQdXNoQ29tbW9uU2VydmljZURlZmF1bHQKCiAgdmFsIGFwcCA9IG5ldyBTdWdnZXN0Q2hhbm5lbEV4dHJhY3RvckJhdGNoCgogIGRlZiBtYWluKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBVbml0ID0gewogICAgdmFsIHNwYXJrID0gc2Vzc2lvbk1hbmFnZXIuZ2V0T3JDcmVhdGVTZXNzaW9uCiAgICBhcHAucnVuKHNwYXJrKShhcmdzKQogIH0KfQo=</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>(Option)</text>
+        <text>.cache()</text>
       </register>
       <register name="/" type="4">
-        <text>unpersis</text>
+        <text encoding="base64">XDx3aGl0ZUNoYW5uZWxBY3Rpdml0eVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5lcnIucHJpbnRsbigi7YyM652866mU7YSw6rCAIOyemOuquyDsnoXroKXrkJjsl4jsirXri4jri6QuIikK</text>
+      <register name="0" type="4">
+        <text>friendChannelActivity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24uSmF2YUNvbnZlcnRlcnMuXwo=</text>
+        <text encoding="base64">ICAgIC0tY29uZiBzcGFyay5kcml2ZXIubWVtb3J5IDhnIFwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2670,25 +2671,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIFBhcmFtcyggY29uZmlnRmlsZVBhdGg6IFN0cmluZywgcHJlZml4OiBPcHRpb25bU3RyaW5nXSApCg==</text>
+        <text encoding="base64">ICAgICAgZm9sbG93ZWVzLnVucGVyc2lzdCgpCiAgICAgIGNoYW5uZWxCbG9ja2VkVXNlci51bnBlcnNpc3QoKQogICAgICBiZWZvcmVTZW5kU3VnZ2VzdENoYW5uZWwudW5wZXJzaXN0KCkKICAgICAgd2hpdGVDaGFubmVsQWN0aXZpdHk0UHJvZmlsZS51bnBlcnNpc3QoKQogICAgICB3aGl0ZUNoYW5uZWxBY3Rpdml0eS51bnBlcnNpc3QoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9sbG93ZWVzLgo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHB1c2hTZW5kRGF0YQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1c2hTZW5kRGF0YVN0ZXAyLnVucGVyc2lzdCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb25maWdQYXRoID0gYXJncygwKQogICAgdmFsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQ29uc29sZS5lcnIucHJpbnRsbigi7YyM652866mU7YSw6rCAIOyemOuqu+yeheugpeuQmOyXiOyKteuLiOuLpC4iKQo=</text>
+        <text encoding="base64">ICAgIHB1c2hTZW5kRGF0YVN0ZXAxLnVucGVyc2lzdCgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2717,10 +2718,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHJhaXQgQ29uZmlnUGFyc2VyIHsKICAKfQoK</text>
+        <text encoding="base64">ICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXA0XzIudW5wZXJzaXN0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGZyaWVuZENoYW5uZWxBY3Rpdml0eVN0ZXA0XzEudW5wZXJzaXN0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -2732,9 +2733,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>unpersis</last-search>
+      <last-search encoding="base64">XDx3aGl0ZUNoYW5uZWxBY3Rpdml0eVw+</last-search>
       <last-offset />
-      <last-pattern>unpersis</last-pattern>
+      <last-pattern encoding="base64">XDx3aGl0ZUNoYW5uZWxBY3Rpdml0eVw+</last-pattern>
       <last-replace>admin</last-replace>
       <last-substitute>channel</last-substitute>
       <last-dir>1</last-dir>
