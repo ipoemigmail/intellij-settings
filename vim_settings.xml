@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>rend</entry>
-        <entry encoding="base64">XDxnZXRfZnVsbF9kaXJcPg==</entry>
         <entry>phase\c</entry>
         <entry encoding="base64">XDx3aGl0ZUNoYW5uZWxMaXN0XD4=</entry>
         <entry encoding="base64">XDxmcmllbmRzXD4=</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxsb2dTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxwYXRoTWFuYWdlclw+</entry>
         <entry encoding="base64">XDxzcWxTZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxnZXRCYW5uZWRVc2VyXD4=</entry>
+        <entry encoding="base64">XDxzdG9yeVRlbGxlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Symbole/Symbol/g</entry>
@@ -47,8 +47,8 @@
         <entry>79</entry>
         <entry>298</entry>
         <entry>66</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -171,11 +171,12 @@
         <mark key="[" line="9" column="89" />
         <mark key="]" line="9" column="104" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" timestamp="1587369607566">
-        <mark key="'" line="70" column="71" />
-        <mark key="[" line="121" column="9" />
-        <mark key="]" line="126" column="35" />
-        <mark key="." line="109" column="53" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" timestamp="1587370165526">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="89" column="78" />
+        <mark key="]" line="90" column="12" />
+        <mark key="." line="90" column="76" />
+        <mark key="^" line="90" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/StoryPlusProfileTagRepoDb.scala" timestamp="1587369459622">
         <mark key="[" line="20" column="0" />
@@ -218,17 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="53" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/run.sh" />
-      <jump line="297" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" />
-      <jump line="81" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/run.sh" />
-      <jump line="85" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/run.sh" />
-      <jump line="42" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
-      <jump line="43" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
-      <jump line="12" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
-      <jump line="24" column="38" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.3.3/config-1.3.3-sources.jar!/com/typesafe/config/impl/ConfigString.java" />
-      <jump line="14" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
-      <jump line="38" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
-      <jump line="34" column="9" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
       <jump line="35" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
       <jump line="37" column="52" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
       <jump line="51" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" />
@@ -318,6 +308,17 @@
       <jump line="11" column="75" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/StoryTellerRepoDb.scala" />
       <jump line="10" column="51" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/StoryTellerRepoDb.scala" />
       <jump line="21" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/StoryTellerRepoDb.scala" />
+      <jump line="118" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
+      <jump line="137" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
+      <jump line="122" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
+      <jump line="125" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
+      <jump line="68" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
+      <jump line="43" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
+      <jump line="44" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
+      <jump line="45" column="26" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
+      <jump line="98" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
+      <jump line="35" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
+      <jump line="108" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,7 +327,7 @@
         <text>pushCommonService</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2631,16 +2632,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>StoryTellerCategory</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzcWxTZXJ2aWNlXD4=</text>
+        <text encoding="base64">XDxzdG9yeVRlbGxlclw+</text>
       </register>
       <register name="0" type="4">
-        <text>StoryTellerWithCategoryName</text>
+        <text>storyTellerRepo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2667,27 +2668,27 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgdGFibGVOYW1lOiBTdHJpbmcgPSAiZXhwbG9yZV9wcm9maWxlcyIK</text>
+        <text encoding="base64">ICAgIHdpdGhEQigibWlzYyIpIHsgaW1wbGljaXQgYyA9PgogICAgICBTUUwiIiJTRUxFQ1QgQFJOVU0gOj0gQFJOVU0gKyAxIEFTIHJvd051bWJlciwgYS5wcm9maWxlX2lkIEFTIHByb2ZpbGVJZCwgTUlOKGMubmFtZSkgQVMgY2F0ZWdvcnlOYW1lCiAgICAgICAgICAgIEZST00gZXhwbG9yZV9wcm9maWxlcyBhLCBleHBsb3JlX3Byb2ZpbGVfY2F0ZWdvcmllcyBiLCBleHBsb3JlX2NhdGVnb3JpZXMgYywgKFNFTEVDVCBAUk5VTSA6PSAwKSBkCiAgICAgICAgICAgIFdIRVJFIGEudHlwZSA9ICdCMDAzJyBBTkQgYS5pc19hY3RpdmUgPSAxCiAgICAgICAgICAgIEFORCBhLnByb2ZpbGVfaWQgPSBiLnByb2ZpbGVfaWQKICAgICAgICAgICAgQU5EIGIuY2F0ZWdvcnlfaWQgPSBjLmlkCiAgICAgICAgICAgIEdST1VQIEJZIGEucHJvZmlsZV9pZCIiIi5hcyhyb3dQYXJzZXIuKikKICAgIH0udG9ERigpCiAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;&quot;&quot;SELECT c.id AS category_id, c.name AS name FROM explore_categories c, explore_profile_categories p &quot;&quot;&quot; ++ fr&quot;&quot;&quot;
-          |WHERE p.profile_type = 'B003' AND p.profile_id = $profileId AND p.category_id = c.id AND is_display = 1
-          |&quot;&quot;&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhbCByb3dQYXJzZXIgPSBNYWNyby5uYW1lZFBhcnNlcltTdG9yeVRlbGxlcl0KCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5zdG9yYWdlLnJlcG8udXRpbC5jYXNlQWNjZXNzb3JzCg==</text>
+        <text encoding="base64">ICAgIHN0b3J5UGx1c0RldGFpbFJlcG86IFN0b3J5UGx1c0RldGFpbFJlcG8sCiAgICBzdG9yeVBsdXNQcm9maWxlVGFnUmVwbzogU3RvcnlQbHVzUHJvZmlsZVRhZ1JlcG8sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgY29sdW1uTmFtZXM6IExpc3RbU3RyaW5nXSA9IEFsbEZpZWxkcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBkZWYgdGFibGVOYW1lOiBTdHJpbmcgPSAiZXhwbG9yZV9wcm9maWxlcyIK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBpbXBvcnQgU3RvcnlUZWxsZXJSZXBvRGIuXwo=</text>
+      <register name="7" type="4">
+        <text>&quot;&quot;&quot;SELECT c.id AS category_id, c.name AS name FROM explore_categories c, explore_profile_categories p &quot;&quot;&quot; ++ fr&quot;&quot;&quot;
+          |WHERE p.profile_type = 'B003' AND p.profile_id = $profileId AND p.category_id = c.id AND is_display = 1
+          |&quot;&quot;&quot;</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2716,13 +2717,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cm9iamVjdCBTdG9yeVRlbGxlclJlcG9EYiB7CiAgdmFsIEFsbEZpZWxkczogTGlzdFtTdHJpbmddID0gY2FzZUFjY2Vzc29yc1tTdG9yeVRlbGxlcldpdGhDYXRlZ29yeU5hbWVdLm1hcChfLm5hbWUudG9TdHJpbmcpCn0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5zdG9yYWdlLnJlcG8udXRpbC5jYXNlQWNjZXNzb3JzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYga2V5TmFtZXM6IExpc3RbU3RyaW5nXSA9IExpc3QoInByb2ZpbGVfaWQiLCAidGFnX2lkIikK</text>
+        <text encoding="base64">ICBkZWYgY29sdW1uTmFtZXM6IExpc3RbU3RyaW5nXSA9IEFsbEZpZWxkcwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2731,9 +2732,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzcWxTZXJ2aWNlXD4=</last-search>
+      <last-search encoding="base64">XDxzdG9yeVRlbGxlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzcWxTZXJ2aWNlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdG9yeVRlbGxlclw+</last-pattern>
       <last-replace>admin</last-replace>
       <last-substitute>channel</last-substitute>
       <last-dir>1</last-dir>
