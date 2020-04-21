@@ -47,8 +47,8 @@
         <entry encoding="base64">JzwsJz5zL0NoYW5uZWwvTWlzYy9n</entry>
         <entry encoding="base64">JzwsJz5zL2NoYW5uZWwvbWlzYy9n</entry>
         <entry>%s/LocalDate/DateTime/g</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -158,7 +158,7 @@
         <mark key="." line="98" column="87" />
         <mark key="^" line="98" column="88" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetdata/UserActivityExtractor.scala" timestamp="1587446136394">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetdata/UserActivityExtractor.scala" timestamp="1587451472010">
         <mark key="'" line="24" column="2" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="99" column="3" />
@@ -202,13 +202,13 @@
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1587449296392">
-        <mark key="q" line="69" column="0" />
-        <mark key="'" line="140" column="11" />
-        <mark key="[" line="56" column="89" />
-        <mark key="]" line="56" column="93" />
-        <mark key="^" line="56" column="93" />
-        <mark key="." line="56" column="92" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1587453017200">
+        <mark key="q" line="73" column="0" />
+        <mark key="'" line="143" column="11" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="60" column="34" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch-dev.conf" timestamp="1587449311065">
         <mark key="[" line="10" column="0" />
@@ -349,7 +349,7 @@
         <text>pushCommonService</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cm9vdERpciA9ICIvdG1wL2V2ZW50L3RhcmdldGluZ3B1c2gvd2FrZXVwIgo=</text>
+        <text encoding="base64">ICAgICAgLmNhY2hlKCkK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2654,16 +2654,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>Data</text>
+        <text>targetUser</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yeVRlbGxlclJlcG9cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cm9vdERpciA9ICIva2FrYW9zdG9yeS9ldmVudC90YXJnZXRpbmdwdXNoL3dha2V1cCIK</text>
+      <register name="0" type="4">
+        <text>finalPushSendData</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm9vdERpciA9ICIvdG1wL2V2ZW50L3RhcmdldGluZ3B1c2gvd2FrZXVwIgo=</text>
+        <text encoding="base64">ICAgICAgLmNhY2hlKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2690,25 +2690,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm9vdERpciA9ICIvdG1wL2V2ZW50L3RhcmdldGluZ3B1c2gvd2FrZXVwIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgbWlzY0Nvbm5lY3Rpb25NYW5hZ2VyOiBDb25uZWN0aW9uTWFuYWdlcltNaXNjU2xhdmVdID0KICAgIENvbm5lY3Rpb25NYW5hZ2VyTXlzcWwubWlzYyhjb25maWcuZ2V0Q29uZmlnKCJrZGIiKSkKICBpbXBsaWNpdCB2YWwgZnJpZW5kQ29ubmVjdGlvbk1hbmFnZXI6IFNoYXJkQ29ubmVjdGlvbk1hbmFnZXJbRnJpZW5kc1NsYXZlXSA9CiAgICBTaGFyZENvbm5lY3Rpb25NYW5hZ2VyTXlzcWwuZnJpZW5kcyhjb25maWcuZ2V0Q29uZmlnKCJrZGIiKSkKCiAgaW1wbGljaXQgdmFsIG1pc2NTcWxTZXJ2aWNlOiBTcWxTZXJ2aWNlW01pc2NTbGF2ZV0gPSBuZXcgU3FsU2VydmljZU15c3FsW01pc2NTbGF2ZV0KICBpbXBsaWNpdCB2YWwgZnJpZW5kc1NxbFNlcnZpY2U6IFNoYXJkU3FsU2VydmljZVtGcmllbmRzU2xhdmVdID0gbmV3IFNoYXJkU3FsU2VydmljZU15c3FsW0ZyaWVuZHNTbGF2ZV0KCiAgaW1wbGljaXQgdmFsIGJhbm5lZFVzZXJSZXBvOiBCYW5uZWRVc2VyUmVwbyA9IG5ldyBCYW5uZWRVc2VyUmVwb0RiCiAgaW1wbGljaXQgdmFsIGJhbm5pbmdVc2VyUmVwbzogQmFubmluZ1VzZXJSZXBvID0gbmV3IEJhbm5pbmdVc2VyUmVwb0RiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>(spark: SparkSession)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgbWlzY0Nvbm5lY3Rpb25NYW5hZ2VyOiBDb25uZWN0aW9uTWFuYWdlcltNaXNjU2xhdmVdID0KICAgIENvbm5lY3Rpb25NYW5hZ2VyTXlzcWwubWlzYyhjb25maWcuZ2V0Q29uZmlnKCJrZGIiKSkKICBpbXBsaWNpdCB2YWwgZnJpZW5kQ29ubmVjdGlvbk1hbmFnZXI6IFNoYXJkQ29ubmVjdGlvbk1hbmFnZXJbRnJpZW5kc1NsYXZlXSA9CiAgICBTaGFyZENvbm5lY3Rpb25NYW5hZ2VyTXlzcWwuZnJpZW5kcyhjb25maWcuZ2V0Q29uZmlnKCJrZGIiKSkKCiAgaW1wbGljaXQgdmFsIG1pc2NTcWxTZXJ2aWNlOiBTcWxTZXJ2aWNlW01pc2NTbGF2ZV0gPSBuZXcgU3FsU2VydmljZU15c3FsW01pc2NTbGF2ZV0KICBpbXBsaWNpdCB2YWwgZnJpZW5kc1NxbFNlcnZpY2U6IFNoYXJkU3FsU2VydmljZVtGcmllbmRzU2xhdmVdID0gbmV3IFNoYXJkU3FsU2VydmljZU15c3FsW0ZyaWVuZHNTbGF2ZV0KCiAgaW1wbGljaXQgdmFsIGJhbm5lZFVzZXJSZXBvOiBCYW5uZWRVc2VyUmVwbyA9IG5ldyBCYW5uZWRVc2VyUmVwb0RiCiAgaW1wbGljaXQgdmFsIGJhbm5pbmdVc2VyUmVwbzogQmFubmluZ1VzZXJSZXBvID0gbmV3IEJhbm5pbmdVc2VyUmVwb0RiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgbWlzY0Nvbm5lY3Rpb25NYW5hZ2VyOiBDb25uZWN0aW9uTWFuYWdlcltNaXNjU2xhdmVdID0KICAgIENvbm5lY3Rpb25NYW5hZ2VyTXlzcWwubWlzYyhjb25maWcuZ2V0Q29uZmlnKCJrZGIiKSkKICBpbXBsaWNpdCB2YWwgZnJpZW5kQ29ubmVjdGlvbk1hbmFnZXI6IFNoYXJkQ29ubmVjdGlvbk1hbmFnZXJbRnJpZW5kc1NsYXZlXSA9CiAgICBTaGFyZENvbm5lY3Rpb25NYW5hZ2VyTXlzcWwuZnJpZW5kcyhjb25maWcuZ2V0Q29uZmlnKCJrZGIiKSkKCiAgaW1wbGljaXQgdmFsIG1pc2NTcWxTZXJ2aWNlOiBTcWxTZXJ2aWNlW01pc2NTbGF2ZV0gPSBuZXcgU3FsU2VydmljZU15c3FsW01pc2NTbGF2ZV0KICBpbXBsaWNpdCB2YWwgZnJpZW5kc1NxbFNlcnZpY2U6IFNoYXJkU3FsU2VydmljZVtGcmllbmRzU2xhdmVdID0gbmV3IFNoYXJkU3FsU2VydmljZU15c3FsW0ZyaWVuZHNTbGF2ZV0KCiAgaW1wbGljaXQgdmFsIGJhbm5lZFVzZXJSZXBvOiBCYW5uZWRVc2VyUmVwbyA9IG5ldyBCYW5uZWRVc2VyUmVwb0RiCiAgaW1wbGljaXQgdmFsIGJhbm5pbmdVc2VyUmVwbzogQmFubmluZ1VzZXJSZXBvID0gbmV3IEJhbm5pbmdVc2VyUmVwb0RiCiAgaW1wbGljaXQgdmFsIHB1c2hDb21tb25TZXJ2aWNlOiBQdXNoQ29tbW9uU2VydmljZSA9IG5ldyBQdXNoQ29tbW9uU2VydmljZURlZmF1bHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc3RvcnlUZWxsZXJSZXBvOiBTdG9yeVRlbGxlclJlcG8gPSBuZXcgU3RvcnlUZWxsZXJSZXBvRGIK</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgbWlzY0Nvbm5lY3Rpb25NYW5hZ2VyOiBDb25uZWN0aW9uTWFuYWdlcltNaXNjU2xhdmVdID0KICAgIENvbm5lY3Rpb25NYW5hZ2VyTXlzcWwubWlzYyhjb25maWcuZ2V0Q29uZmlnKCJrZGIiKSkKICBpbXBsaWNpdCB2YWwgZnJpZW5kQ29ubmVjdGlvbk1hbmFnZXI6IFNoYXJkQ29ubmVjdGlvbk1hbmFnZXJbRnJpZW5kc1NsYXZlXSA9CiAgICBTaGFyZENvbm5lY3Rpb25NYW5hZ2VyTXlzcWwuZnJpZW5kcyhjb25maWcuZ2V0Q29uZmlnKCJrZGIiKSkKCiAgaW1wbGljaXQgdmFsIG1pc2NTcWxTZXJ2aWNlOiBTcWxTZXJ2aWNlW01pc2NTbGF2ZV0gPSBuZXcgU3FsU2VydmljZU15c3FsW01pc2NTbGF2ZV0KICBpbXBsaWNpdCB2YWwgZnJpZW5kc1NxbFNlcnZpY2U6IFNoYXJkU3FsU2VydmljZVtGcmllbmRzU2xhdmVdID0gbmV3IFNoYXJkU3FsU2VydmljZU15c3FsW0ZyaWVuZHNTbGF2ZV0KCiAgaW1wbGljaXQgdmFsIGJhbm5lZFVzZXJSZXBvOiBCYW5uZWRVc2VyUmVwbyA9IG5ldyBCYW5uZWRVc2VyUmVwb0RiCiAgaW1wbGljaXQgdmFsIGJhbm5pbmdVc2VyUmVwbzogQmFubmluZ1VzZXJSZXBvID0gbmV3IEJhbm5pbmdVc2VyUmVwb0RiCiAgaW1wbGljaXQgdmFsIHB1c2hDb21tb25TZXJ2aWNlOiBQdXNoQ29tbW9uU2VydmljZSA9IG5ldyBQdXNoQ29tbW9uU2VydmljZURlZmF1bHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJhbm5pbmdVc2VyUmVwbzogQmFubmluZ1VzZXJSZXBvLAo=</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc3RvcnlUZWxsZXJSZXBvOiBTdG9yeVRlbGxlclJlcG8gPSBuZXcgU3RvcnlUZWxsZXJSZXBvRGIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2737,13 +2737,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhbm5lZFVzZXJSZXBvOiBCYW5uZWRVc2VyUmVwbywK</text>
+        <text encoding="base64">ICAgIGJhbm5pbmdVc2VyUmVwbzogQmFubmluZ1VzZXJSZXBvLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0b3J5VGVsbGVyUmVwbzogU3RvcnlUZWxsZXJSZXBvLAo=</text>
+        <text encoding="base64">ICAgIGJhbm5lZFVzZXJSZXBvOiBCYW5uZWRVc2VyUmVwbywK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
