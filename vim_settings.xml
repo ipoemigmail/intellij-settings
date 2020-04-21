@@ -11,10 +11,7 @@
         <entry>Request</entry>
         <entry>permi</entry>
         <entry encoding="base64">XDxjcmVhdGVMb2dcPg==</entry>
-        <entry encoding="base64">XDx0YXJnZXRVc2VyXD4=</entry>
-        <entry encoding="base64">XDx0YXJnZXRVc2VyRnJpZW5kc1w+</entry>
         <entry encoding="base64">XDxmcmllbmRMYXRlc3RBY3Rpdml0eVw+</entry>
-        <entry encoding="base64">XDxmaW5hbFB1c2hTZW5kRGF0YVw+</entry>
         <entry encoding="base64">XDxmcmllbmRzXD4=</entry>
         <entry encoding="base64">XDxzdG9yeVRlbGxlclJlcG9cPg==</entry>
         <entry encoding="base64">XDxleHRyYWN0VGFyZ2V0RGF0YVw+</entry>
@@ -22,11 +19,14 @@
         <entry encoding="base64">XDxkZXN0cm95TG9nQ29uZFw+</entry>
         <entry>age\c</entry>
         <entry encoding="base64">XDxwYXJzZVw+</entry>
-        <entry encoding="base64">XDxhY3Rpdml0aWVzTG9nXD4=</entry>
         <entry encoding="base64">XDxwYXRoc1w+</entry>
         <entry encoding="base64">XDxoZGZzVXRpbFw+</entry>
         <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxsb2dQYXRoXD4=</entry>
+        <entry encoding="base64">XDxhY3Rpdml0aWVzTG9nXD4=</entry>
+        <entry encoding="base64">XDx0YXJnZXRVc2VyXD4=</entry>
+        <entry encoding="base64">XDx0YXJnZXRVc2VyRnJpZW5kc1w+</entry>
+        <entry encoding="base64">XDxmaW5hbFB1c2hTZW5kRGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2hiYXNlUHV0L2hiYXNlUmVjb3JkL2c=</entry>
@@ -200,13 +200,13 @@
         <mark key="^" line="39" column="4" />
         <mark key="." line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1587470003835">
-        <mark key="q" line="82" column="0" />
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="85" column="95" />
-        <mark key="]" line="85" column="102" />
-        <mark key="." line="85" column="101" />
-        <mark key="^" line="85" column="102" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1587473700959">
+        <mark key="q" line="70" column="0" />
+        <mark key="'" line="55" column="10" />
+        <mark key="[" line="45" column="59" />
+        <mark key="]" line="45" column="67" />
+        <mark key="." line="45" column="66" />
+        <mark key="^" line="45" column="67" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch-dev.conf" timestamp="1587472941780">
         <mark key="[" line="6" column="24" />
@@ -239,10 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="33" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
-      <jump line="11" column="37" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
-      <jump line="96" column="69" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
-      <jump line="42" column="20" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
       <jump line="46" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
       <jump line="38" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
       <jump line="3" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryLogForDs.scala" />
@@ -265,7 +261,6 @@
       <jump line="111" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="109" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="91" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
-      <jump line="53" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="58" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="117" column="61" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="61" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
@@ -321,14 +316,12 @@
       <jump line="105" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
       <jump line="8" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
       <jump line="100" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
-      <jump line="87" column="20" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="81" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="99" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="106" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="93" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="109" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
       <jump line="113" column="89" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="82" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="71" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="74" column="56" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
       <jump line="82" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
@@ -339,6 +332,13 @@
       <jump line="163" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
       <jump line="99" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
       <jump line="101" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
+      <jump line="97" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="82" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="87" column="20" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="48" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="53" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="54" column="69" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="55" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -346,8 +346,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIHBhdGhzLmZsYXRNYXAgeyBiYXNlID0+CiAgICAgIC8vIHdlYiDroZzqt7gg7IiY7KeR7J20IOykkeuLqOuQmOyWtCDsmIjsmbgg7LK07YGs7JqpLCDsnITsl5AgQ2hhbm5lbExvZ1N0b3BEYXRlIOuPhCDsl4bslaDqs6Ag7JWE656Y66GcIO2Gte2VqSDqsIDriqUKICAgICAgdmFsIHBhdGggPSBzIiRiYXNlLyR7ZGF0ZS50b1N0cmluZygieXl5eS9NTS9kZCIpfS8qIgogICAgICBpZiAoZnMuZ2xvYlN0YXR1cyhuZXcgUGF0aChwYXRoKSkuc2l6ZSA+IDApIHsKICAgICAgICBTb21lKHBhdGgpCiAgICAgIH0gZWxzZSB7CiAgICAgICAgTm9uZQogICAgICB9CiAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>log.origin</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgIHRhcmdldFVzZXJGcmllbmRzLnVucGVyc2lzdCgpCiAgICAgIGZyaWVuZExhdGVzdEFjdGl2aXR5LnVucGVyc2lzdCgpCiAgICAgIGZpbmFsUHVzaFNlbmREYXRhLnVucGVyc2lzdCgpCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2652,20 +2652,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>log.origin</text>
+        <text encoding="base64">ICYm</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dQYXRoXD4=</text>
+        <text encoding="base64">XDxmaW5hbFB1c2hTZW5kRGF0YVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBmcyA9IEZpbGVTeXN0ZW0uZ2V0KG5ldyBDb25maWd1cmF0aW9uKCkpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-  val ts: Long =
-    Try(DateTimeFormat.forPattern(&quot;yyyyMMdd HHmmssSSS&quot;).parseDateTime(s&quot;$stdate $sttime&quot;).getMillis).getOrElse(-1L)
-  lazy val isStoryplus: Boolean = storyplusParam.contains(&quot;type=sp&quot;)
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAgIHRhcmdldFVzZXJGcmllbmRzLnVucGVyc2lzdCgpCiAgICAgIGZyaWVuZExhdGVzdEFjdGl2aXR5LnVucGVyc2lzdCgpCiAgICAgIGZpbmFsUHVzaFNlbmREYXRhLnVucGVyc2lzdCgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2692,25 +2688,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy92YWwgZnMgPSBGaWxlU3lzdGVtLmdldChuZXcgQ29uZmlndXJhdGlvbigpKQogICAgICAvL3ZhbCBzb3VyY2VzID0gRGFpbHkKICAgICAgLy8gIC5nZXRSYW5nZShmcm9tLCB0bykKICAgICAgLy8gIC5mbGF0TWFwKHAgPT4gTC5nZXRQYXRocyhsYWJlbCwgcCkuZmlsdGVyKHBhdGggPT4gZnMuZ2xvYlN0YXR1cyhuZXcgUGF0aChwYXRoKSkubGVuZ3RoID4gMCkpCg==</text>
+        <text encoding="base64">ICAgIC8vdmFsIGZyb20gPSBEYXRlVGltZS5ub3cubWludXNEYXlzKGJlZm9yZURheXMpLnRvU3RyaW5nKCJ5eXl5LU1NLWRkIikKICAgIC8vdmFsIHRvID0gRGF0ZVRpbWUubm93LnRvU3RyaW5nKCJ5eXl5LU1NLWRkIikKICAgIC8vdmFsIGFjdGl2aXRpZXNMb2cgPSBSZXF1ZXN0TG9nCiAgICAvLyAgLnJlYWQoU2VxKFJlcXVlc3RMb2cucGF0aC5hcHAsIFJlcXVlc3RMb2cucGF0aC53ZWIpLCBmcm9tLCB0bykoc3BhcmspCiAgICAvLyAgLndoZXJlKAogICAgLy8gICAgUmVxdWVzdExvZy5jb2x1bW4uY29udHJvbGxlciA9PT0gImFjdGl2aXRpZXMiICYmIChSZXF1ZXN0TG9nLmNvbHVtbi5hY3Rpb24gPT09ICJjcmVhdGUiIHx8IFJlcXVlc3RMb2cuY29sdW1uLmFjdGlvbiA9PT0gImRlc3Ryb3kiKQogICAgLy8gICkKICAgIC8vICAuY2FjaGUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgLmNhY2hlKCkK</text>
       </register>
       <register name="s" type="4">
         <text>(spark: SparkSession)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAudG9EUygpCg==</text>
+        <text encoding="base64">ICAgICAgLmNhY2hlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgUm93KGxpbmU6IFN0cmluZykgPT4K</text>
+        <text encoding="base64">ICAgICAgLmNhY2hlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAucmRkCg==</text>
+        <text encoding="base64">ICAgICAgLmFsaWFzKCJhIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAucmRkCg==</text>
+        <text encoding="base64">ICAgICAgLndoZXJlKCQiYS5hY3Rpb24iID09PSAiZGVzdG9yeSIpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2739,12 +2735,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgUm93KGxpbmU6IFN0cmluZykgPT4K</text>
+        <text encoding="base64">ICAgIGxvZy5hY3Rpb24gPT0gImRlc3Ryb3kiICYmCg==</text>
       </register>
-      <register name="9" type="8">
-        <text>//
-//
-//</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgbG9nLmFjdGlvbiA9PSAiZGVzdHJveSIgJiYK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -2756,9 +2750,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsb2dQYXRoXD4=</last-search>
+      <last-search encoding="base64">XDxmaW5hbFB1c2hTZW5kRGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dQYXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaW5hbFB1c2hTZW5kRGF0YVw+</last-pattern>
       <last-replace>DateTime</last-replace>
       <last-substitute>LocalDate</last-substitute>
       <last-dir>1</last-dir>
