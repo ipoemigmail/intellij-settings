@@ -158,11 +158,11 @@
         <mark key="." line="98" column="87" />
         <mark key="^" line="98" column="88" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" timestamp="1587456355467">
-        <mark key="[" line="58" column="13" />
-        <mark key="]" line="58" column="13" />
-        <mark key="." line="58" column="12" />
-        <mark key="^" line="58" column="13" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" timestamp="1587457793107">
+        <mark key="[" line="97" column="16" />
+        <mark key="]" line="97" column="18" />
+        <mark key="." line="97" column="17" />
+        <mark key="^" line="97" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetdata/UserActivityExtractor.scala" timestamp="1587456600309">
         <mark key="'" line="24" column="2" />
@@ -202,7 +202,7 @@
         <mark key="." line="10" column="14" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1587456684463">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1587457652075">
         <mark key="q" line="73" column="0" />
         <mark key="'" line="147" column="11" />
         <mark key="[" line="128" column="71" />
@@ -348,8 +348,8 @@
       <register name="a" type="4">
         <text>pushCommonService</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICByZXN1bHQK</text>
+      <register name="&quot;" type="4">
+        <text>x.</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2654,7 +2654,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIHJlc3VsdCA9IA==</text>
+        <text>x.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yeVRlbGxlclJlcG9cPg==</text>
