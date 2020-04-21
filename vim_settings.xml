@@ -132,13 +132,6 @@
         <mark key="]" line="12" column="76" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/BanningUserRepoDb.scala" timestamp="1587444070156">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="34" column="17" />
-        <mark key="]" line="34" column="21" />
-        <mark key="." line="40" column="31" />
-        <mark key="^" line="34" column="21" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch-prod.conf" timestamp="1587449308065">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="50" />
@@ -151,6 +144,12 @@
         <mark key="." line="100" column="1" />
         <mark key="^" line="100" column="2" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryLogInstances.scala" timestamp="1587458775775">
+        <mark key="[" line="52" column="93" />
+        <mark key="]" line="52" column="95" />
+        <mark key="." line="52" column="94" />
+        <mark key="^" line="52" column="95" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" timestamp="1587449278076">
         <mark key="'" line="53" column="29" />
         <mark key="[" line="98" column="84" />
@@ -158,7 +157,7 @@
         <mark key="." line="98" column="87" />
         <mark key="^" line="98" column="88" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" timestamp="1587457793107">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" timestamp="1587458681406">
         <mark key="[" line="97" column="16" />
         <mark key="]" line="97" column="18" />
         <mark key="." line="97" column="17" />
@@ -189,18 +188,18 @@
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="88" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryAccessLogInstances.scala" timestamp="1587458748003">
+        <mark key="[" line="38" column="85" />
+        <mark key="]" line="38" column="96" />
+        <mark key="." line="38" column="95" />
+        <mark key="^" line="38" column="96" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryLogForDs.scala" timestamp="1587447369302">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="25" column="1" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch-dev.conf" timestamp="1587444652582">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="43" />
-        <mark key="." line="10" column="14" />
-        <mark key="^" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1587457652075">
         <mark key="q" line="73" column="0" />
@@ -227,10 +226,11 @@
         <mark key="." line="59" column="56" />
         <mark key="^" line="59" column="57" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch-dev.conf" timestamp="1587444656060">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="43" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryContentsLogInstances.scala" timestamp="1587458760157">
+        <mark key="[" line="88" column="16" />
+        <mark key="]" line="88" column="17" />
+        <mark key="." line="88" column="16" />
+        <mark key="^" line="88" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" timestamp="1587447496006">
         <mark key="'" line="42" column="0" />
@@ -349,7 +349,7 @@
         <text>pushCommonService</text>
       </register>
       <register name="&quot;" type="4">
-        <text>x.</text>
+        <text>x.origin</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2654,7 +2654,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>x.</text>
+        <text>x.origin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yeVRlbGxlclJlcG9cPg==</text>
