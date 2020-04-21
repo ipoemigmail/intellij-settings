@@ -200,13 +200,13 @@
         <mark key="^" line="39" column="4" />
         <mark key="." line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1587473700959">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1587476359406">
         <mark key="q" line="70" column="0" />
         <mark key="'" line="55" column="10" />
-        <mark key="[" line="45" column="59" />
-        <mark key="]" line="45" column="67" />
-        <mark key="." line="45" column="66" />
-        <mark key="^" line="45" column="67" />
+        <mark key="[" line="72" column="6" />
+        <mark key="]" line="72" column="8" />
+        <mark key="." line="72" column="7" />
+        <mark key="^" line="72" column="8" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch-dev.conf" timestamp="1587472941780">
         <mark key="[" line="6" column="24" />
@@ -347,7 +347,7 @@
         <text encoding="base64">ICAgIHBhdGhzLmZsYXRNYXAgeyBiYXNlID0+CiAgICAgIC8vIHdlYiDroZzqt7gg7IiY7KeR7J20IOykkeuLqOuQmOyWtCDsmIjsmbgg7LK07YGs7JqpLCDsnITsl5AgQ2hhbm5lbExvZ1N0b3BEYXRlIOuPhCDsl4bslaDqs6Ag7JWE656Y66GcIO2Gte2VqSDqsIDriqUKICAgICAgdmFsIHBhdGggPSBzIiRiYXNlLyR7ZGF0ZS50b1N0cmluZygieXl5eS9NTS9kZCIpfS8qIgogICAgICBpZiAoZnMuZ2xvYlN0YXR1cyhuZXcgUGF0aChwYXRoKSkuc2l6ZSA+IDApIHsKICAgICAgICBTb21lKHBhdGgpCiAgICAgIH0gZWxzZSB7CiAgICAgICAgTm9uZQogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgIHRhcmdldFVzZXJGcmllbmRzLnVucGVyc2lzdCgpCiAgICAgIGZyaWVuZExhdGVzdEFjdGl2aXR5LnVucGVyc2lzdCgpCiAgICAgIGZpbmFsUHVzaFNlbmREYXRhLnVucGVyc2lzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgLmFsaWFzKCJhIikKICAgICAgLndoZXJlKCQiYS5jb250cm9sbGVyIiA9PT0gImFjdGl2aXRpZXMiICYmICgkImEuYWN0aW9uIiA9PT0gImNyZWF0ZSIgfHwgJCJhLmFjdGlvbiIgPT09ICJkZXN0cm95IikpCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2658,7 +2658,7 @@
         <text encoding="base64">XDxmaW5hbFB1c2hTZW5kRGF0YVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBmcyA9IEZpbGVTeXN0ZW0uZ2V0KG5ldyBDb25maWd1cmF0aW9uKCkpCg==</text>
+        <text encoding="base64">ICAgICAgLmFsaWFzKCJhIikKICAgICAgLndoZXJlKCQiYS5jb250cm9sbGVyIiA9PT0gImFjdGl2aXRpZXMiICYmICgkImEuYWN0aW9uIiA9PT0gImNyZWF0ZSIgfHwgJCJhLmFjdGlvbiIgPT09ICJkZXN0cm95IikpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgIHRhcmdldFVzZXJGcmllbmRzLnVucGVyc2lzdCgpCiAgICAgIGZyaWVuZExhdGVzdEFjdGl2aXR5LnVucGVyc2lzdCgpCiAgICAgIGZpbmFsUHVzaFNlbmREYXRhLnVucGVyc2lzdCgpCg==</text>
