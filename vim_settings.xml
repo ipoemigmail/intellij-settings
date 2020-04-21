@@ -22,11 +22,11 @@
         <entry encoding="base64">XDxzdG9yeVRlbGxlckxpc3RcPg==</entry>
         <entry encoding="base64">XDxiYW5Vc2VyXD4=</entry>
         <entry encoding="base64">XDxiZWZvcmVTZW5kU3VnZ2VzdFRlbGxlclw+</entry>
-        <entry encoding="base64">XDxzZW5kUHVzaERhdGFcPg==</entry>
         <entry encoding="base64">XDx0YXJnZXREYXRhXD4=</entry>
         <entry encoding="base64">XDx0YXJnZXRVc2VyXD4=</entry>
         <entry>Channel</entry>
         <entry>channel</entry>
+        <entry encoding="base64">XDxzZW5kUHVzaERhdGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL292ZXJyaWRlIC8vZw==</entry>
@@ -139,11 +139,17 @@
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/ShardSqlServiceMysql.scala" timestamp="1587387810712" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/ShardSqlService.scala" timestamp="1587387726184" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" timestamp="1587428358970">
-        <mark key="'" line="115" column="0" />
-        <mark key="]" line="118" column="5" />
-        <mark key="." line="118" column="4" />
-        <mark key="^" line="118" column="5" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" timestamp="1587429763918">
+        <mark key="'" line="98" column="39" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="34" column="79" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetdata/SuggestTellerExtractor.scala" timestamp="1587429512033">
+        <mark key="'" line="82" column="39" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="107" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/BannedUserRepo.scala" timestamp="1587388916933">
         <mark key="[" line="13" column="4" />
@@ -210,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/videoRank/service/VideoRankTransformService.scala" />
       <jump line="151" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/videoRank/service/VideoRankTransformService.scala" />
       <jump line="124" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/videoRank/service/VideoRankTransformService.scala" />
       <jump line="87" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/videoRank/service/VideoRankTransformService.scala" />
@@ -249,7 +254,6 @@
       <jump line="43" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
       <jump line="44" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
       <jump line="45" column="26" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
-      <jump line="98" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
       <jump line="35" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
       <jump line="10" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch.scala" />
       <jump line="50" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
@@ -310,6 +314,8 @@
       <jump line="25" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
       <jump line="129" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
       <jump line="115" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
+      <jump line="70" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
+      <jump line="98" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,8 +323,8 @@
       <register name="a" type="4">
         <text>(spark: SparkSession)</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAuY2FjaGUoKQo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2626,13 +2632,13 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>channel</text>
+        <text encoding="base64">XDxzZW5kUHVzaERhdGFcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cm9vdERpciA9ICIva2FrYW9zdG9yeS9ldmVudC90YXJnZXRpbmdwdXNoL3dha2V1cCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuY2FjaGUoKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2659,22 +2665,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVuaW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cm9vdERpciA9ICIvdG1wL2V2ZW50L3RhcmdldGluZ3B1c2gvd2FrZXVwIgo=</text>
+        <text encoding="base64">ICAgIHVuaW9uCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm9vdERpciA9ICIvdG1wL2V2ZW50L3RhcmdldGluZ3B1c2gvd2FrZXVwIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc3RvcnlQbHVzQmxvY2tlZFVzZXJSZXBvOiBTdG9yeVBsdXNCbG9ja2VkVXNlclJlcG8gPSBuZXcgU3RvcnlQbHVzQmxvY2tlZFVzZXJSZXBvRGIKICBpbXBsaWNpdCB2YWwgc3RvcnlQbHVzRGV0YWlsUmVwbzogU3RvcnlQbHVzRGV0YWlsUmVwbyA9IG5ldyBTdG9yeVBsdXNEZXRhaWxSZXBvRGIKICBpbXBsaWNpdCB2YWwgc3RvcnlQbHVzUHJvZmlsZVRhZ1JlcG86IFN0b3J5UGx1c1Byb2ZpbGVUYWdSZXBvID0gbmV3IFN0b3J5UGx1c1Byb2ZpbGVUYWdSZXBvRGIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuY2FjaGUoKQo=</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc3RvcnlQbHVzQmxvY2tlZFVzZXJSZXBvOiBTdG9yeVBsdXNCbG9ja2VkVXNlclJlcG8gPSBuZXcgU3RvcnlQbHVzQmxvY2tlZFVzZXJSZXBvRGIKICBpbXBsaWNpdCB2YWwgc3RvcnlQbHVzRGV0YWlsUmVwbzogU3RvcnlQbHVzRGV0YWlsUmVwbyA9IG5ldyBTdG9yeVBsdXNEZXRhaWxSZXBvRGIKICBpbXBsaWNpdCB2YWwgc3RvcnlQbHVzUHJvZmlsZVRhZ1JlcG86IFN0b3J5UGx1c1Byb2ZpbGVUYWdSZXBvID0gbmV3IFN0b3J5UGx1c1Byb2ZpbGVUYWdSZXBvRGIK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAuY2FjaGUoKQo=</text>
@@ -2706,10 +2712,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIHRhcmdldFVzZXIudW5wZXJzaXN0KCkKICAgICAgdGFyZ2V0RGF0YS51bnBlcnNpc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAuY2FjaGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2VuZFB1c2hEYXRhLnVucGVyc2lzdCgpCg==</text>
+        <text encoding="base64">CiAgICAgIHRhcmdldFVzZXIudW5wZXJzaXN0KCkKICAgICAgdGFyZ2V0RGF0YS51bnBlcnNpc3QoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2721,9 +2727,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>channel</last-search>
+      <last-search encoding="base64">XDxzZW5kUHVzaERhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern>channel</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kUHVzaERhdGFcPg==</last-pattern>
       <last-replace>misc</last-replace>
       <last-substitute>channel</last-substitute>
       <last-dir>1</last-dir>
