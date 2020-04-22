@@ -185,12 +185,12 @@
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_14_tQueue/TQueueSpec.scala" timestamp="1587391141904">
+      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_14_tQueue/TQueueSpec.scala" timestamp="1587391198531">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="74" column="18" />
-        <mark key="]" line="74" column="31" />
-        <mark key="." line="74" column="18" />
-        <mark key="^" line="70" column="10" />
+        <mark key="[" line="84" column="36" />
+        <mark key="]" line="84" column="37" />
+        <mark key="^" line="84" column="37" />
+        <mark key="." line="84" column="36" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_11_tarray/TArraySpec.scala" timestamp="1587293572720">
         <mark key="'" line="91" column="72" />
@@ -343,7 +343,7 @@
         <text>StoryPlusBlockedUser</text>
       </register>
       <register name="&quot;" type="4">
-        <text>tQueueTakeUpTo</text>
+        <text>)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2648,13 +2648,13 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>tQueueTakeUpTo</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGFuZA==</text>
       </register>
       <register name="0" type="4">
-        <text>tQueueTakeAll</text>
+        <text>tQueueSize</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0ZXN0TQo=</text>
