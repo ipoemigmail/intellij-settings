@@ -10,7 +10,6 @@
         <entry encoding="base64">XDxHZXRDb2x1bW5CeU9yZGluYWxcPg==</entry>
         <entry>product</entry>
         <entry>ProductTYpe</entry>
-        <entry>Product</entry>
         <entry>Pro</entry>
         <entry>statis</entry>
         <entry>static</entry>
@@ -27,6 +26,7 @@
         <entry>profileId</entry>
         <entry>hasT</entry>
         <entry>per</entry>
+        <entry>Product</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NoYW5uZWwvYWRtaW4vZw==</entry>
@@ -118,9 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Library/Java/JavaVirtualMachines/graalvm-ce-java8-20.0.0/Contents/Home/src.zip!/java/lang/Long.java" timestamp="1587532882072">
-        <mark key="'" line="223" column="31" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/log/model/StoryRequestLogTest.scala" timestamp="1587541432592">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="21" column="42" />
@@ -166,11 +163,14 @@
         <mark key="." line="5" column="64" />
         <mark key="^" line="5" column="65" />
       </file>
+      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/Encoders.scala" timestamp="1587552039077">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryLogInstances.scala" timestamp="1587535364272" />
-      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/catalyst/ScalaReflection.scala" timestamp="1587533002351">
-        <mark key="'" line="438" column="2" />
-        <mark key="[" line="237" column="8" />
-        <mark key="]" line="237" column="93" />
+      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/catalyst/encoders/ExpressionEncoder.scala" timestamp="1587552011102">
+        <mark key="'" line="44" column="7" />
+        <mark key="[" line="220" column="11" />
+        <mark key="]" line="220" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" timestamp="1587548821271">
         <mark key="'" line="19" column="69" />
@@ -187,12 +187,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="20" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" timestamp="1587549702332">
-        <mark key="'" line="131" column="39" />
-        <mark key="[" line="131" column="39" />
-        <mark key="]" line="131" column="39" />
-        <mark key="." line="131" column="39" />
-        <mark key="^" line="131" column="44" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" timestamp="1587551319032">
+        <mark key="'" line="133" column="39" />
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="42" column="12" />
+        <mark key="." line="42" column="11" />
+        <mark key="^" line="42" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/util/SparkHelper.scala" timestamp="1587536539396" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" timestamp="1587544856192">
@@ -214,9 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1007" column="39" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/catalyst/ScalaReflection.scala" />
-      <jump line="450" column="23" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/catalyst/ScalaReflection.scala" />
-      <jump line="511" column="51" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/catalyst/ScalaReflection.scala" />
       <jump line="229" column="16" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="470" column="0" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/catalyst/ScalaReflection.scala" />
       <jump line="202" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
@@ -314,6 +311,9 @@
       <jump line="114" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogEncoderInstances.scala" />
       <jump line="19" column="69" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
       <jump line="131" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
+      <jump line="46" column="57" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/Encoders.scala" />
+      <jump line="274" column="19" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/Encoders.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/Encoders.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -2630,7 +2630,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>per</text>
+        <text>Product</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvL1dyYXBPcHRpb24oanNvbk9iamVjdERlc2VyaWFsaXplcihHZXRDb2x1bW5CeU9yZGluYWwoMzEsIFN0cmluZ1R5cGUpKSwgT2JqZWN0VHlwZShjbGFzc09mW0pzb25PYmplY3RdKSksCiAgICAgICAgLy9zdHJpbmdEZXNlcmlhbGl6ZXIoR2V0Q29sdW1uQnlPcmRpbmFsKDMyLCBTdHJpbmdUeXBlKSksCiAgICAgICAgLy9zdHJpbmdEZXNlcmlhbGl6ZXIoR2V0Q29sdW1uQnlPcmRpbmFsKDMzLCBTdHJpbmdUeXBlKSksCiAgICAgICAgLy9zdHJpbmdEZXNlcmlhbGl6ZXIoR2V0Q29sdW1uQnlPcmRpbmFsKDM0LCBTdHJpbmdUeXBlKSksCg==</text>
@@ -2782,9 +2782,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>per</last-search>
+      <last-search>Product</last-search>
       <last-offset />
-      <last-pattern>per</last-pattern>
+      <last-pattern>Product</last-pattern>
       <last-replace>StringField</last-replace>
       <last-substitute>Field</last-substitute>
       <last-dir>1</last-dir>
