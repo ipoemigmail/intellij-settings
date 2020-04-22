@@ -150,7 +150,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1587536879144">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1587538286848">
         <mark key="'" line="195" column="4" />
         <mark key="[" line="213" column="0" />
         <mark key="]" line="218" column="10" />
@@ -199,17 +199,14 @@
         <mark key="^" line="59" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/util/SparkHelper.scala" timestamp="1587536539396" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/util/SparkEncoderSupport.scala" timestamp="1587537000573">
-        <mark key="q" line="93" column="10" />
-        <mark key="[" line="105" column="6" />
-        <mark key="]" line="105" column="10" />
-        <mark key="^" line="105" column="10" />
-        <mark key="." line="105" column="9" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/util/SparkEncoderSupport.scala" timestamp="1587538668695">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/catalyst/analysis/unresolved.scala" timestamp="1587527692895" />
     </filemarks>
     <jumps>
-      <jump line="109" column="13" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/catalyst/encoders/ExpressionEncoder.scala" />
       <jump line="73" column="28" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/catalyst/encoders/ExpressionEncoder.scala" />
       <jump line="329" column="46" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/catalyst/encoders/ExpressionEncoder.scala" />
       <jump line="183" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
@@ -305,10 +302,11 @@
       <jump line="63" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
       <jump line="58" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
       <jump line="55" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/util/SparkEncoderSupport.scala" />
-      <jump line="78" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/util/SparkEncoderSupport.scala" />
       <jump line="93" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/util/SparkEncoderSupport.scala" />
       <jump line="24" column="43" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/util/SparkEncoderSupport.scala" />
       <jump line="94" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/util/SparkEncoderSupport.scala" />
+      <jump line="78" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/util/SparkEncoderSupport.scala" />
+      <jump line="87" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/util/SparkEncoderSupport.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,8 +314,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBTdGF0aWNJbnZva2UoCiAgICAgICAgICBjbGFzc09mW1VURjhTdHJpbmddLAogICAgICAgICAgU3RyaW5nVHlwZSwKICAgICAgICAgICJmcm9tU3RyaW5nIiwK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Integer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2622,7 +2620,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>fieldName</text>
       </register>
       <register name="/" type="4">
         <text>toryLog</text>
@@ -2631,7 +2629,7 @@
         <text encoding="base64">ICBkZWYgaW50RmllbGRTZXJpYWxpemVyW0E6IENsYXNzVGFnXShmaWVsZE5hbWU6IFN0cmluZyk6IEV4cHJlc3Npb24gPQogICAgSW52b2tlKAogICAgICBCb3VuZFJlZmVyZW5jZSgwLCBPYmplY3RUeXBlKGNsYXNzT2ZbQV0pLCBudWxsYWJsZSA9IHRydWUpLAogICAgICBmaWVsZE5hbWUsCiAgICAgIEludGVnZXJUeXBlLAogICAgICBTZXEuZW1wdHkKICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN0YXRpY0ludm9rZSgKICAgICAgY2xhc3NPZltVVEY4U3RyaW5nXSwKICAgICAgU3RyaW5nVHlwZSwKICAgICAgImZyb21TdHJpbmciLAogICAgICBJbnZva2UoCiAgICAgICAgQm91bmRSZWZlcmVuY2UoMCwgT2JqZWN0VHlwZShjbGFzc09mW0FdKSwgbnVsbGFibGUgPSB0cnVlKSwKICAgICAgICBmaWVsZE5hbWUsCiAgICAgICAgT2JqZWN0VHlwZShjbGFzc09mW1N0cmluZ10pLAogICAgICAgIFNlcS5lbXB0eSwKICAgICAgICByZXR1cm5OdWxsYWJsZSA9IGZhbHNlCiAgICAgICkgOjogTmlsLAogICAgICByZXR1cm5OdWxsYWJsZSA9IGZhbHNlCiAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2658,15 +2656,24 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN0YXRpY0ludm9rZSgKICAgICAgY2xhc3NPZltVVEY4U3RyaW5nXSwKICAgICAgU3RyaW5nVHlwZSwKICAgICAgImZyb21TdHJpbmciLAogICAgICBFeHByZXNzaW9uRW5jb2RlcigKICAgICkK</text>
+        <text encoding="base64">ICBkZWYgaW50U2VyaWFsaXplcihleHA6IEV4cHJlc3Npb24pOiBFeHByZXNzaW9uID0KICAgIEludm9rZSgKICAgICAgQm91bmRSZWZlcmVuY2UoMCwgT2JqZWN0VHlwZShjbGFzc09mW0FdKSwgbnVsbGFibGUgPSB0cnVlKSwKICAgICAgZmllbGROYW1lLAogICAgICBJbnRlZ2VyVHlwZSwKICAgICAgU2VxLmVtcHR5CiAgICApCgogIGRlZiBsb25nRmllbGRTZXJpYWxpemVyW0E6IENsYXNzVGFnXShmaWVsZE5hbWU6IFN0cmluZyk6IEV4cHJlc3Npb24gPQogICAgSW52b2tlKAogICAgICBCb3VuZFJlZmVyZW5jZSgwLCBPYmplY3RUeXBlKGNsYXNzT2ZbQV0pLCBudWxsYWJsZSA9IHRydWUpLAogICAgICBmaWVsZE5hbWUsCiAgICAgIExvbmdUeXBlLAogICAgICBTZXEuZW1wdHkKICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nVHlwZSwK</text>
+        <text encoding="base64">ICAgICAgSW52b2tlKAogICAgICAgIEJvdW5kUmVmZXJlbmNlKDAsIE9iamVjdFR5cGUoY2xhc3NPZltBXSksIG51bGxhYmxlID0gdHJ1ZSksCiAgICAgICAgZmllbGROYW1lLAogICAgICAgIE9iamVjdFR5cGUoY2xhc3NPZltTdHJpbmddKSwKICAgICAgICBTZXEuZW1wdHksCiAgICAgICAgcmV0dXJuTnVsbGFibGUgPSBmYWxzZQogICAgICApIDo6IE5pbCwK</text>
       </register>
       <register name="s" type="4">
         <text>(spark: SparkSession)</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFN0YXRpY0ludm9rZSgKICAgICAgY2xhc3NPZltVVEY4U3RyaW5nXSwKICAgICAgU3RyaW5nVHlwZSwKICAgICAgImZyb21TdHJpbmciLAogICAgICBJbnZva2UoCiAgICAgICAgQm91bmRSZWZlcmVuY2UoMCwgT2JqZWN0VHlwZShjbGFzc09mW0FdKSwgbnVsbGFibGUgPSB0cnVlKSwKICAgICAgICBmaWVsZE5hbWUsCiAgICAgICAgT2JqZWN0VHlwZShjbGFzc09mW1N0cmluZ10pLAogICAgICAgIFNlcS5lbXB0eSwKICAgICAgICByZXR1cm5OdWxsYWJsZSA9IGZhbHNlCiAgICAgICkgOjogTmlsLAogICAgICByZXR1cm5OdWxsYWJsZSA9IGZhbHNlCiAgICApCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFN0YXRpY0ludm9rZSgKICAgICAgY2xhc3NPZltVVEY4U3RyaW5nXSwKICAgICAgU3RyaW5nVHlwZSwKICAgICAgImZyb21TdHJpbmciLAogICAgICBFeHByZXNzaW9uRW5jb2RlcigKICAgICkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nVHlwZSwK</text>
+      </register>
+      <register name="7" type="4">
         <text>UnwrapOption(
           ObjectType(classOf[Json]),
           Invoke(
@@ -2677,15 +2684,6 @@
             returnNullable = false
           )
         )</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdGF0aWNJbnZva2UoCiAgICAgICAgICBTcGFya0pzb25VdGlsLmdldENsYXNzLAogICAgICAgICAgT2JqZWN0VHlwZShjbGFzc09mW0pzb25dKSwKICAgICAgICAgICJlbmNvZGVKc29uT2JqZWN0T3JUaHJvdyIsCiAgICAgICAgICBTZXEoCiAgICAgICAgICApLAogICAgICAgICAgcmV0dXJuTnVsbGFibGUgPSBmYWxzZQogICAgICAgICksCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVW53cmFwT3B0aW9uKAogICAgICAgICAgICAgIE9iamVjdFR5cGUoY2xhc3NPZltKc29uXSksCiAgICAgICAgICAgICAgSW52b2tlKAogICAgICAgICAgICAgICAgQm91bmRSZWZlcmVuY2UoMCwgT2JqZWN0VHlwZShjbGFzc09mW1N0b3J5TG9nXSksIG51bGxhYmxlID0gdHJ1ZSksCiAgICAgICAgICAgICAgICAicHJvcHMiLAogICAgICAgICAgICAgICAgT2JqZWN0VHlwZShjbGFzc09mW09wdGlvbltKc29uXV0pLAogICAgICAgICAgICAgICAgU2VxLmVtcHR5LAogICAgICAgICAgICAgICAgcmV0dXJuTnVsbGFibGUgPSBmYWxzZQogICAgICAgICAgICAgICkKICAgICAgICAgICAgKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybk51bGxhYmxlID0gZmFsc2UK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2713,19 +2711,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTdGF0aWNJbnZva2UoCiAgICAgICAgICBTcGFya0pzb25VdGlsLmdldENsYXNzLAogICAgICAgICAgT2JqZWN0VHlwZShjbGFzc09mW0pzb25dKSwKICAgICAgICAgICJlbmNvZGVKc29uT2JqZWN0T3JUaHJvdyIsCiAgICAgICAgICBTZXEoCiAgICAgICAgICApLAogICAgICAgICAgcmV0dXJuTnVsbGFibGUgPSBmYWxzZQogICAgICAgICksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEVuY29kZXJzLnByb2R1Y3QKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVW53cmFwT3B0aW9uKAogICAgICAgICAgICAgIE9iamVjdFR5cGUoY2xhc3NPZltKc29uXSksCiAgICAgICAgICAgICAgSW52b2tlKAogICAgICAgICAgICAgICAgQm91bmRSZWZlcmVuY2UoMCwgT2JqZWN0VHlwZShjbGFzc09mW1N0b3J5TG9nXSksIG51bGxhYmxlID0gdHJ1ZSksCiAgICAgICAgICAgICAgICAicHJvcHMiLAogICAgICAgICAgICAgICAgT2JqZWN0VHlwZShjbGFzc09mW09wdGlvbltKc29uXV0pLAogICAgICAgICAgICAgICAgU2VxLmVtcHR5LAogICAgICAgICAgICAgICAgcmV0dXJuTnVsbGFibGUgPSBmYWxzZQogICAgICAgICAgICAgICkKICAgICAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
