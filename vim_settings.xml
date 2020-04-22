@@ -147,13 +147,13 @@
         <mark key="^" line="201" column="23" />
         <mark key="." line="217" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1587523129742">
-        <mark key="q" line="174" column="8" />
-        <mark key="'" line="188" column="45" />
-        <mark key="[" line="196" column="64" />
-        <mark key="]" line="196" column="65" />
-        <mark key="." line="196" column="64" />
-        <mark key="^" line="196" column="65" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1587524089921">
+        <mark key="q" line="193" column="8" />
+        <mark key="'" line="191" column="17" />
+        <mark key="[" line="191" column="98" />
+        <mark key="]" line="191" column="99" />
+        <mark key="." line="191" column="98" />
+        <mark key="^" line="191" column="99" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" timestamp="1587518449644">
         <mark key="[" line="240" column="0" />
@@ -172,11 +172,11 @@
         <mark key="^" line="5" column="65" />
       </file>
       <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/Encoders.scala" timestamp="1587520467711" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/test/scala/com/kakao/story/apps/etl/job/spam/cleanPlatform/CleanPlatformServiceTest.scala" timestamp="1587519055453">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/test/scala/com/kakao/story/apps/etl/job/spam/cleanPlatform/CleanPlatformServiceTest.scala" timestamp="1587523217182">
         <mark key="[" line="144" column="6" />
-        <mark key="]" line="144" column="8" />
-        <mark key="." line="144" column="7" />
-        <mark key="^" line="144" column="8" />
+        <mark key="]" line="144" column="10" />
+        <mark key="." line="144" column="9" />
+        <mark key="^" line="144" column="10" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/FriendshipInstances.scala" timestamp="1587482214984">
         <mark key="[" line="30" column="0" />
@@ -236,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
       <jump line="182" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
       <jump line="105" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
       <jump line="100" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
@@ -336,6 +335,7 @@
       <jump line="172" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="185" column="77" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="188" column="45" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="191" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -344,7 +344,7 @@
         <text encoding="base64">ICAgIHZhbCBjcmVhdGVMb2cgPSBhY3Rpdml0aWVzTG9nCiAgICAgIC5hbGlhcygiYSIpCiAgICAgIC53aGVyZSgkImFjdGlvbiIgPT09ICJjcmVhdGUiKQogICAgICAuZmlsdGVyIHsgbG9nID0+CiAgICAgICAgKGxvZy5wZXJtaXNzaW9uLnN0YXJ0c1dpdGgoIkEiKSB8fCBsb2cucGVybWlzc2lvbi5zdGFydHNXaXRoKCJGIikpICYmIGxvZy5mcmllbmRDb3VudCA+IDAgJiYgIWxvZy5pc1N0b3J5cGx1cwogICAgICB9CiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikKCiAgICBkZWYgZGVzdHJveUxvZ0NvbmQobG9nOiBTdG9yeVJlcXVlc3RMb2cpOiBCb29sZWFuID0gbG9nLmFjdGlvbiA9PSAiZGVzdG9yeSIKCiAgICB2YWwgZGVzdHJveUxvZyA9IGFjdGl2aXRpZXNMb2cKICAgICAgLmFsaWFzKCJhIikKICAgICAgLndoZXJlKCQiYS5hY3Rpb24iID09PSAiZGVzdG9yeSIpCiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Array[Double]</text>
+        <text>)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2649,7 +2649,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>Array[Double]</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhVHlwZVw+</text>
