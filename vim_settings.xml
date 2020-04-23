@@ -47,8 +47,8 @@
         <entry encoding="base64">JXMvPi0tLS0vPi0tLS9n</entry>
         <entry>182</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,8 +125,11 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" timestamp="1587621806461">
         <mark key="'" line="16" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryContentsLog.scala" timestamp="1587616384881">
-        <mark key="'" line="20" column="24" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" timestamp="1587641926306">
+        <mark key="[" line="240" column="16" />
+        <mark key="]" line="240" column="16" />
+        <mark key="^" line="240" column="26" />
+        <mark key="." line="240" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/resources/ks-monitoring-log.conf" timestamp="1587619401324">
         <mark key="[" line="9" column="0" />
@@ -321,7 +324,7 @@
         <text>classOf[StoryLogInstancesTest]</text>
       </register>
       <register name="&quot;" type="4">
-        <text>$(( $num_processor - 1 ))</text>
+        <text>-</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAvKioKICAgICogU3RvcnlSZXF1ZXN0TG9nIOyZgCBQYXJzaW5nIOuhnOyngeydtCDspJHrs7XrkJjsp4Drp4wgU3BhcmsgU2VyaWFsaXplIOyGjeuPhOulvCDsnITtlbQg65Sw66GcIOygleydmO2VqAogICAgKi8K</text>
@@ -2626,13 +2629,13 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>$(( $num_processor - 1 ))</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUQVNLX05PXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZWNobwo=</text>
+      <register name="0" type="4">
+        <text>${REMOTE_APP_BASE_DIR}/shared/meta/tombstone.txt</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
@@ -2715,7 +2718,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgbWVzc2FnZUhlYWQK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
