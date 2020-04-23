@@ -195,10 +195,9 @@
         <mark key="]" line="142" column="0" />
         <mark key="." line="142" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/test/resources/com/kakao/story/spark/instances/FriendshipInstancesTest-dev.conf" timestamp="1587563333113">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/resources/ks-monitoring.conf" timestamp="1587618195233">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="103" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/log/model/contents/DecoratorTest.scala" timestamp="1587606443830">
         <mark key="'" line="6" column="1" />
@@ -321,7 +320,7 @@
         <text>classOf[StoryLogInstancesTest]</text>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>https://98a6a33165424930bcb33b6f64b06f95:bb555bcd0df64b7784164253a5c95232@sentry.kakao.com/2169</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAvKioKICAgICogU3RvcnlSZXF1ZXN0TG9nIOyZgCBQYXJzaW5nIOuhnOyngeydtCDspJHrs7XrkJjsp4Drp4wgU3BhcmsgU2VyaWFsaXplIOyGjeuPhOulvCDsnITtlbQg65Sw66GcIOygleydmO2VqAogICAgKi8K</text>
@@ -2620,7 +2619,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>alpha-story-mysql.ay1.krane.9rum.cc</text>
+        <text>https://98a6a33165424930bcb33b6f64b06f95:bb555bcd0df64b7784164253a5c95232@sentry.kakao.com/2169</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
