@@ -185,7 +185,7 @@
         <mark key="." line="8" column="38" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy.sh" timestamp="1587633983359">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy.sh" timestamp="1587633993094">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="28" column="1" />
       </file>
@@ -2609,8 +2609,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>http://api.noti.daumkakao.io/send/group/kakaotalk</text>
+      <register name="*" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gY2hlY2tfb3B0aW9uKCkgewogICAgUEFSQU1TPSIiCiAgICB3aGlsZSAoKCAiJCMiICkpOyBkbwogICAgICBjYXNlICIkMSIgaW4KICAgICAgICAtc2x8LS1za2lwLWxpYikKICAgICAgICAgIFNLSVBfTElCPXRydWUKICAgICAgICAgIHNoaWZ0IDEKICAgICAgICAgIDs7CiAgICAgICAgLXNhfC0tc2tpcC1hc3NlbWJseSkKICAgICAgICAgIFNLSVBfQVNTRU1CTFk9dHJ1ZQogICAgICAgICAgc2hpZnQgMQogICAgICAgICAgOzsKICAgICAgICAtKnwtLSo9KSAjIHVuc3VwcG9ydGVkIGZsYWdzCiAgICAgICAgICBlY2hvICJFcnJvcjogVW5zdXBwb3J0ZWQgZmxhZyAkMSIgPiYyCiAgICAgICAgICBleGl0IDEKICAgICAgICAgIDs7CiAgICAgICAgKikgIyBwcmVzZXJ2ZSBwb3NpdGlvbmFsIGFyZ3VtZW50cwogICAgICAgICAgUEFSQU1TPSIkUEFSQU1TICQxIgogICAgICAgICAgc2hpZnQKICAgICAgICAgIDs7CiAgICAgIGVzYWMKICAgIGRvbmUKfQo=</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
