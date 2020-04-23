@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>product</entry>
         <entry>ProductTYpe</entry>
         <entry>Pro</entry>
         <entry>statis</entry>
@@ -27,6 +26,7 @@
         <entry>per</entry>
         <entry>Product</entry>
         <entry encoding="base64">XDxqc29uXD4=</entry>
+        <entry>hash\c</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NoYW5uZWwvYWRtaW4vZw==</entry>
@@ -47,8 +47,8 @@
         <entry encoding="base64">JzwsJz5zL1R5cGUsL1R5cGUpLC9n</entry>
         <entry encoding="base64">JzwsJz5zL0xpdGVyYWwvbGl0ZXJhbEFuZEZpZWxkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0ZpZWxkL1N0cmluZ0ZpZWxkL2c=</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -146,19 +146,14 @@
         <mark key="]" line="15" column="64" />
         <mark key="." line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryLogInstances.scala" timestamp="1587561861407">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="46" column="64" />
-        <mark key="]" line="46" column="64" />
-        <mark key="^" line="46" column="23" />
-        <mark key="." line="46" column="64" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryContentsLog.scala" timestamp="1587601531350">
+        <mark key="'" line="20" column="24" />
+        <mark key="[" line="230" column="49" />
+        <mark key="]" line="230" column="49" />
+        <mark key="." line="230" column="49" />
+        <mark key="^" line="230" column="48" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" timestamp="1587561864239">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="55" column="68" />
-        <mark key="." line="52" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/contents/Decorator.scala" timestamp="1587603060013" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/target/scala-2.12/test-classes/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatchTest-dev.conf" timestamp="1587562758302">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="45" />
@@ -229,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="53" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogEncoderInstances.scala" />
       <jump line="47" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogEncoderInstances.scala" />
       <jump line="96" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/util/SparkEncoderSupport.scala" />
       <jump line="86" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogEncoderInstances.scala" />
@@ -329,6 +323,7 @@
       <jump line="10" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch-dev.conf" />
       <jump line="3" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/test/resources/com/kakao/story/spark/instances/FriendshipInstancesTest-dev.conf" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/test/resources/com/kakao/story/spark/instances/StoryLogInstancesTest-dev.conf" />
+      <jump line="20" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryContentsLog.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -337,7 +332,7 @@
         <text>classOf[StoryLogInstancesTest]</text>
       </register>
       <register name="&quot;" type="4">
-        <text>this.getClass</text>
+        <text encoding="base64">IGlmIGhhc2hUYWdUeXBlID09ICJtb3ZpZSI=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAvKioKICAgICogU3RvcnlSZXF1ZXN0TG9nIOyZgCBQYXJzaW5nIOuhnOyngeydtCDspJHrs7XrkJjsp4Drp4wgU3BhcmsgU2VyaWFsaXplIOyGjeuPhOulvCDsnITtlbQg65Sw66GcIOygleydmO2VqAogICAgKi8K</text>
@@ -2642,10 +2637,10 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>this.getClass</text>
+        <text encoding="base64">IGlmIGhhc2hUYWdUeXBlID09ICJtb3ZpZSI=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqc29uXD4=</text>
+        <text>hash\c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29kZUJhc2VQYXRoID0gIi90bXAvYmVuL2xvZy9tb2RlbC9jb2RlIgpjaGFuZ2VCYXNlUGF0aCA9ICIvdG1wL2Jlbi9sb2cvbW9kZWwvY2hhbmdlcyIK</text>
@@ -2731,7 +2726,7 @@
         <text encoding="base64">ICAgIC8vdmFsIGZyb20gPSBEYXRlVGltZS5ub3cubWludXNEYXlzKGJlZm9yZURheXMpLnRvU3RyaW5nKCJ5eXl5LU1NLWRkIikKICAgIC8vdmFsIHRvID0gRGF0ZVRpbWUubm93LnRvU3RyaW5nKCJ5eXl5LU1NLWRkIikKICAgIC8vdmFsIGFjdGl2aXRpZXNMb2cgPSBSZXF1ZXN0TG9nCiAgICAvLyAgLnJlYWQoU2VxKFJlcXVlc3RMb2cucGF0aC5hcHAsIFJlcXVlc3RMb2cucGF0aC53ZWIpLCBmcm9tLCB0bykoc3BhcmspCiAgICAvLyAgLndoZXJlKAogICAgLy8gICAgUmVxdWVzdExvZy5jb2x1bW4uY29udHJvbGxlciA9PT0gImFjdGl2aXRpZXMiICYmIChSZXF1ZXN0TG9nLmNvbHVtbi5hY3Rpb24gPT09ICJjcmVhdGUiIHx8IFJlcXVlc3RMb2cuY29sdW1uLmFjdGlvbiA9PT0gImRlc3Ryb3kiKQogICAgLy8gICkKICAgIC8vICAuY2FjaGUoKQoK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2740,9 +2735,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxqc29uXD4=</last-search>
+      <last-search>hash\c</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqc29uXD4=</last-pattern>
+      <last-pattern>hash\c</last-pattern>
       <last-replace>StringField</last-replace>
       <last-substitute>Field</last-substitute>
       <last-dir>1</last-dir>
