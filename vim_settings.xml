@@ -133,11 +133,11 @@
         <mark key="]" line="9" column="82" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1587636587097">
-        <mark key="'" line="17" column="10" />
-        <mark key="[" line="170" column="2" />
-        <mark key="]" line="170" column="2" />
-        <mark key="." line="170" column="2" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1587637795911">
+        <mark key="'" line="173" column="3" />
+        <mark key="[" line="191" column="4" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project/Dependencies.scala" timestamp="1587619599717">
         <mark key="'" line="89" column="0" />
@@ -212,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="48" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
       <jump line="114" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogEncoderInstances.scala" />
       <jump line="131" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
       <jump line="46" column="57" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/Encoders.scala" />
@@ -312,6 +311,7 @@
       <jump line="109" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark/deploy-all-etl.sh" />
       <jump line="176" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/deploy-all-etl.sh" />
       <jump line="17" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" />
+      <jump line="173" column="3" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,8 +319,8 @@
       <register name="a" type="4">
         <text>classOf[StoryLogInstancesTest]</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAvKioKICAgICogU3RvcnlSZXF1ZXN0TG9nIOyZgCBQYXJzaW5nIOuhnOyngeydtCDspJHrs7XrkJjsp4Drp4wgU3BhcmsgU2VyaWFsaXplIOyGjeuPhOulvCDsnITtlbQg65Sw66GcIOygleydmO2VqAogICAgKi8K</text>
@@ -2634,7 +2634,7 @@
         <text encoding="base64">ZWNobwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG1lc3NhZ2UgPQogICAgICAgICAgICAgICAgICAgICAgICAgIHMiIiIkbWVzc2FnZUhlYWQ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfFZhbHVlOiAke3JlY29yZC52YWx1ZSgpfSIiIi5zdHJpcE1hcmdpbgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2661,25 +2661,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzIiIiUGFyc2luZ0Vycm9yCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfFRvcGljOiAke3JlY29yZC50b3BpYygpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHxTdHJlYW1pbmc6ICR7c2VsZi5nZXRDbGFzcy5nZXROYW1lfSIiIi5zdHJpcE1hcmdpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG1lc3NhZ2UgPQogICAgICAgICAgICAgICAgICAgICAgICAgIHMiIiIkbWVzc2FnZUhlYWQ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfFZhbHVlOiAke3JlY29yZC52YWx1ZSgpfSIiIi5zdHJpcE1hcmdpbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG1lc3NhZ2VIZWFkID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzIiIiUGFyc2luZ0Vycm9yCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfFRvcGljOiAke3JlY29yZC50b3BpYygpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHxTdHJlYW1pbmc6ICR7c2VsZi5nZXRDbGFzcy5nZXROYW1lfSIiIi5zdHJpcE1hcmdpbgo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAvKioKICAgICogU3RvcnlMb2cg7JmAIFBhcnNpbmcg66Gc7KeB7J20IOykkeuzteuQmOyngOunjCBTcGFyayBTZXJpYWxpemUg7IaN64+E66W8IOychO2VtCDrlLDroZwg7KCV7J2Y7ZWoCiAgICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzIiIiUGFyc2luZ0Vycm9yCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfFRvcGljOiAke3JlY29yZC50b3BpYygpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHxTdHJlYW1pbmc6ICR7c2VsZi5nZXRDbGFzcy5nZXROYW1lfSIiIi5zdHJpcE1hcmdpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG1lc3NhZ2VIZWFkID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzIiIiJG1lc3NhZ2VIZWFkOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHxWYWx1ZTogJHtyZWNvcmQudmFsdWUoKX0iIiIuc3RyaXBNYXJnaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzIiIiUGFyc2luZ0Vycm9yCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfFRvcGljOiAke3JlY29yZC50b3BpYygpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHxTdHJlYW1pbmc6ICR7c2VsZi5nZXRDbGFzcy5nZXROYW1lfSIiIi5zdHJpcE1hcmdpbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG1lc3NhZ2UxID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzIiIiJG1lc3NhZ2VIZWFkOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHxWYWx1ZTogJHtyZWNvcmQudmFsdWUoKX0iIiIuc3RyaXBNYXJnaW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNhc2UgRmFpbHVyZShleCkgPT4gTGVmdChleCkKICAgICAgICAgICAgICAgICAgICAgIGNhc2UgU3VjY2VzcyhOb25lKSA9PiBMZWZ0KG5ldyBFeGNlcHRpb24obWVzc2FnZUhlYWQpKQogICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG1lc3NhZ2UxID0gCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2708,10 +2708,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbWVzc2FnZUhlYWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNhc2UgRmFpbHVyZShleCkgPT4gTGVmdChleCkKICAgICAgICAgICAgICAgICAgICAgIGNhc2UgU3VjY2VzcyhOb25lKSA9PiBMZWZ0KG5ldyBFeGNlcHRpb24obWVzc2FnZUhlYWQpKQogICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGV4ID0gbmV3IEV4Y2VwdGlvbihtZXNzYWdlSGVhZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbWVzc2FnZUhlYWQK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
