@@ -142,13 +142,6 @@
         <mark key="^" line="77" column="52" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming.scala" timestamp="1587621878740" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/db.conf" timestamp="1587607483974">
-        <mark key="'" line="12" column="27" />
-        <mark key="[" line="4" column="118" />
-        <mark key="]" line="4" column="123" />
-        <mark key="." line="4" column="122" />
-        <mark key="^" line="4" column="123" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/toros/contentToToros/util/ActivityContentConverter.scala" timestamp="1587616348117">
         <mark key="'" line="20" column="21" />
       </file>
@@ -191,6 +184,10 @@
         <mark key="]" line="8" column="39" />
         <mark key="." line="8" column="38" />
         <mark key="^" line="8" column="39" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy.sh" timestamp="1587633983359">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="28" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" timestamp="1587622919436">
         <mark key="'" line="127" column="95" />
@@ -313,8 +310,8 @@
       <register name="a" type="4">
         <text>classOf[StoryLogInstancesTest]</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>http://api.noti.daumkakao.io/send/group/kakaotalk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gY2hlY2tfb3B0aW9uKCkgewogICAgUEFSQU1TPSIiCiAgICB3aGlsZSAoKCAiJCMiICkpOyBkbwogICAgICBjYXNlICIkMSIgaW4KICAgICAgICAtc2x8LS1za2lwLWxpYikKICAgICAgICAgIFNLSVBfTElCPXRydWUKICAgICAgICAgIHNoaWZ0IDEKICAgICAgICAgIDs7CiAgICAgICAgLXNhfC0tc2tpcC1hc3NlbWJseSkKICAgICAgICAgIFNLSVBfQVNTRU1CTFk9dHJ1ZQogICAgICAgICAgc2hpZnQgMQogICAgICAgICAgOzsKICAgICAgICAtKnwtLSo9KSAjIHVuc3VwcG9ydGVkIGZsYWdzCiAgICAgICAgICBlY2hvICJFcnJvcjogVW5zdXBwb3J0ZWQgZmxhZyAkMSIgPiYyCiAgICAgICAgICBleGl0IDEKICAgICAgICAgIDs7CiAgICAgICAgKikgIyBwcmVzZXJ2ZSBwb3NpdGlvbmFsIGFyZ3VtZW50cwogICAgICAgICAgUEFSQU1TPSIkUEFSQU1TICQxIgogICAgICAgICAgc2hpZnQKICAgICAgICAgIDs7CiAgICAgIGVzYWMKICAgIGRvbmUKfQo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAvKioKICAgICogU3RvcnlSZXF1ZXN0TG9nIOyZgCBQYXJzaW5nIOuhnOyngeydtCDspJHrs7XrkJjsp4Drp4wgU3BhcmsgU2VyaWFsaXplIOyGjeuPhOulvCDsnITtlbQg65Sw66GcIOygleydmO2VqAogICAgKi8K</text>
@@ -2624,8 +2621,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>message</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gY2hlY2tfb3B0aW9uKCkgewogICAgUEFSQU1TPSIiCiAgICB3aGlsZSAoKCAiJCMiICkpOyBkbwogICAgICBjYXNlICIkMSIgaW4KICAgICAgICAtc2x8LS1za2lwLWxpYikKICAgICAgICAgIFNLSVBfTElCPXRydWUKICAgICAgICAgIHNoaWZ0IDEKICAgICAgICAgIDs7CiAgICAgICAgLXNhfC0tc2tpcC1hc3NlbWJseSkKICAgICAgICAgIFNLSVBfQVNTRU1CTFk9dHJ1ZQogICAgICAgICAgc2hpZnQgMQogICAgICAgICAgOzsKICAgICAgICAtKnwtLSo9KSAjIHVuc3VwcG9ydGVkIGZsYWdzCiAgICAgICAgICBlY2hvICJFcnJvcjogVW5zdXBwb3J0ZWQgZmxhZyAkMSIgPiYyCiAgICAgICAgICBleGl0IDEKICAgICAgICAgIDs7CiAgICAgICAgKikgIyBwcmVzZXJ2ZSBwb3NpdGlvbmFsIGFyZ3VtZW50cwogICAgICAgICAgUEFSQU1TPSIkUEFSQU1TICQxIgogICAgICAgICAgc2hpZnQKICAgICAgICAgIDs7CiAgICAgIGVzYWMKICAgIGRvbmUKfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG1lc3NhZ2UgPQogICAgICAgICAgICAgICAgICAgICAgICAgIHMiIiIkbWVzc2FnZUhlYWQ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfFZhbHVlOiAke3JlY29yZC52YWx1ZSgpfSIiIi5zdHJpcE1hcmdpbgo=</text>
