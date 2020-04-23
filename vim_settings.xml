@@ -118,6 +118,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/WatchTower.scala" timestamp="1587631133319">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="70" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/toros/contentToToros/ContentToTorosStreaming.scala" timestamp="1587616334224" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" timestamp="1587621806461">
         <mark key="'" line="16" column="12" />
@@ -153,7 +157,6 @@
         <mark key="]" line="9" column="82" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/storage/service/CassandraServiceDefaultTest.scala" timestamp="1587607025350" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/SentryServiceSimple.scala" timestamp="1587620535872">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="2" />
@@ -310,8 +313,8 @@
       <register name="a" type="4">
         <text>classOf[StoryLogInstancesTest]</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG1lc3NhZ2UgPQogICAgICAgICAgICAgICAgICAgICAgICAgIHMiIiIkbWVzc2FnZUhlYWQ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfFZhbHVlOiAke3JlY29yZC52YWx1ZSgpfSIiIi5zdHJpcE1hcmdpbgo=</text>
+      <register name="&quot;" type="4">
+        <text>http://api.noti.daumkakao.io/send/group/kakaotalk</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAvKioKICAgICogU3RvcnlSZXF1ZXN0TG9nIOyZgCBQYXJzaW5nIOuhnOyngeydtCDspJHrs7XrkJjsp4Drp4wgU3BhcmsgU2VyaWFsaXplIOyGjeuPhOulvCDsnITtlbQg65Sw66GcIOygleydmO2VqAogICAgKi8K</text>
@@ -2610,7 +2613,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>https://98a6a33165424930bcb33b6f64b06f95:bb555bcd0df64b7784164253a5c95232@sentry.kakao.com/2169</text>
+        <text>http://api.noti.daumkakao.io/send/group/kakaotalk</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
