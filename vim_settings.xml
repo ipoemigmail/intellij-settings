@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>profileId</entry>
-        <entry>hasT</entry>
         <entry>per</entry>
         <entry>Product</entry>
         <entry encoding="base64">XDxqc29uXD4=</entry>
@@ -27,6 +25,8 @@
         <entry>grace</entry>
         <entry encoding="base64">XDxwcm9maWxlQ29sdW1uXD4=</entry>
         <entry encoding="base64">XDxkZXZpY2VzXD4=</entry>
+        <entry encoding="base64">XDxjb252ZXJ0XD4=</entry>
+        <entry>parse</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
@@ -125,20 +125,20 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/WatchTower.scala" timestamp="1587631133319">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="70" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming.scala" timestamp="1587693538263" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/util/common.sh" timestamp="1587634876378">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="31" column="1" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" timestamp="1587691994510">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="27" column="16" />
+      </file>
+      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/format/DateTimeFormatter.java" timestamp="1587713305134">
+        <mark key="'" line="1023" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/second/VisitLog.scala" timestamp="1587713090482">
+        <mark key="'" line="41" column="6" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch-prod.conf" timestamp="1587694798995">
         <mark key="[" line="5" column="27" />
@@ -156,6 +156,12 @@
         <mark key="'" line="129" column="0" />
         <mark key="[" line="129" column="0" />
         <mark key="]" line="145" column="1" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/VisitLog.scala" timestamp="1587713434162">
+        <mark key="[" line="5" column="74" />
+        <mark key="]" line="5" column="82" />
+        <mark key="." line="5" column="81" />
+        <mark key="^" line="5" column="82" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch-dev.conf" timestamp="1587694791972">
         <mark key="[" line="7" column="22" />
@@ -181,6 +187,9 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/format/ISODateTimeFormat.java" timestamp="1587713280003">
+        <mark key="'" line="621" column="36" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1587637878484">
         <mark key="'" line="173" column="3" />
         <mark key="[" line="192" column="28" />
@@ -188,19 +197,9 @@
         <mark key="." line="192" column="29" />
         <mark key="^" line="192" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy.sh" timestamp="1587634861373">
-        <mark key="'" line="23" column="29" />
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="23" column="28" />
-        <mark key="." line="23" column="28" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportStreaming.scala" timestamp="1587692011186" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" timestamp="1587622919436">
-        <mark key="'" line="127" column="95" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="131" column="67" />
+      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/DateTime.java" timestamp="1587713291420">
+        <mark key="'" line="81" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetuser/WakeupUserExtractor.scala" timestamp="1587694979830">
         <mark key="'" line="37" column="19" />
@@ -212,21 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
-      <jump line="71" column="19" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/RequestLog.scala" />
-      <jump line="0" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/RequestLog.scala" />
-      <jump line="6" column="23" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/RequestLog.scala" />
-      <jump line="8" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/RequestLog.scala" />
-      <jump line="141" column="57" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
-      <jump line="142" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
-      <jump line="8" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="62" column="35" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="182" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
-      <jump line="105" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
-      <jump line="100" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
-      <jump line="81" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
-      <jump line="99" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
-      <jump line="106" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="93" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="109" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
       <jump line="113" column="89" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
@@ -312,6 +296,21 @@
       <jump line="155" column="45" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupUserExtractorBatch.scala" />
       <jump line="136" column="36" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupUserExtractorBatch.scala" />
       <jump line="126" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupUserExtractorBatch.scala" />
+      <jump line="41" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/second/VisitLog.scala" />
+      <jump line="72" column="19" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/DateTime.java" />
+      <jump line="133" column="32" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/DateTime.java" />
+      <jump line="137" column="30" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/DateTime.java" />
+      <jump line="138" column="32" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/DateTime.java" />
+      <jump line="143" column="33" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/DateTime.java" />
+      <jump line="147" column="27" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/DateTime.java" />
+      <jump line="148" column="15" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/DateTime.java" />
+      <jump line="158" column="27" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/DateTime.java" />
+      <jump line="154" column="33" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/DateTime.java" />
+      <jump line="62" column="13" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/format/ISODateTimeFormat.java" />
+      <jump line="621" column="36" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/format/ISODateTimeFormat.java" />
+      <jump line="81" column="19" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/DateTime.java" />
+      <jump line="89" column="31" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/format/DateTimeFormatter.java" />
+      <jump line="1023" column="0" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10/joda-time-2.10-sources.jar!/org/joda/time/format/DateTimeFormatter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,7 +319,7 @@
         <text encoding="base64">ICAgIHZhbCBjcmVhdGVMb2cgPSBhY3Rpdml0aWVzTG9nCiAgICAgIC5hbGlhcygiYSIpCiAgICAgIC53aGVyZSgkImFjdGlvbiIgPT09ICJjcmVhdGUiKQogICAgICAuZmlsdGVyIHsgbG9nID0+CiAgICAgICAgKGxvZy5wZXJtaXNzaW9uLnN0YXJ0c1dpdGgoIkEiKSB8fCBsb2cucGVybWlzc2lvbi5zdGFydHNXaXRoKCJGIikpICYmIGxvZy5mcmllbmRDb3VudCA+IDAgJiYgIWxvZy5pc1N0b3J5cGx1cwogICAgICB9CiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikKCiAgICBkZWYgZGVzdHJveUxvZ0NvbmQobG9nOiBTdG9yeVJlcXVlc3RMb2cpOiBCb29sZWFuID0gbG9nLmFjdGlvbiA9PSAiZGVzdG9yeSIKCiAgICB2YWwgZGVzdHJveUxvZyA9IGFjdGl2aXRpZXNMb2cKICAgICAgLmFsaWFzKCJhIikKICAgICAgLndoZXJlKCQiYS5hY3Rpb24iID09PSAiZGVzdG9yeSIpCiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, visitLogColumn: VisitLog.column.type</text>
+        <text>MMMM, yyyy</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2625,16 +2624,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>, visitLogColumn: VisitLog.column.type</text>
+        <text>MMMM, yyyy</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXZpY2VzXD4=</text>
+        <text>parse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwo=</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBWaXNpdExvZyhwcm9maWxlX2lkOiBMb25nLCBkYXRlOiBTdHJpbmcsIHRvbWJzdG9uZTogTG9uZykgewogIGxhenkgdmFsIGxvY2FsRGF0ZSA9IERhdGUucGFyc2VEYXRlVGltZShkYXRlLnRvU3RyaW5nKS50b0xvY2FsRGF0ZQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICovCg==</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBWaXNpdExvZyhwcm9maWxlX2lkOiBJbnQsIGRhdGU6IFN0cmluZywgdG9tYnN0b25lOiBTdHJpbmcpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2661,27 +2660,27 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCAK</text>
+        <text encoding="base64">CiAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICovCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCAK</text>
       </register>
       <register name="s" type="4">
         <text>(spark: SparkSession)</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICovCg==</text>
+      </register>
+      <register name="5" type="4">
         <text>beforeDayVisitors(
           
         )</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLmNhY2hlKCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmlzaXRMb2dDb2x1bW46IFZpc2l0TG9nLmNvbHVtbi50eXBlLAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICAgICAgdmlzaXRMb2dDb2x1bW46IFZpc2l0TG9nLmNvbHVtbi50eXBlLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2710,10 +2709,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmNhY2hlKCkK</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICAgICAgLmNhY2hlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -2725,9 +2724,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkZXZpY2VzXD4=</last-search>
+      <last-search>parse</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXZpY2VzXD4=</last-pattern>
+      <last-pattern>parse</last-pattern>
       <last-replace>TSet</last-replace>
       <last-substitute>TRef</last-substitute>
       <last-dir>1</last-dir>
