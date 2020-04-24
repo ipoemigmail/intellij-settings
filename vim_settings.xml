@@ -7,47 +7,47 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Type,</entry>
-        <entry>Literal</entry>
-        <entry>Field</entry>
-        <entry>profileId</entry>
-        <entry>hasT</entry>
-        <entry>per</entry>
-        <entry>Product</entry>
-        <entry encoding="base64">XDxqc29uXD4=</entry>
-        <entry>hash\c</entry>
-        <entry encoding="base64">XDxkZWNvcmF0b3JUeXBlXD4=</entry>
-        <entry>hashtag\c</entry>
-        <entry>sent</entry>
-        <entry encoding="base64">XDxyZWNvcmRcPg==</entry>
-        <entry>misc\c</entry>
-        <entry encoding="base64">XDxtZXNzYWdlSGVhZFw+</entry>
-        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
-        <entry>CNT</entry>
-        <entry encoding="base64">LS0tLTw=</entry>
-        <entry encoding="base64">Pi0tLS0=</entry>
-        <entry encoding="base64">XDxUQVNLX05PXD4=</entry>
+        <entry encoding="base64">XDxyZXRyeUNudFw+</entry>
+        <entry encoding="base64">XDxnZXRBZG1pblw+</entry>
+        <entry encoding="base64">XDxnZXRfY29udGVudHNcPg==</entry>
+        <entry encoding="base64">XDxDbGllbnRcPg==</entry>
+        <entry encoding="base64">XDxyZXFfY2xpZW50XD4=</entry>
+        <entry>Bytes</entry>
+        <entry encoding="base64">XDxnZW5lcmF0b3JDb25maWdcPg==</entry>
+        <entry encoding="base64">XDxsb2NhbFw+</entry>
+        <entry>Symbole</entry>
+        <entry>'</entry>
+        <entry encoding="base64">XDx0YXJnZXRGcmllbmRzXD4=</entry>
+        <entry encoding="base64">XDx3aGl0ZUNoYW5uZWxzQ2FuZGlkYXRlc1w+</entry>
+        <entry>LocalDate</entry>
+        <entry encoding="base64">XDxmaWxlc1w+</entry>
+        <entry>hadoop</entry>
+        <entry>hbas</entry>
+        <entry>futures</entry>
+        <entry>flatMap</entry>
+        <entry>STM</entry>
+        <entry>TRef</entry>
       </history-search>
       <history-cmd>
-        <entry>66</entry>
-        <entry encoding="base64">JzwsJz5zL0NoYW5uZWwvUHJvZmlsZS9n</entry>
-        <entry>%s/Banned/Banning/g</entry>
-        <entry encoding="base64">JzwsJz5zL0NoYW5uZWwvTWlzYy9n</entry>
-        <entry encoding="base64">JzwsJz5zL2NoYW5uZWwvbWlzYy9n</entry>
+        <entry encoding="base64">JzwsJz5zL0xvbmcvSW50L2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1Byb2ZpbGUvU3RvcnlQbHVzRGV0YWlsL2c=</entry>
+        <entry>%s/Expansion//g</entry>
+        <entry>%s/ActivityExpansion/Comment/g</entry>
+        <entry>%s/ChActivityMonitor/Group/g</entry>
+        <entry>%s/StatMaster/Profile/g</entry>
+        <entry>%s/StatMaster/ProfileSlave/g</entry>
+        <entry>%s/Group/ProfileGroup/g</entry>
+        <entry>%s/ChActivityMonitor/StoryPlusDetail/g</entry>
+        <entry>%s/StatMaster/ChannelSlave/g</entry>
+        <entry encoding="base64">JzwsJz5zL0xpc3QvU2V0L2c=</entry>
+        <entry>W</entry>
+        <entry>28</entry>
+        <entry>%s/Symbole/Symbol/g</entry>
         <entry>%s/LocalDate/DateTime/g</entry>
-        <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
         <entry>a</entry>
-        <entry>%s/toryLog/toryRequestLog/g</entry>
-        <entry encoding="base64">JzwsJz5zLzovIiwgL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL1N0cmluZy9TdHJpbmdUeXBlL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL1R5cGUsL1R5cGUpLC9n</entry>
-        <entry encoding="base64">JzwsJz5zL0xpdGVyYWwvbGl0ZXJhbEFuZEZpZWxkL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL0ZpZWxkL1N0cmluZ0ZpZWxkL2c=</entry>
-        <entry encoding="base64">JXMvLS0tLTwvLS0tPC9n</entry>
-        <entry encoding="base64">JXMvPi0tLS0vPi0tLS9n</entry>
-        <entry>182</entry>
-        <entry>wa</entry>
         <entry>wq</entry>
+        <entry>%s/TRef/TSet/g</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -118,222 +118,237 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/WatchTower.scala" timestamp="1587631133319">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="70" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch-prod.conf" timestamp="1587472967323">
+        <mark key="'" line="0" column="30" />
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" timestamp="1587690936813">
-        <mark key="[" line="26" column="16" />
-        <mark key="]" line="26" column="22" />
-        <mark key="." line="26" column="21" />
-        <mark key="^" line="26" column="22" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/FriendshipInstances.scala" timestamp="1587482214984">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="20" column="23" />
+        <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" timestamp="1587621806461">
-        <mark key="'" line="16" column="12" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch-dev.conf" timestamp="1587472974704">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" timestamp="1587641926306">
-        <mark key="[" line="240" column="16" />
-        <mark key="]" line="240" column="16" />
-        <mark key="^" line="240" column="26" />
-        <mark key="." line="240" column="16" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" timestamp="1587482539953">
+        <mark key="q" line="64" column="6" />
+        <mark key="'" line="48" column="34" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="48" column="65" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/resources/ks-monitoring-log.conf" timestamp="1587619401324">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="82" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryContentsLogForDs.scala" timestamp="1587513450431">
+        <mark key="'" line="32" column="1" />
+        <mark key="[" line="32" column="1" />
+        <mark key="]" line="32" column="2" />
+        <mark key="." line="32" column="1" />
+        <mark key="^" line="32" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1587637878484">
-        <mark key="'" line="173" column="3" />
-        <mark key="[" line="192" column="28" />
-        <mark key="]" line="192" column="29" />
-        <mark key="." line="192" column="29" />
-        <mark key="^" line="192" column="29" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" timestamp="1587513400483">
+        <mark key="'" line="51" column="118" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project/Dependencies.scala" timestamp="1587619599717">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="77" column="50" />
-        <mark key="]" line="77" column="52" />
-        <mark key="." line="77" column="51" />
-        <mark key="^" line="77" column="52" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch-dev.conf" timestamp="1587472958634">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming.scala" timestamp="1587621878740" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/ks-monitoring-log.conf" timestamp="1587619187530">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="82" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetdata/UserActivityExtractor.scala" timestamp="1587479834426">
+        <mark key="'" line="24" column="2" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="46" column="35" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/deploy-all-etl.sh" timestamp="1587636484887">
-        <mark key="'" line="181" column="4" />
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="6" />
-        <mark key="^" line="3" column="7" />
+      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_15_tRef/TRefSpec.scala" timestamp="1587566247687">
+        <mark key="'" line="93" column="55" />
+        <mark key="[" line="93" column="42" />
+        <mark key="]" line="93" column="56" />
+        <mark key="." line="93" column="42" />
+        <mark key="^" line="116" column="68" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/util/common.sh" timestamp="1587634876378">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="31" column="1" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" timestamp="1587513021703">
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="0" />
+        <mark key="^" line="201" column="23" />
+        <mark key="." line="217" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/SentryServiceSimple.scala" timestamp="1587620535872">
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="15" column="2" />
-        <mark key="^" line="32" column="25" />
-        <mark key="." line="15" column="2" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1587513600985">
+        <mark key="[" line="103" column="31" />
+        <mark key="]" line="103" column="31" />
+        <mark key="." line="103" column="30" />
+        <mark key="^" line="103" column="31" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/resources/ks-monitoring-log.conf" timestamp="1587619105509">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="82" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch-dev.conf" timestamp="1587480698408">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/resources/ks-monitoring.conf" timestamp="1587619394424">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="82" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/resources/spark_batch.conf" timestamp="1587478322245">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/io/sentry/sentry/1.7.28/sentry-1.7.28-sources.jar!/io/sentry/Sentry.java" timestamp="1587619718983">
-        <mark key="'" line="252" column="39" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/RequestLog.scala" timestamp="1587482612037">
+        <mark key="'" line="11" column="21" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="300" column="0" />
+        <mark key="." line="179" column="23" />
+        <mark key="^" line="179" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/ks-monitoring.conf" timestamp="1587619186048">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="82" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" timestamp="1587513483603">
+        <mark key="'" line="48" column="11" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="144" column="3" />
+        <mark key="." line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/service/SentryServiceSimpleTest.scala" timestamp="1587621598650">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="39" />
-        <mark key="." line="8" column="38" />
-        <mark key="^" line="8" column="39" />
+      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_16_tSet/TSetSpec.scala" timestamp="1587650997895">
+        <mark key="'" line="37" column="41" />
+        <mark key="[" line="60" column="18" />
+        <mark key="]" line="60" column="29" />
+        <mark key="." line="60" column="18" />
+        <mark key="^" line="54" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy.sh" timestamp="1587634861373">
-        <mark key="'" line="23" column="29" />
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="23" column="28" />
-        <mark key="." line="23" column="28" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" timestamp="1587513542154">
+        <mark key="[" line="108" column="2" />
+        <mark key="]" line="108" column="4" />
+        <mark key="^" line="108" column="4" />
+        <mark key="." line="108" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" timestamp="1587622919436">
-        <mark key="'" line="127" column="95" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="131" column="67" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/resources/ks-batch.conf" timestamp="1587478297906">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="73" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/resources/ks-monitoring.conf" timestamp="1587619398422">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="82" />
-        <mark key="." line="9" column="0" />
+      <file name="/fragment.java" timestamp="1587650527565">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/util/PushUtil.scala" timestamp="1587482599348">
+        <mark key="'" line="59" column="27" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogEncoderInstances.scala" />
-      <jump line="131" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" />
-      <jump line="46" column="57" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/Encoders.scala" />
-      <jump line="274" column="19" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/Encoders.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.12/2.4.5/spark-catalyst_2.12-2.4.5-sources.jar!/org/apache/spark/sql/Encoders.scala" />
-      <jump line="113" column="79" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="239" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
-      <jump line="158" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogEncoderInstances.scala" />
-      <jump line="19" column="69" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="61" column="5" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="64" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="11" column="31" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="49" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="4" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="80" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="39" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="63" column="80" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="107" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="106" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="62" column="79" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="44" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="84" column="1" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="45" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="82" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="46" column="20" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="104" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="125" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="59" column="118" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="109" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
-      <jump line="127" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="214" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
-      <jump line="242" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
-      <jump line="43" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="83" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="98" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
-      <jump line="197" column="83" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
-      <jump line="50" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="99" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="93" column="56" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="170" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="130" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="87" column="52" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="47" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
-      <jump line="34" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryLogLabelInstances.scala" />
-      <jump line="51" column="40" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryLogInstances.scala" />
-      <jump line="50" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryLog.scala" />
-      <jump line="11" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryContentsLog.scala" />
-      <jump line="347" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryContentsLog.scala" />
-      <jump line="310" column="83" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryContentsLog.scala" />
-      <jump line="78" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryContentsLogForDs.scala" />
-      <jump line="61" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryContentsLogForDs.scala" />
-      <jump line="97" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryContentsLogForDs.scala" />
-      <jump line="61" column="50" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryContentsLogInstances.scala" />
-      <jump line="158" column="41" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
-      <jump line="35" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryContentsLog.scala" />
-      <jump line="26" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
-      <jump line="21" column="19" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryLog.scala" />
-      <jump line="6" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/FriendshipInstances.scala" />
-      <jump line="6" column="33" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryContentsLogInstances.scala" />
-      <jump line="40" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryLogInstances.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryLogInstances.scala" />
-      <jump line="63" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryLogInstances.scala" />
-      <jump line="10" column="42" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="6" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryLogForDs.scala" />
-      <jump line="38" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/storage/service/SqlServiceMysqlTest.scala" />
-      <jump line="10" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch-dev.conf" />
-      <jump line="3" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/test/resources/com/kakao/story/spark/instances/FriendshipInstancesTest-dev.conf" />
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/test/resources/com/kakao/story/spark/instances/StoryLogInstancesTest-dev.conf" />
-      <jump line="20" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryContentsLog.scala" />
-      <jump line="34" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/etl/src/main/scala/escher/model/log/util/Decorator.scala" />
-      <jump line="39" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/etl/src/main/scala/escher/model/log/util/Decorator.scala" />
-      <jump line="43" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/etl/src/main/scala/escher/model/log/util/Decorator.scala" />
-      <jump line="4" column="1" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/log/model/contents/DecoratorTest.scala" />
-      <jump line="12" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/db.conf" />
-      <jump line="20" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/toros/contentToToros/util/ActivityContentConverter.scala" />
-      <jump line="87" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project/Dependencies.scala" />
-      <jump line="256" column="23" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/io/sentry/sentry/1.7.28/sentry-1.7.28-sources.jar!/io/sentry/Sentry.java" />
-      <jump line="252" column="39" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/io/sentry/sentry/1.7.28/sentry-1.7.28-sources.jar!/io/sentry/Sentry.java" />
-      <jump line="16" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
-      <jump line="115" column="23" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" />
-      <jump line="131" column="31" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" />
-      <jump line="140" column="47" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" />
-      <jump line="136" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" />
-      <jump line="126" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" />
-      <jump line="135" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" />
-      <jump line="127" column="95" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" />
-      <jump line="23" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy.sh" />
-      <jump line="46" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/deploy-all-etl.sh" />
-      <jump line="149" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/deploy-all-etl.sh" />
-      <jump line="123" column="5" filename="$USER_HOME$/Develop/Works/story/story-spark/deploy-all-etl.sh" />
-      <jump line="150" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/deploy-all-etl.sh" />
-      <jump line="178" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/deploy-all-etl.sh" />
-      <jump line="193" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/deploy-all-etl.sh" />
-      <jump line="179" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/deploy-all-etl.sh" />
-      <jump line="183" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/deploy-all-etl.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/deploy-all-etl.sh" />
-      <jump line="109" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark/deploy-all-etl.sh" />
-      <jump line="176" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/deploy-all-etl.sh" />
-      <jump line="17" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" />
-      <jump line="173" column="3" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" />
+      <jump line="67" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="47" column="3" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
+      <jump line="56" column="31" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
+      <jump line="110" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
+      <jump line="14" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryLogForDs.scala" />
+      <jump line="26" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryLogForDs.scala" />
+      <jump line="34" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryContentsLogForDs.scala" />
+      <jump line="38" column="3" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryContentsLog.scala" />
+      <jump line="268" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryContentsLogForDs.scala" />
+      <jump line="251" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryContentsLogForDs.scala" />
+      <jump line="254" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryContentsLogForDs.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryContentsLogForDs.scala" />
+      <jump line="68" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryContentsLogForDs.scala" />
+      <jump line="45" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
+      <jump line="104" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
+      <jump line="88" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
+      <jump line="90" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="102" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/RequestLog.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/RequestLog.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
+      <jump line="71" column="19" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/RequestLog.scala" />
+      <jump line="0" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/RequestLog.scala" />
+      <jump line="6" column="23" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/RequestLog.scala" />
+      <jump line="8" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/RequestLog.scala" />
+      <jump line="141" column="57" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
+      <jump line="142" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
+      <jump line="8" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
+      <jump line="62" column="35" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
+      <jump line="182" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
+      <jump line="105" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
+      <jump line="100" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="81" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="99" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="106" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="93" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="109" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
+      <jump line="113" column="89" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
+      <jump line="71" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="74" column="56" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
+      <jump line="82" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
+      <jump line="95" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
+      <jump line="75" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="73" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="111" column="76" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
+      <jump line="163" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
+      <jump line="99" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
+      <jump line="101" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
+      <jump line="97" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="82" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="87" column="20" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="48" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="53" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="54" column="69" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="55" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="25" column="26" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="26" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="117" column="20" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
+      <jump line="31" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/FriendshipInstances.scala" />
+      <jump line="41" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
+      <jump line="36" column="33" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/util/PushUtil.scala" />
+      <jump line="75" column="35" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
+      <jump line="71" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
+      <jump line="71" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/util/PushUtil.scala" />
+      <jump line="59" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/util/PushUtil.scala" />
+      <jump line="106" column="19" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/RequestLog.scala" />
+      <jump line="11" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/RequestLog.scala" />
+      <jump line="54" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
+      <jump line="100" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
+      <jump line="123" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
+      <jump line="43" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
+      <jump line="87" column="30" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
+      <jump line="84" column="5" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
+      <jump line="55" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
+      <jump line="248" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
+      <jump line="69" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
+      <jump line="54" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
+      <jump line="33" column="1" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryContentsLogForDs.scala" />
+      <jump line="48" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
+      <jump line="55" column="31" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/model/StoryRequestLogForDs.scala" />
+      <jump line="19" column="21" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_15_tRef/TRefSpec.scala" />
+      <jump line="11" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_15_tRef/TRefSpec.scala" />
+      <jump line="23" column="7" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_15_tRef/TRefSpec.scala" />
+      <jump line="9" column="17" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_15_tRef/TRefSpec.scala" />
+      <jump line="39" column="6" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_15_tRef/TRefSpec.scala" />
+      <jump line="22" column="47" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_15_tRef/TRefSpec.scala" />
+      <jump line="58" column="6" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_15_tRef/TRefSpec.scala" />
+      <jump line="40" column="36" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_15_tRef/TRefSpec.scala" />
+      <jump line="60" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_15_tRef/TRefSpec.scala" />
+      <jump line="87" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_15_tRef/TRefSpec.scala" />
+      <jump line="85" column="40" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_15_tRef/TRefSpec.scala" />
+      <jump line="93" column="55" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_15_tRef/TRefSpec.scala" />
+      <jump line="19" column="51" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_16_tSet/TSetSpec.scala" />
+      <jump line="9" column="7" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_16_tSet/TSetSpec.scala" />
+      <jump line="109" column="10" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_16_tSet/TSetSpec.scala" />
+      <jump line="22" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_16_tSet/TSetSpec.scala" />
+      <jump line="17" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_16_tSet/TSetSpec.scala" />
+      <jump line="34" column="69" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_16_tSet/TSetSpec.scala" />
+      <jump line="37" column="41" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_16_tSet/TSetSpec.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="a" type="4">
-        <text>classOf[StoryLogInstancesTest]</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgIHZhbCBjcmVhdGVMb2cgPSBhY3Rpdml0aWVzTG9nCiAgICAgIC5hbGlhcygiYSIpCiAgICAgIC53aGVyZSgkImFjdGlvbiIgPT09ICJjcmVhdGUiKQogICAgICAuZmlsdGVyIHsgbG9nID0+CiAgICAgICAgKGxvZy5wZXJtaXNzaW9uLnN0YXJ0c1dpdGgoIkEiKSB8fCBsb2cucGVybWlzc2lvbi5zdGFydHNXaXRoKCJGIikpICYmIGxvZy5mcmllbmRDb3VudCA+IDAgJiYgIWxvZy5pc1N0b3J5cGx1cwogICAgICB9CiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikKCiAgICBkZWYgZGVzdHJveUxvZ0NvbmQobG9nOiBTdG9yeVJlcXVlc3RMb2cpOiBCb29sZWFuID0gbG9nLmFjdGlvbiA9PSAiZGVzdG9yeSIKCiAgICB2YWwgZGVzdHJveUxvZyA9IGFjdGl2aXRpZXNMb2cKICAgICAgLmFsaWFzKCJhIikKICAgICAgLndoZXJlKCQiYS5hY3Rpb24iID09PSAiZGVzdG9yeSIpCiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>removedEvenElems</text>
       </register>
       <register name="d" type="2">
-        <text encoding="base64">ICAvKioKICAgICogU3RvcnlSZXF1ZXN0TG9nIOyZgCBQYXJzaW5nIOuhnOyngeydtCDspJHrs7XrkJjsp4Drp4wgU3BhcmsgU2VyaWFsaXplIOyGjeuPhOulvCDsnITtlbQg65Sw66GcIOygleydmO2VqAogICAgKi8K</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2628,23 +2643,23 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text encoding="base64">LS0tLTw=</text>
+      <register name="*" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20ua2FrYW8uc3RvcnkuYXBwcy5iYXRjaEpvYi5qb2IucHVzaC53YWtldXAKCmltcG9ydCBjb20ua2FrYW8uc3RvcnkuYXBwcy5iYXRjaEpvYi5qb2IucHVzaC5zZXJ2aWNlLntQdXNoQ29tbW9uU2VydmljZSwgUHVzaENvbW1vblNlcnZpY2VEZWZhdWx0fQppbXBvcnQgY29tLmtha2FvLnN0b3J5LmxvZy5tb2RlbC57RnJpZW5kc2hpcCwgU3RvcnlSZXF1ZXN0TG9nfQppbXBvcnQgY29tLmtha2FvLnN0b3J5LmxvZy5zZXJ2aWNlLntQYXRoTWFuYWdlciwgUGF0aE1hbmFnZXJQaGFzZX0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5tb2RlbC5lbnZpcm9ubWVudC57RW52aXJvbm1lbnQsIFRlc3RIYWRvb3BFbnZpcm9ubWVudH0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5tb2RlbC57SGFkb29wQ2x1c3RlciwgUGhhc2V9CmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc2VydmljZS5Mb2dTZXJ2aWNlCmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3BhcmsuaW1wbGljaXRzLl8KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5zcGFyay5tb2RlbC57RGFpbHksIEhvdXJseX0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5zcGFyay5zZXJ2aWNlLl8KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5zcGFyay50eXBlY2xhc3Mue0RhdGFzZXRSZWFkZXIsIExvYWRhYmxlfQppbXBvcnQgY29tLmtha2FvLnN0b3J5LnNwYXJrLnV0aWwuSERGU1V0aWwKaW1wb3J0IGNvbS50eXBlc2FmZS5jb25maWcuQ29uZmlnCmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC5mdW5jdGlvbnMuXwppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwue0RhdGFGcmFtZSwgRGF0YXNldCwgU3BhcmtTZXNzaW9uLCBmdW5jdGlvbnMgPT4gZn0KaW1wb3J0IG9yZy5qb2RhLnRpbWUuRGF0ZVRpbWUKCmltcG9ydCBzY2FsYS51dGlsLlRyeQoKZmluYWwgY2xhc3MgVXNlckFjdGl2aXR5RXh0cmFjdG9yQmF0Y2goCiAgICBpbXBsaWNpdAogICAgY29uZmlnOiBDb25maWcsCiAgICBsb2dTZXJ2aWNlOiBMb2dTZXJ2aWNlLAogICAgcGF0aE1hbmFnZXI6IFBhdGhNYW5hZ2VyLAogICAgZGF0ZVBhcnNlcjogRGF0ZVBhcnNlciwKICAgIHB1c2hDb21tb25TZXJ2aWNlOiBQdXNoQ29tbW9uU2VydmljZQopIGV4dGVuZHMgU2VyaWFsaXphYmxlIHsKICBkZWYgcnVuKGFyZ3M6IEFycmF5W1N0cmluZ10pKHNwYXJrOiBTcGFya1Nlc3Npb24pOiBVbml0ID0gewogICAgdmFsIHRhcmdldERhdGUgPSBUcnkgewogICAgICBkYXRlUGFyc2VyLnBhcnNlSG91cihhcmdzKDApKS5nZXRPckVsc2UoZGF0ZVBhcnNlci5kYXlEZWZhdWx0KQogICAgfS5nZXRPckVsc2UoRGF0ZVRpbWUubm93KQoKICAgIGV4dHJhY3RQdXNoVGFyZ2V0KHRhcmdldERhdGUpKHNwYXJrKQogIH0KCiAgcHJpdmF0ZSBkZWYgZXh0cmFjdFB1c2hUYXJnZXQodGFyZ2V0RGF0ZTogRGF0ZVRpbWUpKHNwYXJrOiBTcGFya1Nlc3Npb24pID0gewogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCgogICAgdmFsIHRhcmdldEJlZm9yZURheXMgPSBMaXN0KDUpCiAgICB2YWwgbG9nUGF0aCA9IHB1c2hDb21tb25TZXJ2aWNlLmdldFdha2V1cFB1c2hVc2VyTG9nUGF0aCh0YXJnZXREYXRlKQoKICAgIHZhbCB5ZXN0ZXJkYXkgPSBEYWlseShEYXRlVGltZS5ub3cubWludXNEYXlzKDEpLnRvU3RyaW5nKCJ5eXl5LU1NLWRkIikpCiAgICB2YWwgZnJpZW5kczogRGF0YXNldFtGcmllbmRzaGlwXSA9CiAgICAgIERhdGFzZXRSZWFkZXJbRnJpZW5kc2hpcF0ucmVhZChzcGFyaykoeWVzdGVyZGF5LCB5ZXN0ZXJkYXkpLnJlcGFydGl0aW9uKCdmcmllbmRJZCkuY2FjaGUoKQogICAgdmFsIGFjdGl2aXRpZXM6IERhdGFGcmFtZSA9IGV4dHJhY3RUYXJnZXREYXRhKDUpKHNwYXJrKS5jYWNoZSgpCgogICAgdGFyZ2V0QmVmb3JlRGF5cy5mb3JlYWNoIHsgZCA9PgogICAgICB2YWwgdGFyZ2V0VXNlciA9IHNwYXJrLnJlYWQKICAgICAgICAuanNvbihsb2dQYXRoKQogICAgICAgIC53aGVyZShjb2woImJlZm9yZWRheXMiKSA9PT0gZiIke2R9JTAyZCIpCiAgICAgICAgLnJlcGFydGl0aW9uKCdwcm9maWxlX2lkKQoKICAgICAgdmFsIHRhcmdldFVzZXJGcmllbmRzID0gdGFyZ2V0VXNlci5qb2luKGZyaWVuZHMsIHRhcmdldFVzZXIoInByb2ZpbGVfaWQiKSA9PT0gZnJpZW5kcygicHJvZmlsZUlkIikpLmNhY2hlKCkKICAgICAgdmFsIGZyaWVuZExhdGVzdEFjdGl2aXR5ID0gZ2V0RnJpZW5kTGF0ZXN0QWN0aXZpdHkoYWN0aXZpdGllcywgdGFyZ2V0VXNlckZyaWVuZHMpKHNwYXJrKQogICAgICB2YWwgZmluYWxQdXNoU2VuZERhdGEgPSBnZXRGaW5hbFB1c2hTZW5kRGF0YShhY3Rpdml0aWVzLCBmcmllbmRMYXRlc3RBY3Rpdml0eSkoc3BhcmspCgogICAgICBwdXNoQ29tbW9uU2VydmljZS5tYWtlVGFyZ2V0RmlsZShmaW5hbFB1c2hTZW5kRGF0YSwgcHVzaENvbW1vblNlcnZpY2UuZ2V0V2FrZXVwUHVzaFRlc3RMb2dQYXRoKHRhcmdldERhdGUsIGQpKQogICAgfQoKICAgIGZyaWVuZHMudW5wZXJzaXN0KCkKICAgIGFjdGl2aXRpZXMudW5wZXJzaXN0KCkKICB9CgogIHByaXZhdGUgZGVmIGV4dHJhY3RUYXJnZXREYXRhKGJlZm9yZURheXM6IEludCkoc3Bhcms6IFNwYXJrU2Vzc2lvbikgPSB7CiAgICBpbXBvcnQgc3BhcmsuaW1wbGljaXRzLl8KCiAgICAvKgogICAgdmFsIGZyb20gPSBEYWlseShEYXRlVGltZS5ub3cubWludXNEYXlzKGJlZm9yZURheXMpLnRvU3RyaW5nKCJ5eXl5LU1NLWRkIikpCiAgICB2YWwgdG8gPSBEYWlseShEYXRlVGltZS5ub3cudG9TdHJpbmcoInl5eXktTU0tZGQiKSkKCiAgICB2YWwgYWN0aXZpdGllc0xvZyA9IERhdGFzZXRSZWFkZXJbU3RvcnlSZXF1ZXN0TG9nXQogICAgICAucmVhZChzcGFyaykoZnJvbSwgdG8pCiAgICAgIC8vLmZpbHRlcih4ID0+IHguY29udHJvbGxlciA9PSAiYWN0aXZpdGllcyIgJiYgKHguYWN0aW9uID09ICJjcmVhdGUiIHx8IHguYWN0aW9uID09ICJkZXN0cm95IikpCiAgICAgIC5hbGlhcygiYSIpCiAgICAgIC53aGVyZSgkImEuY29udHJvbGxlciIgPT09ICJhY3Rpdml0aWVzIiAmJiAoJCJhLmFjdGlvbiIgPT09ICJjcmVhdGUiIHx8ICQiYS5hY3Rpb24iID09PSAiZGVzdHJveSIpKQogICAgICAuY2FjaGUoKQoKICAgICAqLwogICAgdmFsIGZyb20gPSBEYXRlVGltZS5ub3cubWludXNEYXlzKGJlZm9yZURheXMpLnRvU3RyaW5nKCJ5eXl5LU1NLWRkIikKICAgIHZhbCB0byA9IERhdGVUaW1lLm5vdy50b1N0cmluZygieXl5eS1NTS1kZCIpCiAgICB2YWwgYWN0aXZpdGllc0xvZyA9IFJlcXVlc3RMb2cKICAgICAgLnJlYWQoU2VxKFJlcXVlc3RMb2cucGF0aC5hcHAsIFJlcXVlc3RMb2cucGF0aC53ZWIpLCBmcm9tLCB0bykoc3BhcmspCiAgICAgIC53aGVyZSgKICAgICAgICBSZXF1ZXN0TG9nLmNvbHVtbi5jb250cm9sbGVyID09PSAiYWN0aXZpdGllcyIgJiYgKFJlcXVlc3RMb2cuY29sdW1uLmFjdGlvbiA9PT0gImNyZWF0ZSIgfHwgUmVxdWVzdExvZy5jb2x1bW4uYWN0aW9uID09PSAiZGVzdHJveSIpCiAgICAgICkKICAgICAgLmNhY2hlKCkKCiAgICB2YWwgY3JlYXRlTG9nID0gYWN0aXZpdGllc0xvZwogICAgICAuZmlsdGVyIHsgbG9nID0+CiAgICAgICAgbG9nLmFjdGlvbiA9PSAiY3JlYXRlIiAmJgogICAgICAgIChsb2cucGVybWlzc2lvbi5zdGFydHNXaXRoKCJBIikgfHwgbG9nLnBlcm1pc3Npb24uc3RhcnRzV2l0aCgiRiIpKSAmJiBsb2cuZnJpZW5kQ291bnQgPiAwICYmICFsb2cuaXNTdG9yeXBsdXMKICAgICAgfQogICAgICAubWFwIHsgbG9nID0+CiAgICAgICAgKGxvZy5wcm9maWxlSWQsIGxvZy50cywgbG9nLmV0Y1BhcmFtTWFwLmdldE9yRWxzZSgiYWlkIiwgIi0iKSkKICAgICAgfQogICAgICAudG9ERigicGlkIiwgInRzIiwgImFpZCIpCgogICAgdmFsIGRlc3Ryb3lMb2cgPSBhY3Rpdml0aWVzTG9nCiAgICAgIC5hbGlhcygiYSIpCiAgICAgIC5maWx0ZXIobG9nID0+IGxvZy5hY3Rpb24gPT0gImRlc3Ryb3kiKQogICAgICAubWFwIHsgbG9nID0+CiAgICAgICAgKGxvZy5wcm9maWxlSWQsIGxvZy50cywgbG9nLmV0Y1BhcmFtTWFwLmdldE9yRWxzZSgiYWlkIiwgIi0iKSkKICAgICAgfQogICAgICAudG9ERigicGlkIiwgInRzIiwgImFpZCIpCgogICAgYWN0aXZpdGllc0xvZy51bnBlcnNpc3QoKQoKICAgIGNyZWF0ZUxvZwogICAgICAuam9pbihkZXN0cm95TG9nLCBTZXEoImFpZCIpLCAibGVmdGFudGkiKQogICAgICAuZ3JvdXBCeShjcmVhdGVMb2coInBpZCIpKQogICAgICAuYWdnKGYubWF4KCJ0cyIpIGFzICJ0cyIsIGYubWF4KCJhaWQiKSBhcyAiYWlkIiwgZi5jb25jYXQoZi5tYXgoInRzIiksIGNyZWF0ZUxvZygicGlkIikpIGFzICJ0c1BpZCIpCiAgICAgIC5zZWxlY3QoInBpZCIsICJ0cyIsICJhaWQiLCAidHNQaWQiKQogIH0KCiAgcHJpdmF0ZSBkZWYgZ2V0RnJpZW5kTGF0ZXN0QWN0aXZpdHkoYWN0aXZpdGllczogRGF0YUZyYW1lLCB0YXJnZXRVc2VyRnJpZW5kczogRGF0YUZyYW1lKShzcGFyazogU3BhcmtTZXNzaW9uKSA9IHsKICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwogICAgdGFyZ2V0VXNlckZyaWVuZHMKICAgICAgLmpvaW4oYWN0aXZpdGllcywgdGFyZ2V0VXNlckZyaWVuZHMoImZyaWVuZElkIikgPT09IGFjdGl2aXRpZXMoInBpZCIpKQogICAgICAuZ3JvdXBCeSgncHJvZmlsZUlkKQogICAgICAuYWdnKGYuY291bnQoImZyaWVuZElkIikgYXMgJ2NudCwgZi5tYXgoInRzUGlkIikgYXMgJ3RzUGlkKQogICAgICAuc2VsZWN0KCdwcm9maWxlSWQsICdjbnQsICd0c1BpZCkKICB9CgogIHByaXZhdGUgZGVmIGdldEZpbmFsUHVzaFNlbmREYXRhKGFjdGl2aXRpZXM6IERhdGFGcmFtZSwgZnJpZW5kTGF0ZXN0QWN0aXZpdHk6IERhdGFGcmFtZSkoc3Bhcms6IFNwYXJrU2Vzc2lvbikgPSB7CiAgICBpbXBvcnQgc3BhcmsuaW1wbGljaXRzLl8KICAgIGZyaWVuZExhdGVzdEFjdGl2aXR5CiAgICAgIC5qb2luKGFjdGl2aXRpZXMsIGZyaWVuZExhdGVzdEFjdGl2aXR5KCJ0c1BpZCIpID09PSBhY3Rpdml0aWVzKCJ0c1BpZCIpKQogICAgICAuc2VsZWN0KCdwcm9maWxlSWQsIGFjdGl2aXRpZXMoInBpZCIpIGFzICdmcmllbmRJZCwgYWN0aXZpdGllcygiYWlkIikgYXMgJ2FjdGl2aXR5SWQsICdjbnQpCiAgICAgIC5tYXAgeyBhID0+CiAgICAgICAgKGEuZ2V0KDApLnRvU3RyaW5nLCBhLmdldCgxKS50b1N0cmluZywgYS5nZXQoMikudG9TdHJpbmcsIGEuZ2V0KDMpLnRvU3RyaW5nLCAidXNlciIpCiAgICAgIH0KICAgICAgLnRvREYoInByb2ZpbGVJZCIsICJmcmllbmRJZCIsICJhY3Rpdml0eUlkIiwgImNudCIsICJ0YXJnZXRUeXBlIikKICB9Cn0KCm9iamVjdCBVc2VyQWN0aXZpdHlFeHRyYWN0b3JCYXRjaCB7CiAgdmFsIGVudjogRW52aXJvbm1lbnQgPQogICAgRW52aXJvbm1lbnQuZGVwbG95T3JFbHNlKFRlc3RIYWRvb3BFbnZpcm9ubWVudCh0aGlzLmdldENsYXNzLCBQaGFzZS5UZXN0LCBIYWRvb3BDbHVzdGVyLktzQmF0Y2gpKQogIGltcG9ydCBlbnYuXwogIGltcGxpY2l0IHZhbCBwYXRoTWFuYWdlcjogUGF0aE1hbmFnZXJQaGFzZSA9IG5ldyBQYXRoTWFuYWdlclBoYXNlKCkoUGhhc2UuUHJvZCkKICBpbXBsaWNpdCB2YWwgc2Vzc2lvbk1hbmFnZXI6IFNlc3Npb25NYW5hZ2VyID0gbmV3IFNlc3Npb25NYW5hZ2VyUGhhc2UoU2Vzc2lvbk1hbmFnZXIuZ2V0U3BhcmtDb25mKGVudi5jb25maWcpKQogIGltcGxpY2l0IHZhbCBkYXRlUGFyc2VyOiBEYXRlUGFyc2VyID0gbmV3IERhdGVQYXJzZXJVdGMKCiAgaW1wbGljaXQgdmFsIHB1c2hDb21tb25TZXJ2aWNlOiBQdXNoQ29tbW9uU2VydmljZSA9IG5ldyBQdXNoQ29tbW9uU2VydmljZURlZmF1bHQKCiAgdmFsIGFwcCA9IG5ldyBVc2VyQWN0aXZpdHlFeHRyYWN0b3JCYXRjaAoKICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsKICAgIC8vdmFsIGhkZnNVdGlsID0gSERGU1V0aWwuZ2V0CiAgICAvL3ZhbCBmcm9tID0gRGFpbHkoRGF0ZVRpbWUubm93Lm1pbnVzRGF5cyg1KS50b1N0cmluZygieXl5eS1NTS1kZCIpKQogICAgLy92YWwgdG8gPSBEYWlseShEYXRlVGltZS5ub3cudG9TdHJpbmcoInl5eXktTU0tZGQiKSkKICAgIC8vdmFsIGZpbGVzID0gSG91cmx5CiAgICAvLyAgLmdldFJhbmdlKGZyb20sIHRvKQogICAgLy8gIC5mbGF0TWFwKHAgPT4gTG9hZGFibGVbU3RvcnlSZXF1ZXN0TG9nXS5nZXRQYXRocygiKiIsIHApLmZpbHRlcihoZGZzVXRpbC5leGlzdHMpLm1hcCh4ID0+IHMiJHgvKi5neiIpKQogICAgLy9maWxlcy5mb3JlYWNoKHByaW50bG4pCgogICAgLy92YWwgZnJvbSA9IERhdGVUaW1lLm5vdy5taW51c0RheXMoNSkudG9TdHJpbmcoInl5eXktTU0tZGQiKQogICAgLy92YWwgdG8gPSBEYXRlVGltZS5ub3cudG9TdHJpbmcoInl5eXktTU0tZGQiKQogICAgLy9SZXF1ZXN0TG9nCiAgICAvLyAgLnJlYWQoU2VxKFJlcXVlc3RMb2cucGF0aC5hcHAsIFJlcXVlc3RMb2cucGF0aC53ZWIpLCBmcm9tLCB0bykKICAgIC8vICAuZm9yZWFjaChwcmludGxuKQogICAgdmFsIHNwYXJrID0gc2Vzc2lvbk1hbmFnZXIuZ2V0T3JDcmVhdGVTZXNzaW9uCiAgICBhcHAucnVuKGFyZ3MpKHNwYXJrKQogIH0KfQo=</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>removedEvenElems</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUQVNLX05PXD4=</text>
+        <text>TRef</text>
       </register>
       <register name="0" type="4">
-        <text>${REMOTE_APP_BASE_DIR}/shared/meta/tombstone.txt</text>
+        <text>removedEval</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5maWx0ZXIoXy5uYW1lLnN0YXJ0c1dpdGgocHJlZml4KSkK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBzcGVjaWZpZWRWYWx1ZXNUU2V0OiBTVE1bTm90aGluZywgVFNldFtJbnRdXSA9IFRTZXQubWFrZSgxLCAyLCAzKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2671,25 +2686,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBjcmVhdGVUU2V0OiBTVE1bTm90aGluZywgVFNldFtJbnRdXSA9IFRTZXQubWFrZSgxMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG1lc3NhZ2UgPQogICAgICAgICAgICAgICAgICAgICAgICAgIHMiIiIkbWVzc2FnZUhlYWQ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfFZhbHVlOiAke3JlY29yZC52YWx1ZSgpfSIiIi5zdHJpcE1hcmdpbgo=</text>
+        <text encoding="base64">ICAgICAgc3VpdGUoIlJldHJpZXZlIHRoZSB2YWx1ZSBvdXQgb2YgYSBUU2V0IikoCiAgICAgICAgdGVzdE0oInNpbmdsZSB0cmFuc2FjdGlvbiIpIHsKICAgICAgICAgIHZhbCByZXRyaWV2ZVNpbmdsZTogVUlPW0ludF0gPSAoZm9yIHsKICAgICAgICAgICAgdFJlZiA8LSBUU2V0Lm1ha2UoMTApCiAgICAgICAgICAgIHZhbHVlIDwtIHRSZWYuZ2V0CiAgICAgICAgICB9IHlpZWxkIHZhbHVlKS5jb21taXQKCiAgICAgICAgICBhc3NlcnRNKHJldHJpZXZlU2luZ2xlKShlcXVhbFRvKDEwKSkKICAgICAgICB9LAogICAgICAgIHRlc3RNKCJtdWx0aSB0cmFuc2FjdGlvbiIpIHsKICAgICAgICAgIHZhbCByZXRyaWV2ZU11bHRpcGxlOiBVSU9bSW50XSA9IGZvciB7CiAgICAgICAgICAgIHRSZWYgPC0gVFNldC5tYWtlQ29tbWl0KDEwKQogICAgICAgICAgICB2YWx1ZSA8LSB0UmVmLmdldC5jb21taXQKICAgICAgICAgIH0geWllbGQgdmFsdWUKCiAgICAgICAgICBhc3NlcnRNKHJldHJpZXZlTXVsdGlwbGUpKGVxdWFsVG8oMTApKQogICAgICAgIH0KICAgICAgKSwKICAgICAgc3VpdGUoIlNldCBhIHZhbHVlIHRvIGEgVFNldCIpKAogICAgICAgIHRlc3RNKCJzaW5nbGUgdHJhbnNhY3Rpb24iKSB7CiAgICAgICAgICB2YWwgc2V0U2luZ2xlOiBVSU9bSW50XSA9IChmb3IgewogICAgICAgICAgICB0UmVmIDwtIFRTZXQubWFrZSgxMCkKICAgICAgICAgICAgXyA8LSB0UmVmLnNldCgyMCkKICAgICAgICAgICAgblZhbHVlIDwtIHRSZWYuZ2V0CiAgICAgICAgICB9IHlpZWxkIG5WYWx1ZSkuY29tbWl0CgogICAgICAgICAgYXNzZXJ0TShzZXRTaW5nbGUpKGVxdWFsVG8oMjApKQogICAgICAgIH0sCiAgICAgICAgdGVzdE0oIm11bHRpIHRyYW5zYWN0aW9uIikgewogICAgICAgICAgdmFsIHNldE11bHRpcGxlOiBVSU9bSW50XSA9IGZvciB7CiAgICAgICAgICAgIHRSZWYgPC0gVFNldC5tYWtlQ29tbWl0KDEwKQogICAgICAgICAgICBuVmFsdWUgPC0gdFJlZi5zZXQoMjApLmZsYXRNYXAoXyA9PiB0UmVmLmdldCkuY29tbWl0CiAgICAgICAgICB9IHlpZWxkIG5WYWx1ZQoKICAgICAgICAgIGFzc2VydE0oc2V0TXVsdGlwbGUpKGVxdWFsVG8oMjApKQogICAgICAgIH0KICAgICAgKSwKICAgICAgc3VpdGUoIlVwZGF0ZSB0aGUgdmFsdWUgb2YgdGhlIFRTZXQiKSgKICAgICAgICB0ZXN0TSgic2luZ2xlIHRyYW5zYWN0aW9uIikgewogICAgICAgICAgdmFsIHVwZGF0ZVNpbmdsZTogVUlPW0ludF0gPSAoZm9yIHsKICAgICAgICAgICAgdFJlZiA8LSBUU2V0Lm1ha2UoMTApCiAgICAgICAgICAgIG5WYWx1ZSA8LSB0UmVmLnVwZGF0ZUFuZEdldChfICsgMjApCiAgICAgICAgICB9IHlpZWxkIG5WYWx1ZSkuY29tbWl0CgogICAgICAgICAgYXNzZXJ0TSh1cGRhdGVTaW5nbGUpKGVxdWFsVG8oMzApKQogICAgICAgIH0sCiAgICAgICAgdGVzdE0oIm11bHRpIHRyYW5zYWN0aW9uIikgewogICAgICAgICAgdmFsIHVwZGF0ZU11bHRpcGxlOiBVSU9bSW50XSA9IGZvciB7CiAgICAgICAgICAgIHRSZWYgPC0gVFNldC5tYWtlQ29tbWl0KDEwKQogICAgICAgICAgICBuVmFsdWUgPC0gdFJlZi51cGRhdGVBbmRHZXQoXyArIDIwKS5jb21taXQKICAgICAgICAgIH0geWllbGQgblZhbHVlCgogICAgICAgICAgYXNzZXJ0TSh1cGRhdGVNdWx0aXBsZSkoZXF1YWxUbygzMCkpCiAgICAgICAgfQogICAgICApLAogICAgICBzdWl0ZSgiTW9kaWZ5IHRoZSB2YWx1ZSBvZiB0aGUgVFNldCIpKAogICAgICAgIHRlc3RNKCJzaW5nbGUgdHJhbnNhY3Rpb24iKSB7CiAgICAgICAgICB2YWwgbW9kaWZ5U2luZ2xlOiBVSU9bKFN0cmluZywgSW50KV0gPSAoZm9yIHsKICAgICAgICAgICAgdFJlZiA8LSBUU2V0Lm1ha2UoMTApCiAgICAgICAgICAgIG1WYWx1ZSA8LSB0UmVmLm1vZGlmeSh2ID0+ICgiWmVlLU9oIiwgdiArIDEwKSkKICAgICAgICAgICAgblZhbHVlIDwtIHRSZWYuZ2V0CiAgICAgICAgICB9IHlpZWxkIChtVmFsdWUsIG5WYWx1ZSkpLmNvbW1pdAoKICAgICAgICAgIGFzc2VydE0obW9kaWZ5U2luZ2xlKShlcXVhbFRvKCgiWmVlLU9oIiwgMjApKSkKICAgICAgICB9LAogICAgICAgIHRlc3RNKCJtdWx0aSB0cmFuc2FjdGlvbiIpIHsKICAgICAgICAgIHZhbCBtb2RpZnlNdWx0aXBsZTogVUlPWyhTdHJpbmcsIEludCldID0gZm9yIHsKICAgICAgICAgICAgdFJlZiA8LSBUU2V0Lm1ha2VDb21taXQoMTApCiAgICAgICAgICAgIHR1cGxlMiA8LSB0UmVmLm1vZGlmeSh2ID0+ICgiWmVlLU9oIiwgdiArIDEwKSkuemlwKHRSZWYuZ2V0KS5jb21taXQKICAgICAgICAgIH0geWllbGQgdHVwbGUyCgogICAgICAgICAgYXNzZXJ0TShtb2RpZnlNdWx0aXBsZSkoZXF1YWxUbygoIlplZS1PaCIsIDIwKSkpCiAgICAgICAgfQogICAgICApLAogICAgICB0ZXN0TSgiVXNhZ2UiKSB7CiAgICAgICAgZGVmIHRyYW5zZmVyKHRTZW5kZXI6IFRTZXRbSW50XSwgdFJlY2VpdmVyOiBUU2V0W0ludF0sIGFtb3VudDogSW50KTogVUlPW0ludF0gPSB7CiAgICAgICAgICBTVE0uYXRvbWljYWxseSB7CiAgICAgICAgICAgIGZvciB7CiAgICAgICAgICAgICAgXyA8LSB0U2VuZGVyLmdldC5yZXRyeVVudGlsKF8gPj0gYW1vdW50KQogICAgICAgICAgICAgIF8gPC0gdFNlbmRlci51cGRhdGUoXyAtIGFtb3VudCkKICAgICAgICAgICAgICBuQW1vdW50IDwtIHRSZWNlaXZlci51cGRhdGVBbmRHZXQoXyArIGFtb3VudCkKICAgICAgICAgICAgfSB5aWVsZCBuQW1vdW50CiAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICB2YWwgdHJhbnNmZXJyZWRNb25leTogVUlPW1N0cmluZ10gPSBmb3IgewogICAgICAgICAgdFNlbmRlciA8LSBUU2V0Lm1ha2VDb21taXQoNTApCiAgICAgICAgICB0UmVjZWl2ZXIgPC0gVFNldC5tYWtlQ29tbWl0KDEwMCkKICAgICAgICAgIF8gPC0gdHJhbnNmZXIodFNlbmRlciwgdFJlY2VpdmVyLCA1MCkuZm9yawogICAgICAgICAgXyA8LSB0U2VuZGVyLmdldC5yZXRyeVVudGlsKF8gPT0gMCkuY29tbWl0CiAgICAgICAgICB0dXBsZTIgPC0gdFNlbmRlci5nZXQuemlwKHRSZWNlaXZlci5nZXQpLmNvbW1pdAogICAgICAgICAgKHNlbmRlckJhbGFuY2UsIHJlY2VpdmVyQmFsYW5jZSkgPSB0dXBsZTIKICAgICAgICB9IHlpZWxkIHMic2VuZGVyOiAkc2VuZGVyQmFsYW5jZSAmIHJlY2VpdmVyOiAkcmVjZWl2ZXJCYWxhbmNlIgoKICAgICAgICBhc3NlcnRNKHRyYW5zZmVycmVkTW9uZXkpKGVxdWFsVG8oInNlbmRlcjogMCAmIHJlY2VpdmVyOiAxNTAiKSkKICAgICAgfQo=</text>
       </register>
-      <register name="s" type="2">
-        <text encoding="base64">ICAvKioKICAgICogU3RvcnlMb2cg7JmAIFBhcnNpbmcg66Gc7KeB7J20IOykkeuzteuQmOyngOunjCBTcGFyayBTZXJpYWxpemUg7IaN64+E66W8IOychO2VtCDrlLDroZwg7KCV7J2Y7ZWoCiAgICAqLwo=</text>
+      <register name="s" type="4">
+        <text>(spark: SparkSession)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzIiIiUGFyc2luZ0Vycm9yCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfFRvcGljOiAke3JlY29yZC50b3BpYygpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHxTdHJlYW1pbmc6ICR7c2VsZi5nZXRDbGFzcy5nZXROYW1lfSIiIi5zdHJpcE1hcmdpbgo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0TSgiUmVmIikgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG1lc3NhZ2VIZWFkID0gCg==</text>
+        <text encoding="base64">ICAgICAgc3VpdGUoIlB1dCBlbGVtZW50KHMpIGluIGEgVFF1ZXVlIikoCiAgICAgICAgdGVzdE0oIm9mZmVyIikgewogICAgICAgICAgdmFsIHRRdWV1ZU9mZmVyOiBVSU9bVFF1ZXVlW0ludF1dID0gKGZvciB7CiAgICAgICAgICAgIHRRdWV1ZSA8LSBUUXVldWUuYm91bmRlZFtJbnRdKDMpCiAgICAgICAgICAgIF8gPC0gdFF1ZXVlLm9mZmVyKDEpCiAgICAgICAgICB9IHlpZWxkIHRRdWV1ZSkuY29tbWl0CgogICAgICAgICAgYXNzZXJ0TSh0UXVldWVPZmZlci5mbGF0TWFwKF8ubGFzdC5jb21taXQpKShlcXVhbFRvKDEpKQogICAgICAgIH0sCiAgICAgICAgdGVzdE0oIm9mZmVyQWxsIikgewogICAgICAgICAgdmFsIHRRdWV1ZU9mZmVyQWxsOiBVSU9bVFF1ZXVlW0ludF1dID0gKGZvciB7CiAgICAgICAgICAgIHRRdWV1ZSA8LSBUUXVldWUuYm91bmRlZFtJbnRdKDMpCiAgICAgICAgICAgIF8gPC0gdFF1ZXVlLm9mZmVyQWxsKExpc3QoMSwgMikpCiAgICAgICAgICB9IHlpZWxkIHRRdWV1ZSkuY29tbWl0CgogICAgICAgICAgYXNzZXJ0TSh0UXVldWVPZmZlckFsbC5mbGF0TWFwKF8ubGFzdC5jb21taXQpKShlcXVhbFRvKDIpKQogICAgICAgIH0KICAgICAgKSwKICAgICAgc3VpdGUoIlJldHJpZXZlIGVsZW1lbnQocykgZnJvbSBhIFRRdWV1ZSIpKAogICAgICAgIHRlc3RNKCJ0YWtlIikgewogICAgICAgICAgdmFsIHRRdWV1ZVRha2U6IFVJT1tJbnRdID0gKGZvciB7CiAgICAgICAgICAgIHRRdWV1ZSA8LSBUUXVldWUuYm91bmRlZFtJbnRdKDMpCiAgICAgICAgICAgIF8gPC0gdFF1ZXVlLm9mZmVyQWxsKExpc3QoMSwgMikpCiAgICAgICAgICAgIHJlcyA8LSB0UXVldWUudGFrZQogICAgICAgICAgfSB5aWVsZCByZXMpLmNvbW1pdAoKICAgICAgICAgIGFzc2VydE0odFF1ZXVlVGFrZSkoZXF1YWxUbygxKSkKICAgICAgICB9LAogICAgICAgIHRlc3RNKCJwb2xsIikgewogICAgICAgICAgdmFsIHRRdWV1ZVBvbGw6IFVJT1tPcHRpb25bSW50XV0gPSAoZm9yIHsKICAgICAgICAgICAgdFF1ZXVlIDwtIFRRdWV1ZS5ib3VuZGVkW0ludF0oMykKICAgICAgICAgICAgcmVzIDwtIHRRdWV1ZS5wb2xsCiAgICAgICAgICB9IHlpZWxkIHJlcykuY29tbWl0CgogICAgICAgICAgYXNzZXJ0TSh0UXVldWVQb2xsKShlcXVhbFRvKE5vbmUpKQogICAgICAgIH0sCiAgICAgICAgdGVzdE0oInRha2VVcFRvIikgewogICAgICAgICAgdmFsIHRRdWV1ZVRha2VVcFRvOiBVSU9bTGlzdFtJbnRdXSA9IChmb3IgewogICAgICAgICAgICB0UXVldWUgPC0gVFF1ZXVlLmJvdW5kZWRbSW50XSg0KQogICAgICAgICAgICBfIDwtIHRRdWV1ZS5vZmZlckFsbChMaXN0KDEsIDIpKQogICAgICAgICAgICByZXMgPC0gdFF1ZXVlLnRha2VVcFRvKDMpCiAgICAgICAgICB9IHlpZWxkIHJlcykuY29tbWl0CgogICAgICAgICAgYXNzZXJ0TSh0UXVldWVUYWtlVXBUbykoZXF1YWxUbyhMaXN0KDEsIDIpKSkKICAgICAgICB9LAogICAgICAgIHRlc3RNKCJ0YWtlQWxsIikgewogICAgICAgICAgdmFsIHRRdWV1ZVRha2VBbGw6IFVJT1tMaXN0W0ludF1dID0gKGZvciB7CiAgICAgICAgICAgIHRRdWV1ZSA8LSBUUXVldWUuYm91bmRlZFtJbnRdKDQpCiAgICAgICAgICAgIF8gPC0gdFF1ZXVlLm9mZmVyQWxsKExpc3QoMSwgMikpCiAgICAgICAgICAgIHJlcyA8LSB0UXVldWUudGFrZUFsbAogICAgICAgICAgfSB5aWVsZCByZXMpLmNvbW1pdAoKICAgICAgICAgIGFzc2VydE0odFF1ZXVlVGFrZUFsbCkoZXF1YWxUbyhMaXN0KDEsIDIpKSkKICAgICAgICB9CiAgICAgICksCiAgICAgIHRlc3RNKCJTaXplIG9mIGEgVFF1ZXVlIikgewogICAgICAgIHZhbCB0UXVldWVTaXplOiBVSU9bSW50XSA9IChmb3IgewogICAgICAgICAgdFF1ZXVlIDwtIFRRdWV1ZS5ib3VuZGVkW0ludF0oMykKICAgICAgICAgIF8gPC0gdFF1ZXVlLm9mZmVyQWxsKExpc3QoMSwgMikpCiAgICAgICAgICBzaXplIDwtIHRRdWV1ZS5zaXplCiAgICAgICAgfSB5aWVsZCBzaXplKS5jb21taXQKCiAgICAgICAgYXNzZXJ0TSh0UXVldWVTaXplKShlcXVhbFRvKDIpKQogICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzIiIiUGFyc2luZ0Vycm9yCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfFRvcGljOiAke3JlY29yZC50b3BpYygpfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHxTdHJlYW1pbmc6ICR7c2VsZi5nZXRDbGFzcy5nZXROYW1lfSIiIi5zdHJpcE1hcmdpbgo=</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzIiIiJG1lc3NhZ2VIZWFkOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIHxWYWx1ZTogJHtyZWNvcmQudmFsdWUoKX0iIiIuc3RyaXBNYXJnaW4K</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2718,10 +2733,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIG1lc3NhZ2UxID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNhc2UgRmFpbHVyZShleCkgPT4gTGVmdChleCkKICAgICAgICAgICAgICAgICAgICAgIGNhc2UgU3VjY2VzcyhOb25lKSA9PiBMZWZ0KG5ldyBFeGNlcHRpb24obWVzc2FnZUhlYWQpKQogICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2733,11 +2748,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxUQVNLX05PXD4=</last-search>
+      <last-search>TRef</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUQVNLX05PXD4=</last-pattern>
-      <last-replace encoding="base64">Pi0tLQ==</last-replace>
-      <last-substitute encoding="base64">Pi0tLS0=</last-substitute>
+      <last-pattern>TRef</last-pattern>
+      <last-replace>TSet</last-replace>
+      <last-substitute>TRef</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
