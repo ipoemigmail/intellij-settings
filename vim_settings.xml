@@ -118,11 +118,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" timestamp="1587905036005">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="19" column="1" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" timestamp="1587913705701">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
         <mark key="^" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample02.py" timestamp="1587904990883">
@@ -229,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="69" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="55" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="25" column="26" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
@@ -310,7 +309,6 @@
       <jump line="89" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
       <jump line="95" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
       <jump line="78" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
-      <jump line="27" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
       <jump line="90" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
       <jump line="9" column="15" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample02.py" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample02.py" />
@@ -323,12 +321,14 @@
       <jump line="5" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample02.py" />
       <jump line="20" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample02.py" />
       <jump line="13" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample02.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
-      <jump line="92" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
       <jump line="93" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
+      <jump line="86" column="29" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
+      <jump line="92" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
       <jump line="21" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
+      <jump line="96" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -336,8 +336,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIHZhbCBjcmVhdGVMb2cgPSBhY3Rpdml0aWVzTG9nCiAgICAgIC5hbGlhcygiYSIpCiAgICAgIC53aGVyZSgkImFjdGlvbiIgPT09ICJjcmVhdGUiKQogICAgICAuZmlsdGVyIHsgbG9nID0+CiAgICAgICAgKGxvZy5wZXJtaXNzaW9uLnN0YXJ0c1dpdGgoIkEiKSB8fCBsb2cucGVybWlzc2lvbi5zdGFydHNXaXRoKCJGIikpICYmIGxvZy5mcmllbmRDb3VudCA+IDAgJiYgIWxvZy5pc1N0b3J5cGx1cwogICAgICB9CiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikKCiAgICBkZWYgZGVzdHJveUxvZ0NvbmQobG9nOiBTdG9yeVJlcXVlc3RMb2cpOiBCb29sZWFuID0gbG9nLmFjdGlvbiA9PSAiZGVzdG9yeSIKCiAgICB2YWwgZGVzdHJveUxvZyA9IGFjdGl2aXRpZXNMb2cKICAgICAgLmFsaWFzKCJhIikKICAgICAgLndoZXJlKCQiYS5hY3Rpb24iID09PSAiZGVzdG9yeSIpCiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIwojIAojIAojIAojIAojIAojCiMgCiMgCiMgCiMgCiMgCiMgCiMKIwojIAojIAojIAojIAojIAojCiMgCiMgCiMgCiMKIyAKIyAKIyAKIwojIAojIAojIAojIAojCiMgCiMgCiMgCiMgCiMgCiMgCiMgCiMKIyAKIyAKIwojIAojIAojIAojIAojIAojCiMgCiMgCiMgCiMgCiMKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2650,8 +2650,8 @@
       <register name="0" type="2">
         <text encoding="base64">cGx0LmNsb3NlKCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAKIwojIAojIAojIAojIAojIAojCiMgCiMgCiMgCiMgCiMgCiMgCiMKIwojIAojIAojIAojIAojIAojCiMgCiMgCiMgCiMKIyAKIyAKIyAKIwojIAojIAojIAojIAojCiMgCiMgCiMgCiMgCiMgCiMgCiMgCiMKIyAKIyAKIwojIAojIAojIAojIAojIAojCiMgCiMgCiMgCiMgCiMKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyAKIyA=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2678,16 +2678,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CnNjYXR0ZXJfbWF0cml4KGRmKQpwbHQuc2hvdygpCnBsdC5jbG9zZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwYW5kYXMucGxvdHRpbmcgaW1wb3J0IHNjYXR0ZXJfbWF0cml4Cg==</text>
+        <text encoding="base64">CnNjYXR0ZXJfbWF0cml4KGRmKQpwbHQuc2hvdygpCnBsdC5jbG9zZSgpCg==</text>
       </register>
       <register name="s" type="4">
         <text>(spark: SparkSession)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwYW5kYXMucGxvdHRpbmcgaW1wb3J0IHNjYXR0ZXJfbWF0cml4Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -2725,10 +2725,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text>plt.close()</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBwYW5kYXMudG8K</text>
+        <text>plt.close()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
