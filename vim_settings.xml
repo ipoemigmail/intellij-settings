@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Type,</entry>
         <entry>Literal</entry>
         <entry>Field</entry>
         <entry>profileId</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">LS0tLTw=</entry>
         <entry encoding="base64">Pi0tLS0=</entry>
         <entry encoding="base64">XDxUQVNLX05PXD4=</entry>
+        <entry encoding="base64">XDxnZXRGcm9tREJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
@@ -47,8 +47,8 @@
         <entry encoding="base64">JXMvPi0tLS0vPi0tLS9n</entry>
         <entry>182</entry>
         <entry>wq</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,26 +125,9 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/WatchTower.scala" timestamp="1587631133319">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="70" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/util/common.sh" timestamp="1587634876378">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="31" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1587637878484">
-        <mark key="'" line="173" column="3" />
-        <mark key="[" line="192" column="28" />
-        <mark key="]" line="192" column="29" />
-        <mark key="." line="192" column="29" />
-        <mark key="^" line="192" column="29" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/service/SentryServiceSimpleTest.scala" timestamp="1587621598650">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="39" />
-        <mark key="." line="8" column="38" />
-        <mark key="^" line="8" column="39" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" timestamp="1587691012640">
         <mark key="[" line="26" column="16" />
@@ -152,26 +135,7 @@
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="22" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy.sh" timestamp="1587634861373">
-        <mark key="'" line="23" column="29" />
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="23" column="28" />
-        <mark key="." line="23" column="28" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" timestamp="1587621806461">
-        <mark key="'" line="16" column="12" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/base/second/VisitLog.scala" timestamp="1587949738934" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" timestamp="1587622919436">
-        <mark key="'" line="127" column="95" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="131" column="67" />
-      </file>
-      <file name="/" timestamp="1587888718306">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample.py" timestamp="1587892898815">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="80" column="10" />
@@ -179,8 +143,10 @@
         <mark key="." line="81" column="10" />
         <mark key="^" line="81" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming-prod.conf" timestamp="1587953949761" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommRecovery-dev.conf" timestamp="1587953917267" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-submodule/escher-common/db/src/main/scala/story/model/service/StoryPlusMembers.scala" timestamp="1587963336080">
+        <mark key="'" line="20" column="14" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" timestamp="1587641926306">
         <mark key="[" line="240" column="16" />
         <mark key="]" line="240" column="16" />
@@ -195,12 +161,39 @@
         <mark key="^" line="174" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommRecovery-prod.conf" timestamp="1587953911052" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupUserExtractorBatch-prod.conf" timestamp="1587963375594">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/SentryUtil.scala" timestamp="1587963186365" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupUserExtractorBatch-dev.conf" timestamp="1587963370768">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1587637878484">
+        <mark key="'" line="173" column="3" />
+        <mark key="[" line="192" column="28" />
+        <mark key="]" line="192" column="29" />
+        <mark key="." line="192" column="29" />
+        <mark key="^" line="192" column="29" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy.sh" timestamp="1587634861373">
+        <mark key="'" line="23" column="29" />
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="28" />
+        <mark key="." line="23" column="28" />
+      </file>
+      <file name="/" timestamp="1587888718306">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming-prod.conf" timestamp="1587953949761" />
       <file name="/fragment.java" timestamp="1587650527565">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="73" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="111" column="76" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
       <jump line="163" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/RequestLog.scala" />
@@ -300,6 +293,7 @@
       <jump line="76" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample.py" />
       <jump line="78" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample.py" />
+      <jump line="20" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-submodule/escher-common/db/src/main/scala/story/model/service/StoryPlusMembers.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -2616,7 +2610,7 @@
         <text>길</text>
       </register>
       <register name="/" type="4">
-        <text>TRef</text>
+        <text encoding="base64">XDxnZXRGcm9tREJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>sepal length (cm)</text>
@@ -2702,7 +2696,7 @@
         <text encoding="base64">cHJpbnQoYXZlcmFnZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2711,9 +2705,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>TRef</last-search>
+      <last-search encoding="base64">XDxnZXRGcm9tREJcPg==</last-search>
       <last-offset />
-      <last-pattern>TRef</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRGcm9tREJcPg==</last-pattern>
       <last-replace>TSet</last-replace>
       <last-substitute>TRef</last-substitute>
       <last-dir>1</last-dir>
