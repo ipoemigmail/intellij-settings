@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxUQVNLX05PXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>66</entry>
         <entry encoding="base64">JzwsJz5zL0NoYW5uZWwvUHJvZmlsZS9n</entry>
         <entry>%s/Banned/Banning/g</entry>
         <entry encoding="base64">JzwsJz5zL0NoYW5uZWwvTWlzYy9n</entry>
@@ -46,9 +45,10 @@
         <entry encoding="base64">JXMvLS0tLTwvLS0tPC9n</entry>
         <entry encoding="base64">JXMvPi0tLS0vPi0tLS9n</entry>
         <entry>182</entry>
+        <entry>wa</entry>
         <entry>wq</entry>
         <entry>w</entry>
-        <entry>wa</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,7 +118,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Personal/lynn/aws-doc-sdk-examples/java/example_code/sqs/pom.xml" timestamp="1587890511599" />
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" timestamp="1587913705701">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="19" column="1" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/deploy-all-etl.sh" timestamp="1587636484887">
         <mark key="'" line="181" column="4" />
         <mark key="[" line="3" column="4" />
@@ -130,22 +136,15 @@
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="70" />
       </file>
+      <file name="/a.dummy" timestamp="1587913760505">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/util/common.sh" timestamp="1587634876378">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="31" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1587637878484">
-        <mark key="'" line="173" column="3" />
-        <mark key="[" line="192" column="28" />
-        <mark key="]" line="192" column="29" />
-        <mark key="." line="192" column="29" />
-        <mark key="^" line="192" column="29" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/service/SentryServiceSimpleTest.scala" timestamp="1587621598650">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="39" />
-        <mark key="." line="8" column="38" />
-        <mark key="^" line="8" column="39" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/config/ConfigParser.scala" timestamp="1587691012640">
         <mark key="[" line="26" column="16" />
@@ -153,43 +152,15 @@
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="22" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy.sh" timestamp="1587634861373">
-        <mark key="'" line="23" column="29" />
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="23" column="28" />
-        <mark key="." line="23" column="28" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project/Dependencies.scala" timestamp="1587619599717">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="77" column="50" />
-        <mark key="]" line="77" column="52" />
-        <mark key="." line="77" column="51" />
-        <mark key="^" line="77" column="52" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" timestamp="1587621806461">
         <mark key="'" line="16" column="12" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" timestamp="1587622919436">
-        <mark key="'" line="127" column="95" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="131" column="67" />
-      </file>
-      <file name="/" timestamp="1587888718306">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/SentryServiceSimple.scala" timestamp="1587620535872">
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="15" column="2" />
-        <mark key="^" line="32" column="25" />
-        <mark key="." line="15" column="2" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample.py" timestamp="1587892833439">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
+        <mark key="^" line="91" column="10" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" timestamp="1587641926306">
         <mark key="[" line="240" column="16" />
@@ -204,12 +175,44 @@
         <mark key="." line="174" column="36" />
         <mark key="^" line="174" column="37" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/lynn/aws-doc-sdk-examples/java/example_code/sqs/src/main/java/aws/example/sqs/UsingQueues.java" timestamp="1587890506124" />
-      <file name="/fragment.java" timestamp="1587650527565">
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample02.py" timestamp="1587913716140">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="10" />
+        <mark key="^" line="14" column="11" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1587637878484">
+        <mark key="'" line="173" column="3" />
+        <mark key="[" line="192" column="28" />
+        <mark key="]" line="192" column="29" />
+        <mark key="." line="192" column="29" />
+        <mark key="^" line="192" column="29" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/service/SentryServiceSimpleTest.scala" timestamp="1587621598650">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="38" />
+        <mark key="^" line="8" column="39" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy.sh" timestamp="1587634861373">
+        <mark key="'" line="23" column="29" />
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="28" />
+        <mark key="." line="23" column="28" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" timestamp="1587622919436">
+        <mark key="'" line="127" column="95" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+        <mark key="^" line="131" column="67" />
+      </file>
+      <file name="/" timestamp="1587888718306">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/io/sentry/sentry/1.7.28/sentry-1.7.28-sources.jar!/io/sentry/Sentry.java" timestamp="1587619718983">
-        <mark key="'" line="252" column="39" />
+      <file name="/fragment.java" timestamp="1587650527565">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
