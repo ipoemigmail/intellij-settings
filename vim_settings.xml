@@ -150,19 +150,13 @@
         <mark key="[" line="179" column="0" />
         <mark key="]" line="179" column="82" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/sender/WakeupPushSender.scala" timestamp="1588060959984">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/sender/WakeupPushSender.scala" timestamp="1588066126543">
         <mark key="'" line="17" column="47" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="81" column="3" />
       </file>
       <file name="/Dummy.scala" timestamp="1588060238046">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/instances/WakeupLogInstances.scala" timestamp="1588060125675">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
-        <mark key="^" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/model/WakeUpTarget.scala" timestamp="1588061742219">
         <mark key="'" line="5" column="21" />
@@ -193,6 +187,9 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/ProfileInstances.scala" timestamp="1588060447369">
         <mark key="." line="21" column="90" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" timestamp="1588064504693">
+        <mark key="'" line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/model/push/PushType.scala" timestamp="1588061629253">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="7" column="0" />
@@ -213,7 +210,7 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/ProfileSettingInstances.scala" timestamp="1588060451458">
         <mark key="." line="21" column="90" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" timestamp="1588062602577">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" timestamp="1588064392602">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="57" column="32" />
         <mark key="]" line="57" column="32" />
@@ -222,8 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="31" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_16_tSet/TSetSpec.scala" />
-      <jump line="95" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_16_tSet/TSetSpec.scala" />
       <jump line="112" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_16_tSet/TSetSpec.scala" />
       <jump line="154" column="42" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_16_tSet/TSetSpec.scala" />
       <jump line="147" column="36" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_16_tSet/TSetSpec.scala" />
@@ -322,6 +317,8 @@
       <jump line="25" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonService.scala" />
       <jump line="9" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" />
       <jump line="59" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
+      <jump line="8" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" />
+      <jump line="79" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
