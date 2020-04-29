@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="sample_contents_logs" type="PLAIN_TEXT" />
+      <mapping pattern="WakeUpPushSender" type="PLAIN_TEXT" />
       <mapping pattern="ReqLogToSrayHBaseStreaming.conf" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern=".scalafmt" type="PLAIN_TEXT" />
