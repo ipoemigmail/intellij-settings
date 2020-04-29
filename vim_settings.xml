@@ -163,12 +163,12 @@
         <mark key="." line="21" column="1" />
         <mark key="^" line="21" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" timestamp="1588134217579">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="23" column="70" />
-        <mark key="]" line="23" column="71" />
-        <mark key="." line="23" column="70" />
-        <mark key="^" line="23" column="71" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" timestamp="1588135209041">
+        <mark key="'" line="23" column="52" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="24" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender" timestamp="1588069179393">
         <mark key="[" line="0" column="0" />
@@ -230,12 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
-      <jump line="93" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
-      <jump line="80" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
-      <jump line="47" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
-      <jump line="68" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" />
-      <jump line="20" column="48" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonService.scala" />
       <jump line="50" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" />
       <jump line="23" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" />
       <jump line="33" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" />
@@ -321,15 +315,21 @@
       <jump line="4" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
       <jump line="30" column="82" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-submodule/escher-common/db/src/main/scala/story/model/service/PushSchedule.scala" />
       <jump line="22" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="38" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
       <jump line="77" column="53" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-submodule/escher-common/db/src/main/scala/story/model/service/PushSchedule.scala" />
       <jump line="36" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
       <jump line="19" column="40" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
       <jump line="21" column="58" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="24" column="41" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="23" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
       <jump line="10" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
+      <jump line="28" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
+      <jump line="42" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
+      <jump line="25" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
+      <jump line="41" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
+      <jump line="38" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
+      <jump line="43" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
+      <jump line="24" column="76" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
+      <jump line="66" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
+      <jump line="23" column="52" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -337,8 +337,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIHZhbCBjcmVhdGVMb2cgPSBhY3Rpdml0aWVzTG9nCiAgICAgIC5hbGlhcygiYSIpCiAgICAgIC53aGVyZSgkImFjdGlvbiIgPT09ICJjcmVhdGUiKQogICAgICAuZmlsdGVyIHsgbG9nID0+CiAgICAgICAgKGxvZy5wZXJtaXNzaW9uLnN0YXJ0c1dpdGgoIkEiKSB8fCBsb2cucGVybWlzc2lvbi5zdGFydHNXaXRoKCJGIikpICYmIGxvZy5mcmllbmRDb3VudCA+IDAgJiYgIWxvZy5pc1N0b3J5cGx1cwogICAgICB9CiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikKCiAgICBkZWYgZGVzdHJveUxvZ0NvbmQobG9nOiBTdG9yeVJlcXVlc3RMb2cpOiBCb29sZWFuID0gbG9nLmFjdGlvbiA9PSAiZGVzdG9yeSIKCiAgICB2YWwgZGVzdHJveUxvZyA9IGFjdGl2aXRpZXNMb2cKICAgICAgLmFsaWFzKCJhIikKICAgICAgLndoZXJlKCQiYS5hY3Rpb24iID09PSAiZGVzdG9yeSIpCiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>target_platforms</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFRyeShmcm9tSnNvbltMaXN0W01hcFtTdHJpbmcsIEFueV1dXSh0YXJnZXRfcGxhdGZvcm1zKSkKICAgICAgLmdldE9yRWxzZShMaXN0LmVtcHR5KQogICAgICAubWFwKHAgPT4gewogICAgICAgIHZhbCBtZXNzYWdlcyA9IHAuZ2V0KCJtZXNzYWdlcyIpLmdldE9yRWxzZShMaXN0LmVtcHR5KS5hc0luc3RhbmNlT2ZbTGlzdFtNYXBbU3RyaW5nLCBTdHJpbmddXV0KICAgICAgICB2YWwgcHVzaE1lc3NhZ2VzID0gbWVzc2FnZXMKICAgICAgICAgIC5tYXAobSA9PiB7CiAgICAgICAgICAgIHZhbCBsYW5nID0gbS5nZXQoImxhbmciKS5nZXRPckVsc2UoIiIpLnRvTG93ZXJDYXNlKCkKICAgICAgICAgICAgdmFsIG1lc3NhZ2UgPSBtLmdldCgibWVzc2FnZSIpLmdldE9yRWxzZSgiIikKICAgICAgICAgICAgdmFsIHNjaGVtZSA9IG0uZ2V0KCJzY2hlbWUiKS5nZXRPckVsc2UoIiIpCiAgICAgICAgICAgIHZhbCBpbWFnZVVybCA9IG0uZ2V0KCJpbWFnZVVybCIpLmdldE9yRWxzZSgiIikKCiAgICAgICAgICAgIChsYW5nIC0+IFB1c2hMYW5nU2V0dGluZyhtZXNzYWdlLCBzY2hlbWUsIGltYWdlVXJsKSkKICAgICAgICAgIH0pCiAgICAgICAgICAudG9NYXBbU3RyaW5nLCBQdXNoTGFuZ1NldHRpbmddCgogICAgICAgIHZhbCBvcyA9IHAuZ2V0KCJvcyIpLmdldE9yRWxzZSgiIikuYXNJbnN0YW5jZU9mW1N0cmluZ10KICAgICAgICB2YWwgbWluVmVyc2lvbiA9IHAuZ2V0KCJtaW5WZXJzaW9uIikuZ2V0T3JFbHNlKCIiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXQogICAgICAgIHZhbCBtYXhWZXJzaW9uID0gcC5nZXQoIm1heFZlcnNpb24iKS5nZXRPckVsc2UoIiIpLmFzSW5zdGFuY2VPZltTdHJpbmddCgogICAgICAgIChvcyAtPiBQdXNoT1NTZXR0aW5nKG1pblZlcnNpb24sIG1heFZlcnNpb24sIHB1c2hNZXNzYWdlcykpCiAgICAgIH0pCiAgICAgIC50b01hcFtTdHJpbmcsIFB1c2hPU1NldHRpbmddCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2643,16 +2643,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>target_platforms</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXJnZXRfcGxhdGZvcm1zXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>target_platforms</text>
+        <text>.getOrElse(&quot;&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIFB1c2hPU1NldHRpbmcobWluVmVyc2lvbjogU3RyaW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICBtYXhWZXJzaW9uOiBTdHJpbmcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhbmdTZXR0aW5nczogTWFwW1N0cmluZywgUHVzaExhbmdTZXR0aW5nXSA9IE1hcC5lbXB0eSkgewo=</text>
+        <text encoding="base64">ICAgIFRyeShmcm9tSnNvbltMaXN0W01hcFtTdHJpbmcsIEFueV1dXSh0YXJnZXRfcGxhdGZvcm1zKSkKICAgICAgLmdldE9yRWxzZShMaXN0LmVtcHR5KQogICAgICAubWFwKHAgPT4gewogICAgICAgIHZhbCBtZXNzYWdlcyA9IHAuZ2V0KCJtZXNzYWdlcyIpLmdldE9yRWxzZShMaXN0LmVtcHR5KS5hc0luc3RhbmNlT2ZbTGlzdFtNYXBbU3RyaW5nLCBTdHJpbmddXV0KICAgICAgICB2YWwgcHVzaE1lc3NhZ2VzID0gbWVzc2FnZXMKICAgICAgICAgIC5tYXAobSA9PiB7CiAgICAgICAgICAgIHZhbCBsYW5nID0gbS5nZXQoImxhbmciKS5nZXRPckVsc2UoIiIpLnRvTG93ZXJDYXNlKCkKICAgICAgICAgICAgdmFsIG1lc3NhZ2UgPSBtLmdldCgibWVzc2FnZSIpLmdldE9yRWxzZSgiIikKICAgICAgICAgICAgdmFsIHNjaGVtZSA9IG0uZ2V0KCJzY2hlbWUiKS5nZXRPckVsc2UoIiIpCiAgICAgICAgICAgIHZhbCBpbWFnZVVybCA9IG0uZ2V0KCJpbWFnZVVybCIpLmdldE9yRWxzZSgiIikKCiAgICAgICAgICAgIChsYW5nIC0+IFB1c2hMYW5nU2V0dGluZyhtZXNzYWdlLCBzY2hlbWUsIGltYWdlVXJsKSkKICAgICAgICAgIH0pCiAgICAgICAgICAudG9NYXBbU3RyaW5nLCBQdXNoTGFuZ1NldHRpbmddCgogICAgICAgIHZhbCBvcyA9IHAuZ2V0KCJvcyIpLmdldE9yRWxzZSgiIikuYXNJbnN0YW5jZU9mW1N0cmluZ10KICAgICAgICB2YWwgbWluVmVyc2lvbiA9IHAuZ2V0KCJtaW5WZXJzaW9uIikuZ2V0T3JFbHNlKCIiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXQogICAgICAgIHZhbCBtYXhWZXJzaW9uID0gcC5nZXQoIm1heFZlcnNpb24iKS5nZXRPckVsc2UoIiIpLmFzSW5zdGFuY2VPZltTdHJpbmddCgogICAgICAgIChvcyAtPiBQdXNoT1NTZXR0aW5nKG1pblZlcnNpb24sIG1heFZlcnNpb24sIHB1c2hNZXNzYWdlcykpCiAgICAgIH0pCiAgICAgIC50b01hcFtTdHJpbmcsIFB1c2hPU1NldHRpbmddCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2679,25 +2679,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgUHVzaFNjaGR1bGUge30K</text>
+        <text encoding="base64">ICAgICAgICBTb21lKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRpbWVzLmFwcGVuZCgobXNnLCBub3cpKQogICAgCiAgICBwcmludGxuKHMiIH4gJHtlbGFwc2VkKG5vdyAtIGZyb20pfSA6ICRtc2ciKQo=</text>
+        <text encoding="base64">ICAgICAgICBvcy5tYXAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>(spark: SparkSession)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy92YWwgbXNncyA9IG1zZ0FuZFRpbWVzdGFtcHMKICAgICAgLy8gIC5zbGlkaW5nKDIpCiAgICAgIC8vICAubWFwIHsgdHMgPT4KICAgICAgLy8gICAgdmFsIChtc2csIGZyb20pID0gdHMuaGVhZAogICAgICAvLyAgICB2YWwgKF8sIHRvKSA9IHRzKDEpCiAgICAgIC8vICAgIHMiJHtnZXREYXRlVGltZShmcm9tKX0gfiAke2dldERhdGVUaW1lKHRvKX0gKCR7ZWxhcHNlZCh0byAtIGZyb20pfSkgOiAkbXNnIgogICAgICAvLyAgfQogICAgICAvLyAgLm1rU3RyaW5nKCJcbiIpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhbCBsYW5nID0gam8xLmdldFN0cmluZygibGFuZyIpLmdldE9yRWxzZSgiIikKICAgICAgICAgIHZhbCBtZXNzYWdlID0gam8xLmdldFN0cmluZygibWVzc2FnZSIpLmdldE9yRWxzZSgiIikKICAgICAgICAgIHZhbCBzY2hlbWUgPSBqbzEuZ2V0U3RyaW5nKCJzY2hlbWUiKS5nZXRPckVsc2UoIiIpCiAgICAgICAgICB2YWwgaW1hZ2VVcmwgPSBqbzEuZ2V0U3RyaW5nKCJpbWFnZVVybCIpLmdldE9yRWxzZSgiIikK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbXNncwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBqbzEgPSBqc29uLmFzSnNvbk9iamVjdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICB2YWwgKGxhc3RNc2csIGZyb20pID0gbXNnQW5kVGltZXN0YW1wcy5sYXN0CiAgICB2YWwgbm93ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKICAgIG91dC5hcHBlbmQocyIke2dldERhdGVUaW1lKGZyb20pfSB+ICR7Z2V0RGF0ZVRpbWUobm93KX0gKCR7ZWxhcHNlZChub3cgLSBmcm9tKX0pIDogJGxhc3RNc2ciKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2726,10 +2726,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciB7CiAgICAgIHMgPC0gdGFyZ2V0X3BsYXRmb3JtcwogICAgICBqYSA8LSBKc29uVXRpbC5kZWNvZGVbTGlzdFtKc29uT2JqZWN0XV0ocykKICAgICAgYiA8LSBqYS5tYXAgeyBqc29uID0+CiAgICAgICAganNvbi5hc0pzb25PYmplY3QKICAgICAgfQogICAgfSB5aWVsZCAoKQogICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
