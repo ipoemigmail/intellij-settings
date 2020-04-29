@@ -155,10 +155,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="34" column="65" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/util/push/MessageUtil.scala" timestamp="1588062375924">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="8" column="3" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupUserExtractorBatch-dev.conf" timestamp="1588069155755">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -170,7 +166,7 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/Environment.scala" timestamp="1588069078905">
         <mark key="'" line="40" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" timestamp="1588064392602">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" timestamp="1588069720170">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="57" column="32" />
         <mark key="]" line="57" column="32" />
@@ -209,6 +205,13 @@
         <mark key="]" line="113" column="99" />
         <mark key="." line="113" column="83" />
         <mark key="^" line="29" column="68" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/PushPayload.scala" timestamp="1588069802592">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="12" column="87" />
+        <mark key="]" line="12" column="93" />
+        <mark key="." line="12" column="92" />
+        <mark key="^" line="12" column="93" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/sender/WakeupPushSender.conf" timestamp="1588069197446">
         <mark key="[" line="20" column="0" />
