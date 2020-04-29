@@ -140,25 +140,21 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588123094805">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/DeployEnvironment.scala" timestamp="1588069086767">
         <mark key="[" line="16" column="48" />
         <mark key="]" line="16" column="94" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" timestamp="1588122603265">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" timestamp="1588069597676">
         <mark key="'" line="29" column="52" />
         <mark key="[" line="113" column="83" />
         <mark key="]" line="113" column="99" />
         <mark key="." line="113" column="83" />
         <mark key="^" line="29" column="68" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" timestamp="1588123377437">
-        <mark key="j" line="26" column="24" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" timestamp="1588120598438">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonService.scala" timestamp="1588067687508">
         <mark key="'" line="6" column="34" />
@@ -333,8 +329,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIHZhbCBjcmVhdGVMb2cgPSBhY3Rpdml0aWVzTG9nCiAgICAgIC5hbGlhcygiYSIpCiAgICAgIC53aGVyZSgkImFjdGlvbiIgPT09ICJjcmVhdGUiKQogICAgICAuZmlsdGVyIHsgbG9nID0+CiAgICAgICAgKGxvZy5wZXJtaXNzaW9uLnN0YXJ0c1dpdGgoIkEiKSB8fCBsb2cucGVybWlzc2lvbi5zdGFydHNXaXRoKCJGIikpICYmIGxvZy5mcmllbmRDb3VudCA+IDAgJiYgIWxvZy5pc1N0b3J5cGx1cwogICAgICB9CiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikKCiAgICBkZWYgZGVzdHJveUxvZ0NvbmQobG9nOiBTdG9yeVJlcXVlc3RMb2cpOiBCb29sZWFuID0gbG9nLmFjdGlvbiA9PSAiZGVzdG9yeSIKCiAgICB2YWwgZGVzdHJveUxvZyA9IGFjdGl2aXRpZXNMb2cKICAgICAgLmFsaWFzKCJhIikKICAgICAgLndoZXJlKCQiYS5hY3Rpb24iID09PSAiZGVzdG9yeSIpCiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>WakeUpLog</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIHN0ZDo6c2xpY2U6Okl0ZXI7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2648,7 +2644,7 @@
         <text>WakeUpPushSender</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHVzaFdhdGNoVG93ZXJNZXNzYWdlU2VydmljZS5zZW5kKCIiKQo=</text>
+        <text encoding="base64">dXNlIHN0ZDo6c2xpY2U6Okl0ZXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2675,25 +2671,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgaW1wbGljaXQgY2xhc3MgVGFnZ2VyT3BzW1QsIFVdKHZhbCB0OiBUIEBAIFUpIGV4dGVuZHMgQW55VmFsIHsKICAgIGRlZiB1bndyYXA6IFQgPSB0LmFzSW5zdGFuY2VPZltUXQogIH0K</text>
+        <text encoding="base64">ICAgICAgcHVzaFdhdGNoVG93ZXJNZXNzYWdlU2VydmljZS5zZW5kKCIiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgaW1wbGljaXQgY2xhc3MgVGFnZ2VyT3BzW1QsIFVdKHZhbCB0OiBUIEBAIFUpIGV4dGVuZHMgQW55VmFsIHsKICAgIGRlZiB1bndyYXA6IFQgPSB0LmFzSW5zdGFuY2VPZltUXQogIH0K</text>
       </register>
       <register name="s" type="4">
         <text>(spark: SparkSession)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnB1c2hXYXRjaFRvd2VyR3JvdXBJZCA9IDI5MzcK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CnB1c2hXYXRjaFRvd2VyR3JvdXBJZCA9IDI5MzcK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0YWdnZWRbVV06IFQgQEAgVSA9IFRhZ2dlcltVXShhKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2722,10 +2718,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIG9iamVjdCBUYWdnZXIgZXh0ZW5kcyBUYWdnZXJbTm90aGluZ10K</text>
+        <text encoding="base64">ICAgIGRlZiB0YWdnZWRbVV06IFQgQEAgVSA9IFRhZ2dlcltVXShhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIG9iamVjdCBUYWdnZXIgZXh0ZW5kcyBUYWdnZXJbTm90aGluZ10K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
