@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">Pi0tLS0=</entry>
         <entry encoding="base64">XDxUQVNLX05PXD4=</entry>
         <entry encoding="base64">XDxnZXRGcm9tREJcPg==</entry>
         <entry>Join</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxsYXN0TXNnXD4=</entry>
         <entry encoding="base64">XDxtb2RlbFw+</entry>
         <entry encoding="base64">XDxDTEFTU19NQVBcPg==</entry>
+        <entry>load_ir</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Banned/Banning/g</entry>
@@ -47,8 +47,8 @@
         <entry>%s/LocaDate/DateTime/g</entry>
         <entry>%s/LocalDate/DateTime/g</entry>
         <entry encoding="base64">JzwsJz5zL0xvY2FsRGF0ZS9EYXRlVGltZS9n</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -130,10 +130,10 @@
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="37" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" timestamp="1588436106958">
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" timestamp="1588436705745">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" timestamp="1588069451866">
         <mark key="'" line="104" column="11" />
@@ -167,11 +167,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" timestamp="1588436310989">
-        <mark key="'" line="32" column="31" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" timestamp="1588436788556">
+        <mark key="'" line="20" column="29" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="50" column="10" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupUserExtractorBatch-dev.conf" timestamp="1588069155755">
         <mark key="[" line="22" column="0" />
@@ -182,9 +183,6 @@
         <mark key="'" line="27" column="26" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="32" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/Environment.scala" timestamp="1588069078905">
-        <mark key="'" line="40" column="6" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender-dev.conf" timestamp="1588069209312">
         <mark key="[" line="12" column="10" />
@@ -218,15 +216,14 @@
         <mark key="^" line="62" column="2" />
         <mark key="." line="57" column="32" />
       </file>
+      <file name="/usr/local/lib/python3.7/site-packages/sklearn/datasets/__init__.py" timestamp="1588436856968">
+        <mark key="'" line="71" column="12" />
+      </file>
       <file name="/fragment.java" timestamp="1588126296166">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/model/WakeUpTarget.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/PushType.scala" />
-      <jump line="5" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/model/WakeUpTarget.scala" />
       <jump line="7" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/model/push/PushType.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/model/push/PushPayload.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/PushPayload.scala" />
@@ -323,6 +320,10 @@
       <jump line="33" column="4" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" />
       <jump line="34" column="12" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" />
       <jump line="32" column="31" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" />
+      <jump line="19" column="29" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" />
+      <jump line="21" column="19" filename="/usr/local/lib/python3.7/site-packages/sklearn/datasets/__init__.py" />
+      <jump line="10" column="19" filename="/usr/local/lib/python3.7/site-packages/sklearn/datasets/__init__.py" />
+      <jump line="71" column="12" filename="/usr/local/lib/python3.7/site-packages/sklearn/datasets/__init__.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,7 +332,7 @@
         <text encoding="base64">ICAgIHZhbCBjcmVhdGVMb2cgPSBhY3Rpdml0aWVzTG9nCiAgICAgIC5hbGlhcygiYSIpCiAgICAgIC53aGVyZSgkImFjdGlvbiIgPT09ICJjcmVhdGUiKQogICAgICAuZmlsdGVyIHsgbG9nID0+CiAgICAgICAgKGxvZy5wZXJtaXNzaW9uLnN0YXJ0c1dpdGgoIkEiKSB8fCBsb2cucGVybWlzc2lvbi5zdGFydHNXaXRoKCJGIikpICYmIGxvZy5mcmllbmRDb3VudCA+IDAgJiYgIWxvZy5pc1N0b3J5cGx1cwogICAgICB9CiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikKCiAgICBkZWYgZGVzdHJveUxvZ0NvbmQobG9nOiBTdG9yeVJlcXVlc3RMb2cpOiBCb29sZWFuID0gbG9nLmFjdGlvbiA9PSAiZGVzdG9yeSIKCiAgICB2YWwgZGVzdHJveUxvZyA9IGFjdGl2aXRpZXNMb2cKICAgICAgLmFsaWFzKCJhIikKICAgICAgLndoZXJlKCQiYS5hY3Rpb24iID09PSAiZGVzdG9yeSIpCiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByZWRzID0gbW9kZWwuCg==</text>
+        <text encoding="base64">aW1wb3J0IHNrbGVhcm4uZGF0YXNldHMK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2636,13 +2637,13 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>columns</text>
+        <text>거짓</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDTEFTU19NQVBcPg==</text>
+        <text>load_ir</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">aW1wb3J0IHNrbGVhcm4uZGF0YXNldHMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByZWRzID0gbW9kZWwuCg==</text>
@@ -2725,7 +2726,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2734,9 +2735,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxDTEFTU19NQVBcPg==</last-search>
+      <last-search>load_ir</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDTEFTU19NQVBcPg==</last-pattern>
+      <last-pattern>load_ir</last-pattern>
       <last-replace>DateTime</last-replace>
       <last-substitute>LocalDate</last-substitute>
       <last-dir>1</last-dir>
