@@ -130,10 +130,10 @@
         <mark key="." line="20" column="36" />
         <mark key="^" line="20" column="37" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" timestamp="1588437149107">
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" timestamp="1588524612784">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="23" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="43" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" timestamp="1588069451866">
         <mark key="'" line="104" column="11" />
@@ -170,11 +170,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="30" column="69" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupUserExtractorBatch-dev.conf" timestamp="1588069155755">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" timestamp="1588125325018">
         <mark key="'" line="27" column="26" />
         <mark key="[" line="5" column="0" />
@@ -205,10 +200,12 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" timestamp="1588523392869">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" timestamp="1588524687112">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" timestamp="1588069720170">
         <mark key="'" line="9" column="0" />
@@ -217,6 +214,7 @@
         <mark key="^" line="62" column="2" />
         <mark key="." line="57" column="32" />
       </file>
+      <file name="/usr/local/lib/python3.7/site-packages/scipy/spatial/distance.py" timestamp="1588524476019" />
       <file name="/usr/local/lib/python3.7/site-packages/sklearn/datasets/__init__.py" timestamp="1588436856968">
         <mark key="'" line="71" column="12" />
       </file>
@@ -225,11 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/model/push/PushType.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/model/push/PushPayload.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/PushPayload.scala" />
-      <jump line="10" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/model/push/PushID.scala" />
-      <jump line="7" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonService.scala" />
       <jump line="19" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
       <jump line="79" column="54" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
       <jump line="7" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
@@ -325,6 +318,11 @@
       <jump line="10" column="19" filename="/usr/local/lib/python3.7/site-packages/sklearn/datasets/__init__.py" />
       <jump line="71" column="12" filename="/usr/local/lib/python3.7/site-packages/sklearn/datasets/__init__.py" />
       <jump line="11" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" />
+      <jump line="5" column="25" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" />
+      <jump line="7" column="31" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" />
+      <jump line="1" column="12" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,7 +331,7 @@
         <text encoding="base64">ICAgIHZhbCBjcmVhdGVMb2cgPSBhY3Rpdml0aWVzTG9nCiAgICAgIC5hbGlhcygiYSIpCiAgICAgIC53aGVyZSgkImFjdGlvbiIgPT09ICJjcmVhdGUiKQogICAgICAuZmlsdGVyIHsgbG9nID0+CiAgICAgICAgKGxvZy5wZXJtaXNzaW9uLnN0YXJ0c1dpdGgoIkEiKSB8fCBsb2cucGVybWlzc2lvbi5zdGFydHNXaXRoKCJGIikpICYmIGxvZy5mcmllbmRDb3VudCA+IDAgJiYgIWxvZy5pc1N0b3J5cGx1cwogICAgICB9CiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikKCiAgICBkZWYgZGVzdHJveUxvZ0NvbmQobG9nOiBTdG9yeVJlcXVlc3RMb2cpOiBCb29sZWFuID0gbG9nLmFjdGlvbiA9PSAiZGVzdG9yeSIKCiAgICB2YWwgZGVzdHJveUxvZyA9IGFjdGl2aXRpZXNMb2cKICAgICAgLmFsaWFzKCJhIikKICAgICAgLndoZXJlKCQiYS5hY3Rpb24iID09PSAiZGVzdG9yeSIpCiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmQxID0gbnVtcHkucmFuZG9tLnVuaWZvcm0oc2l6ZT1kKjEwMDApCnByaW50KGxlbihkMSkpCnByaW50KGQxKQpwcmludChsZW4oZGF0YSkpCnByaW50KGxlbihkYXRhWzBdKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2638,16 +2636,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>numpy.random.uniform(size=d*1000)</text>
+        <text>500</text>
       </register>
       <register name="/" type="4">
         <text>load_ir</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQobGVuKGRhdGEpKQo=</text>
+        <text encoding="base64">bXBsLnJjUGFyYW1zWydheGVzLnVuaWNvZGVfbWludXMnXSA9IEZhbHNlCm1wbC5yY1BhcmFtc1siZm9udC5mYW1pbHkiXSA9ICJBcHBsZUdvdGhpYyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmQxID0gbnVtcHkucmFuZG9tLnVuaWZvcm0oc2l6ZT1kKjEwMDApCnByaW50KGxlbihkMSkpCnByaW50KGQxKQpwcmludChsZW4oZGF0YSkpCnByaW50KGxlbihkYXRhWzBdKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2674,25 +2672,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNrbGVhcm4K</text>
+        <text encoding="base64">ZCA9IDUwMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNrbGVhcm4uZGF0YXNldHMK</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcwo=</text>
       </register>
       <register name="s" type="4">
         <text>(spark: SparkSession)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByZWRzID0gbW9kZWwuCg==</text>
+        <text encoding="base64">cHJpbnQobGVuKGRhdGEpKQpwcmludChsZW4oZGlzdGFuY2VzKSkKcHJpbnQobGVuKGRpc3RhbmNlc1swXSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjaXB5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHJpbnQoZGF0YSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy92YWwgbXNncyA9IG1zZ0FuZFRpbWVzdGFtcHMKICAgICAgLy8gIC5zbGlkaW5nKDIpCiAgICAgIC8vICAubWFwIHsgdHMgPT4KICAgICAgLy8gICAgdmFsIChtc2csIGZyb20pID0gdHMuaGVhZAogICAgICAvLyAgICB2YWwgKF8sIHRvKSA9IHRzKDEpCiAgICAgIC8vICAgIHMiJHtnZXREYXRlVGltZShmcm9tKX0gfiAke2dldERhdGVUaW1lKHRvKX0gKCR7ZWxhcHNlZCh0byAtIGZyb20pfSkgOiAkbXNnIgogICAgICAvLyAgfQogICAgICAvLyAgLm1rU3RyaW5nKCJcbiIpCg==</text>
+        <text encoding="base64">cHJpbnQoIiIsIGVuZD0iIikK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2724,7 +2722,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbXNncwo=</text>
+        <text encoding="base64">CmQxID0gbnVtcHkucmFuZG9tLnVuaWZvcm0oc2l6ZT1kKjEwMDApCnByaW50KGxlbihkMSkpCnByaW50KGQxKQpwcmludChsZW4oZGF0YSkpCnByaW50KGxlbihkYXRhWzBdKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
