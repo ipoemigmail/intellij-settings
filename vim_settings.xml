@@ -150,10 +150,6 @@
       <file name="/Dummy.txt" timestamp="1588123094805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/DeployEnvironment.scala" timestamp="1588069086767">
-        <mark key="[" line="16" column="48" />
-        <mark key="]" line="16" column="94" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" timestamp="1588124597937">
         <mark key="'" line="47" column="69" />
         <mark key="[" line="113" column="83" />
@@ -167,7 +163,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" timestamp="1588437355050">
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" timestamp="1588522515809">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -208,6 +204,11 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/sender/WakeupPushSender.conf" timestamp="1588069197446">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="25" />
+      </file>
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" timestamp="1588523392869">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" timestamp="1588069720170">
         <mark key="'" line="9" column="0" />
@@ -332,7 +333,7 @@
         <text encoding="base64">ICAgIHZhbCBjcmVhdGVMb2cgPSBhY3Rpdml0aWVzTG9nCiAgICAgIC5hbGlhcygiYSIpCiAgICAgIC53aGVyZSgkImFjdGlvbiIgPT09ICJjcmVhdGUiKQogICAgICAuZmlsdGVyIHsgbG9nID0+CiAgICAgICAgKGxvZy5wZXJtaXNzaW9uLnN0YXJ0c1dpdGgoIkEiKSB8fCBsb2cucGVybWlzc2lvbi5zdGFydHNXaXRoKCJGIikpICYmIGxvZy5mcmllbmRDb3VudCA+IDAgJiYgIWxvZy5pc1N0b3J5cGx1cwogICAgICB9CiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikKCiAgICBkZWYgZGVzdHJveUxvZ0NvbmQobG9nOiBTdG9yeVJlcXVlc3RMb2cpOiBCb29sZWFuID0gbG9nLmFjdGlvbiA9PSAiZGVzdG9yeSIKCiAgICB2YWwgZGVzdHJveUxvZyA9IGFjdGl2aXRpZXNMb2cKICAgICAgLmFsaWFzKCJhIikKICAgICAgLndoZXJlKCQiYS5hY3Rpb24iID09PSAiZGVzdG9yeSIpCiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNrbGVhcm4K</text>
+        <text encoding="base64">CmQxID0gbnVtcHkucmFuZG9tLnVuaWZvcm0oc2l6ZT1kKjEwMDApCnByaW50KGxlbihkMSkpCnByaW50KGQxKQpwcmludChsZW4oZGF0YSkpCnByaW50KGxlbihkYXRhWzBdKSkK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2637,16 +2638,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>거짓</text>
+        <text>numpy.random.uniform(size=d*1000)</text>
       </register>
       <register name="/" type="4">
         <text>load_ir</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHNrbGVhcm4uZGF0YXNldHMK</text>
+        <text encoding="base64">cHJpbnQobGVuKGRhdGEpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNrbGVhcm4K</text>
+        <text encoding="base64">CmQxID0gbnVtcHkucmFuZG9tLnVuaWZvcm0oc2l6ZT1kKjEwMDApCnByaW50KGxlbihkMSkpCnByaW50KGQxKQpwcmludChsZW4oZGF0YSkpCnByaW50KGxlbihkYXRhWzBdKSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2673,25 +2674,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNrbGVhcm4uZGF0YXNldHMK</text>
+        <text encoding="base64">aW1wb3J0IHNrbGVhcm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByZWRzID0gbW9kZWwuCg==</text>
+        <text encoding="base64">aW1wb3J0IHNrbGVhcm4uZGF0YXNldHMK</text>
       </register>
       <register name="s" type="4">
         <text>(spark: SparkSession)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByZWRzID0gbW9kZWwuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy92YWwgbXNncyA9IG1zZ0FuZFRpbWVzdGFtcHMKICAgICAgLy8gIC5zbGlkaW5nKDIpCiAgICAgIC8vICAubWFwIHsgdHMgPT4KICAgICAgLy8gICAgdmFsIChtc2csIGZyb20pID0gdHMuaGVhZAogICAgICAvLyAgICB2YWwgKF8sIHRvKSA9IHRzKDEpCiAgICAgIC8vICAgIHMiJHtnZXREYXRlVGltZShmcm9tKX0gfiAke2dldERhdGVUaW1lKHRvKX0gKCR7ZWxhcHNlZCh0byAtIGZyb20pfSkgOiAkbXNnIgogICAgICAvLyAgfQogICAgICAvLyAgLm1rU3RyaW5nKCJcbiIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy92YWwgbXNncyA9IG1zZ0FuZFRpbWVzdGFtcHMKICAgICAgLy8gIC5zbGlkaW5nKDIpCiAgICAgIC8vICAubWFwIHsgdHMgPT4KICAgICAgLy8gICAgdmFsIChtc2csIGZyb20pID0gdHMuaGVhZAogICAgICAvLyAgICB2YWwgKF8sIHRvKSA9IHRzKDEpCiAgICAgIC8vICAgIHMiJHtnZXREYXRlVGltZShmcm9tKX0gfiAke2dldERhdGVUaW1lKHRvKX0gKCR7ZWxhcHNlZCh0byAtIGZyb20pfSkgOiAkbXNnIgogICAgICAvLyAgfQogICAgICAvLyAgLm1rU3RyaW5nKCJcbiIpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2720,10 +2721,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbXNncwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICB2YWwgKGxhc3RNc2csIGZyb20pID0gbXNnQW5kVGltZXN0YW1wcy5sYXN0CiAgICB2YWwgbm93ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkKICAgIG91dC5hcHBlbmQocyIke2dldERhdGVUaW1lKGZyb20pfSB+ICR7Z2V0RGF0ZVRpbWUobm93KX0gKCR7ZWxhcHNlZChub3cgLSBmcm9tKX0pIDogJGxhc3RNc2ciKQo=</text>
+        <text encoding="base64">ICAgICAgbXNncwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
