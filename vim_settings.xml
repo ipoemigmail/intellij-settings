@@ -7,12 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxUQVNLX05PXD4=</entry>
-        <entry encoding="base64">XDxnZXRGcm9tREJcPg==</entry>
-        <entry>Join</entry>
-        <entry>JoinHandler</entry>
-        <entry encoding="base64">XDxKb2luSGFuZGxlXD4=</entry>
-        <entry>LocaDate</entry>
         <entry encoding="base64">XDxiY1RhcmdldEFwcFZlcnNpb25cPg==</entry>
         <entry encoding="base64">XDxwdXNoVGFyZ2V0c1w+</entry>
         <entry encoding="base64">XDxXYWtlVXBUYXJnZXRcPg==</entry>
@@ -27,6 +21,12 @@
         <entry encoding="base64">XDxtb2RlbFw+</entry>
         <entry encoding="base64">XDxDTEFTU19NQVBcPg==</entry>
         <entry>load_ir</entry>
+        <entry encoding="base64">XDxnZXRVc2VyXD4=</entry>
+        <entry encoding="base64">XDx0ZXN0UmVwb1w+</entry>
+        <entry encoding="base64">XDxsb2dnZXJTZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxVc2VySWRcPg==</entry>
+        <entry encoding="base64">XDx3aXRoUG9zdGdyZXNTZXJ2aWNlXD4=</entry>
+        <entry>setTypeMap</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Banned/Banning/g</entry>
@@ -118,44 +118,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender" timestamp="1588069179393">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/Summary.scala" timestamp="1588126451844">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="37" />
-        <mark key="." line="20" column="36" />
-        <mark key="^" line="20" column="37" />
-      </file>
       <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" timestamp="1588524612784">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" timestamp="1588069451866">
-        <mark key="'" line="104" column="11" />
-        <mark key="[" line="104" column="11" />
-        <mark key="]" line="104" column="12" />
-        <mark key="." line="104" column="12" />
-        <mark key="^" line="113" column="92" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/implicits/package.scala" timestamp="1588069367942">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588123094805">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" timestamp="1588124597937">
-        <mark key="'" line="47" column="69" />
-        <mark key="[" line="113" column="83" />
-        <mark key="]" line="113" column="99" />
-        <mark key="." line="113" column="83" />
-        <mark key="^" line="29" column="68" />
+      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" timestamp="1588589597628">
+        <mark key="'" line="216" column="8" />
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
+        <mark key="^" line="232" column="70" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" timestamp="1588228668616">
         <mark key="j" line="26" column="24" />
@@ -170,23 +143,15 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="30" column="69" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" timestamp="1588125325018">
-        <mark key="'" line="27" column="26" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="32" />
+      <file name="/a.dummy" timestamp="1588584299320">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender-dev.conf" timestamp="1588069209312">
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="11" />
-        <mark key="." line="12" column="10" />
-        <mark key="^" line="12" column="11" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/PushPayload.scala" timestamp="1588069802592">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="12" column="87" />
-        <mark key="]" line="12" column="93" />
-        <mark key="." line="12" column="92" />
-        <mark key="^" line="12" column="93" />
+      <file name="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-2/zio_2.13-1.0.0-RC18-2-sources.jar!/zio/ZLayer.scala" timestamp="1588588565114">
+        <mark key="[" line="2040" column="11" />
+        <mark key="]" line="2040" column="53" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/sender/WakeupPushSender.scala" timestamp="1588125120505">
         <mark key="'" line="17" column="47" />
@@ -196,16 +161,42 @@
       <file name="/Dummy.scala" timestamp="1588120329670">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/sender/WakeupPushSender.conf" timestamp="1588069197446">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="25" />
-      </file>
       <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" timestamp="1588524687112">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="14" column="14" />
         <mark key="]" line="10" column="32" />
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="32" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-2/zio_2.13-1.0.0-RC18-2-sources.jar!/zio/VersionSpecific.scala" timestamp="1588587966803" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/Summary.scala" timestamp="1588126451844">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="37" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588123094805">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" timestamp="1588124597937">
+        <mark key="'" line="47" column="69" />
+        <mark key="[" line="113" column="83" />
+        <mark key="]" line="113" column="99" />
+        <mark key="." line="113" column="83" />
+        <mark key="^" line="29" column="68" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" timestamp="1588125325018">
+        <mark key="'" line="27" column="26" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="32" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/PushPayload.scala" timestamp="1588069802592">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="12" column="87" />
+        <mark key="]" line="12" column="93" />
+        <mark key="." line="12" column="92" />
+        <mark key="^" line="12" column="93" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" timestamp="1588069720170">
         <mark key="'" line="9" column="0" />
@@ -214,48 +205,14 @@
         <mark key="^" line="62" column="2" />
         <mark key="." line="57" column="32" />
       </file>
-      <file name="/usr/local/lib/python3.7/site-packages/scipy/spatial/distance.py" timestamp="1588524476019" />
       <file name="/usr/local/lib/python3.7/site-packages/sklearn/datasets/__init__.py" timestamp="1588436856968">
         <mark key="'" line="71" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1588126296166">
+      <file name="/fragment.java" timestamp="1588584265680">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
-      <jump line="79" column="54" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
-      <jump line="7" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
-      <jump line="91" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
-      <jump line="82" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
-      <jump line="93" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
-      <jump line="80" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
-      <jump line="47" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
-      <jump line="68" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" />
-      <jump line="20" column="48" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonService.scala" />
-      <jump line="50" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" />
-      <jump line="23" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" />
-      <jump line="33" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" />
-      <jump line="19" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonService.scala" />
-      <jump line="86" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" />
-      <jump line="25" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonService.scala" />
-      <jump line="9" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" />
-      <jump line="59" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="79" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" />
-      <jump line="2" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeService.scala" />
-      <jump line="33" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeService.scala" />
-      <jump line="3" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeService.scala" />
-      <jump line="34" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeService.scala" />
-      <jump line="6" column="34" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonService.scala" />
-      <jump line="4" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeService.scala" />
-      <jump line="25" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeService.scala" />
-      <jump line="1" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeService.scala" />
-      <jump line="13" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeService.scala" />
-      <jump line="4" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/model/push/StoryScheme.scala" />
-      <jump line="6" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/model/push/StoryScheme.scala" />
-      <jump line="3" column="16" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeServiceDefault.scala" />
-      <jump line="4" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeServiceDefault.scala" />
-      <jump line="27" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
       <jump line="109" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
       <jump line="21" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
       <jump line="20" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
@@ -323,15 +280,48 @@
       <jump line="7" column="31" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" />
       <jump line="1" column="12" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" />
       <jump line="10" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" />
+      <jump line="9" column="50" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="46" column="80" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="16" column="6" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="18" column="50" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="74" column="6" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="72" column="36" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="52" column="16" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="70" column="35" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="57" column="14" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="75" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="36" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="67" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="146" column="43" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="144" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="167" column="14" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="163" column="62" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="19" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="179" column="52" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="20" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="215" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="270" column="18" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="256" column="46" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="221" column="14" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="224" column="99" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="223" column="41" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="357" column="87" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="209" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="278" column="78" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="247" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="280" column="62" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="248" column="17" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="233" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="216" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgIHZhbCBjcmVhdGVMb2cgPSBhY3Rpdml0aWVzTG9nCiAgICAgIC5hbGlhcygiYSIpCiAgICAgIC53aGVyZSgkImFjdGlvbiIgPT09ICJjcmVhdGUiKQogICAgICAuZmlsdGVyIHsgbG9nID0+CiAgICAgICAgKGxvZy5wZXJtaXNzaW9uLnN0YXJ0c1dpdGgoIkEiKSB8fCBsb2cucGVybWlzc2lvbi5zdGFydHNXaXRoKCJGIikpICYmIGxvZy5mcmllbmRDb3VudCA+IDAgJiYgIWxvZy5pc1N0b3J5cGx1cwogICAgICB9CiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikKCiAgICBkZWYgZGVzdHJveUxvZ0NvbmQobG9nOiBTdG9yeVJlcXVlc3RMb2cpOiBCb29sZWFuID0gbG9nLmFjdGlvbiA9PSAiZGVzdG9yeSIKCiAgICB2YWwgZGVzdHJveUxvZyA9IGFjdGl2aXRpZXNMb2cKICAgICAgLmFsaWFzKCJhIikKICAgICAgLndoZXJlKCQiYS5hY3Rpb24iID09PSAiZGVzdG9yeSIpCiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikK</text>
+      <register name="a" type="4">
+        <text>IO(m.get(userId))</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVzZXIyOiBVc2VyID0gVXNlcihVc2VySWQoMTIzKSwgIlRvbW15IikKCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2636,16 +2626,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>500</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>load_ir</text>
+        <text>setTypeMap</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bXBsLnJjUGFyYW1zWydheGVzLnVuaWNvZGVfbWludXMnXSA9IEZhbHNlCm1wbC5yY1BhcmFtc1siZm9udC5mYW1pbHkiXSA9ICJBcHBsZUdvdGhpYyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVzZXIyOiBVc2VyID0gVXNlcihVc2VySWQoMTIzKSwgIlRvbW15IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVzZXIyOiBVc2VyID0gVXNlcihVc2VySWQoMTIzKSwgIlRvbW15IikKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2672,25 +2662,120 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZCA9IDUwMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZSBDb25uZWN0aW9uID0gSW50Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcwo=</text>
+      <register name="3" type="4">
+        <text>new Connection {
+                override def createStatement(): Statement = ???
+                override def prepareStatement(sql: String): PreparedStatement = ???
+                override def prepareCall(sql: String): CallableStatement = ???
+                override def nativeSQL(sql: String): String = ???
+                override def setAutoCommit(autoCommit: Boolean): Unit = ???
+                override def getAutoCommit: Boolean = ???
+                override def commit(): Unit = ???
+                override def rollback(): Unit = ???
+                override def close(): Unit = ()
+                override def isClosed: Boolean = ???
+                override def getMetaData: DatabaseMetaData = ???
+                override def setReadOnly(readOnly: Boolean): Unit = ???
+                override def isReadOnly: Boolean = ???
+                override def setCatalog(catalog: String): Unit = ???
+                override def getCatalog: String = ???
+                override def setTransactionIsolation(level: DBConnection): Unit = ???
+                override def getTransactionIsolation: DBConnection = ???
+                override def getWarnings: SQLWarning = ???
+                override def clearWarnings(): Unit = ???
+                override def createStatement(
+                    resultSetType: DBConnection,
+                    resultSetConcurrency: DBConnection
+                ): Statement = ???
+                override def prepareStatement(
+                    sql: String,
+                    resultSetType: DBConnection,
+                    resultSetConcurrency: DBConnection
+                ): PreparedStatement = ???
+                override def prepareCall(sql: String, resultSetType: DBConnection, resultSetConcurrency: DBConnection)
+                    : CallableStatement = ???
+                override def getTypeMap: util.Map[String, Class[_]] = ???
+                override def setTypeMap(map: (util.Map[String, Class[_]])): Unit = ???
+                override def setHoldability(holdability: DBConnection): Unit = ???
+                override def getHoldability: DBConnection = ???
+                override def setSavepoint(): Savepoint = ???
+                override def setSavepoint(name: String): Savepoint = ???
+                override def rollback(savepoint: Savepoint): Unit = ???
+                override def releaseSavepoint(savepoint: Savepoint): Unit = ???
+                override def createStatement(
+                    resultSetType: DBConnection,
+                    resultSetConcurrency: DBConnection,
+                    resultSetHoldability: DBConnection
+                ): Statement = ???
+                override def prepareStatement(
+                    sql: String,
+                    resultSetType: DBConnection,
+                    resultSetConcurrency: DBConnection,
+                    resultSetHoldability: DBConnection
+                ): PreparedStatement = ???
+                override def prepareCall(
+                    sql: String,
+                    resultSetType: DBConnection,
+                    resultSetConcurrency: DBConnection,
+                    resultSetHoldability: DBConnection
+                ): CallableStatement = ???
+                override def prepareStatement(
+                    sql: String,
+                    autoGeneratedKeys: DBConnection
+                ): PreparedStatement = ???
+                override def prepareStatement(
+                    sql: String,
+                    columnIndexes: Array[DBConnection]
+                ): PreparedStatement = ???
+                override def prepareStatement(
+                    sql: String,
+                    columnNames: Array[String]
+                ): PreparedStatement = ???
+                override def createClob(): Clob = ???
+                override def createBlob(): Blob = ???
+                override def createNClob(): NClob = ???
+                override def createSQLXML(): SQLXML = ???
+                override def isValid(timeout: DBConnection): Boolean = ???
+                override def setClientInfo(name: String, value: String): Unit = ???
+                override def setClientInfo(properties: Properties): Unit = ???
+                override def getClientInfo(name: String): String = ???
+                override def getClientInfo: Properties = ???
+                override def createArrayOf(
+                    typeName: String,
+                    elements: Array[AnyRef]
+                ): sql.Array = ???
+                override def createStruct(
+                    typeName: String,
+                    attributes: Array[AnyRef]
+                ): Struct = ???
+                override def setSchema(schema: String): Unit = ???
+                override def getSchema: String = ???
+                override def abort(executor: Executor): Unit = ???
+                override def setNetworkTimeout(
+                    executor: Executor,
+                    milliseconds: DBConnection
+                ): Unit = ???
+                override def getNetworkTimeout: DBConnection = ???
+                override def unwrap[T](iface: Class[T]): T = ???
+                override def isWrapperFor(iface: Class[_]): Boolean = ???
+              }</text>
       </register>
       <register name="s" type="4">
-        <text>(spark: SparkSession)</text>
+        <text encoding="base64">SU8gewogICAgICAgICAgICAgICAgbSA9IG0gKyAodXNlci5pZCAtPiB1c2VyKQogICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">cHJpbnQobGVuKGRhdGEpKQpwcmludChsZW4oZGlzdGFuY2VzKSkKcHJpbnQobGVuKGRpc3RhbmNlc1swXSkpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGZvclNvbWUgewogICAgICAgICAgICAgICAgICAgICAgdHlwZSBfJDEKICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNjaXB5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoIiIsIGVuZD0iIikK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGZvclNvbWUgewogICAgICAgICAgICAgICAgICB0eXBlIF8kMQogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2719,10 +2804,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBfIDwtIExvZ2dpbmcuaW5mbyhzInVzZXIgaW5zZXJ0ZWQiKSAvLyBaSU9bTG9nZ2luZywgTm90aGluZywgVW5pdF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmQxID0gbnVtcHkucmFuZG9tLnVuaWZvcm0oc2l6ZT1kKjEwMDApCnByaW50KGxlbihkMSkpCnByaW50KGQxKQpwcmludChsZW4oZGF0YSkpCnByaW50KGxlbihkYXRhWzBdKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBfIDwtIExvZ2dpbmcuaW5mbyhzImluc2VydGluZyB1c2VyIikgLy8gWklPW0xvZ2dpbmcsIE5vdGhpbmcsIFVuaXRdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2734,9 +2819,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>load_ir</last-search>
+      <last-search>setTypeMap</last-search>
       <last-offset />
-      <last-pattern>load_ir</last-pattern>
+      <last-pattern>setTypeMap</last-pattern>
       <last-replace>DateTime</last-replace>
       <last-substitute>LocalDate</last-substitute>
       <last-dir>1</last-dir>
