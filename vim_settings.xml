@@ -118,7 +118,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" timestamp="1588524612784">
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" timestamp="1588614284252">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="43" />
@@ -137,7 +137,7 @@
         <mark key="." line="216" column="0" />
         <mark key="^" line="232" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588607247909">
+      <file name="/Dummy.txt" timestamp="1588614000579">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" timestamp="1588124597937">
@@ -171,9 +171,19 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="32" />
       </file>
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" timestamp="1588614287017">
+        <mark key="'" line="44" column="9" />
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-2/zio_2.13-1.0.0-RC18-2-sources.jar!/zio/ZLayer.scala" timestamp="1588588565114">
         <mark key="[" line="2040" column="11" />
         <mark key="]" line="2040" column="53" />
+      </file>
+      <file name="/sample01 (3)" timestamp="1588614289574">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/PushPayload.scala" timestamp="1588069802592">
         <mark key="'" line="3" column="0" />
@@ -190,7 +200,7 @@
       <file name="/Dummy.scala" timestamp="1588120329670">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" timestamp="1588603679195">
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" timestamp="1588613583992">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="14" column="14" />
         <mark key="]" line="10" column="32" />
@@ -212,12 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="31" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="103" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="16" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/implicits/package.scala" />
-      <jump line="40" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/implicits/package.scala" />
-      <jump line="100" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="26" column="23" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/implicits/package.scala" />
       <jump line="43" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/implicits/package.scala" />
       <jump line="25" column="26" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
       <jump line="40" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/Environment.scala" />
@@ -312,6 +316,12 @@
       <jump line="252" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
       <jump line="266" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
       <jump line="102" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="14" column="19" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" />
+      <jump line="26" column="14" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" />
+      <jump line="4" column="55" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" />
+      <jump line="40" column="9" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,7 +330,7 @@
         <text>IO(m.get(userId))</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVzZXIyOiBVc2VyID0gVXNlcihVc2VySWQoMTIzKSwgIlRvbW15IikKCg==</text>
+        <text encoding="base64">bXBsLnJjUGFyYW1zWydheGVzLnVuaWNvZGVfbWludXMnXSA9IEZhbHNlCm1wbC5yY1BhcmFtc1siZm9udC5mYW1pbHkiXSA9ICJBcHBsZUdvdGhpYyIK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2625,16 +2635,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>linear</text>
       </register>
       <register name="/" type="4">
         <text>setTypeMap</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVzZXIyOiBVc2VyID0gVXNlcihVc2VySWQoMTIzKSwgIlRvbW15IikK</text>
+        <text encoding="base64">bXBsLnJjUGFyYW1zWydheGVzLnVuaWNvZGVfbWludXMnXSA9IEZhbHNlCm1wbC5yY1BhcmFtc1siZm9udC5mYW1pbHkiXSA9ICJBcHBsZUdvdGhpYyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVzZXIyOiBVc2VyID0gVXNlcihVc2VySWQoMTIzKSwgIlRvbW15IikKCg==</text>
+        <text encoding="base64">bGFzc28gPSBMYXNzbygpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2661,9 +2671,21 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">bGFzc28uZml0Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBza2xlYXJuLiBpbXBvcnQgTGluZWFyUmVncmVzc2lvbgo=</text>
+      </register>
+      <register name="s" type="4">
+        <text encoding="base64">SU8gewogICAgICAgICAgICAgICAgbSA9IG0gKyAodXNlci5pZCAtPiB1c2VyKQogICAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVzZXIyOiBVc2VyID0gVXNlcihVc2VySWQoMTIzKSwgIlRvbW15IikKCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdHlwZSBDb25uZWN0aW9uID0gSW50Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>new Connection {
                 override def createStatement(): Statement = ???
                 override def prepareStatement(sql: String): PreparedStatement = ???
@@ -2761,20 +2783,8 @@
                 override def isWrapperFor(iface: Class[_]): Boolean = ???
               }</text>
       </register>
-      <register name="s" type="4">
-        <text encoding="base64">SU8gewogICAgICAgICAgICAgICAgbSA9IG0gKyAodXNlci5pZCAtPiB1c2VyKQogICAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IGZvclNvbWUgewogICAgICAgICAgICAgICAgICAgICAgdHlwZSBfJDEKICAgICAgICAgICAgICAgICAgICB9</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
       <register name="7" type="4">
-        <text encoding="base64">IGZvclNvbWUgewogICAgICAgICAgICAgICAgICB0eXBlIF8kMQogICAgICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">IGZvclNvbWUgewogICAgICAgICAgICAgICAgICAgICAgdHlwZSBfJDEKICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2803,10 +2813,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBfIDwtIExvZ2dpbmcuaW5mbyhzInVzZXIgaW5zZXJ0ZWQiKSAvLyBaSU9bTG9nZ2luZywgTm90aGluZywgVW5pdF0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBfIDwtIExvZ2dpbmcuaW5mbyhzImluc2VydGluZyB1c2VyIikgLy8gWklPW0xvZ2dpbmcsIE5vdGhpbmcsIFVuaXRdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
