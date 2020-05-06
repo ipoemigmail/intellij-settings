@@ -7,12 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxiY1RhcmdldEFwcFZlcnNpb25cPg==</entry>
-        <entry encoding="base64">XDxwdXNoVGFyZ2V0c1w+</entry>
-        <entry encoding="base64">XDxXYWtlVXBUYXJnZXRcPg==</entry>
-        <entry encoding="base64">XDxzY2hlbWVcPg==</entry>
-        <entry encoding="base64">XDxzZW5kUHVzaFw+</entry>
-        <entry encoding="base64">XDxUYWdnZXJcPg==</entry>
         <entry encoding="base64">XDx0ZXN0U2VuZFB1c2hUYXJnZXRcPg==</entry>
         <entry>LocalDate</entry>
         <entry encoding="base64">XDxnZXREYXRlVGltZVw+</entry>
@@ -27,6 +21,12 @@
         <entry encoding="base64">XDxVc2VySWRcPg==</entry>
         <entry encoding="base64">XDx3aXRoUG9zdGdyZXNTZXJ2aWNlXD4=</entry>
         <entry>setTypeMap</entry>
+        <entry encoding="base64">XDxsYWJlbFw+</entry>
+        <entry encoding="base64">XDxwcm9jZXNzQnVsa1w+</entry>
+        <entry encoding="base64">XDxMQUJFTF9VU0VSX0NPTU1FTlRcPg==</entry>
+        <entry encoding="base64">XDxMYWJlbFVzZXJDb21tZW50XD4=</entry>
+        <entry encoding="base64">XDxMYWJlbFVzZXJGZWVsaW5nXD4=</entry>
+        <entry encoding="base64">XDxMYWJlbENoYW5uZWxDb21tZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Banned/Banning/g</entry>
@@ -47,8 +47,8 @@
         <entry>%s/LocaDate/DateTime/g</entry>
         <entry>%s/LocalDate/DateTime/g</entry>
         <entry encoding="base64">JzwsJz5zL0xvY2FsRGF0ZS9EYXRlVGltZS9n</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -123,13 +123,6 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/Summary.scala" timestamp="1588126451844">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="37" />
-        <mark key="." line="20" column="36" />
-        <mark key="^" line="20" column="37" />
-      </file>
       <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" timestamp="1588596966727">
         <mark key="'" line="102" column="0" />
         <mark key="[" line="216" column="0" />
@@ -137,15 +130,8 @@
         <mark key="." line="216" column="0" />
         <mark key="^" line="232" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588614000579">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" timestamp="1588124597937">
-        <mark key="'" line="47" column="69" />
-        <mark key="[" line="113" column="83" />
-        <mark key="]" line="113" column="99" />
-        <mark key="." line="113" column="83" />
-        <mark key="^" line="29" column="68" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/etl/src/main/scala/story/etl/transformer/story_reqlog/ReactionUDF.scala" timestamp="1588755541000">
+        <mark key="'" line="23" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" timestamp="1588228668616">
         <mark key="j" line="26" column="24" />
@@ -166,10 +152,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" timestamp="1588125325018">
-        <mark key="'" line="27" column="26" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="32" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" timestamp="1588756376353">
+        <mark key="'" line="91" column="39" />
+        <mark key="[" line="49" column="43" />
+        <mark key="]" line="49" column="62" />
+        <mark key="." line="49" column="43" />
+        <mark key="^" line="46" column="40" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" timestamp="1588614287017">
         <mark key="'" line="44" column="9" />
@@ -178,26 +166,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminService.scala" timestamp="1588754044192" />
       <file name="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-2/zio_2.13-1.0.0-RC18-2-sources.jar!/zio/ZLayer.scala" timestamp="1588588565114">
         <mark key="[" line="2040" column="11" />
         <mark key="]" line="2040" column="53" />
       </file>
       <file name="/sample01 (3)" timestamp="1588614289574">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/PushPayload.scala" timestamp="1588069802592">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="12" column="87" />
-        <mark key="]" line="12" column="93" />
-        <mark key="." line="12" column="92" />
-        <mark key="^" line="12" column="93" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/sender/WakeupPushSender.scala" timestamp="1588125120505">
-        <mark key="'" line="17" column="47" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="81" column="3" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1588120329670">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" timestamp="1588613583992">
@@ -207,12 +181,29 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" timestamp="1588069720170">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="57" column="32" />
-        <mark key="]" line="57" column="32" />
-        <mark key="^" line="62" column="2" />
-        <mark key="." line="57" column="32" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/Summary.scala" timestamp="1588126451844">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="37" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588614000579">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/FriendRecommendationConverter.scala" timestamp="1588756617809">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="29" column="84" />
+        <mark key="^" line="39" column="49" />
+        <mark key="." line="39" column="48" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" timestamp="1588125325018">
+        <mark key="'" line="27" column="26" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="32" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/S2GraphService.scala" timestamp="1588755199214">
+        <mark key="'" line="124" column="14" />
       </file>
       <file name="/usr/local/lib/python3.7/site-packages/sklearn/datasets/__init__.py" timestamp="1588436856968">
         <mark key="'" line="71" column="12" />
@@ -222,28 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/implicits/package.scala" />
-      <jump line="25" column="26" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="40" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/Environment.scala" />
-      <jump line="105" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="22" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupUserExtractorBatch-dev.conf" />
-      <jump line="111" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="38" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="90" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="37" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="108" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="112" column="57" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="29" column="60" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="113" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="104" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="23" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="108" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="29" column="52" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="46" column="42" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" />
-      <jump line="8" column="16" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" />
-      <jump line="2" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" />
-      <jump line="9" column="33" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" />
-      <jump line="43" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" />
       <jump line="47" column="69" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
       <jump line="19" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" />
       <jump line="60" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" />
@@ -322,15 +291,37 @@
       <jump line="12" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" />
       <jump line="18" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" />
       <jump line="40" column="9" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" />
+      <jump line="140" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/S2GraphService.scala" />
+      <jump line="118" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/S2GraphService.scala" />
+      <jump line="121" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/S2GraphService.scala" />
+      <jump line="124" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/S2GraphService.scala" />
+      <jump line="23" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/etl/src/main/scala/story/etl/transformer/story_reqlog/ReactionUDF.scala" />
+      <jump line="21" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
+      <jump line="22" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
+      <jump line="149" column="64" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
+      <jump line="94" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
+      <jump line="34" column="43" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
+      <jump line="39" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
+      <jump line="32" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
+      <jump line="58" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
+      <jump line="42" column="63" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
+      <jump line="57" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
+      <jump line="33" column="31" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
+      <jump line="56" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
+      <jump line="40" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
+      <jump line="35" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
+      <jump line="130" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
+      <jump line="23" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
+      <jump line="101" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="4">
-        <text>IO(m.get(userId))</text>
+        <text>, Some(toProfileId)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bXBsLnJjUGFyYW1zWydheGVzLnVuaWNvZGVfbWludXMnXSA9IEZhbHNlCm1wbC5yY1BhcmFtc1siZm9udC5mYW1pbHkiXSA9ICJBcHBsZUdvdGhpYyIK</text>
+      <register name="&quot;" type="4">
+        <text>StoryId.decodeShortProfileId(to).map(_.toString)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2629,22 +2620,22 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>WakeUpLog</text>
+        <text>StoryId.decodeShortProfileId(to).map(_.toString)</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>linear</text>
+        <text>StoryId.decodeShortProfileId(to).map(_.toString)</text>
       </register>
       <register name="/" type="4">
-        <text>setTypeMap</text>
+        <text encoding="base64">XDxMYWJlbENoYW5uZWxDb21tZW50XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bXBsLnJjUGFyYW1zWydheGVzLnVuaWNvZGVfbWludXMnXSA9IEZhbHNlCm1wbC5yY1BhcmFtc1siZm9udC5mYW1pbHkiXSA9ICJBcHBsZUdvdGhpYyIK</text>
+      <register name="0" type="4">
+        <text>, Some(toProfileId)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGFzc28gPSBMYXNzbygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgY2FzZSBOb25lID0+IFNvbWUoTmlsKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2671,120 +2662,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGFzc28uZml0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgbWF0Y2ggewogICAgICAgICAgY2FzZSBTb21lKHRvUHJvZmlsZUlkKSA9Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLiBpbXBvcnQgTGluZWFyUmVncmVzc2lvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgTm9uZSA9PiBTb21lKE5pbCkKICAgICAgICB9Cg==</text>
       </register>
-      <register name="s" type="4">
-        <text encoding="base64">SU8gewogICAgICAgICAgICAgICAgbSA9IG0gKyAodXNlci5pZCAtPiB1c2VyKQogICAgICAgICAgICAgIH0=</text>
+      <register name="s" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgTm9uZSA9PiBTb21lKE5pbCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVzZXIyOiBVc2VyID0gVXNlcihVc2VySWQoMTIzKSwgIlRvbW15IikKCg==</text>
+        <text encoding="base64">ICAgICAgICBTdG9yeUlkLmRlY29kZVNob3J0UHJvZmlsZUlkKHRvKS5tYXAoXy50b1N0cmluZykgbWF0Y2ggewogICAgICAgICAgY2FzZSBTb21lKHRvUHJvZmlsZUlkKSA9Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZSBDb25uZWN0aW9uID0gSW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgTm9uZSA9PiBTb21lKE5pbCkKICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>new Connection {
-                override def createStatement(): Statement = ???
-                override def prepareStatement(sql: String): PreparedStatement = ???
-                override def prepareCall(sql: String): CallableStatement = ???
-                override def nativeSQL(sql: String): String = ???
-                override def setAutoCommit(autoCommit: Boolean): Unit = ???
-                override def getAutoCommit: Boolean = ???
-                override def commit(): Unit = ???
-                override def rollback(): Unit = ???
-                override def close(): Unit = ()
-                override def isClosed: Boolean = ???
-                override def getMetaData: DatabaseMetaData = ???
-                override def setReadOnly(readOnly: Boolean): Unit = ???
-                override def isReadOnly: Boolean = ???
-                override def setCatalog(catalog: String): Unit = ???
-                override def getCatalog: String = ???
-                override def setTransactionIsolation(level: DBConnection): Unit = ???
-                override def getTransactionIsolation: DBConnection = ???
-                override def getWarnings: SQLWarning = ???
-                override def clearWarnings(): Unit = ???
-                override def createStatement(
-                    resultSetType: DBConnection,
-                    resultSetConcurrency: DBConnection
-                ): Statement = ???
-                override def prepareStatement(
-                    sql: String,
-                    resultSetType: DBConnection,
-                    resultSetConcurrency: DBConnection
-                ): PreparedStatement = ???
-                override def prepareCall(sql: String, resultSetType: DBConnection, resultSetConcurrency: DBConnection)
-                    : CallableStatement = ???
-                override def getTypeMap: util.Map[String, Class[_]] = ???
-                override def setTypeMap(map: (util.Map[String, Class[_]])): Unit = ???
-                override def setHoldability(holdability: DBConnection): Unit = ???
-                override def getHoldability: DBConnection = ???
-                override def setSavepoint(): Savepoint = ???
-                override def setSavepoint(name: String): Savepoint = ???
-                override def rollback(savepoint: Savepoint): Unit = ???
-                override def releaseSavepoint(savepoint: Savepoint): Unit = ???
-                override def createStatement(
-                    resultSetType: DBConnection,
-                    resultSetConcurrency: DBConnection,
-                    resultSetHoldability: DBConnection
-                ): Statement = ???
-                override def prepareStatement(
-                    sql: String,
-                    resultSetType: DBConnection,
-                    resultSetConcurrency: DBConnection,
-                    resultSetHoldability: DBConnection
-                ): PreparedStatement = ???
-                override def prepareCall(
-                    sql: String,
-                    resultSetType: DBConnection,
-                    resultSetConcurrency: DBConnection,
-                    resultSetHoldability: DBConnection
-                ): CallableStatement = ???
-                override def prepareStatement(
-                    sql: String,
-                    autoGeneratedKeys: DBConnection
-                ): PreparedStatement = ???
-                override def prepareStatement(
-                    sql: String,
-                    columnIndexes: Array[DBConnection]
-                ): PreparedStatement = ???
-                override def prepareStatement(
-                    sql: String,
-                    columnNames: Array[String]
-                ): PreparedStatement = ???
-                override def createClob(): Clob = ???
-                override def createBlob(): Blob = ???
-                override def createNClob(): NClob = ???
-                override def createSQLXML(): SQLXML = ???
-                override def isValid(timeout: DBConnection): Boolean = ???
-                override def setClientInfo(name: String, value: String): Unit = ???
-                override def setClientInfo(properties: Properties): Unit = ???
-                override def getClientInfo(name: String): String = ???
-                override def getClientInfo: Properties = ???
-                override def createArrayOf(
-                    typeName: String,
-                    elements: Array[AnyRef]
-                ): sql.Array = ???
-                override def createStruct(
-                    typeName: String,
-                    attributes: Array[AnyRef]
-                ): Struct = ???
-                override def setSchema(schema: String): Unit = ???
-                override def getSchema: String = ???
-                override def abort(executor: Executor): Unit = ???
-                override def setNetworkTimeout(
-                    executor: Executor,
-                    milliseconds: DBConnection
-                ): Unit = ???
-                override def getNetworkTimeout: DBConnection = ???
-                override def unwrap[T](iface: Class[T]): T = ???
-                override def isWrapperFor(iface: Class[_]): Boolean = ???
-              }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdG9yeUlkLmRlY29kZVNob3J0UHJvZmlsZUlkKHRvKS5tYXAoXy50b1N0cmluZykgbWF0Y2ggewo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGZvclNvbWUgewogICAgICAgICAgICAgICAgICAgICAgdHlwZSBfJDEKICAgICAgICAgICAgICAgICAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIE5vbmUgPT4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2813,13 +2709,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBjYXNlIE5vbmUgPT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBOb25lID0+IFNvbWUoTmlsKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2828,9 +2724,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>setTypeMap</last-search>
+      <last-search encoding="base64">XDxMYWJlbENoYW5uZWxDb21tZW50XD4=</last-search>
       <last-offset />
-      <last-pattern>setTypeMap</last-pattern>
+      <last-pattern encoding="base64">XDxMYWJlbENoYW5uZWxDb21tZW50XD4=</last-pattern>
       <last-replace>DateTime</last-replace>
       <last-substitute>LocalDate</last-substitute>
       <last-dir>1</last-dir>
