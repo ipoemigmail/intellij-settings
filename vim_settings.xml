@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRGcm9tREJcPg==</entry>
-        <entry>Join</entry>
-        <entry>JoinHandler</entry>
-        <entry encoding="base64">XDxKb2luSGFuZGxlXD4=</entry>
-        <entry>LocaDate</entry>
         <entry encoding="base64">XDxiY1RhcmdldEFwcFZlcnNpb25cPg==</entry>
         <entry encoding="base64">XDxwdXNoVGFyZ2V0c1w+</entry>
         <entry encoding="base64">XDxXYWtlVXBUYXJnZXRcPg==</entry>
@@ -23,10 +18,15 @@
         <entry encoding="base64">XDxnZXREYXRlVGltZVw+</entry>
         <entry encoding="base64">XDxub3dcPg==</entry>
         <entry encoding="base64">XDxsYXN0TXNnXD4=</entry>
-        <entry encoding="base64">XDxQdXNoT1NTZXR0aW5nXD4=</entry>
-        <entry encoding="base64">XDxQdXNoT3NTZXR0aW5nXD4=</entry>
-        <entry encoding="base64">XDx0YXJnZXRfcGxhdGZvcm1zXD4=</entry>
-        <entry>update</entry>
+        <entry encoding="base64">XDxtb2RlbFw+</entry>
+        <entry encoding="base64">XDxDTEFTU19NQVBcPg==</entry>
+        <entry>load_ir</entry>
+        <entry encoding="base64">XDxnZXRVc2VyXD4=</entry>
+        <entry encoding="base64">XDx0ZXN0UmVwb1w+</entry>
+        <entry encoding="base64">XDxsb2dnZXJTZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxVc2VySWRcPg==</entry>
+        <entry encoding="base64">XDx3aXRoUG9zdGdyZXNTZXJ2aWNlXD4=</entry>
+        <entry>setTypeMap</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Banned/Banning/g</entry>
@@ -47,8 +47,8 @@
         <entry>%s/LocaDate/DateTime/g</entry>
         <entry>%s/LocalDate/DateTime/g</entry>
         <entry encoding="base64">JzwsJz5zL0xvY2FsRGF0ZS9EYXRlVGltZS9n</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,64 +118,71 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/Summary.scala" timestamp="1588128174681">
-        <mark key="'" line="13" column="44" />
-        <mark key="[" line="40" column="54" />
-        <mark key="]" line="40" column="62" />
-        <mark key="." line="40" column="61" />
-        <mark key="^" line="40" column="62" />
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" timestamp="1588614284252">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" timestamp="1588069451866">
-        <mark key="'" line="104" column="11" />
-        <mark key="[" line="104" column="11" />
-        <mark key="]" line="104" column="12" />
-        <mark key="." line="104" column="12" />
-        <mark key="^" line="113" column="92" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/Summary.scala" timestamp="1588126451844">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="37" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="37" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/implicits/package.scala" timestamp="1588069367942">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" timestamp="1588596966727">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
+        <mark key="^" line="232" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588123094805">
+      <file name="/Dummy.txt" timestamp="1588614000579">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" timestamp="1588725912341">
-        <mark key="'" line="266" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="266" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" timestamp="1588128201565">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" timestamp="1588124597937">
         <mark key="'" line="47" column="69" />
-        <mark key="[" line="40" column="29" />
-        <mark key="]" line="40" column="44" />
+        <mark key="[" line="113" column="83" />
+        <mark key="]" line="113" column="99" />
         <mark key="." line="113" column="83" />
         <mark key="^" line="29" column="68" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" timestamp="1588120598438">
+      <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" timestamp="1588228668616">
         <mark key="j" line="26" column="24" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/service/PushAdminService.scala" timestamp="1588128630415">
-        <mark key="'" line="36" column="54" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="467" column="3" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminService.scala" timestamp="1588128636270">
-        <mark key="'" line="0" column="2" />
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" timestamp="1588522515809">
+        <mark key="'" line="10" column="0" />
         <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="2" />
+        <mark key="^" line="30" column="69" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" timestamp="1588128108701">
+      <file name="/a.dummy" timestamp="1588584299320">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" timestamp="1588125325018">
         <mark key="'" line="27" column="26" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="43" column="28" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="32" />
       </file>
-      <file name="/" timestamp="1588724694992">
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" timestamp="1588614287017">
+        <mark key="'" line="44" column="9" />
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio_2.13/1.0.0-RC18-2/zio_2.13-1.0.0-RC18-2-sources.jar!/zio/ZLayer.scala" timestamp="1588588565114">
+        <mark key="[" line="2040" column="11" />
+        <mark key="]" line="2040" column="53" />
+      </file>
+      <file name="/sample01 (3)" timestamp="1588614289574">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/PushPayload.scala" timestamp="1588069802592">
@@ -193,6 +200,13 @@
       <file name="/Dummy.scala" timestamp="1588120329670">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" timestamp="1588613583992">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="32" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" timestamp="1588069720170">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="57" column="32" />
@@ -200,52 +214,14 @@
         <mark key="^" line="62" column="2" />
         <mark key="." line="57" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchdule.scala" timestamp="1588133755274">
-        <mark key="'" line="21" column="1" />
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="21" column="2" />
-        <mark key="." line="21" column="1" />
-        <mark key="^" line="21" column="2" />
+      <file name="/usr/local/lib/python3.7/site-packages/sklearn/datasets/__init__.py" timestamp="1588436856968">
+        <mark key="'" line="71" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" timestamp="1588135209041">
-        <mark key="'" line="23" column="52" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="24" column="25" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-submodule/escher-common/db/src/main/scala/story/model/service/PushSchedule.scala" timestamp="1588133821944">
-        <mark key="'" line="77" column="53" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="97" column="3" />
-      </file>
-      <file name="/fragment.java" timestamp="1588126296166">
+      <file name="/fragment.java" timestamp="1588584265680">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeService.scala" />
-      <jump line="3" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeService.scala" />
-      <jump line="34" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeService.scala" />
-      <jump line="6" column="34" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonService.scala" />
-      <jump line="4" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeService.scala" />
-      <jump line="25" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeService.scala" />
-      <jump line="1" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeService.scala" />
-      <jump line="13" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeService.scala" />
-      <jump line="4" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/model/push/StoryScheme.scala" />
-      <jump line="6" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/model/push/StoryScheme.scala" />
-      <jump line="3" column="16" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeServiceDefault.scala" />
-      <jump line="4" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/SchemeServiceDefault.scala" />
-      <jump line="27" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="109" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="21" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="20" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="2" column="31" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="103" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="16" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/implicits/package.scala" />
-      <jump line="40" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/implicits/package.scala" />
-      <jump line="100" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
-      <jump line="26" column="23" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/implicits/package.scala" />
       <jump line="43" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/implicits/package.scala" />
       <jump line="25" column="26" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeupPushSender.scala" />
       <jump line="40" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/Environment.scala" />
@@ -286,53 +262,75 @@
       <jump line="27" column="26" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" />
       <jump line="38" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/Summary.scala" />
       <jump line="40" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/Summary.scala" />
-      <jump line="13" column="44" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/Summary.scala" />
-      <jump line="451" column="41" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/service/PushAdminService.scala" />
-      <jump line="432" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/service/PushAdminService.scala" />
-      <jump line="36" column="54" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/service/PushAdminService.scala" />
-      <jump line="0" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminService.scala" />
-      <jump line="208" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-submodule/escher-common/db/src/main/scala/story/model/service/PushSchedule.scala" />
-      <jump line="28" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-submodule/escher-common/db/src/main/scala/story/model/service/PushSchedule.scala" />
-      <jump line="4" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchdule.scala" />
-      <jump line="15" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchdule.scala" />
-      <jump line="21" column="1" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchdule.scala" />
-      <jump line="4" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="30" column="82" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-submodule/escher-common/db/src/main/scala/story/model/service/PushSchedule.scala" />
-      <jump line="22" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="77" column="53" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-submodule/escher-common/db/src/main/scala/story/model/service/PushSchedule.scala" />
-      <jump line="36" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="19" column="40" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="21" column="58" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="10" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="28" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="42" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="25" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="41" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="38" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="43" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="24" column="76" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="66" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="23" column="52" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="35" column="56" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
-      <jump line="164" column="17" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
-      <jump line="153" column="32" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
-      <jump line="214" column="84" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
-      <jump line="212" column="16" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
-      <jump line="179" column="55" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
-      <jump line="7" column="16" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
-      <jump line="76" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="16" column="8" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" />
+      <jump line="34" column="12" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" />
+      <jump line="32" column="31" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" />
+      <jump line="19" column="29" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" />
+      <jump line="21" column="19" filename="/usr/local/lib/python3.7/site-packages/sklearn/datasets/__init__.py" />
+      <jump line="10" column="19" filename="/usr/local/lib/python3.7/site-packages/sklearn/datasets/__init__.py" />
+      <jump line="71" column="12" filename="/usr/local/lib/python3.7/site-packages/sklearn/datasets/__init__.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter08/sample01.py" />
+      <jump line="5" column="25" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" />
+      <jump line="7" column="31" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" />
+      <jump line="1" column="12" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter10/sample01.py" />
+      <jump line="9" column="50" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="46" column="80" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="16" column="6" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="18" column="50" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="74" column="6" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="72" column="36" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="52" column="16" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="70" column="35" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="57" column="14" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="75" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="36" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="67" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="146" column="43" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="144" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="167" column="14" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="163" column="62" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="19" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="179" column="52" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="20" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="215" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="270" column="18" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="256" column="46" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="221" column="14" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="224" column="99" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="223" column="41" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="357" column="87" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="209" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="278" column="78" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="247" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="280" column="62" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="248" column="17" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="233" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="216" column="8" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="252" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
       <jump line="266" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="102" column="0" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
+      <jump line="14" column="19" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" />
+      <jump line="26" column="14" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" />
+      <jump line="4" column="55" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" />
+      <jump line="40" column="9" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter11/sample01.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgIHZhbCBjcmVhdGVMb2cgPSBhY3Rpdml0aWVzTG9nCiAgICAgIC5hbGlhcygiYSIpCiAgICAgIC53aGVyZSgkImFjdGlvbiIgPT09ICJjcmVhdGUiKQogICAgICAuZmlsdGVyIHsgbG9nID0+CiAgICAgICAgKGxvZy5wZXJtaXNzaW9uLnN0YXJ0c1dpdGgoIkEiKSB8fCBsb2cucGVybWlzc2lvbi5zdGFydHNXaXRoKCJGIikpICYmIGxvZy5mcmllbmRDb3VudCA+IDAgJiYgIWxvZy5pc1N0b3J5cGx1cwogICAgICB9CiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikKCiAgICBkZWYgZGVzdHJveUxvZ0NvbmQobG9nOiBTdG9yeVJlcXVlc3RMb2cpOiBCb29sZWFuID0gbG9nLmFjdGlvbiA9PSAiZGVzdG9yeSIKCiAgICB2YWwgZGVzdHJveUxvZyA9IGFjdGl2aXRpZXNMb2cKICAgICAgLmFsaWFzKCJhIikKICAgICAgLndoZXJlKCQiYS5hY3Rpb24iID09PSAiZGVzdG9yeSIpCiAgICAgIC5tYXAgeyBsb2cgPT4KICAgICAgICAobG9nLnByb2ZpbGVJZCwgbG9nLnRzLCBsb2cuZXRjUGFyYW1NYXAuZ2V0T3JFbHNlKCJhaWQiLCAiLSIpKQogICAgICB9CiAgICAgIC50b0RGKCJwaWQiLCAidHMiLCAiYWlkIikK</text>
+      <register name="a" type="4">
+        <text>IO(m.get(userId))</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSBpcG9lbWkuemlvLnN0dWR5Lmhvd1RvLl8wMV91c2VfbW9kdWxlc19hbmRfbGF5ZXJzCgppbXBvcnQgemlvLl8KaW1wb3J0IHppby5jbG9jay5DbG9jawppbXBvcnQgemlvLmNvbnNvbGUuQ29uc29sZQppbXBvcnQgemlvLnJhbmRvbS5SYW5kb20KaW1wb3J0IHppby50ZXN0LkFzc2VydGlvbi5fCmltcG9ydCB6aW8udGVzdC5fCgpvYmplY3QgVXNlTW9kdWxlc0FuZExheWVyc1NwZWMgZXh0ZW5kcyBEZWZhdWx0UnVubmFibGVTcGVjIHsKICBjYXNlIGNsYXNzIFVzZXJJZCh2YWx1ZTogTG9uZykKCiAgdHlwZSBEQkNvbm5lY3Rpb24gPSBJbnQKICB0eXBlIERCRXJyb3IgPSBUaHJvd2FibGUKCiAgY2FzZSBjbGFzcyBVc2VyKGlkOiBVc2VySWQsIG5hbWU6IFN0cmluZykKCiAgdHlwZSBVc2VyUmVwbyA9IEhhc1tVc2VyUmVwby5TZXJ2aWNlXQoKICB2YWwgdXNlclJlcG9TZXJ2aWNlOiBVc2VyUmVwby5TZXJ2aWNlID0gbmV3IFVzZXJSZXBvLlNlcnZpY2UgewogICAgdmFyIG0gPSBNYXAuZW1wdHlbVXNlcklkLCBVc2VyXQogICAgb3ZlcnJpZGUgZGVmIGdldFVzZXIodXNlcklkOiBVc2VySWQpOiBJT1tEQkVycm9yLCBPcHRpb25bVXNlcl1dID0gSU8obS5nZXQodXNlcklkKSkKICAgIG92ZXJyaWRlIGRlZiBjcmVhdGVVc2VyKHVzZXI6IFVzZXIpOiBJT1tEQkVycm9yLCBVbml0XSA9IElPIHsgbSA9IG0gKyAodXNlci5pZCAtPiB1c2VyKSB9CiAgfQoKICBvYmplY3QgVXNlclJlcG8gewogICAgdHJhaXQgU2VydmljZSB7CiAgICAgIGRlZiBnZXRVc2VyKHVzZXJJZDogVXNlcklkKTogSU9bREJFcnJvciwgT3B0aW9uW1VzZXJdXQogICAgICBkZWYgY3JlYXRlVXNlcih1c2VyOiBVc2VyKTogSU9bREJFcnJvciwgVW5pdF0KICAgIH0KCiAgICAvLyBUaGlzIHNpbXBsZSBsaXZlIHZlcnNpb24gZGVwZW5kcyBvbmx5IG9uIGEgREIgQ29ubmVjdGlvbgogICAgdmFsIGluTWVtb3J5OiBaTGF5ZXJbQW55LCBOb3RoaW5nLCBVc2VyUmVwb10gPSBaTGF5ZXIuc3VjY2VlZCh1c2VyUmVwb1NlcnZpY2UpCgogICAgLy9hY2Nlc3NvciBtZXRob2RzCiAgICBkZWYgZ2V0VXNlcih1c2VySWQ6IFVzZXJJZCk6IFpJT1tVc2VyUmVwbywgREJFcnJvciwgT3B0aW9uW1VzZXJdXSA9CiAgICAgIFpJTy5hY2Nlc3NNKF8uZ2V0LmdldFVzZXIodXNlcklkKSkKCiAgICBkZWYgY3JlYXRlVXNlcih1c2VyOiBVc2VyKTogWklPW1VzZXJSZXBvLCBEQkVycm9yLCBVbml0XSA9CiAgICAgIFpJTy5hY2Nlc3NNKF8uZ2V0LmNyZWF0ZVVzZXIodXNlcikpCiAgfQoKICB0eXBlIExvZ2dpbmcgPSBIYXNbTG9nZ2luZy5TZXJ2aWNlXQoKICBvYmplY3QgTG9nZ2luZyB7CiAgICB0cmFpdCBTZXJ2aWNlIHsKICAgICAgZGVmIGluZm8oczogU3RyaW5nKTogVUlPW1VuaXRdCiAgICAgIGRlZiBlcnJvcihzOiBTdHJpbmcpOiBVSU9bVW5pdF0KICAgIH0KCiAgICBpbXBvcnQgemlvLmNvbnNvbGUuQ29uc29sZQogICAgdmFsIGNvbnNvbGVMb2dnZXI6IFpMYXllcltDb25zb2xlLCBOb3RoaW5nLCBMb2dnaW5nXSA9IFpMYXllci5mcm9tRnVuY3Rpb24oCiAgICAgIGNvbnNvbGUgPT4KICAgICAgICBuZXcgU2VydmljZSB7CiAgICAgICAgICBkZWYgaW5mbyhzOiBTdHJpbmcpOiBVSU9bVW5pdF0gPSBjb25zb2xlLmdldC5wdXRTdHJMbihzImluZm8gLSAkcyIpCiAgICAgICAgICBkZWYgZXJyb3IoczogU3RyaW5nKTogVUlPW1VuaXRdID0gY29uc29sZS5nZXQucHV0U3RyTG4ocyJlcnJvciAtICRzIikKICAgICAgICB9CiAgICApCgogICAgLy9hY2Nlc3NvciBtZXRob2RzCiAgICBkZWYgaW5mbyhzOiBTdHJpbmcpOiBaSU9bTG9nZ2luZywgTm90aGluZywgVW5pdF0gPQogICAgICBaSU8uYWNjZXNzTShfLmdldC5pbmZvKHMpKQoKICAgIGRlZiBlcnJvcihzOiBTdHJpbmcpOiBaSU9bTG9nZ2luZywgTm90aGluZywgVW5pdF0gPQogICAgICBaSU8uYWNjZXNzTShfLmdldC5lcnJvcihzKSkKICB9CgogIGRlZiBzcGVjOiBaU3BlY1tFbnZpcm9ubWVudCwgRmFpbHVyZV0gPQogICAgc3VpdGUoIlVzZSBtb2R1bGVzIGFuZCBsYXllcnMiKSgKICAgICAgc3VpdGUoIlVubGVhc2ggWklPIGVudmlyb25tZW50IHdpdGggWkxheWVyIikoCiAgICAgICAgdGVzdE0oIkEgc2ltcGxlIGNhc2UgZm9yIFpJTyBlbnZpcm9ubWVudCIpIHsKICAgICAgICAgIHZhciBtID0gTWFwLmVtcHR5W1VzZXJJZCwgVXNlcl0KICAgICAgICAgIGRlZiBnZXRVc2VyKHVzZXJJZDogVXNlcklkKTogWklPW0RCQ29ubmVjdGlvbiwgTm90aGluZywgT3B0aW9uW1VzZXJdXSA9IFVJTyhtLmdldCh1c2VySWQpKQogICAgICAgICAgZGVmIGNyZWF0ZVVzZXIodXNlcjogVXNlcik6IFpJT1tEQkNvbm5lY3Rpb24sIE5vdGhpbmcsIFVuaXRdID0gVUlPIHsgbSA9IG0gKyAodXNlci5pZCAtPiB1c2VyKSB9CgogICAgICAgICAgdmFsIHVzZXI6IFVzZXIgPSBVc2VyKFVzZXJJZCgxMjM0KSwgIkNoZXQiKQoKICAgICAgICAgIHZhbCBjcmVhdGVkOiBaSU9bREJDb25uZWN0aW9uLCBOb3RoaW5nLCBCb29sZWFuXSA9IGZvciB7CiAgICAgICAgICAgIG1heWJlVXNlciA8LSBnZXRVc2VyKHVzZXIuaWQpCiAgICAgICAgICAgIHJlcyA8LSBtYXliZVVzZXIuZm9sZChjcmVhdGVVc2VyKHVzZXIpLmFzKHRydWUpKShfID0+IFpJTy5zdWNjZWVkKGZhbHNlKSkKICAgICAgICAgIH0geWllbGQgcmVzCgogICAgICAgICAgdmFsIGRiQ29ubmVjdGlvbjogREJDb25uZWN0aW9uID0gMQogICAgICAgICAgdmFsIHJ1bm5hYmxlOiBaSU9bQW55LCBOb3RoaW5nLCBCb29sZWFuXSA9IGNyZWF0ZWQucHJvdmlkZShkYkNvbm5lY3Rpb24pCgogICAgICAgICAgYXNzZXJ0TShydW5uYWJsZSkoZXF1YWxUbyh0cnVlKSkKICAgICAgICB9LAogICAgICAgIHRlc3RNKCJPdXIgZmlyc3QgWklPIG1vZHVsZSIpIHsKICAgICAgICAgIHR5cGUgVXNlclJlcG8gPSBIYXNbVXNlclJlcG8uU2VydmljZV0KCiAgICAgICAgICB2YWwgdXNlclJlcG9TZXJ2aWNlOiBVc2VyUmVwby5TZXJ2aWNlID0gbmV3IFVzZXJSZXBvLlNlcnZpY2UgewogICAgICAgICAgICB2YXIgbSA9IE1hcC5lbXB0eVtVc2VySWQsIFVzZXJdCgogICAgICAgICAgICBvdmVycmlkZSBkZWYgZ2V0VXNlcih1c2VySWQ6IFVzZXJJZCk6IElPW0RCRXJyb3IsIE9wdGlvbltVc2VyXV0gPSBJTyhtLmdldCh1c2VySWQpKQogICAgICAgICAgICBvdmVycmlkZSBkZWYgY3JlYXRlVXNlcih1c2VyOiBVc2VyKTogSU9bREJFcnJvciwgVW5pdF0gPSBJTyB7IG0gPSBtICsgKHVzZXIuaWQgLT4gdXNlcikgfQogICAgICAgICAgfQoKICAgICAgICAgIG9iamVjdCBVc2VyUmVwbyB7CiAgICAgICAgICAgIHRyYWl0IFNlcnZpY2UgewogICAgICAgICAgICAgIGRlZiBnZXRVc2VyKHVzZXJJZDogVXNlcklkKTogSU9bREJFcnJvciwgT3B0aW9uW1VzZXJdXQogICAgICAgICAgICAgIGRlZiBjcmVhdGVVc2VyKHVzZXI6IFVzZXIpOiBJT1tEQkVycm9yLCBVbml0XQogICAgICAgICAgICB9CgogICAgICAgICAgICB2YWwgdGVzdFJlcG86IFpMYXllcltBbnksIE5vdGhpbmcsIFVzZXJSZXBvXSA9IFpMYXllci5zdWNjZWVkKHVzZXJSZXBvU2VydmljZSkKICAgICAgICAgIH0KCiAgICAgICAgICB0eXBlIExvZ2dlciA9IEhhc1tMb2dnZXIuU2VydmljZV0KCiAgICAgICAgICB2YWwgbG9nZ2VyU2VydmljZSA9IG5ldyBMb2dnZXIuU2VydmljZSB7CiAgICAgICAgICAgIG92ZXJyaWRlIGRlZiBsb2coczogU3RyaW5nKTogVUlPW1VuaXRdID0gVUlPKHByaW50bG4ocykpCiAgICAgICAgICB9CgogICAgICAgICAgb2JqZWN0IExvZ2dlciB7CiAgICAgICAgICAgIHRyYWl0IFNlcnZpY2UgewogICAgICAgICAgICAgIGRlZiBsb2coczogU3RyaW5nKTogVUlPW1VuaXRdCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhbCB0ZXN0TG9nZ2VyOiBaTGF5ZXJbQW55LCBOb3RoaW5nLCBMb2dnZXJdID0gWkxheWVyLnN1Y2NlZWQobG9nZ2VyU2VydmljZSkKICAgICAgICAgIH0KCiAgICAgICAgICB2YWwgcmVwbzogVXNlclJlcG8gPSBIYXModXNlclJlcG9TZXJ2aWNlKQogICAgICAgICAgdmFsIGxvZ2dlcjogTG9nZ2VyID0gSGFzKGxvZ2dlclNlcnZpY2UpCgogICAgICAgICAgdmFsIG1peDogVXNlclJlcG8gd2l0aCBMb2dnZXIgPSByZXBvICsrIGxvZ2dlcgoKICAgICAgICAgIGFzc2VydE0obWl4LmdldFtMb2dnZXIuU2VydmljZV0ubG9nKCIxIikpKGVxdWFsVG8oKCkpKQogICAgICAgIH0sCiAgICAgICAgdGVzdE0oIldpcmluZyBtb2R1bGVzIHRvZ2V0aGVyIikgewogICAgICAgICAgdmFsIHVzZXIyOiBVc2VyID0gVXNlcihVc2VySWQoMTIzKSwgIlRvbW15IikKCiAgICAgICAgICB2YWwgbWFrZVVzZXI6IFpJT1tMb2dnaW5nIHdpdGggVXNlclJlcG8sIERCRXJyb3IsIFVuaXRdID0gZm9yIHsKICAgICAgICAgICAgXyA8LSBMb2dnaW5nLmluZm8ocyJpbnNlcnRpbmcgdXNlciIpIC8vIFpJT1tMb2dnaW5nLCBOb3RoaW5nLCBVbml0XQogICAgICAgICAgICBfIDwtIFVzZXJSZXBvLmNyZWF0ZVVzZXIodXNlcjIpIC8vIFpJT1tVc2VyUmVwbywgREJFcnJvciwgVW5pdF0KICAgICAgICAgICAgXyA8LSBMb2dnaW5nLmluZm8ocyJ1c2VyIGluc2VydGVkIikgLy8gWklPW0xvZ2dpbmcsIE5vdGhpbmcsIFVuaXRdCiAgICAgICAgICB9IHlpZWxkICgpCgogICAgICAgICAgLy8gY29tcG9zZSBob3Jpem9udGFsbHkKICAgICAgICAgIHZhbCBob3Jpem9udGFsOiBaTGF5ZXJbQ29uc29sZSwgTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9IExvZ2dpbmcuY29uc29sZUxvZ2dlciArKyBVc2VyUmVwby5pbk1lbW9yeQoKICAgICAgICAgIC8vIGZ1bGZpbGwgbWlzc2luZyBkZXBzLCBjb21wb3NpbmcgdmVydGljYWxseQogICAgICAgICAgdmFsIGZ1bGxMYXllcjogTGF5ZXJbTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9IENvbnNvbGUubGl2ZSA+Pj4gaG9yaXpvbnRhbAoKICAgICAgICAgIGFzc2VydE0obWFrZVVzZXIucHJvdmlkZUxheWVyKGZ1bGxMYXllcikpKGVxdWFsVG8oKCkpKQogICAgICAgIH0sCiAgICAgICAgdGVzdE0oIlByb3ZpZGluZyBwYXJ0aWFsIGVudmlyb25tZW50cyIpIHsKICAgICAgICAgIHZhbCBtYWtlVXNlcjI6IFpJT1tMb2dnaW5nIHdpdGggVXNlclJlcG8gd2l0aCBDbG9jayB3aXRoIFJhbmRvbSwgREJFcnJvciwgVW5pdF0gPSBmb3IgewogICAgICAgICAgICB1SWQgPC0gemlvLnJhbmRvbS5uZXh0TG9uZy5tYXAoVXNlcklkKQogICAgICAgICAgICBjcmVhdGVkQXQgPC0gemlvLmNsb2NrLmN1cnJlbnREYXRlVGltZS5vckRpZQogICAgICAgICAgICBfIDwtIExvZ2dpbmcuaW5mbyhzImluc2VydGluZyB1c2VyIikKICAgICAgICAgICAgXyA8LSBVc2VyUmVwby5jcmVhdGVVc2VyKFVzZXIodUlkLCAiQ2hldCIpKQogICAgICAgICAgICBfIDwtIExvZ2dpbmcuaW5mbyhzInVzZXIgaW5zZXJ0ZWQsIGNyZWF0ZWQgYXQgJGNyZWF0ZWRBdCIpCiAgICAgICAgICB9IHlpZWxkICgpCgogICAgICAgICAgLy8gY29tcG9zZSBob3Jpem9udGFsbHkKICAgICAgICAgIHZhbCBob3Jpem9udGFsOiBaTGF5ZXJbQ29uc29sZSwgTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9IExvZ2dpbmcuY29uc29sZUxvZ2dlciArKyBVc2VyUmVwby5pbk1lbW9yeQoKICAgICAgICAgIC8vIGZ1bGZpbGwgbWlzc2luZyBkZXBzLCBjb21wb3NpbmcgdmVydGljYWxseQogICAgICAgICAgdmFsIGZ1bGxMYXllcjogTGF5ZXJbTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9IENvbnNvbGUubGl2ZSA+Pj4gaG9yaXpvbnRhbAoKICAgICAgICAgIHZhbCB6RW52TWFrZVVzZXI6IFpJT1taRW52LCBEQkVycm9yLCBVbml0XSA9IG1ha2VVc2VyMi5wcm92aWRlQ3VzdG9tTGF5ZXIoZnVsbExheWVyKQoKICAgICAgICAgIGFzc2VydE0oekVudk1ha2VVc2VyKShlcXVhbFRvKCgpKSkKICAgICAgICB9LAogICAgICAgIHN1aXRlKCJVcGRhdGluZyBsb2NhbCBkZXBlbmRlbmNpZXMiKSgKICAgICAgICAgIHRlc3RNKCJ1cGRhdGUiKSB7CiAgICAgICAgICAgIHZhbCBob3Jpem9udGFsOiBaTGF5ZXJbQ29uc29sZSwgTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9IExvZ2dpbmcuY29uc29sZUxvZ2dlciArKyBVc2VyUmVwby5pbk1lbW9yeQoKICAgICAgICAgICAgLyoKICAgICAgICAgICAgICog67KE6re4IC0g7YOA7J6FIO2MjOudvOuplO2EsCBFIOuVjOusuOyXkCDrj5nsnpHtlZjsp4Ag7JWK7J2MCiAgICAgICAgICAgIHZhbCB3aXRoUG9zdGdyZXNTZXJ2aWNlOiBaTGF5ZXJbQ29uc29sZSwgTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9CiAgICAgICAgICAgICAgaG9yaXpvbnRhbAogICAgICAgICAgICAgICAgLnVwZGF0ZVtVc2VyUmVwby5TZXJ2aWNlXSB7IG9sZFJlcG8gPT4KICAgICAgICAgICAgICAgICAgbmV3IFVzZXJSZXBvLlNlcnZpY2UgewogICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGRlZiBnZXRVc2VyKHVzZXJJZDogVXNlcklkKTogSU9bREJFcnJvciwgT3B0aW9uW1VzZXJdXSA9IG9sZFJlcG8uZ2V0VXNlcih1c2VySWQpCiAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZGVmIGNyZWF0ZVVzZXIodXNlcjogVXNlcik6IElPW0RCRXJyb3IsIFVuaXRdID0gb2xkUmVwby5jcmVhdGVVc2VyKHVzZXIpCiAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICovCiAgICAgICAgICAgIHZhbCB3aXRoUG9zdGdyZXNTZXJ2aWNlOiBaTGF5ZXJbQ29uc29sZSwgTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9CiAgICAgICAgICAgICAgaG9yaXpvbnRhbCA+Pj4gWkxheWVyLmZyb21GdW5jdGlvbk1hbnkoXy51cGRhdGVbVXNlclJlcG8uU2VydmljZV0oeyBvbGRSZXBvID0+CiAgICAgICAgICAgICAgICBuZXcgVXNlclJlcG8uU2VydmljZSB7CiAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGRlZiBnZXRVc2VyKHVzZXJJZDogVXNlcklkKTogSU9bREJFcnJvciwgT3B0aW9uW1VzZXJdXSA9CiAgICAgICAgICAgICAgICAgICAgVUlPKHByaW50bG4oIndpdGhQb3N0Z3JlcyIpKSAqPiBvbGRSZXBvLmdldFVzZXIodXNlcklkKQogICAgICAgICAgICAgICAgICBvdmVycmlkZSBkZWYgY3JlYXRlVXNlcih1c2VyOiBVc2VyKTogSU9bREJFcnJvciwgVW5pdF0gPQogICAgICAgICAgICAgICAgICAgIFVJTyhwcmludGxuKCJ3aXRoUG9zdGdyZXMiKSkgKj4gb2xkUmVwby5jcmVhdGVVc2VyKHVzZXIpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfSkpCgogICAgICAgICAgICB2YWwgZnVsbExheWVyOiBMYXllcltOb3RoaW5nLCBMb2dnaW5nIHdpdGggVXNlclJlcG9dID0gQ29uc29sZS5saXZlID4+PiB3aXRoUG9zdGdyZXNTZXJ2aWNlCgogICAgICAgICAgICB2YWwgdXNlcjI6IFVzZXIgPSBVc2VyKFVzZXJJZCgxMjMpLCAiVG9tbXkiKQoKICAgICAgICAgICAgdmFsIG1ha2VVc2VyOiBaSU9bTG9nZ2luZyB3aXRoIFVzZXJSZXBvLCBEQkVycm9yLCBVbml0XSA9IGZvciB7CiAgICAgICAgICAgICAgXyA8LSBMb2dnaW5nLmluZm8ocyJpbnNlcnRpbmcgdXNlciIpIC8vIFpJT1tMb2dnaW5nLCBOb3RoaW5nLCBVbml0XQogICAgICAgICAgICAgIF8gPC0gVXNlclJlcG8uY3JlYXRlVXNlcih1c2VyMikgLy8gWklPW1VzZXJSZXBvLCBEQkVycm9yLCBVbml0XQogICAgICAgICAgICAgIF8gPC0gTG9nZ2luZy5pbmZvKHMidXNlciBpbnNlcnRlZCIpIC8vIFpJT1tMb2dnaW5nLCBOb3RoaW5nLCBVbml0XQogICAgICAgICAgICB9IHlpZWxkICgpCgogICAgICAgICAgICBhc3NlcnRNKG1ha2VVc2VyLnByb3ZpZGVMYXllcihmdWxsTGF5ZXIpKShlcXVhbFRvKCgpKSkKICAgICAgICAgIH0sCiAgICAgICAgICB0ZXN0TSgiKysiKSB7CiAgICAgICAgICAgIHZhbCBob3Jpem9udGFsOiBaTGF5ZXJbQ29uc29sZSwgTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9IExvZ2dpbmcuY29uc29sZUxvZ2dlciArKyBVc2VyUmVwby5pbk1lbW9yeQoKICAgICAgICAgICAgdmFsIGRiTGF5ZXI6IExheWVyW05vdGhpbmcsIFVzZXJSZXBvXSA9IFpMYXllci5zdWNjZWVkKG5ldyBVc2VyUmVwby5TZXJ2aWNlIHsKICAgICAgICAgICAgICB2YXIgbSA9IE1hcC5lbXB0eVtVc2VySWQsIFVzZXJdCiAgICAgICAgICAgICAgb3ZlcnJpZGUgZGVmIGdldFVzZXIodXNlcklkOiBVc2VySWQpOiBJT1tEQkVycm9yLCBPcHRpb25bVXNlcl1dID0KICAgICAgICAgICAgICAgIFVJTyhwcmludGxuKCJpbiBkYiIpKSAqPiBJTyhtLmdldCh1c2VySWQpKQogICAgICAgICAgICAgIG92ZXJyaWRlIGRlZiBjcmVhdGVVc2VyKHVzZXI6IFVzZXIpOiBJT1tEQkVycm9yLCBVbml0XSA9IFVJTyhwcmludGxuKCJpbiBkYiIpKSAqPiBJTyB7CiAgICAgICAgICAgICAgICBtID0gbSArICh1c2VyLmlkIC0+IHVzZXIpCiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KQoKICAgICAgICAgICAgdmFsIHVwZGF0ZWRIb3Jpem9udGFsMiA9IGhvcml6b250YWwgKysgZGJMYXllcgoKICAgICAgICAgICAgdmFsIGZ1bGxMYXllcjogTGF5ZXJbTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9IENvbnNvbGUubGl2ZSA+Pj4gdXBkYXRlZEhvcml6b250YWwyCgogICAgICAgICAgICB2YWwgdXNlcjI6IFVzZXIgPSBVc2VyKFVzZXJJZCgxMjMpLCAiVG9tbXkiKQoKICAgICAgICAgICAgdmFsIG1ha2VVc2VyOiBaSU9bTG9nZ2luZyB3aXRoIFVzZXJSZXBvLCBEQkVycm9yLCBVbml0XSA9IGZvciB7CiAgICAgICAgICAgICAgXyA8LSBMb2dnaW5nLmluZm8ocyJpbnNlcnRpbmcgdXNlciIpIC8vIFpJT1tMb2dnaW5nLCBOb3RoaW5nLCBVbml0XQogICAgICAgICAgICAgIF8gPC0gVXNlclJlcG8uY3JlYXRlVXNlcih1c2VyMikgLy8gWklPW1VzZXJSZXBvLCBEQkVycm9yLCBVbml0XQogICAgICAgICAgICAgIF8gPC0gTG9nZ2luZy5pbmZvKHMidXNlciBpbnNlcnRlZCIpIC8vIFpJT1tMb2dnaW5nLCBOb3RoaW5nLCBVbml0XQogICAgICAgICAgICB9IHlpZWxkICgpCgogICAgICAgICAgICBhc3NlcnRNKG1ha2VVc2VyLnByb3ZpZGVMYXllcihmdWxsTGF5ZXIpKShlcXVhbFRvKCgpKSkKICAgICAgICAgIH0sCiAgICAgICAgICB0ZXN0TSgiRGVhbGluZyB3aXRoIG1hbmFnZWQgZGVwZW5kZW5jaWVzIikgewogICAgICAgICAgICAvL2ltcG9ydCBqYXZhLnNxbC5Db25uZWN0aW9uCiAgICAgICAgICAgIGNsYXNzIENvbm5lY3Rpb24gewogICAgICAgICAgICAgIGRlZiBjbG9zZSgpOiBVbml0ID0gKCkKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZGVmIG1ha2VDb25uZWN0aW9uOiBVSU9bQ29ubmVjdGlvbl0gPSBVSU8obmV3IENvbm5lY3Rpb24oKSkKCiAgICAgICAgICAgIHZhbCBjb25uZWN0aW9uTGF5ZXI6IExheWVyW05vdGhpbmcsIEhhc1tDb25uZWN0aW9uXV0gPQogICAgICAgICAgICAgIFpMYXllci5mcm9tQWNxdWlyZVJlbGVhc2UobWFrZUNvbm5lY3Rpb24pKGMgPT4gVUlPKGMuY2xvc2UoKSkpCgogICAgICAgICAgICB2YWwgcG9zdGdyZXNMYXllcjogWkxheWVyW0hhc1tDb25uZWN0aW9uXSwgTm90aGluZywgVXNlclJlcG9dID0KICAgICAgICAgICAgICBaTGF5ZXIuZnJvbUZ1bmN0aW9uIHsgaGFzQyA9PgogICAgICAgICAgICAgICAgbmV3IFVzZXJSZXBvLlNlcnZpY2UgewogICAgICAgICAgICAgICAgICB2YXIgbSA9IE1hcC5lbXB0eVtVc2VySWQsIFVzZXJdCiAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGRlZiBnZXRVc2VyKHVzZXJJZDogVXNlcklkKTogSU9bREJFcnJvciwgT3B0aW9uW1VzZXJdXSA9CiAgICAgICAgICAgICAgICAgICAgVUlPKGhhc0MuZ2V0W0Nvbm5lY3Rpb25dKS5mbGF0TWFwKF8gPT4gSU8obS5nZXQodXNlcklkKSkpCiAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGRlZiBjcmVhdGVVc2VyKHVzZXI6IFVzZXIpOiBJT1tEQkVycm9yLCBVbml0XSA9CiAgICAgICAgICAgICAgICAgICAgVUlPKGhhc0MuZ2V0W0Nvbm5lY3Rpb25dKS5mbGF0TWFwKAogICAgICAgICAgICAgICAgICAgICAgXyA9PgogICAgICAgICAgICAgICAgICAgICAgICBJTyB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgbSA9IG0gKyAodXNlci5pZCAtPiB1c2VyKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhbCBmdWxsUmVwbzogTGF5ZXJbTm90aGluZywgVXNlclJlcG9dID0gY29ubmVjdGlvbkxheWVyID4+PiBwb3N0Z3Jlc0xheWVyCgogICAgICAgICAgICB2YWwgdXNlcjI6IFVzZXIgPSBVc2VyKFVzZXJJZCgxMjMpLCAiVG9tbXkiKQoKICAgICAgICAgICAgdmFsIG1ha2VVc2VyOiBaSU9bVXNlclJlcG8sIERCRXJyb3IsIFVuaXRdID0gZm9yIHsKICAgICAgICAgICAgICBfIDwtIFVzZXJSZXBvLmNyZWF0ZVVzZXIodXNlcjIpIC8vIFpJT1tVc2VyUmVwbywgREJFcnJvciwgVW5pdF0KICAgICAgICAgICAgfSB5aWVsZCAoKQoKICAgICAgICAgICAgYXNzZXJ0TShtYWtlVXNlci5wcm92aWRlTGF5ZXIoZnVsbFJlcG8pKShlcXVhbFRvKCgpKSkKICAgICAgICAgIH0KICAgICAgICApCiAgICAgICkKICAgICkKfQo=</text>
+        <text encoding="base64">bXBsLnJjUGFyYW1zWydheGVzLnVuaWNvZGVfbWludXMnXSA9IEZhbHNlCm1wbC5yY1BhcmFtc1siZm9udC5mYW1pbHkiXSA9ICJBcHBsZUdvdGhpYyIK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2631,22 +2629,22 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>PushAdminService</text>
+        <text>WakeUpLog</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>linear</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>setTypeMap</text>
       </register>
-      <register name="0" type="4">
-        <text>.getOrElse(&quot;&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">bXBsLnJjUGFyYW1zWydheGVzLnVuaWNvZGVfbWludXMnXSA9IEZhbHNlCm1wbC5yY1BhcmFtc1siZm9udC5mYW1pbHkiXSA9ICJBcHBsZUdvdGhpYyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBpcG9lbWkuemlvLnN0dWR5Lmhvd1RvLl8wMV91c2VfbW9kdWxlc19hbmRfbGF5ZXJzCgppbXBvcnQgemlvLl8KaW1wb3J0IHppby5jbG9jay5DbG9jawppbXBvcnQgemlvLmNvbnNvbGUuQ29uc29sZQppbXBvcnQgemlvLnJhbmRvbS5SYW5kb20KaW1wb3J0IHppby50ZXN0LkFzc2VydGlvbi5fCmltcG9ydCB6aW8udGVzdC5fCgpvYmplY3QgVXNlTW9kdWxlc0FuZExheWVyc1NwZWMgZXh0ZW5kcyBEZWZhdWx0UnVubmFibGVTcGVjIHsKICBjYXNlIGNsYXNzIFVzZXJJZCh2YWx1ZTogTG9uZykKCiAgdHlwZSBEQkNvbm5lY3Rpb24gPSBJbnQKICB0eXBlIERCRXJyb3IgPSBUaHJvd2FibGUKCiAgY2FzZSBjbGFzcyBVc2VyKGlkOiBVc2VySWQsIG5hbWU6IFN0cmluZykKCiAgdHlwZSBVc2VyUmVwbyA9IEhhc1tVc2VyUmVwby5TZXJ2aWNlXQoKICB2YWwgdXNlclJlcG9TZXJ2aWNlOiBVc2VyUmVwby5TZXJ2aWNlID0gbmV3IFVzZXJSZXBvLlNlcnZpY2UgewogICAgdmFyIG0gPSBNYXAuZW1wdHlbVXNlcklkLCBVc2VyXQogICAgb3ZlcnJpZGUgZGVmIGdldFVzZXIodXNlcklkOiBVc2VySWQpOiBJT1tEQkVycm9yLCBPcHRpb25bVXNlcl1dID0gSU8obS5nZXQodXNlcklkKSkKICAgIG92ZXJyaWRlIGRlZiBjcmVhdGVVc2VyKHVzZXI6IFVzZXIpOiBJT1tEQkVycm9yLCBVbml0XSA9IElPIHsgbSA9IG0gKyAodXNlci5pZCAtPiB1c2VyKSB9CiAgfQoKICBvYmplY3QgVXNlclJlcG8gewogICAgdHJhaXQgU2VydmljZSB7CiAgICAgIGRlZiBnZXRVc2VyKHVzZXJJZDogVXNlcklkKTogSU9bREJFcnJvciwgT3B0aW9uW1VzZXJdXQogICAgICBkZWYgY3JlYXRlVXNlcih1c2VyOiBVc2VyKTogSU9bREJFcnJvciwgVW5pdF0KICAgIH0KCiAgICAvLyBUaGlzIHNpbXBsZSBsaXZlIHZlcnNpb24gZGVwZW5kcyBvbmx5IG9uIGEgREIgQ29ubmVjdGlvbgogICAgdmFsIGluTWVtb3J5OiBaTGF5ZXJbQW55LCBOb3RoaW5nLCBVc2VyUmVwb10gPSBaTGF5ZXIuc3VjY2VlZCh1c2VyUmVwb1NlcnZpY2UpCgogICAgLy9hY2Nlc3NvciBtZXRob2RzCiAgICBkZWYgZ2V0VXNlcih1c2VySWQ6IFVzZXJJZCk6IFpJT1tVc2VyUmVwbywgREJFcnJvciwgT3B0aW9uW1VzZXJdXSA9CiAgICAgIFpJTy5hY2Nlc3NNKF8uZ2V0LmdldFVzZXIodXNlcklkKSkKCiAgICBkZWYgY3JlYXRlVXNlcih1c2VyOiBVc2VyKTogWklPW1VzZXJSZXBvLCBEQkVycm9yLCBVbml0XSA9CiAgICAgIFpJTy5hY2Nlc3NNKF8uZ2V0LmNyZWF0ZVVzZXIodXNlcikpCiAgfQoKICB0eXBlIExvZ2dpbmcgPSBIYXNbTG9nZ2luZy5TZXJ2aWNlXQoKICBvYmplY3QgTG9nZ2luZyB7CiAgICB0cmFpdCBTZXJ2aWNlIHsKICAgICAgZGVmIGluZm8oczogU3RyaW5nKTogVUlPW1VuaXRdCiAgICAgIGRlZiBlcnJvcihzOiBTdHJpbmcpOiBVSU9bVW5pdF0KICAgIH0KCiAgICBpbXBvcnQgemlvLmNvbnNvbGUuQ29uc29sZQogICAgdmFsIGNvbnNvbGVMb2dnZXI6IFpMYXllcltDb25zb2xlLCBOb3RoaW5nLCBMb2dnaW5nXSA9IFpMYXllci5mcm9tRnVuY3Rpb24oCiAgICAgIGNvbnNvbGUgPT4KICAgICAgICBuZXcgU2VydmljZSB7CiAgICAgICAgICBkZWYgaW5mbyhzOiBTdHJpbmcpOiBVSU9bVW5pdF0gPSBjb25zb2xlLmdldC5wdXRTdHJMbihzImluZm8gLSAkcyIpCiAgICAgICAgICBkZWYgZXJyb3IoczogU3RyaW5nKTogVUlPW1VuaXRdID0gY29uc29sZS5nZXQucHV0U3RyTG4ocyJlcnJvciAtICRzIikKICAgICAgICB9CiAgICApCgogICAgLy9hY2Nlc3NvciBtZXRob2RzCiAgICBkZWYgaW5mbyhzOiBTdHJpbmcpOiBaSU9bTG9nZ2luZywgTm90aGluZywgVW5pdF0gPQogICAgICBaSU8uYWNjZXNzTShfLmdldC5pbmZvKHMpKQoKICAgIGRlZiBlcnJvcihzOiBTdHJpbmcpOiBaSU9bTG9nZ2luZywgTm90aGluZywgVW5pdF0gPQogICAgICBaSU8uYWNjZXNzTShfLmdldC5lcnJvcihzKSkKICB9CgogIGRlZiBzcGVjOiBaU3BlY1tFbnZpcm9ubWVudCwgRmFpbHVyZV0gPQogICAgc3VpdGUoIlVzZSBtb2R1bGVzIGFuZCBsYXllcnMiKSgKICAgICAgc3VpdGUoIlVubGVhc2ggWklPIGVudmlyb25tZW50IHdpdGggWkxheWVyIikoCiAgICAgICAgdGVzdE0oIkEgc2ltcGxlIGNhc2UgZm9yIFpJTyBlbnZpcm9ubWVudCIpIHsKICAgICAgICAgIHZhciBtID0gTWFwLmVtcHR5W1VzZXJJZCwgVXNlcl0KICAgICAgICAgIGRlZiBnZXRVc2VyKHVzZXJJZDogVXNlcklkKTogWklPW0RCQ29ubmVjdGlvbiwgTm90aGluZywgT3B0aW9uW1VzZXJdXSA9IFVJTyhtLmdldCh1c2VySWQpKQogICAgICAgICAgZGVmIGNyZWF0ZVVzZXIodXNlcjogVXNlcik6IFpJT1tEQkNvbm5lY3Rpb24sIE5vdGhpbmcsIFVuaXRdID0gVUlPIHsgbSA9IG0gKyAodXNlci5pZCAtPiB1c2VyKSB9CgogICAgICAgICAgdmFsIHVzZXI6IFVzZXIgPSBVc2VyKFVzZXJJZCgxMjM0KSwgIkNoZXQiKQoKICAgICAgICAgIHZhbCBjcmVhdGVkOiBaSU9bREJDb25uZWN0aW9uLCBOb3RoaW5nLCBCb29sZWFuXSA9IGZvciB7CiAgICAgICAgICAgIG1heWJlVXNlciA8LSBnZXRVc2VyKHVzZXIuaWQpCiAgICAgICAgICAgIHJlcyA8LSBtYXliZVVzZXIuZm9sZChjcmVhdGVVc2VyKHVzZXIpLmFzKHRydWUpKShfID0+IFpJTy5zdWNjZWVkKGZhbHNlKSkKICAgICAgICAgIH0geWllbGQgcmVzCgogICAgICAgICAgdmFsIGRiQ29ubmVjdGlvbjogREJDb25uZWN0aW9uID0gMQogICAgICAgICAgdmFsIHJ1bm5hYmxlOiBaSU9bQW55LCBOb3RoaW5nLCBCb29sZWFuXSA9IGNyZWF0ZWQucHJvdmlkZShkYkNvbm5lY3Rpb24pCgogICAgICAgICAgYXNzZXJ0TShydW5uYWJsZSkoZXF1YWxUbyh0cnVlKSkKICAgICAgICB9LAogICAgICAgIHRlc3RNKCJPdXIgZmlyc3QgWklPIG1vZHVsZSIpIHsKICAgICAgICAgIHR5cGUgVXNlclJlcG8gPSBIYXNbVXNlclJlcG8uU2VydmljZV0KCiAgICAgICAgICB2YWwgdXNlclJlcG9TZXJ2aWNlOiBVc2VyUmVwby5TZXJ2aWNlID0gbmV3IFVzZXJSZXBvLlNlcnZpY2UgewogICAgICAgICAgICB2YXIgbSA9IE1hcC5lbXB0eVtVc2VySWQsIFVzZXJdCgogICAgICAgICAgICBvdmVycmlkZSBkZWYgZ2V0VXNlcih1c2VySWQ6IFVzZXJJZCk6IElPW0RCRXJyb3IsIE9wdGlvbltVc2VyXV0gPSBJTyhtLmdldCh1c2VySWQpKQogICAgICAgICAgICBvdmVycmlkZSBkZWYgY3JlYXRlVXNlcih1c2VyOiBVc2VyKTogSU9bREJFcnJvciwgVW5pdF0gPSBJTyB7IG0gPSBtICsgKHVzZXIuaWQgLT4gdXNlcikgfQogICAgICAgICAgfQoKICAgICAgICAgIG9iamVjdCBVc2VyUmVwbyB7CiAgICAgICAgICAgIHRyYWl0IFNlcnZpY2UgewogICAgICAgICAgICAgIGRlZiBnZXRVc2VyKHVzZXJJZDogVXNlcklkKTogSU9bREJFcnJvciwgT3B0aW9uW1VzZXJdXQogICAgICAgICAgICAgIGRlZiBjcmVhdGVVc2VyKHVzZXI6IFVzZXIpOiBJT1tEQkVycm9yLCBVbml0XQogICAgICAgICAgICB9CgogICAgICAgICAgICB2YWwgdGVzdFJlcG86IFpMYXllcltBbnksIE5vdGhpbmcsIFVzZXJSZXBvXSA9IFpMYXllci5zdWNjZWVkKHVzZXJSZXBvU2VydmljZSkKICAgICAgICAgIH0KCiAgICAgICAgICB0eXBlIExvZ2dlciA9IEhhc1tMb2dnZXIuU2VydmljZV0KCiAgICAgICAgICB2YWwgbG9nZ2VyU2VydmljZSA9IG5ldyBMb2dnZXIuU2VydmljZSB7CiAgICAgICAgICAgIG92ZXJyaWRlIGRlZiBsb2coczogU3RyaW5nKTogVUlPW1VuaXRdID0gVUlPKHByaW50bG4ocykpCiAgICAgICAgICB9CgogICAgICAgICAgb2JqZWN0IExvZ2dlciB7CiAgICAgICAgICAgIHRyYWl0IFNlcnZpY2UgewogICAgICAgICAgICAgIGRlZiBsb2coczogU3RyaW5nKTogVUlPW1VuaXRdCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhbCB0ZXN0TG9nZ2VyOiBaTGF5ZXJbQW55LCBOb3RoaW5nLCBMb2dnZXJdID0gWkxheWVyLnN1Y2NlZWQobG9nZ2VyU2VydmljZSkKICAgICAgICAgIH0KCiAgICAgICAgICB2YWwgcmVwbzogVXNlclJlcG8gPSBIYXModXNlclJlcG9TZXJ2aWNlKQogICAgICAgICAgdmFsIGxvZ2dlcjogTG9nZ2VyID0gSGFzKGxvZ2dlclNlcnZpY2UpCgogICAgICAgICAgdmFsIG1peDogVXNlclJlcG8gd2l0aCBMb2dnZXIgPSByZXBvICsrIGxvZ2dlcgoKICAgICAgICAgIGFzc2VydE0obWl4LmdldFtMb2dnZXIuU2VydmljZV0ubG9nKCIxIikpKGVxdWFsVG8oKCkpKQogICAgICAgIH0sCiAgICAgICAgdGVzdE0oIldpcmluZyBtb2R1bGVzIHRvZ2V0aGVyIikgewogICAgICAgICAgdmFsIHVzZXIyOiBVc2VyID0gVXNlcihVc2VySWQoMTIzKSwgIlRvbW15IikKCiAgICAgICAgICB2YWwgbWFrZVVzZXI6IFpJT1tMb2dnaW5nIHdpdGggVXNlclJlcG8sIERCRXJyb3IsIFVuaXRdID0gZm9yIHsKICAgICAgICAgICAgXyA8LSBMb2dnaW5nLmluZm8ocyJpbnNlcnRpbmcgdXNlciIpIC8vIFpJT1tMb2dnaW5nLCBOb3RoaW5nLCBVbml0XQogICAgICAgICAgICBfIDwtIFVzZXJSZXBvLmNyZWF0ZVVzZXIodXNlcjIpIC8vIFpJT1tVc2VyUmVwbywgREJFcnJvciwgVW5pdF0KICAgICAgICAgICAgXyA8LSBMb2dnaW5nLmluZm8ocyJ1c2VyIGluc2VydGVkIikgLy8gWklPW0xvZ2dpbmcsIE5vdGhpbmcsIFVuaXRdCiAgICAgICAgICB9IHlpZWxkICgpCgogICAgICAgICAgLy8gY29tcG9zZSBob3Jpem9udGFsbHkKICAgICAgICAgIHZhbCBob3Jpem9udGFsOiBaTGF5ZXJbQ29uc29sZSwgTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9IExvZ2dpbmcuY29uc29sZUxvZ2dlciArKyBVc2VyUmVwby5pbk1lbW9yeQoKICAgICAgICAgIC8vIGZ1bGZpbGwgbWlzc2luZyBkZXBzLCBjb21wb3NpbmcgdmVydGljYWxseQogICAgICAgICAgdmFsIGZ1bGxMYXllcjogTGF5ZXJbTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9IENvbnNvbGUubGl2ZSA+Pj4gaG9yaXpvbnRhbAoKICAgICAgICAgIGFzc2VydE0obWFrZVVzZXIucHJvdmlkZUxheWVyKGZ1bGxMYXllcikpKGVxdWFsVG8oKCkpKQogICAgICAgIH0sCiAgICAgICAgdGVzdE0oIlByb3ZpZGluZyBwYXJ0aWFsIGVudmlyb25tZW50cyIpIHsKICAgICAgICAgIHZhbCBtYWtlVXNlcjI6IFpJT1tMb2dnaW5nIHdpdGggVXNlclJlcG8gd2l0aCBDbG9jayB3aXRoIFJhbmRvbSwgREJFcnJvciwgVW5pdF0gPSBmb3IgewogICAgICAgICAgICB1SWQgPC0gemlvLnJhbmRvbS5uZXh0TG9uZy5tYXAoVXNlcklkKQogICAgICAgICAgICBjcmVhdGVkQXQgPC0gemlvLmNsb2NrLmN1cnJlbnREYXRlVGltZS5vckRpZQogICAgICAgICAgICBfIDwtIExvZ2dpbmcuaW5mbyhzImluc2VydGluZyB1c2VyIikKICAgICAgICAgICAgXyA8LSBVc2VyUmVwby5jcmVhdGVVc2VyKFVzZXIodUlkLCAiQ2hldCIpKQogICAgICAgICAgICBfIDwtIExvZ2dpbmcuaW5mbyhzInVzZXIgaW5zZXJ0ZWQsIGNyZWF0ZWQgYXQgJGNyZWF0ZWRBdCIpCiAgICAgICAgICB9IHlpZWxkICgpCgogICAgICAgICAgLy8gY29tcG9zZSBob3Jpem9udGFsbHkKICAgICAgICAgIHZhbCBob3Jpem9udGFsOiBaTGF5ZXJbQ29uc29sZSwgTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9IExvZ2dpbmcuY29uc29sZUxvZ2dlciArKyBVc2VyUmVwby5pbk1lbW9yeQoKICAgICAgICAgIC8vIGZ1bGZpbGwgbWlzc2luZyBkZXBzLCBjb21wb3NpbmcgdmVydGljYWxseQogICAgICAgICAgdmFsIGZ1bGxMYXllcjogTGF5ZXJbTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9IENvbnNvbGUubGl2ZSA+Pj4gaG9yaXpvbnRhbAoKICAgICAgICAgIHZhbCB6RW52TWFrZVVzZXI6IFpJT1taRW52LCBEQkVycm9yLCBVbml0XSA9IG1ha2VVc2VyMi5wcm92aWRlQ3VzdG9tTGF5ZXIoZnVsbExheWVyKQoKICAgICAgICAgIGFzc2VydE0oekVudk1ha2VVc2VyKShlcXVhbFRvKCgpKSkKICAgICAgICB9LAogICAgICAgIHN1aXRlKCJVcGRhdGluZyBsb2NhbCBkZXBlbmRlbmNpZXMiKSgKICAgICAgICAgIHRlc3RNKCJ1cGRhdGUiKSB7CiAgICAgICAgICAgIHZhbCBob3Jpem9udGFsOiBaTGF5ZXJbQ29uc29sZSwgTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9IExvZ2dpbmcuY29uc29sZUxvZ2dlciArKyBVc2VyUmVwby5pbk1lbW9yeQoKICAgICAgICAgICAgLyoKICAgICAgICAgICAgICog67KE6re4IC0g7YOA7J6FIO2MjOudvOuplO2EsCBFIOuVjOusuOyXkCDrj5nsnpHtlZjsp4Ag7JWK7J2MCiAgICAgICAgICAgIHZhbCB3aXRoUG9zdGdyZXNTZXJ2aWNlOiBaTGF5ZXJbQ29uc29sZSwgTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9CiAgICAgICAgICAgICAgaG9yaXpvbnRhbAogICAgICAgICAgICAgICAgLnVwZGF0ZVtVc2VyUmVwby5TZXJ2aWNlXSB7IG9sZFJlcG8gPT4KICAgICAgICAgICAgICAgICAgbmV3IFVzZXJSZXBvLlNlcnZpY2UgewogICAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGRlZiBnZXRVc2VyKHVzZXJJZDogVXNlcklkKTogSU9bREJFcnJvciwgT3B0aW9uW1VzZXJdXSA9IG9sZFJlcG8uZ2V0VXNlcih1c2VySWQpCiAgICAgICAgICAgICAgICAgICAgb3ZlcnJpZGUgZGVmIGNyZWF0ZVVzZXIodXNlcjogVXNlcik6IElPW0RCRXJyb3IsIFVuaXRdID0gb2xkUmVwby5jcmVhdGVVc2VyKHVzZXIpCiAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICovCiAgICAgICAgICAgIHZhbCB3aXRoUG9zdGdyZXNTZXJ2aWNlOiBaTGF5ZXJbQ29uc29sZSwgTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9CiAgICAgICAgICAgICAgaG9yaXpvbnRhbCA+Pj4gWkxheWVyLmZyb21GdW5jdGlvbk1hbnkoXy51cGRhdGVbVXNlclJlcG8uU2VydmljZV0oeyBvbGRSZXBvID0+CiAgICAgICAgICAgICAgICBuZXcgVXNlclJlcG8uU2VydmljZSB7CiAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGRlZiBnZXRVc2VyKHVzZXJJZDogVXNlcklkKTogSU9bREJFcnJvciwgT3B0aW9uW1VzZXJdXSA9CiAgICAgICAgICAgICAgICAgICAgVUlPKHByaW50bG4oIndpdGhQb3N0Z3JlcyIpKSAqPiBvbGRSZXBvLmdldFVzZXIodXNlcklkKQogICAgICAgICAgICAgICAgICBvdmVycmlkZSBkZWYgY3JlYXRlVXNlcih1c2VyOiBVc2VyKTogSU9bREJFcnJvciwgVW5pdF0gPQogICAgICAgICAgICAgICAgICAgIFVJTyhwcmludGxuKCJ3aXRoUG9zdGdyZXMiKSkgKj4gb2xkUmVwby5jcmVhdGVVc2VyKHVzZXIpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfSkpCgogICAgICAgICAgICB2YWwgZnVsbExheWVyOiBMYXllcltOb3RoaW5nLCBMb2dnaW5nIHdpdGggVXNlclJlcG9dID0gQ29uc29sZS5saXZlID4+PiB3aXRoUG9zdGdyZXNTZXJ2aWNlCgogICAgICAgICAgICB2YWwgdXNlcjI6IFVzZXIgPSBVc2VyKFVzZXJJZCgxMjMpLCAiVG9tbXkiKQoKICAgICAgICAgICAgdmFsIG1ha2VVc2VyOiBaSU9bTG9nZ2luZyB3aXRoIFVzZXJSZXBvLCBEQkVycm9yLCBVbml0XSA9IGZvciB7CiAgICAgICAgICAgICAgXyA8LSBMb2dnaW5nLmluZm8ocyJpbnNlcnRpbmcgdXNlciIpIC8vIFpJT1tMb2dnaW5nLCBOb3RoaW5nLCBVbml0XQogICAgICAgICAgICAgIF8gPC0gVXNlclJlcG8uY3JlYXRlVXNlcih1c2VyMikgLy8gWklPW1VzZXJSZXBvLCBEQkVycm9yLCBVbml0XQogICAgICAgICAgICAgIF8gPC0gTG9nZ2luZy5pbmZvKHMidXNlciBpbnNlcnRlZCIpIC8vIFpJT1tMb2dnaW5nLCBOb3RoaW5nLCBVbml0XQogICAgICAgICAgICB9IHlpZWxkICgpCgogICAgICAgICAgICBhc3NlcnRNKG1ha2VVc2VyLnByb3ZpZGVMYXllcihmdWxsTGF5ZXIpKShlcXVhbFRvKCgpKSkKICAgICAgICAgIH0sCiAgICAgICAgICB0ZXN0TSgiKysiKSB7CiAgICAgICAgICAgIHZhbCBob3Jpem9udGFsOiBaTGF5ZXJbQ29uc29sZSwgTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9IExvZ2dpbmcuY29uc29sZUxvZ2dlciArKyBVc2VyUmVwby5pbk1lbW9yeQoKICAgICAgICAgICAgdmFsIGRiTGF5ZXI6IExheWVyW05vdGhpbmcsIFVzZXJSZXBvXSA9IFpMYXllci5zdWNjZWVkKG5ldyBVc2VyUmVwby5TZXJ2aWNlIHsKICAgICAgICAgICAgICB2YXIgbSA9IE1hcC5lbXB0eVtVc2VySWQsIFVzZXJdCiAgICAgICAgICAgICAgb3ZlcnJpZGUgZGVmIGdldFVzZXIodXNlcklkOiBVc2VySWQpOiBJT1tEQkVycm9yLCBPcHRpb25bVXNlcl1dID0KICAgICAgICAgICAgICAgIFVJTyhwcmludGxuKCJpbiBkYiIpKSAqPiBJTyhtLmdldCh1c2VySWQpKQogICAgICAgICAgICAgIG92ZXJyaWRlIGRlZiBjcmVhdGVVc2VyKHVzZXI6IFVzZXIpOiBJT1tEQkVycm9yLCBVbml0XSA9IFVJTyhwcmludGxuKCJpbiBkYiIpKSAqPiBJTyB7CiAgICAgICAgICAgICAgICBtID0gbSArICh1c2VyLmlkIC0+IHVzZXIpCiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KQoKICAgICAgICAgICAgdmFsIHVwZGF0ZWRIb3Jpem9udGFsMiA9IGhvcml6b250YWwgKysgZGJMYXllcgoKICAgICAgICAgICAgdmFsIGZ1bGxMYXllcjogTGF5ZXJbTm90aGluZywgTG9nZ2luZyB3aXRoIFVzZXJSZXBvXSA9IENvbnNvbGUubGl2ZSA+Pj4gdXBkYXRlZEhvcml6b250YWwyCgogICAgICAgICAgICB2YWwgdXNlcjI6IFVzZXIgPSBVc2VyKFVzZXJJZCgxMjMpLCAiVG9tbXkiKQoKICAgICAgICAgICAgdmFsIG1ha2VVc2VyOiBaSU9bTG9nZ2luZyB3aXRoIFVzZXJSZXBvLCBEQkVycm9yLCBVbml0XSA9IGZvciB7CiAgICAgICAgICAgICAgXyA8LSBMb2dnaW5nLmluZm8ocyJpbnNlcnRpbmcgdXNlciIpIC8vIFpJT1tMb2dnaW5nLCBOb3RoaW5nLCBVbml0XQogICAgICAgICAgICAgIF8gPC0gVXNlclJlcG8uY3JlYXRlVXNlcih1c2VyMikgLy8gWklPW1VzZXJSZXBvLCBEQkVycm9yLCBVbml0XQogICAgICAgICAgICAgIF8gPC0gTG9nZ2luZy5pbmZvKHMidXNlciBpbnNlcnRlZCIpIC8vIFpJT1tMb2dnaW5nLCBOb3RoaW5nLCBVbml0XQogICAgICAgICAgICB9IHlpZWxkICgpCgogICAgICAgICAgICBhc3NlcnRNKG1ha2VVc2VyLnByb3ZpZGVMYXllcihmdWxsTGF5ZXIpKShlcXVhbFRvKCgpKSkKICAgICAgICAgIH0sCiAgICAgICAgICB0ZXN0TSgiRGVhbGluZyB3aXRoIG1hbmFnZWQgZGVwZW5kZW5jaWVzIikgewogICAgICAgICAgICAvL2ltcG9ydCBqYXZhLnNxbC5Db25uZWN0aW9uCiAgICAgICAgICAgIGNsYXNzIENvbm5lY3Rpb24gewogICAgICAgICAgICAgIGRlZiBjbG9zZSgpOiBVbml0ID0gKCkKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZGVmIG1ha2VDb25uZWN0aW9uOiBVSU9bQ29ubmVjdGlvbl0gPSBVSU8obmV3IENvbm5lY3Rpb24oKSkKCiAgICAgICAgICAgIHZhbCBjb25uZWN0aW9uTGF5ZXI6IExheWVyW05vdGhpbmcsIEhhc1tDb25uZWN0aW9uXV0gPQogICAgICAgICAgICAgIFpMYXllci5mcm9tQWNxdWlyZVJlbGVhc2UobWFrZUNvbm5lY3Rpb24pKGMgPT4gVUlPKGMuY2xvc2UoKSkpCgogICAgICAgICAgICB2YWwgcG9zdGdyZXNMYXllcjogWkxheWVyW0hhc1tDb25uZWN0aW9uXSwgTm90aGluZywgVXNlclJlcG9dID0KICAgICAgICAgICAgICBaTGF5ZXIuZnJvbUZ1bmN0aW9uIHsgaGFzQyA9PgogICAgICAgICAgICAgICAgbmV3IFVzZXJSZXBvLlNlcnZpY2UgewogICAgICAgICAgICAgICAgICB2YXIgbSA9IE1hcC5lbXB0eVtVc2VySWQsIFVzZXJdCiAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGRlZiBnZXRVc2VyKHVzZXJJZDogVXNlcklkKTogSU9bREJFcnJvciwgT3B0aW9uW1VzZXJdXSA9CiAgICAgICAgICAgICAgICAgICAgVUlPKGhhc0MuZ2V0W0Nvbm5lY3Rpb25dKS5mbGF0TWFwKF8gPT4gSU8obS5nZXQodXNlcklkKSkpCiAgICAgICAgICAgICAgICAgIG92ZXJyaWRlIGRlZiBjcmVhdGVVc2VyKHVzZXI6IFVzZXIpOiBJT1tEQkVycm9yLCBVbml0XSA9CiAgICAgICAgICAgICAgICAgICAgVUlPKGhhc0MuZ2V0W0Nvbm5lY3Rpb25dKS5mbGF0TWFwKAogICAgICAgICAgICAgICAgICAgICAgXyA9PgogICAgICAgICAgICAgICAgICAgICAgICBJTyB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgbSA9IG0gKyAodXNlci5pZCAtPiB1c2VyKQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhbCBmdWxsUmVwbzogTGF5ZXJbTm90aGluZywgVXNlclJlcG9dID0gY29ubmVjdGlvbkxheWVyID4+PiBwb3N0Z3Jlc0xheWVyCgogICAgICAgICAgICB2YWwgdXNlcjI6IFVzZXIgPSBVc2VyKFVzZXJJZCgxMjMpLCAiVG9tbXkiKQoKICAgICAgICAgICAgdmFsIG1ha2VVc2VyOiBaSU9bVXNlclJlcG8sIERCRXJyb3IsIFVuaXRdID0gZm9yIHsKICAgICAgICAgICAgICBfIDwtIFVzZXJSZXBvLmNyZWF0ZVVzZXIodXNlcjIpIC8vIFpJT1tVc2VyUmVwbywgREJFcnJvciwgVW5pdF0KICAgICAgICAgICAgfSB5aWVsZCAoKQoKICAgICAgICAgICAgYXNzZXJ0TShtYWtlVXNlci5wcm92aWRlTGF5ZXIoZnVsbFJlcG8pKShlcXVhbFRvKCgpKSkKICAgICAgICAgIH0KICAgICAgICApCiAgICAgICkKICAgICkKfQo=</text>
+        <text encoding="base64">bGFzc28gPSBMYXNzbygpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2673,25 +2671,120 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLwo=</text>
+        <text encoding="base64">bGFzc28uZml0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFRyeShmcm9tSnNvbltMaXN0W01hcFtTdHJpbmcsIEFueV1dXSh0YXJnZXRfcGxhdGZvcm1zKSkKICAgICAgLmdldE9yRWxzZShMaXN0LmVtcHR5KQogICAgICAubWFwKHAgPT4gewogICAgICAgIHZhbCBtZXNzYWdlcyA9IHAuZ2V0KCJtZXNzYWdlcyIpLmdldE9yRWxzZShMaXN0LmVtcHR5KS5hc0luc3RhbmNlT2ZbTGlzdFtNYXBbU3RyaW5nLCBTdHJpbmddXV0KICAgICAgICB2YWwgcHVzaE1lc3NhZ2VzID0gbWVzc2FnZXMKICAgICAgICAgIC5tYXAobSA9PiB7CiAgICAgICAgICAgIHZhbCBsYW5nID0gbS5nZXQoImxhbmciKS5nZXRPckVsc2UoIiIpLnRvTG93ZXJDYXNlKCkKICAgICAgICAgICAgdmFsIG1lc3NhZ2UgPSBtLmdldCgibWVzc2FnZSIpLmdldE9yRWxzZSgiIikKICAgICAgICAgICAgdmFsIHNjaGVtZSA9IG0uZ2V0KCJzY2hlbWUiKS5nZXRPckVsc2UoIiIpCiAgICAgICAgICAgIHZhbCBpbWFnZVVybCA9IG0uZ2V0KCJpbWFnZVVybCIpLmdldE9yRWxzZSgiIikKCiAgICAgICAgICAgIChsYW5nIC0+IFB1c2hMYW5nU2V0dGluZyhtZXNzYWdlLCBzY2hlbWUsIGltYWdlVXJsKSkKICAgICAgICAgIH0pCiAgICAgICAgICAudG9NYXBbU3RyaW5nLCBQdXNoTGFuZ1NldHRpbmddCgogICAgICAgIHZhbCBvcyA9IHAuZ2V0KCJvcyIpLmdldE9yRWxzZSgiIikuYXNJbnN0YW5jZU9mW1N0cmluZ10KICAgICAgICB2YWwgbWluVmVyc2lvbiA9IHAuZ2V0KCJtaW5WZXJzaW9uIikuZ2V0T3JFbHNlKCIiKS5hc0luc3RhbmNlT2ZbU3RyaW5nXQogICAgICAgIHZhbCBtYXhWZXJzaW9uID0gcC5nZXQoIm1heFZlcnNpb24iKS5nZXRPckVsc2UoIiIpLmFzSW5zdGFuY2VPZltTdHJpbmddCgogICAgICAgIChvcyAtPiBQdXNoT1NTZXR0aW5nKG1pblZlcnNpb24sIG1heFZlcnNpb24sIHB1c2hNZXNzYWdlcykpCiAgICAgIH0pCiAgICAgIC50b01hcFtTdHJpbmcsIFB1c2hPU1NldHRpbmddCg==</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLiBpbXBvcnQgTGluZWFyUmVncmVzc2lvbgo=</text>
       </register>
       <register name="s" type="4">
-        <text>(spark: SparkSession)</text>
+        <text encoding="base64">SU8gewogICAgICAgICAgICAgICAgbSA9IG0gKyAodXNlci5pZCAtPiB1c2VyKQogICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTb21lKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVzZXIyOiBVc2VyID0gVXNlcihVc2VySWQoMTIzKSwgIlRvbW15IikKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5tYXAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZSBDb25uZWN0aW9uID0gSW50Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>new Connection {
+                override def createStatement(): Statement = ???
+                override def prepareStatement(sql: String): PreparedStatement = ???
+                override def prepareCall(sql: String): CallableStatement = ???
+                override def nativeSQL(sql: String): String = ???
+                override def setAutoCommit(autoCommit: Boolean): Unit = ???
+                override def getAutoCommit: Boolean = ???
+                override def commit(): Unit = ???
+                override def rollback(): Unit = ???
+                override def close(): Unit = ()
+                override def isClosed: Boolean = ???
+                override def getMetaData: DatabaseMetaData = ???
+                override def setReadOnly(readOnly: Boolean): Unit = ???
+                override def isReadOnly: Boolean = ???
+                override def setCatalog(catalog: String): Unit = ???
+                override def getCatalog: String = ???
+                override def setTransactionIsolation(level: DBConnection): Unit = ???
+                override def getTransactionIsolation: DBConnection = ???
+                override def getWarnings: SQLWarning = ???
+                override def clearWarnings(): Unit = ???
+                override def createStatement(
+                    resultSetType: DBConnection,
+                    resultSetConcurrency: DBConnection
+                ): Statement = ???
+                override def prepareStatement(
+                    sql: String,
+                    resultSetType: DBConnection,
+                    resultSetConcurrency: DBConnection
+                ): PreparedStatement = ???
+                override def prepareCall(sql: String, resultSetType: DBConnection, resultSetConcurrency: DBConnection)
+                    : CallableStatement = ???
+                override def getTypeMap: util.Map[String, Class[_]] = ???
+                override def setTypeMap(map: (util.Map[String, Class[_]])): Unit = ???
+                override def setHoldability(holdability: DBConnection): Unit = ???
+                override def getHoldability: DBConnection = ???
+                override def setSavepoint(): Savepoint = ???
+                override def setSavepoint(name: String): Savepoint = ???
+                override def rollback(savepoint: Savepoint): Unit = ???
+                override def releaseSavepoint(savepoint: Savepoint): Unit = ???
+                override def createStatement(
+                    resultSetType: DBConnection,
+                    resultSetConcurrency: DBConnection,
+                    resultSetHoldability: DBConnection
+                ): Statement = ???
+                override def prepareStatement(
+                    sql: String,
+                    resultSetType: DBConnection,
+                    resultSetConcurrency: DBConnection,
+                    resultSetHoldability: DBConnection
+                ): PreparedStatement = ???
+                override def prepareCall(
+                    sql: String,
+                    resultSetType: DBConnection,
+                    resultSetConcurrency: DBConnection,
+                    resultSetHoldability: DBConnection
+                ): CallableStatement = ???
+                override def prepareStatement(
+                    sql: String,
+                    autoGeneratedKeys: DBConnection
+                ): PreparedStatement = ???
+                override def prepareStatement(
+                    sql: String,
+                    columnIndexes: Array[DBConnection]
+                ): PreparedStatement = ???
+                override def prepareStatement(
+                    sql: String,
+                    columnNames: Array[String]
+                ): PreparedStatement = ???
+                override def createClob(): Clob = ???
+                override def createBlob(): Blob = ???
+                override def createNClob(): NClob = ???
+                override def createSQLXML(): SQLXML = ???
+                override def isValid(timeout: DBConnection): Boolean = ???
+                override def setClientInfo(name: String, value: String): Unit = ???
+                override def setClientInfo(properties: Properties): Unit = ???
+                override def getClientInfo(name: String): String = ???
+                override def getClientInfo: Properties = ???
+                override def createArrayOf(
+                    typeName: String,
+                    elements: Array[AnyRef]
+                ): sql.Array = ???
+                override def createStruct(
+                    typeName: String,
+                    attributes: Array[AnyRef]
+                ): Struct = ???
+                override def setSchema(schema: String): Unit = ???
+                override def getSchema: String = ???
+                override def abort(executor: Executor): Unit = ???
+                override def setNetworkTimeout(
+                    executor: Executor,
+                    milliseconds: DBConnection
+                ): Unit = ???
+                override def getNetworkTimeout: DBConnection = ???
+                override def unwrap[T](iface: Class[T]): T = ???
+                override def isWrapperFor(iface: Class[_]): Boolean = ???
+              }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBsYW5nID0gam8xLmdldFN0cmluZygibGFuZyIpLmdldE9yRWxzZSgiIikKICAgICAgICAgIHZhbCBtZXNzYWdlID0gam8xLmdldFN0cmluZygibWVzc2FnZSIpLmdldE9yRWxzZSgiIikKICAgICAgICAgIHZhbCBzY2hlbWUgPSBqbzEuZ2V0U3RyaW5nKCJzY2hlbWUiKS5nZXRPckVsc2UoIiIpCiAgICAgICAgICB2YWwgaW1hZ2VVcmwgPSBqbzEuZ2V0U3RyaW5nKCJpbWFnZVVybCIpLmdldE9yRWxzZSgiIikK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGZvclNvbWUgewogICAgICAgICAgICAgICAgICAgICAgdHlwZSBfJDEKICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2720,13 +2813,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBqbzEgPSBqc29uLmFzSnNvbk9iamVjdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2735,9 +2828,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>update</last-search>
+      <last-search>setTypeMap</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>setTypeMap</last-pattern>
       <last-replace>DateTime</last-replace>
       <last-substitute>LocalDate</last-substitute>
       <last-dir>1</last-dir>
