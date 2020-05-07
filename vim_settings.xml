@@ -133,6 +133,10 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/etl/src/main/scala/story/etl/transformer/story_reqlog/ReactionUDF.scala" timestamp="1588755541000">
         <mark key="'" line="23" column="14" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/DruidLoadRecoveryToHdfs.md" timestamp="1588828454561">
+        <mark key="[" line="31" column="1" />
+        <mark key="]" line="31" column="16" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/service/converter/ReactionConverter.scala" timestamp="1588761982067">
         <mark key="'" line="91" column="39" />
         <mark key="[" line="35" column="0" />
@@ -141,7 +145,6 @@
         <mark key="^" line="46" column="40" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/DruidLoadRecoveryToHdfs.sh" timestamp="1588758066980" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminService.scala" timestamp="1588754044192" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphDeps.scala" timestamp="1588758496787" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" timestamp="1588763262477">
         <mark key="'" line="144" column="7" />
@@ -308,7 +311,7 @@
         <text>, Some(toProfileId)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>streaming1</text>
+        <text>hadoop-eng-share</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2607,7 +2610,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>open_friend_list</text>
+        <text>hadoop-eng-share</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
