@@ -163,11 +163,12 @@
         <mark key="." line="42" column="16" />
         <mark key="^" line="42" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/coupang_auto/test.py" timestamp="1588782598225">
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="22" column="23" />
-        <mark key="^" line="22" column="23" />
-        <mark key="." line="22" column="22" />
+      <file name="$USER_HOME$/Develop/Personal/coupang_auto/test.py" timestamp="1588809579720">
+        <mark key="'" line="20" column="11" />
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="38" />
+        <mark key="^" line="20" column="38" />
+        <mark key="." line="20" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecovery.scala" timestamp="1588758594874">
         <mark key="[" line="12" column="0" />
@@ -208,8 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="6" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
-      <jump line="72" column="36" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
       <jump line="52" column="16" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
       <jump line="70" column="35" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
       <jump line="57" column="14" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/howTo/_01_use_modules_and_layers/UseModulesAndLayersSpec.scala" />
@@ -308,6 +307,8 @@
       <jump line="43" column="23" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/etl/src/main/scala/story/etl/transformer/story_reqlog/FriendRecommendationUDF.scala" />
       <jump line="5" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/log/model/StoryRequestLogTest.scala" />
       <jump line="144" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
+      <jump line="21" column="4" filename="$USER_HOME$/Develop/Personal/coupang_auto/test.py" />
+      <jump line="19" column="11" filename="$USER_HOME$/Develop/Personal/coupang_auto/test.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,7 +317,7 @@
         <text>, Some(toProfileId)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>open_friend_list</text>
+        <text>html</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2621,7 +2622,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>param</text>
+        <text>html</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVfYWNjb3VudFw+</text>
@@ -2629,11 +2630,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50bG4obG9nLnBhcmFtMikK</text>
       </register>
-      <register name="1" type="8">
-        <text>//
-//
-//
-//</text>
+      <register name="1" type="2">
+        <text encoding="base64">I3VybCA9ICJodHRwczovL2VuLndpa2lwZWRpYS5vcmcvd2lraS8lcyIgJSBUT1BJQwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2660,33 +2658,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjYXNlICgicHJvZmlsZXMiLCAiZGVzdHJveSIpICAgICAgICAgICA9PiB0cnVlCiAgICAgICAgICAgICAgY2FzZSAoInByb2ZpbGVzIiwgImNsb3NlX2ZyaWVuZF9saXN0IikgPT4gdHJ1ZQogICAgICAgICAgICAgIGNhc2UgKCJwcm9maWxlcyIsICJvcGVuX2ZyaWVuZF9saXN0IikgID0+IHRydWUK</text>
+        <text encoding="base64">ZnJvbSBodG1sLnBhcnNlciBpbXBvcnQgSFRNTFBhcnNlcgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="8">
+        <text>//
+//
+//
+//</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgIGNhc2UgTm9uZSA9PiBTb21lKE5pbCkKICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjYXNlICgicHJvZmlsZXMiLCAiZGVzdHJveSIpICAgICAgICAgICA9PiB0cnVlCiAgICAgICAgICAgICAgY2FzZSAoInByb2ZpbGVzIiwgImNsb3NlX2ZyaWVuZF9saXN0IikgPT4gdHJ1ZQogICAgICAgICAgICAgIGNhc2UgKCJwcm9maWxlcyIsICJvcGVuX2ZyaWVuZF9saXN0IikgID0+IHRydWUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="8">
         <text>createCommentEdges(from, to, log)
 deleteCommentEdges(from, to, log)
 createFeelingEdges(from, to, log)
 deleteFeelingEdges(from, to, log)</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHJkZC5tYXAoeCA9PiBTdG9yeVJlcXVlc3RMb2cucGFyc2VGcm9tUmF3KHgudmFsdWUoKSkpLmZpcnN0KCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhdGhzLmZvcmVhY2gocHJpbnRsbikK</text>
-      </register>
-      <register name="7" type="8">
-        <text>//
-//
-//
-//
-//
-//</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2715,10 +2711,15 @@ deleteFeelingEdges(from, to, log)</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vcHJpbnRsbigiZW5kIikK</text>
+        <text encoding="base64">ICAgIHBhdGhzLmZvcmVhY2gocHJpbnRsbikK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vcHJpbnRsbigic3RhcnQyIikKICAgIC8vcGF0aHMuZm9yZWFjaChwcmludGxuKQogICAgLy9wcmludGxuKCJlbmQyIikKCg==</text>
+      <register name="9" type="8">
+        <text>//
+//
+//
+//
+//
+//</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
