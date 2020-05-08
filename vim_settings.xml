@@ -47,8 +47,8 @@
         <entry>%s/LocalDate/DateTime/g</entry>
         <entry encoding="base64">JzwsJz5zL0xvY2FsRGF0ZS9EYXRlVGltZS9n</entry>
         <entry>%s/DruidLoad/S2Graph/g</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -130,12 +130,6 @@
         <mark key="^" line="50" column="56" />
         <mark key="." line="50" column="55" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecoveryFromHdfs-prod.conf" timestamp="1588832441237">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="23" />
-        <mark key="^" line="0" column="27" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" timestamp="1588839209754">
         <mark key="'" line="57" column="2" />
         <mark key="[" line="33" column="0" />
@@ -152,12 +146,11 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="/private/tmp/test1/src/test.go" timestamp="1588913932898">
+      <file name="/private/tmp/test1/src/test.go" timestamp="1588916298762">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="18" column="13" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" timestamp="1588840815006">
         <mark key="'" line="4" column="28" />
@@ -200,6 +193,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/golang/src/github.com/PuerkitoBio/goquery/type.go" timestamp="1588915968724" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" timestamp="1588842866123">
         <mark key="'" line="104" column="10" />
         <mark key="[" line="47" column="25" />
@@ -346,7 +340,7 @@
         <text>StorySchemeUtil</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGEudjEpCg==</text>
+        <text encoding="base64">CWNvcHkK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2651,7 +2645,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFkZXJcPg==</text>
@@ -2660,7 +2654,7 @@
         <text encoding="base64">CWZtdC5QcmludGxuKGEudjEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGEudjEpCg==</text>
+        <text encoding="base64">CWNvcHkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2687,25 +2681,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJtb2RlbCIK</text>
+        <text encoding="base64">CWEuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJtYWluL21vZGVsIgo=</text>
+        <text encoding="base64">CWEudjEgPSAxMAo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgIGNhc2UgTm9uZSA9PiBTb21lKE5pbCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWNvbnN0IGEgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHlwZSBNeVN0cnVjdCBzdHJ1Y3QgewoJdjEgaW50Cgl2MiBpbnQKfQoK</text>
+        <text encoding="base64">CXZhciAgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlnZXRDb250ZW50cyh1cmwpCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGEudjEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJtb2RlbCIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2734,13 +2728,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGRvYy5GaW5kKCIjcHJvZHVjdExpc3QiKS5UZXh0KCkpCg==</text>
+        <text encoding="base64">CSJtYWluL21vZGVsIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZyhkYXRhKSkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
