@@ -146,11 +146,11 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="14" />
       </file>
-      <file name="/private/tmp/test1/src/test.go" timestamp="1588919340980">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="43" column="4" />
-        <mark key="]" line="43" column="4" />
-        <mark key="." line="43" column="4" />
+      <file name="/private/tmp/test1/src/test.go" timestamp="1588920379696">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" timestamp="1588840815006">
         <mark key="'" line="4" column="28" />
@@ -232,10 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecoveryFromHdfs.scala" />
-      <jump line="65" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecoveryFromHdfs.scala" />
-      <jump line="38" column="47" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecoveryFromHdfs.scala" />
-      <jump line="46" column="72" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecoveryFromHdfs.scala" />
       <jump line="43" column="23" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/etl/src/main/scala/story/etl/transformer/story_reqlog/FriendRecommendationUDF.scala" />
       <jump line="5" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/log/model/StoryRequestLogTest.scala" />
       <jump line="144" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
@@ -320,10 +316,8 @@
       <jump line="46" column="8" filename="/private/tmp/test1/src/test.go" />
       <jump line="49" column="8" filename="/private/tmp/test1/src/test.go" />
       <jump line="41" column="4" filename="$USER_HOME$/Develop/Works/golang/src/github.com/ahl5esoft/golang-underscore/i-enumerable.go" />
-      <jump line="26" column="29" filename="/private/tmp/test1/src/test.go" />
       <jump line="8" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="25" column="0" filename="/private/tmp/test1/src/test.go" />
-      <jump line="17" column="59" filename="/private/tmp/test1/src/test.go" />
       <jump line="38" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="20" column="9" filename="/private/tmp/test1/src/test.go" />
       <jump line="16" column="0" filename="/private/tmp/test1/src/test.go" />
@@ -332,6 +326,12 @@
       <jump line="54" column="4" filename="/private/tmp/test1/src/test.go" />
       <jump line="18" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="11" column="0" filename="/private/tmp/test1/src/test.go" />
+      <jump line="65" column="0" filename="/private/tmp/test1/src/test.go" />
+      <jump line="1" column="0" filename="/private/tmp/test1/src/test.go" />
+      <jump line="68" column="17" filename="/private/tmp/test1/src/test.go" />
+      <jump line="42" column="0" filename="/private/tmp/test1/src/test.go" />
+      <jump line="17" column="8" filename="/private/tmp/test1/src/test.go" />
+      <jump line="26" column="4" filename="/private/tmp/test1/src/test.go" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,18 +339,8 @@
       <register name="a" type="4">
         <text>StorySchemeUtil</text>
       </register>
-      <register name="&quot;" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dHlwZSBNeVN0cnVjdCBzdHJ1Y3QgewoJdjEsIHYyIGludAp9Cgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2663,18 +2653,8 @@
       <register name="0" type="2">
         <text encoding="base64">CXN0YXJ0VGltZU1pbGxpcyA9IG1ha2VUaW1lc3RhbXAoKQoJZm9yIGkgOj0gMDsgaSA8IDEwMDsgaSsrIHsKCQlmbjEoMTAwMCkKCX0KCWVuZFRpbWVNaWxsaXMgPSBtYWtlVGltZXN0YW1wKCkKCWVsYXBzZSA9IGVuZFRpbWVNaWxsaXMgLSBzdGFydFRpbWVNaWxsaXMKCWZtdC5QcmludGYoInNwZW5kIHRpbWU6ICV2XG4iLCBlbGFwc2UpCg==</text>
       </register>
-      <register name="1" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="1" type="2">
+        <text encoding="base64">dHlwZSBNeVN0cnVjdCBzdHJ1Y3QgewoJdjEsIHYyIGludAp9Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2704,22 +2684,32 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZvciBpIDo9IDA7IGkgPCAxMDA7IGkrKyB7CgkJZm4oMTAwMCkKCQlmbjEoMTAwMCkKCQlmbjIoMTAwMCwgMSkKCX0KCglzdGFydFRpbWVNaWxsaXMgOj0gbWFrZVRpbWVzdGFtcCgpCglmb3IgaSA6PSAwOyBpIDwgMTAwOyBpKysgewoJCWZuKDEwMDAwMDApCgl9CgllbmRUaW1lTWlsbGlzIDo9IG1ha2VUaW1lc3RhbXAoKQoJZWxhcHNlIDo9IGVuZFRpbWVNaWxsaXMgLSBzdGFydFRpbWVNaWxsaXMKCWZtdC5QcmludGYoInNwZW5kIHRpbWU6ICV2XG4iLCBlbGFwc2UpCgoJc3RhcnRUaW1lTWlsbGlzID0gbWFrZVRpbWVzdGFtcCgpCglmb3IgaSA6PSAwOyBpIDwgMTAwOyBpKysgewoJCWZuMSgxMDAwMDAwKQoJfQoJZW5kVGltZU1pbGxpcyA9IG1ha2VUaW1lc3RhbXAoKQoJZWxhcHNlID0gZW5kVGltZU1pbGxpcyAtIHN0YXJ0VGltZU1pbGxpcwoJZm10LlByaW50Zigic3BlbmQgdGltZTogJXZcbiIsIGVsYXBzZSkKCglzdGFydFRpbWVNaWxsaXMgPSBtYWtlVGltZXN0YW1wKCkKCWZvciBpIDo9IDA7IGkgPCAxMDA7IGkrKyB7CgkJZm4yKDEwMDAwMDAsIDEpCgl9CgllbmRUaW1lTWlsbGlzID0gbWFrZVRpbWVzdGFtcCgpCgllbGFwc2UgPSBlbmRUaW1lTWlsbGlzIC0gc3RhcnRUaW1lTWlsbGlzCglmbXQuUHJpbnRmKCJzcGVuZCB0aW1lOiAldlxuIiwgZWxhcHNlKQo=</text>
+        <text encoding="base64">Ly8gaW1wCmZ1bmMgZm4obiBpbnQpIGludCB7CglyZXN1bHQgOj0gMQoJZm9yIGkgOj0gMTsgaSA8PSBuOyBpKysgewoJCXJlc3VsdCAqPSBpCgl9CglyZXR1cm4gcmVzdWx0Cn0KCi8vIHJlYwpmdW5jIGZuMShuIGludCkgaW50IHsKCWlmIG4gPD0gMSB7CgkJcmV0dXJuIDEKCX0gZWxzZSB7CgkJcmV0dXJuIG4gKiBmbjEobiAtIDEpCgl9Cn0KCi8vIHJlYyB0YWlsCmZ1bmMgZm4yKG4gaW50LCByIGludCkgaW50IHsKCWlmIG4gPD0gMSB7CgkJcmV0dXJuIHIKCX0gZWxzZSB7CgkJcmV0dXJuIGZuMihuIC0gMSwgciAqIG4pCgl9Cn0K</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgIGNhc2UgTm9uZSA9PiBTb21lKE5pbCkKICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="4" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWZvciBpIDo9IDA7IGkgPCAxMDA7IGkrKyB7CgkJZm4oMTAwMCkKCQlmbjEoMTAwMCkKCQlmbjIoMTAwMCwgMSkKCX0KCglzdGFydFRpbWVNaWxsaXMgOj0gbWFrZVRpbWVzdGFtcCgpCglmb3IgaSA6PSAwOyBpIDwgMTAwOyBpKysgewoJCWZuKDEwMDAwMDApCgl9CgllbmRUaW1lTWlsbGlzIDo9IG1ha2VUaW1lc3RhbXAoKQoJZWxhcHNlIDo9IGVuZFRpbWVNaWxsaXMgLSBzdGFydFRpbWVNaWxsaXMKCWZtdC5QcmludGYoInNwZW5kIHRpbWU6ICV2XG4iLCBlbGFwc2UpCgoJc3RhcnRUaW1lTWlsbGlzID0gbWFrZVRpbWVzdGFtcCgpCglmb3IgaSA6PSAwOyBpIDwgMTAwOyBpKysgewoJCWZuMSgxMDAwMDAwKQoJfQoJZW5kVGltZU1pbGxpcyA9IG1ha2VUaW1lc3RhbXAoKQoJZWxhcHNlID0gZW5kVGltZU1pbGxpcyAtIHN0YXJ0VGltZU1pbGxpcwoJZm10LlByaW50Zigic3BlbmQgdGltZTogJXZcbiIsIGVsYXBzZSkKCglzdGFydFRpbWVNaWxsaXMgPSBtYWtlVGltZXN0YW1wKCkKCWZvciBpIDo9IDA7IGkgPCAxMDA7IGkrKyB7CgkJZm4yKDEwMDAwMDAsIDEpCgl9CgllbmRUaW1lTWlsbGlzID0gbWFrZVRpbWVzdGFtcCgpCgllbGFwc2UgPSBlbmRUaW1lTWlsbGlzIC0gc3RhcnRUaW1lTWlsbGlzCglmbXQuUHJpbnRmKCJzcGVuZCB0aW1lOiAldlxuIiwgZWxhcHNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZuKDEwMDApCglmbjEoMTAwMCkKCWZuMigxMDAwLCAxKQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2751,7 +2741,7 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
