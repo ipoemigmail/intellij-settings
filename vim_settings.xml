@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aXRoUG9zdGdyZXNTZXJ2aWNlXD4=</entry>
         <entry>setTypeMap</entry>
         <entry encoding="base64">XDxsYWJlbFw+</entry>
         <entry encoding="base64">XDxwcm9jZXNzQnVsa1w+</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxhc1Nob3J0TmFtZVw+</entry>
         <entry encoding="base64">XDxyZWFkZXJcPg==</entry>
         <entry>ProfileSlave</entry>
+        <entry encoding="base64">XDxwYW5pY1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NoYW5uZWwvbWlzYy9n</entry>
@@ -118,11 +118,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/private/tmp/test1/src/test.go" timestamp="1588922156604">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="/private/tmp/test1/src/test.go" timestamp="1588925379685">
+        <mark key="'" line="42" column="8" />
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="9" />
+        <mark key="." line="18" column="9" />
+        <mark key="^" line="17" column="8" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" timestamp="1588840815006">
         <mark key="'" line="4" column="28" />
@@ -296,16 +297,13 @@
       <jump line="25" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="38" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="20" column="9" filename="/private/tmp/test1/src/test.go" />
-      <jump line="16" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="62" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="15" column="10" filename="/private/tmp/test1/src/test.go" />
       <jump line="54" column="4" filename="/private/tmp/test1/src/test.go" />
-      <jump line="18" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="11" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="65" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="1" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="68" column="17" filename="/private/tmp/test1/src/test.go" />
-      <jump line="42" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="17" column="8" filename="/private/tmp/test1/src/test.go" />
       <jump line="26" column="4" filename="/private/tmp/test1/src/test.go" />
       <jump line="21" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminService.scala" />
@@ -329,6 +327,9 @@
       <jump line="5" column="42" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/db/repo/PushScheduleRepoDbTest.scala" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/db/repo/PushScheduleRepoDbTest.scala" />
       <jump line="17" column="36" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/db/repo/PushScheduleRepoDbTest.scala" />
+      <jump line="16" column="30" filename="/private/tmp/test1/src/test.go" />
+      <jump line="18" column="8" filename="/private/tmp/test1/src/test.go" />
+      <jump line="42" column="8" filename="/private/tmp/test1/src/test.go" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -337,7 +338,7 @@
         <text>StorySchemeUtil</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWpzb24uCg==</text>
+        <text encoding="base64">CXZhciB2IHN0cmluZwo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2642,16 +2643,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>Activity</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ProfileSlave</text>
+        <text encoding="base64">XDxwYW5pY1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeQppbXBvcnQgY29tLmtha2FvLnN0b3J5LmltcGxpY2l0cy5fCmltcG9ydCBjb20ua2FrYW8uc3RvcnkubW9kZWwuUGhhc2UKaW1wb3J0IGNvbS5rYWthby5zdG9yeS5zZXJ2aWNlLkxvZ1NlcnZpY2VQaGFzZQppbXBvcnQgY29tLmtha2FvLnN0b3J5LnN0b3JhZ2UuaW1wbGljaXRzLl8KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5zdG9yYWdlLm1vZGVsLmNsdXN0ZXIuUHJvZmlsZVNsYXZlCmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3RvcmFnZS5zZXJ2aWNlLl8KaW1wb3J0IGNvbS50eXBlc2FmZS5jb25maWcue0NvbmZpZywgQ29uZmlnRmFjdG9yeX0KaW1wb3J0IG9yZy5zY2FsYXRlc3QuZnVuc3VpdGUuQW55RnVuU3VpdGUKaW1wb3J0IG9yZy5zY2FsYXRlc3QubWF0Y2hlcnMuc2hvdWxkLk1hdGNoZXJzCg==</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCXBhbmljKGVycikKCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWpzb24uCg==</text>
+        <text encoding="base64">CXZhciB2IHN0cmluZwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2678,25 +2679,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5zdG9yYWdlLm1vZGVsLmNsdXN0ZXIuUHJvZmlsZVNsYXZlCg==</text>
+        <text encoding="base64">CX0gZWxzZSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QuZnVuc3VpdGUuQW55RnVuU3VpdGUKaW1wb3J0IG9yZy5zY2FsYXRlc3QubWF0Y2hlcnMuc2hvdWxkLk1hdGNoZXJzCg==</text>
+        <text encoding="base64">CQl2ID0gdAo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgIGNhc2UgTm9uZSA9PiBTb21lKE5pbCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2ID0gIm5vdCEhIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0U2hhcmRLZXkoaWQ6IChJbnQsIExvbmcpKTogUHJvZmlsZUlkID0gaWQuXzEK</text>
+        <text encoding="base64">CQlwYW5pYygiIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgZmluZEJ5UHJvZmlsZUlkKAogICAgICBwcm9maWxlSWQ6IEludCwKICAgICAgc3RhcnRBdDogRGF0ZVRpbWUsCiAgICAgIGVuZEF0OiBEYXRlVGltZSwKICAgICAgbGltaXQ6IEludCA9IDEwMDAKICApOiBMaXN0W0FjdGl2aXR5XSA9IHsKICAgIHZhbCBzcWwgPQogICAgICBmciIiInNlbGVjdCAiIiIgKysgRnJhZ21lbnQuY29uc3QoQWxsRmllbGRzLm1rU3RyaW5nKCIsICIpKSArKwogICAgICAgIGZyIiIiCiAgICAgICAgICAgIHxmcm9tICIiIi5zdHJpcE1hcmdpbiArKyBGcmFnbWVudC5jb25zdCh0YWJsZU5hbWUpICsrCiAgICAgICAgZnIiIiIKICAgICAgICAgICAgfHdoZXJlIGFjdG9yX2lkID0gJHByb2ZpbGVJZAogICAgICAgICAgICB8YW5kIGNyZWF0ZWRfYXQgPj0gJHtzdGFydEF0LnRvU3RyaW5nKCJ5eXl5Lk1NLmRkIEhIOm1tOnNzIil9CiAgICAgICAgICAgIHxhbmQgY3JlYXRlZF9hdCA8PSAke2VuZEF0LnRvU3RyaW5nKCJ5eXl5Lk1NLmRkIEhIOm1tOnNzIil9CiAgICAgICAgICAgIHxsaW1pdCAkbGltaXQKICAgICAgICAgICAgfCIiIi5zdHJpcE1hcmdpbgoKICAgIHNxbFNlcnZpY2UucnVuQnlTaGFyZEtleShwcm9maWxlSWQpKHNxbFNlcnZpY2UucXVlcnlbQWN0aXZpdHldKHNxbCkpCiAgfQo=</text>
+        <text encoding="base64">CWlmIGVyciAhPSBuaWwgewoJCXBhbmljKGVycikKCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2YWwgcjI6IFJlYWRbU3RyaW5nXSwK</text>
+        <text encoding="base64">CQlwYW5pYwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2725,10 +2726,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cm9iamVjdCBQdXNoU2NoZWR1bGVSZXBvIHsKICB0cmFpdCBNb2NrIGV4dGVuZHMgCn0K</text>
+        <text encoding="base64">CXZhciB2IGludAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHsKfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CSJyZWZsZWN0Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2740,9 +2741,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ProfileSlave</last-search>
+      <last-search encoding="base64">XDxwYW5pY1w+</last-search>
       <last-offset />
-      <last-pattern>ProfileSlave</last-pattern>
+      <last-pattern encoding="base64">XDxwYW5pY1w+</last-pattern>
       <last-replace>AdminSlave</last-replace>
       <last-substitute>ProfileSlave</last-substitute>
       <last-dir>1</last-dir>
