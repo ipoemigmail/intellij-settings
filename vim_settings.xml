@@ -156,12 +156,12 @@
         <mark key="[" line="31" column="1" />
         <mark key="]" line="31" column="16" />
       </file>
-      <file name="/private/tmp/test1/src/test.go" timestamp="1588909102789">
-        <mark key="'" line="54" column="8" />
-        <mark key="[" line="18" column="26" />
-        <mark key="]" line="18" column="26" />
-        <mark key="." line="18" column="26" />
-        <mark key="^" line="18" column="33" />
+      <file name="/private/tmp/test1/src/test.go" timestamp="1588911580733">
+        <mark key="'" line="15" column="10" />
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="56" />
+        <mark key="." line="16" column="55" />
+        <mark key="^" line="16" column="56" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" timestamp="1588840815006">
         <mark key="'" line="4" column="28" />
@@ -235,9 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecoveryFromHdfs.scala" />
-      <jump line="41" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecoveryFromHdfs.scala" />
-      <jump line="24" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecoveryFromHdfs.scala" />
       <jump line="50" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecoveryFromHdfs.scala" />
       <jump line="62" column="16" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecoveryFromHdfs.scala" />
       <jump line="40" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecoveryFromHdfs.scala" />
@@ -316,25 +313,28 @@
       <jump line="42" column="55" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" />
       <jump line="85" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" />
       <jump line="104" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpTarget.scala" />
-      <jump line="20" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="14" column="4" filename="/private/tmp/test1/src/test.go" />
       <jump line="2" column="0" filename="/private/tmp/test1/src/test.go" />
-      <jump line="8" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="19" column="18" filename="/private/tmp/test1/src/test.go" />
       <jump line="21" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="0" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="11" column="4" filename="/private/tmp/test1/src/test.go" />
       <jump line="9" column="0" filename="/private/tmp/test1/src/test.go" />
-      <jump line="26" column="4" filename="/private/tmp/test1/src/test.go" />
-      <jump line="17" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="10" column="11" filename="/private/tmp/test1/src/test.go" />
-      <jump line="15" column="8" filename="/private/tmp/test1/src/test.go" />
       <jump line="23" column="27" filename="/private/tmp/test1/src/test.go" />
-      <jump line="38" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="31" column="11" filename="/private/tmp/test1/src/test.go" />
       <jump line="46" column="8" filename="/private/tmp/test1/src/test.go" />
       <jump line="49" column="8" filename="/private/tmp/test1/src/test.go" />
       <jump line="41" column="4" filename="$USER_HOME$/Develop/Works/golang/src/github.com/ahl5esoft/golang-underscore/i-enumerable.go" />
+      <jump line="26" column="29" filename="/private/tmp/test1/src/test.go" />
+      <jump line="8" column="0" filename="/private/tmp/test1/src/test.go" />
+      <jump line="25" column="0" filename="/private/tmp/test1/src/test.go" />
+      <jump line="17" column="59" filename="/private/tmp/test1/src/test.go" />
+      <jump line="38" column="0" filename="/private/tmp/test1/src/test.go" />
+      <jump line="20" column="9" filename="/private/tmp/test1/src/test.go" />
+      <jump line="16" column="0" filename="/private/tmp/test1/src/test.go" />
+      <jump line="62" column="0" filename="/private/tmp/test1/src/test.go" />
+      <jump line="15" column="10" filename="/private/tmp/test1/src/test.go" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -343,7 +343,7 @@
         <text>StorySchemeUtil</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>Nodes</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2648,16 +2648,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Nodes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFkZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHZ2KQo=</text>
+        <text encoding="base64">CS8vZGF0YSwgZXJyIDo9IGlvdXRpbC5SZWFkQWxsKHJlYWRlcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8vIFJlcXVlc3Qg6rCd7LK0IOyDneyEsQo=</text>
+        <text encoding="base64">CQlnZXRDb250ZW50cyh1cmwpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2684,25 +2684,27 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vLmhlYWRlcigiYWNjZXB0IiwgInRleHQvaHRtbCxhcHBsaWNhdGlvbi94aHRtbCt4bWwsYXBwbGljYXRpb24veG1sO3E9MC45LGltYWdlL3dlYnAsaW1hZ2UvYXBuZywqLyo7cT0wLjgsYXBwbGljYXRpb24vc2lnbmVkLWV4Y2hhbmdlO3Y9YjM7cT0wLjkiKQoJLy8uaGVhZGVyKCJhY2NlcHQtZW5jb2RpbmciLCAiZ3ppcCwgZGVmbGF0ZSwgYnIiKQoJLy8uaGVhZGVyKCJ1c2VyLWFnZW50IiwgIk1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzMpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84MC4wLjM5ODcuMTQ5IFNhZmFyaS81MzcuMzYiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbihhKQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGRvYy5GaW5kKCIjcHJvZHVjdExpc3QiKS5UZXh0KCkpCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgIGNhc2UgTm9uZSA9PiBTb21lKE5pbCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlhLmludCgpCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZyhkYXRhKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CS8vLy8g6rKw6rO8IOy2nOugpQoJLy9kYXRhLCBlcnIgOj0gaW91dGlsLlJlYWRBbGwocmVhZGVyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWlvLnJlYWQKCWlvLkNvcHkob3MuU3Rkb3V0LCByZWFkZXIpIC8vIHByaW50IGh0bWwgdG8gc3RhbmRhcmQgb3V0Cgo=</text>
+        <text encoding="base64">CWRhdGEsIGVyciA6PSBpb3V0aWwuUmVhZEFsbChyZWFkZXIpCglpZiBlcnIgIT0gbmlsIHsKCQlwYW5pYyhlcnIpCgl9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CS8vIEdFVCDtmLjstpwKCXJlc3AsIGVyciA6PSBodHRwLkdldCh1cmwpCg==</text>
+      <register name="7" type="8">
+        <text>//
+//
+//</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2731,10 +2733,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CglmbXQuUHJpbnRsbihkb2MuRmluZCgiI3Byb2R1Y3RMaXN0IikuSHRtbCgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXVybCA6PSAiaHR0cHM6Ly9nb29nbGUuY29tIgo=</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihkb2MuRmluZCgiI3Byb2R1Y3RMaXN0IikuSHRtbCgpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
