@@ -47,8 +47,8 @@
         <entry encoding="base64">JzwsJz5zL0xvY2FsRGF0ZS9EYXRlVGltZS9n</entry>
         <entry>%s/DruidLoad/S2Graph/g</entry>
         <entry>%s/ProfileSlave/AdminSlave/g</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,12 +125,12 @@
         <mark key="." line="26" column="57" />
         <mark key="^" line="26" column="58" />
       </file>
-      <file name="/private/tmp/test1/src/test.go" timestamp="1588925379685">
-        <mark key="'" line="42" column="8" />
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="18" column="9" />
-        <mark key="^" line="17" column="8" />
+      <file name="/private/tmp/test1/src/test.go" timestamp="1588991779703">
+        <mark key="'" line="57" column="8" />
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="28" column="28" />
+        <mark key="." line="28" column="27" />
+        <mark key="^" line="28" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" timestamp="1588990185960">
         <mark key="[" line="16" column="21" />
@@ -335,7 +335,7 @@
         <text>ValidationResult.Invalid(</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>int</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2640,16 +2640,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>resetTarget</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihzIkludmFsaWQgUHVzaFNjaGVkdWxlIChmaWVsZDogbWVzc2FnZXMubGFuZykiKQo=</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigib2sgPT4iLCBvaykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiB2YWxpZGF0ZVB1c2hTY2hlZHVsZShzY2hlZHVsZTogT3B0aW9uW1B1c2hTY2hlZHVsZV0pOiBPcHRpb25bUHVzaFNjaGVkdWxlXSA9IHsKICAgIHNjaGVkdWxlIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKHMpID0+IHsKICAgICAgICBzLnZhbGlkYXRlKCkKICAgICAgICBzY2hlZHVsZQogICAgICB9CiAgICAgIGNhc2UgXyA9PiBOb25lCiAgICB9CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2676,25 +2676,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlyW2tdID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdXNoT1NTZXR0aW5nLmxhbmdTZXR0aW5ncy5mb3JlYWNoKGxzID0+IHsKICAgICAgdmFsIGxhbmcgPSBscy5fMQogICAgICBpZiAobGFuZy5pc0VtcHR5KSB7CiAgICAgICAgVmFsaWRhdGlvblJlc3VsdC5JbnZhbGlkKHMiSW52YWxpZCBQdXNoU2NoZWR1bGUgKGZpZWxkOiBtZXNzYWdlcy5sYW5nKSIpCiAgICAgIH0KICAgICAgdmFsaWRhdGVMYW5nU2V0dGluZyhscy5fMikKICAgIH0pCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgIGNhc2UgTm9uZSA9PiBTb21lKE5pbCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8g7YOA6rKfIOy1nOyGjCDslbHrsoTsoITsnYAg7ZWE7IiYCg==</text>
+        <text encoding="base64">CUNoYWluKHYyKS5NYXBNYW55KGZ1bmMgKGsgc3RyaW5nLCB4IGludGVyZmFjZXt9KSBbXWludGVyZmFjZXt9ICB7CgkJdiwgb2sgOj0geC4oaW50KQoJCWlmIG9rIHsKCQkJcmV0dXJuIFtdaW50ZXJmYWNle317c3RydWN0IHsgc3RyaW5nOyBpbnR9e2ssIHZ9fQoJCX0gZWxzZSB7CgkJCXJldHVybiBbXWludHt9CgkJfQoJfSkuVmFsdWUoJnIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIO2DgOqynyDstZzshowg7JWx67KE7KCE7J2AIO2VhOyImAo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJ2MiA9PiIsIHYyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIO2DgOqynyDslrjslrQg7ISk7KCV7J2AIDHqsJwg7J207IOB7J207Ja07JW87ZWoCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2723,13 +2723,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIO2DgOqynyDstZzrjIAg7JWx67KE7KCE7J2AIO2VhOyImAo=</text>
+        <text encoding="base64">CXYzLCBvayA6PSBkWyJiIl0uKG1hcFtzdHJpbmddaW50ZXJmYWNle30pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
