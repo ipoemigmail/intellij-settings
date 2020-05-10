@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>DruidLoad</entry>
-        <entry encoding="base64">XDxTMkdyYXBoUmVjb3ZlcnlGcm9tSGRmc1w+</entry>
-        <entry encoding="base64">XDx1cGRhdGVfYWNjb3VudFw+</entry>
-        <entry encoding="base64">XDxyYW5kb21cPg==</entry>
-        <entry encoding="base64">XDxwcm9maWxlSWRcPg==</entry>
         <entry encoding="base64">XDxCYXNlNjRcPg==</entry>
         <entry encoding="base64">XDxzY2hlbWVcPg==</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
@@ -27,6 +22,11 @@
         <entry encoding="base64">XDx0YXJnZXRfcGxhdGZvcm1zXD4=</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZUxhbmdTZXR0aW5nXD4=</entry>
         <entry>resetTarget</entry>
+        <entry encoding="base64">XDx0aW1lc19mb3JtYXR0ZWRcPg==</entry>
+        <entry>pd</entry>
+        <entry>rolling</entry>
+        <entry encoding="base64">XDx0b3RhbF92aWV3c19uZXh0X3dlZWtcPg==</entry>
+        <entry encoding="base64">XDxsaW5lYXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NoYW5uZWwvbWlzYy9n</entry>
@@ -47,8 +47,8 @@
         <entry encoding="base64">JzwsJz5zL0xvY2FsRGF0ZS9EYXRlVGltZS9n</entry>
         <entry>%s/DruidLoad/S2Graph/g</entry>
         <entry>%s/ProfileSlave/AdminSlave/g</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,7 +125,11 @@
         <mark key="." line="26" column="57" />
         <mark key="^" line="26" column="58" />
       </file>
-      <file name="$USER_HOME$/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-0.2.17/src/task/mod.rs" timestamp="1589091521457" />
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" timestamp="1589092946653">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="24" />
+      </file>
       <file name="/private/tmp/test1/src/test.go" timestamp="1589091322751">
         <mark key="'" line="42" column="4" />
         <mark key="[" line="45" column="8" />
@@ -177,12 +181,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" timestamp="1589092634717">
-        <mark key="'" line="17" column="24" />
-        <mark key="[" line="17" column="59" />
-        <mark key="]" line="17" column="64" />
-        <mark key="^" line="17" column="64" />
-        <mark key="." line="17" column="63" />
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" timestamp="1589101267275">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="74" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/web_scraper_rs/src/main.rs" timestamp="1589076592436">
         <mark key="[" line="12" column="0" />
@@ -215,46 +219,14 @@
         <mark key="[" line="158" column="0" />
         <mark key="]" line="158" column="82" />
       </file>
-      <file name="/private/tmp/test1/src/model/model.go" timestamp="1588912532123">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="8" />
-      </file>
       <file name="/fragment.java" timestamp="1588925466649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/ActivityRepoDb.scala" timestamp="1588921580459">
-        <mark key="'" line="47" column="32" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="54" />
+      <file name="/example01" timestamp="1589101255121">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="10" filename="/private/tmp/test1/src/test.go" />
-      <jump line="54" column="4" filename="/private/tmp/test1/src/test.go" />
-      <jump line="11" column="0" filename="/private/tmp/test1/src/test.go" />
-      <jump line="65" column="0" filename="/private/tmp/test1/src/test.go" />
-      <jump line="1" column="0" filename="/private/tmp/test1/src/test.go" />
-      <jump line="68" column="17" filename="/private/tmp/test1/src/test.go" />
-      <jump line="17" column="8" filename="/private/tmp/test1/src/test.go" />
-      <jump line="26" column="4" filename="/private/tmp/test1/src/test.go" />
-      <jump line="21" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminService.scala" />
-      <jump line="14" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminService.scala" />
-      <jump line="3" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminService.scala" />
-      <jump line="30" column="30" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="80" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="63" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
-      <jump line="8" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/PushScheduleRepo.scala" />
-      <jump line="28" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/PushScheduleRepoDb.scala" />
-      <jump line="25" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/ActivityRepoDb.scala" />
-      <jump line="13" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/PushScheduleRepoDb.scala" />
-      <jump line="46" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/ActivityRepoDb.scala" />
-      <jump line="9" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/ActivityRepoDb.scala" />
-      <jump line="47" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/ActivityRepoDb.scala" />
-      <jump line="30" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/PushScheduleRepoDb.scala" />
-      <jump line="5" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/PushScheduleRepoDb.scala" />
-      <jump line="7" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/db/repo/PushScheduleRepoDbTest.scala" />
       <jump line="14" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/db/repo/ProfileGroupRepoDbTest.scala" />
       <jump line="5" column="42" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/db/repo/PushScheduleRepoDbTest.scala" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/db/repo/PushScheduleRepoDbTest.scala" />
@@ -331,6 +303,30 @@
       <jump line="41" column="4" filename="/private/tmp/test1/src/test.go" />
       <jump line="1" column="18" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
       <jump line="17" column="24" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="24" column="17" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="18" column="27" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="54" column="18" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
+      <jump line="42" column="17" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="28" column="4" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="35" column="18" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="20" column="38" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="59" column="25" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="26" column="22" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="30" column="11" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="68" column="4" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="70" column="11" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="38" column="11" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="43" column="15" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,8 +334,8 @@
       <register name="a" type="4">
         <text>ValidationResult.Invalid(</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQobl9yZWNvcmRzKQo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2644,26 +2640,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>freq</text>
       </register>
       <register name="/" type="4">
-        <text>resetTarget</text>
+        <text encoding="base64">XDxsaW5lYXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cltrXSA9IA==</text>
+        <text>total_views_week</text>
       </register>
-      <register name="1" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="1" type="2">
+        <text encoding="base64">cHJpbnQobl9yZWNvcmRzKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2690,25 +2676,35 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIHRva2lvOjp0YXNrOjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgIGNhc2UgTm9uZSA9PiBTb21lKE5pbCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZiBvayB7CgkJCXJba10gPSB2MQoJCX0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQl2MSwgb2sgOj0gdi4oZmxvYXQ2NCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyW2tdID0gCg==</text>
+        <text encoding="base64">dXNlIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2737,13 +2733,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">dXNlIHRva2lvOjp0YXNrOjoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUNoYWluKHYyKS5NYXBNYW55KGZ1bmMgKGsgc3RyaW5nLCB4IGludGVyZmFjZXt9KSBbXWludGVyZmFjZXt9ICB7CgkJdiwgb2sgOj0geC4oaW50KQoJCWlmIG9rIHsKCQkJcmV0dXJuIFtdaW50ZXJmYWNle317c3RydWN0IHsgc3RyaW5nOyBpbnR9e2ssIHZ9fQoJCX0gZWxzZSB7CgkJCXJldHVybiBbXWludHt9CgkJfQoJfSkuVmFsdWUoJnIpCg==</text>
+        <text encoding="base64">CQlpZiBvayB7CgkJCXJba10gPSB2MQoJCX0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2752,9 +2748,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>resetTarget</last-search>
+      <last-search encoding="base64">XDxsaW5lYXJcPg==</last-search>
       <last-offset />
-      <last-pattern>resetTarget</last-pattern>
+      <last-pattern encoding="base64">XDxsaW5lYXJcPg==</last-pattern>
       <last-replace>AdminSlave</last-replace>
       <last-substitute>ProfileSlave</last-substitute>
       <last-dir>1</last-dir>
