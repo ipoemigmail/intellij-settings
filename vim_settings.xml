@@ -149,9 +149,6 @@
         <mark key="^" line="64" column="46" />
         <mark key="." line="64" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/golang/src/github.com/ahl5esoft/golang-underscore/i-enumerable.go" timestamp="1588909115996">
-        <mark key="'" line="41" column="4" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" timestamp="1588928804630">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="619" column="0" />
@@ -178,6 +175,11 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Personal/web_scraper_rs/src/main.rs" timestamp="1589076413606">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/db/repo/PushScheduleRepoDbTest.scala" timestamp="1588921836910">
         <mark key="'" line="18" column="36" />
@@ -334,8 +336,8 @@
       <register name="a" type="4">
         <text>ValidationResult.Invalid(</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>float64</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIHRva2lvOjp0YXNrOjoK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2649,7 +2651,7 @@
         <text encoding="base64">cltrXSA9IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlpZiBvayB7CgkJCXJba10gPSB2MQoJCX0K</text>
+        <text encoding="base64">dXNlIHRva2lvOjp0YXNrOjoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2676,25 +2678,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl2MSwgb2sgOj0gdi4oZmxvYXQ2NCkK</text>
+        <text encoding="base64">CQlpZiBvayB7CgkJCXJba10gPSB2MQoJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl2MSwgb2sgOj0gdi4oZmxvYXQ2NCkK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgIGNhc2UgTm9uZSA9PiBTb21lKE5pbCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyW2tdID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQlyW2tdID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUNoYWluKHYyKS5NYXBNYW55KGZ1bmMgKGsgc3RyaW5nLCB4IGludGVyZmFjZXt9KSBbXWludGVyZmFjZXt9ICB7CgkJdiwgb2sgOj0geC4oaW50KQoJCWlmIG9rIHsKCQkJcmV0dXJuIFtdaW50ZXJmYWNle317c3RydWN0IHsgc3RyaW5nOyBpbnR9e2ssIHZ9fQoJCX0gZWxzZSB7CgkJCXJldHVybiBbXWludHt9CgkJfQoJfSkuVmFsdWUoJnIpCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJ2MiA9PiIsIHYyKQo=</text>
+        <text encoding="base64">CUNoYWluKHYyKS5NYXBNYW55KGZ1bmMgKGsgc3RyaW5nLCB4IGludGVyZmFjZXt9KSBbXWludGVyZmFjZXt9ICB7CgkJdiwgb2sgOj0geC4oaW50KQoJCWlmIG9rIHsKCQkJcmV0dXJuIFtdaW50ZXJmYWNle317c3RydWN0IHsgc3RyaW5nOyBpbnR9e2ssIHZ9fQoJCX0gZWxzZSB7CgkJCXJldHVybiBbXWludHt9CgkJfQoJfSkuVmFsdWUoJnIpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2723,7 +2725,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJ2MiA9PiIsIHYyKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkK</text>
