@@ -177,11 +177,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" timestamp="1589092046075">
-        <mark key="[" line="3" column="50" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" timestamp="1589092634717">
+        <mark key="'" line="17" column="24" />
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="17" column="64" />
+        <mark key="^" line="17" column="64" />
+        <mark key="." line="17" column="63" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/web_scraper_rs/src/main.rs" timestamp="1589076592436">
         <mark key="[" line="12" column="0" />
@@ -230,8 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="9" filename="/private/tmp/test1/src/test.go" />
-      <jump line="62" column="0" filename="/private/tmp/test1/src/test.go" />
       <jump line="15" column="10" filename="/private/tmp/test1/src/test.go" />
       <jump line="54" column="4" filename="/private/tmp/test1/src/test.go" />
       <jump line="11" column="0" filename="/private/tmp/test1/src/test.go" />
@@ -330,6 +329,8 @@
       <jump line="618" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
       <jump line="6" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
       <jump line="41" column="4" filename="/private/tmp/test1/src/test.go" />
+      <jump line="1" column="18" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="17" column="24" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,7 +339,7 @@
         <text>ValidationResult.Invalid(</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">XyA6PSA=</text>
+        <text>/</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2643,7 +2644,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">XyA6PSA=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>resetTarget</text>
