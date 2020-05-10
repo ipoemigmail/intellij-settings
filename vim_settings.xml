@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxCYXNlNjRcPg==</entry>
         <entry encoding="base64">XDxzY2hlbWVcPg==</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxwdXNoTWVzc2FnZVR5cGVcPg==</entry>
@@ -27,6 +26,7 @@
         <entry>rolling</entry>
         <entry encoding="base64">XDx0b3RhbF92aWV3c19uZXh0X3dlZWtcPg==</entry>
         <entry encoding="base64">XDxsaW5lYXJcPg==</entry>
+        <entry encoding="base64">XDxnZXRDb250ZW50c1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NoYW5uZWwvbWlzYy9n</entry>
@@ -130,12 +130,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="24" />
       </file>
-      <file name="/private/tmp/test1/src/test.go" timestamp="1589091322751">
-        <mark key="'" line="42" column="4" />
+      <file name="/private/tmp/test1/src/test.go" timestamp="1589124464440">
+        <mark key="'" line="55" column="5" />
         <mark key="[" line="45" column="8" />
-        <mark key="]" line="45" column="8" />
-        <mark key="." line="45" column="8" />
-        <mark key="^" line="45" column="8" />
+        <mark key="]" line="45" column="15" />
+        <mark key="." line="45" column="14" />
+        <mark key="^" line="45" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/rust-study/fiber/src/main.rs" timestamp="1589091482371">
         <mark key="[" line="16" column="21" />
@@ -227,8 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/db/repo/ProfileGroupRepoDbTest.scala" />
-      <jump line="5" column="42" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/db/repo/PushScheduleRepoDbTest.scala" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/db/repo/PushScheduleRepoDbTest.scala" />
       <jump line="17" column="36" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/db/repo/PushScheduleRepoDbTest.scala" />
       <jump line="16" column="30" filename="/private/tmp/test1/src/test.go" />
@@ -327,6 +325,8 @@
       <jump line="38" column="11" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
       <jump line="43" column="15" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
       <jump line="71" column="0" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="45" column="15" filename="/private/tmp/test1/src/test.go" />
+      <jump line="55" column="5" filename="/private/tmp/test1/src/test.go" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -2643,7 +2643,7 @@
         <text>freq</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaW5lYXJcPg==</text>
+        <text encoding="base64">XDxnZXRDb250ZW50c1w+</text>
       </register>
       <register name="0" type="4">
         <text>total_views_week</text>
@@ -2748,9 +2748,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsaW5lYXJcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRDb250ZW50c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaW5lYXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRDb250ZW50c1w+</last-pattern>
       <last-replace>AdminSlave</last-replace>
       <last-substitute>ProfileSlave</last-substitute>
       <last-dir>1</last-dir>
