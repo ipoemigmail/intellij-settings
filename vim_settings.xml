@@ -47,8 +47,8 @@
         <entry encoding="base64">JzwsJz5zL0xvY2FsRGF0ZS9EYXRlVGltZS9n</entry>
         <entry>%s/DruidLoad/S2Graph/g</entry>
         <entry>%s/ProfileSlave/AdminSlave/g</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -130,10 +130,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecoveryFromHdfs-prod.conf" timestamp="1589162731585">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecoveryFromHdfs-prod.conf" timestamp="1589165524871">
         <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="28" />
-        <mark key="." line="7" column="28" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="30" />
       </file>
       <file name="/private/tmp/test1/src/test.go" timestamp="1589124464440">
         <mark key="'" line="55" column="5" />
@@ -176,11 +177,10 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecoveryFromHdfs.scala" timestamp="1589161844073">
-        <mark key="[" line="32" column="36" />
-        <mark key="]" line="32" column="37" />
-        <mark key="." line="32" column="37" />
-        <mark key="^" line="32" column="11" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecoveryFromHdfs.scala" timestamp="1589170723005">
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="31" column="39" />
+        <mark key="." line="31" column="39" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" timestamp="1589101267275">
         <mark key="'" line="71" column="0" />
@@ -336,7 +336,7 @@
         <text>ValidationResult.Invalid(</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+        <text>/</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2641,7 +2641,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnJvbSA=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDb250ZW50c1w+</text>
@@ -2650,7 +2650,7 @@
         <text encoding="base64">ICAgIHZhbCBmcm9tID0gbmV3IERhdGVUaW1lKCIyMDIwLTA0LTExVDAwOjAwOjAwLjAwMCswOTAwIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCB0byA9IG5ldyBEYXRlVGltZSgiMjAyMC0wNC0xMlQxOTowMDowMC4wMDArMDkwMCIpCg==</text>
+        <text encoding="base64">ICAgIHZhbCB0byA9IG5ldyBEYXRlVGltZSgiMjAyMC0wNC0xMlQwMDowMDowMC4wMDArMDkwMCIpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2677,16 +2677,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNhdHMuZGF0YS5DaGFpbgo=</text>
+        <text encoding="base64">ICAgIHZhbCB0byA9IG5ldyBEYXRlVGltZSgiMjAyMC0wNC0xMlQxOTowMDowMC4wMDArMDkwMCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQobl9yZWNvcmRzKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNhdHMuZGF0YS5DaGFpbgo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgIGNhc2UgTm9uZSA9PiBTb21lKE5pbCkKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQobl9yZWNvcmRzKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -2723,7 +2723,10 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="8">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="8">
         <text>//
 //
 //
@@ -2736,11 +2739,8 @@
 //
 //</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">dXNlIAo=</text>
-      </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
