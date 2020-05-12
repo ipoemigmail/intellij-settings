@@ -47,8 +47,8 @@
         <entry>%s/DeviceRefinement/FindKafkaRecord/g</entry>
         <entry>%s/DeviceIdRefinement/FindKafkaRecord/g</entry>
         <entry>%s/\[A\]/[StoryRequestLog]/g</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,7 +134,7 @@
       <file name="$USER_HOME$/Develop/Works/story/story-sray/app/models/Profile.scala" timestamp="1589250819017">
         <mark key="'" line="128" column="22" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" timestamp="1589262887436">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" timestamp="1589265230477">
         <mark key="'" line="837" column="19" />
         <mark key="[" line="837" column="37" />
         <mark key="]" line="837" column="37" />
@@ -146,11 +146,11 @@
         <mark key="[" line="78" column="0" />
         <mark key="]" line="96" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/AgreementsInstances.scala" timestamp="1589209508431">
-        <mark key="[" line="8" column="55" />
-        <mark key="]" line="8" column="64" />
-        <mark key="." line="8" column="63" />
-        <mark key="^" line="8" column="64" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/AgreementsInstances.scala" timestamp="1589265311191">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="23" />
+        <mark key="^" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/findKafkaRecord/FindKafkaRecord.scala" timestamp="1589257336320">
         <mark key="'" line="60" column="4" />
@@ -312,7 +312,7 @@
         <text encoding="base64">b3ZlcnJpZGUg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.apply</text>
+        <text>Device</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2617,7 +2617,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>.apply</text>
+        <text>Device</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWx0ZXJUYXJnZXRQcm9maWxlR3JvdXBcPg==</text>
@@ -2706,7 +2706,7 @@
         <text encoding="base64">ICAgIGZvciB7CiAgICAgIGRlcGxveUJhc2VEaXIgPC0gRWl0aGVyLmNhdGNoTm9uRmF0YWwoY29uZmlnLmdldFN0cmluZygic3BhcmsuYXBwLmRlcGxveUJhc2VEaXIiKSkKICAgICAgYm9vdHN0cmFwU2VydmVycyA8LSBFaXRoZXIuY2F0Y2hOb25GYXRhbChjb25maWcuZ2V0U3RyaW5nKCJzcGFyay5hcHAua2Fma2EuYm9vdHN0cmFwU2VydmVycyIpKQogICAgICBiYXRjaER1cmF0aW9uIDwtIEVpdGhlci5jYXRjaE5vbkZhdGFsKGNvbmZpZy5nZXREdXJhdGlvbigic3BhcmsuYXBwLnN0cmVhbWluZy5iYXRjaER1cmF0aW9uIikpCiAgICAgIGF1dG9SZWNvdmVyeSA8LSBFaXRoZXIuY2F0Y2hOb25GYXRhbChjb25maWcuZ2V0Qm9vbGVhbigic3BhcmsuYXBwLnN0cmVhbWluZy5hdXRvUmVjb3ZlcnkiKSkKICAgICAgbW9uaXRvcmluZ01heERlcGxveSA8LSBFaXRoZXIuY2F0Y2hOb25GYXRhbChjb25maWcuZ2V0RHVyYXRpb24oInNwYXJrLmFwcC5zdHJlYW1pbmcubW9uaXRvcmluZy5tYXhEZWxheSIpKQogICAgICBtb25pdG9yaW5nTm90aWZ5SW50ZXJ2YWwgPC0gRWl0aGVyLmNhdGNoTm9uRmF0YWwoCiAgICAgICAgY29uZmlnLmdldER1cmF0aW9uKCJzcGFyay5hcHAuc3RyZWFtaW5nLm1vbml0b3Jpbmcubm90aWZ5SW50ZXJ2YWwiKSkKICAgIH0geWllbGQKICAgICAgU3BhcmtTdHJlYW1pbmdJbmZvKAogICAgICAgIHRoaXMuZ2V0Q2xhc3MuZ2V0TmFtZS5zdHJpcFN1ZmZpeCgiJCIpLAogICAgICAgIHBoYXNlLAogICAgICAgIGRlcGxveUJhc2VEaXIsCiAgICAgICAgYm9vdHN0cmFwU2VydmVycywKICAgICAgICBiYXRjaER1cmF0aW9uLAogICAgICAgIGF1dG9SZWNvdmVyeSwKICAgICAgICBtb25pdG9yaW5nTWF4RGVwbG95LAogICAgICAgIG1vbml0b3JpbmdOb3RpZnlJbnRlcnZhbAogICAgICApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
