@@ -125,10 +125,6 @@
         <mark key="." line="93" column="36" />
         <mark key="^" line="104" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/AbuseReportRepo.scala" timestamp="1589271034035">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="58" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" timestamp="1589331463420">
         <mark key="'" line="32" column="54" />
         <mark key="[" line="30" column="41" />
@@ -204,6 +200,10 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/db/repo/ProfileRepoDbTest.scala" timestamp="1589272466251">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="20" column="30" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-sray/app/models/dao/BlockHistory.scala" timestamp="1589332824577">
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="41" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/BannedUserRepoDb.scala" timestamp="1589274475302">
         <mark key="[" line="34" column="96" />
@@ -331,7 +331,7 @@
         <text>logService.info</text>
       </register>
       <register name="&quot;" type="4">
-        <text>build</text>
+        <text>block_histories</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2630,7 +2630,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>registration_blocked</text>
+        <text>block_histories</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
