@@ -173,13 +173,6 @@
         <mark key="." line="13" column="45" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/PushPayload.scala" timestamp="1589276578389">
-        <mark key="'" line="28" column="18" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="31" column="40" />
-        <mark key="." line="53" column="73" />
-        <mark key="^" line="53" column="74" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/srayStat/service/SrayStatService.scala" timestamp="1589334528703">
         <mark key="'" line="66" column="6" />
         <mark key="[" line="59" column="0" />
@@ -217,6 +210,7 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/APIHelper.scala" timestamp="1589334966930">
         <mark key="]" line="40" column="3" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/model/WakeUpLog.scala" timestamp="1589358820697" />
     </filemarks>
     <jumps>
       <jump line="534" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
@@ -326,8 +320,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICBkZWYgc2VuZCgKICAgICAgcGF5bG9hZDogUHVzaFBheWxvYWQsCiAgICAgIGV2ZW50SWQ6IFN0cmluZywKICAgICAgdGFyZ2V0QXBwVmVyc2lvbjogTWFwW1N0cmluZywgTWFwW1N0cmluZywgU3RyaW5nXV0sCiAgICAgIGRyeVJ1bjogQm9vbGVhbiA9IHRydWUKICApOiBVbml0ID0gewo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGltcGxpY2l0bHlbUHVzaENvbW1vblNlcnZpY2VdCg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2632,7 +2626,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>DatasetReader[WakeUpLog]</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXNoVGFyZ2V0c1w+</text>
@@ -2640,8 +2634,10 @@
       <register name="0" type="4">
         <text>DatasetReader[WakeUpLog]</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGltcGxpY2l0bHlbUHVzaENvbW1vblNlcnZpY2VdCg==</text>
+      <register name="1" type="4">
+        <text>{
+
+}</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2668,9 +2664,15 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGltcGxpY2l0bHlbUHVzaENvbW1vblNlcnZpY2VdCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIHB1c2hDb21tb25TZXJ2aWNlLnNlbmR3YXRjaHRvd2VyKHN0YXJ0TXNnKQo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="s" type="2">
+        <text encoding="base64">ICBkZWYgc2VuZChwYXlsb2FkOiBQdXNoUGF5bG9hZCwgZGV2aWNlOiBEZXZpY2UsIGV2ZW50SWQ6IFN0cmluZywgZHJ5UnVuOiBCb29sZWFuKTogVW5pdCA9IHsK</text>
+      </register>
+      <register name="4" type="8">
         <text>//
 //
 //
@@ -2699,20 +2701,14 @@
 //
 //</text>
       </register>
-      <register name="s" type="2">
-        <text encoding="base64">ICBkZWYgc2VuZChwYXlsb2FkOiBQdXNoUGF5bG9hZCwgZGV2aWNlOiBEZXZpY2UsIGV2ZW50SWQ6IFN0cmluZywgZHJ5UnVuOiBCb29sZWFuKTogVW5pdCA9IHsK</text>
-      </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">Ly8KLy8KLy8KLy8KLy8KLy8KLy8KLy8KCiAKCi8K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLmZvcmVhY2hQYXJ0aXRpb24geyB3YWtldXBMb2dzOiBJdGVyYXRvcltXYWtlVXBMb2ddID0+CiAgICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1c2hUYXJnZXRzCiAgICAgIC5yZXBhcnRpdGlvbihUcnkoY29uZmlnLmdldEludCgic3BhcmsuZXhlY3V0b3IuaW5zdGFuY2VzIikpLmdldE9yRWxzZSgxNSkpCiAgICAgIC5mb3JlYWNoUGFydGl0aW9uIHsgd2FrZXVwTG9nczogSXRlcmF0b3JbV2FrZVVwTG9nXSA9PgogICAgICB9Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAoKQo=</text>
+        <text encoding="base64">ICAgIHB1c2hUYXJnZXRzCiAgICAgIC5yZXBhcnRpdGlvbihUcnkoY29uZmlnLmdldEludCgic3BhcmsuZXhlY3V0b3IuaW5zdGFuY2VzIikpLmdldE9yRWxzZSgxNSkpCiAgICAgIC5mb3JlYWNoUGFydGl0aW9uIHsgd2FrZXVwTG9nczogSXRlcmF0b3JbV2FrZVVwTG9nXSA9PgogICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2741,10 +2737,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3YWtldXBMb2dzCg==</text>
+        <text encoding="base64">ICAgICAgICAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB3YWtldXBMb2dzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
