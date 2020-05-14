@@ -146,11 +146,16 @@
         <mark key="^" line="316" column="16" />
         <mark key="." line="317" column="8" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/TestHadoopEnvironment.scala" timestamp="1589442526983">
-        <mark key="[" line="49" column="27" />
-        <mark key="]" line="49" column="28" />
-        <mark key="." line="49" column="27" />
-        <mark key="^" line="49" column="28" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/resources/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderTest-dev.conf" timestamp="1589443473302">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="6" />
+        <mark key="." line="15" column="6" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/TestHadoopEnvironment.scala" timestamp="1589443308916">
+        <mark key="[" line="33" column="14" />
+        <mark key="]" line="33" column="25" />
+        <mark key="." line="33" column="24" />
+        <mark key="^" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender-dev.conf" timestamp="1589437102713">
         <mark key="'" line="13" column="21" />
@@ -168,12 +173,6 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/redisLoad/RedisLoadDeps.scala" timestamp="1589437407611">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="43" column="3" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/Summary.scala" timestamp="1589375580707">
-        <mark key="[" line="31" column="28" />
-        <mark key="]" line="31" column="34" />
-        <mark key="." line="31" column="33" />
-        <mark key="^" line="31" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/PushScheduleRepoDb.scala" timestamp="1589439656056">
         <mark key="'" line="53" column="6" />
@@ -328,8 +327,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICBkZWYgc2VuZCgKICAgICAgcGF5bG9hZDogUHVzaFBheWxvYWQsCiAgICAgIGV2ZW50SWQ6IFN0cmluZywKICAgICAgdGFyZ2V0QXBwVmVyc2lvbjogTWFwW1N0cmluZywgTWFwW1N0cmluZywgU3RyaW5nXV0sCiAgICAgIGRyeVJ1bjogQm9vbGVhbiA9IHRydWUKICApOiBVbml0ID0gewo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>clazz.</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2634,13 +2633,13 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>WakeUpPushSenderTest</text>
+        <text>clazz.</text>
       </register>
       <register name="/" type="4">
         <text>Slave</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImNvbmZpZyBzdGFydCIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oY2xhenouZ2V0Q2Fub25pY2FsTmFtZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAogICAgCg==</text>
