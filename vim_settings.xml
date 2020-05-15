@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ArcusLoad</entry>
-        <entry encoding="base64">XDxkZXZpY2VSZXBvXD4=</entry>
         <entry encoding="base64">XDxXYWtlVXBQdXNoU2VuZGVyQmF0Y2hcPg==</entry>
         <entry encoding="base64">XDxkZXBzXD4=</entry>
         <entry encoding="base64">XDxsb2dTZXJ2aWNlXD4=</entry>
@@ -27,6 +25,8 @@
         <entry>AdminSlave</entry>
         <entry>aspn</entry>
         <entry>apsn</entry>
+        <entry>valid</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZVB1c2hTY2hlZHVsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0cmluZy9TdHJpbmcvZw==</entry>
@@ -47,8 +47,8 @@
         <entry>%s/Etl//g</entry>
         <entry>%s/ArcusLoad/WakeUpPushSenderBatch/g</entry>
         <entry>%s/AdminSlave/AdminMaster/g</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -130,13 +130,9 @@
         <mark key="]" line="10" column="34" />
         <mark key="." line="10" column="93" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" timestamp="1589461441642">
-        <mark key="q" line="324" column="6" />
-        <mark key="'" line="277" column="15" />
-        <mark key="[" line="316" column="8" />
-        <mark key="]" line="316" column="8" />
-        <mark key="^" line="315" column="16" />
-        <mark key="." line="48" column="20" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch-prod.conf" timestamp="1589527555246">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="50" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatchTest.scala" timestamp="1589465445095">
         <mark key="'" line="51" column="0" />
@@ -145,7 +141,8 @@
         <mark key="^" line="25" column="25" />
         <mark key="." line="25" column="24" />
       </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/kafka/kafka-clients/2.0.0/kafka-clients-2.0.0-sources.jar!/org/apache/kafka/clients/producer/KafkaProducer.java" timestamp="1589461655720" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" timestamp="1589527499937" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/model/WakeUpTarget.scala" timestamp="1589527366671" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-submodule/escher-common/db/src/main/scala/story/model/service/Device.scala" timestamp="1589465191551">
         <mark key="[" line="48" column="76" />
         <mark key="]" line="48" column="171" />
@@ -157,38 +154,43 @@
         <mark key="^" line="21" column="43" />
         <mark key="." line="21" column="42" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch-prod.conf" timestamp="1589527561946">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="45" />
+        <mark key="^" line="13" column="46" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/kpusher.conf" timestamp="1589510617703" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch-dev.conf" timestamp="1589523786981" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/KafkaProducerServiceBrokerUrls.scala" timestamp="1589461634653" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/WakeUpPushSendServiceDefault.scala" timestamp="1589519437405">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch-dev.conf" timestamp="1589527539200">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="6" column="29" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/service/PushAdminService.scala" timestamp="1589527449245">
+        <mark key="'" line="97" column="4" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminService.scala" timestamp="1589527462306">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/WakeUpPushSendServiceDefault.scala" timestamp="1589527228517">
         <mark key="'" line="7" column="33" />
         <mark key="[" line="16" column="13" />
         <mark key="]" line="16" column="38" />
-        <mark key="." line="16" column="37" />
+        <mark key="." line="39" column="92" />
         <mark key="^" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch.scala" timestamp="1589522659664">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/PushScheduleRepoDb.scala" timestamp="1589461753151">
-        <mark key="'" line="53" column="6" />
-        <mark key="[" line="20" column="53" />
-        <mark key="]" line="20" column="59" />
-        <mark key="." line="20" column="58" />
-        <mark key="^" line="20" column="59" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch.scala" timestamp="1589528015972">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="33" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/real/kpusher.conf" timestamp="1589510631111">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="66" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/WakeUpPushSendService.scala" timestamp="1589462852929">
-        <mark key="'" line="7" column="99" />
-        <mark key="[" line="7" column="70" />
-        <mark key="]" line="7" column="79" />
-        <mark key="." line="7" column="78" />
-        <mark key="^" line="7" column="79" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/KpusherServiceDefault.scala" timestamp="1589509073667" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/DeviceRepoDb.scala" timestamp="1589508187157">
@@ -206,16 +208,8 @@
         <mark key="." line="20" column="51" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/DeviceRepo.scala" timestamp="1589508178374" />
-      <file name="/fragment.java" timestamp="1589462865930">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/WakeUpPushServiceDefault.scala" />
-      <jump line="88" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/WakeUpPushServiceDefault.scala" />
-      <jump line="28" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatchTest.scala" />
-      <jump line="64" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch.scala" />
-      <jump line="66" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch.scala" />
       <jump line="74" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushSendServiceDefault.scala" />
       <jump line="55" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushSendServiceDefault.scala" />
       <jump line="48" column="36" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushSendServiceDefault.scala" />
@@ -311,6 +305,11 @@
       <jump line="26" column="63" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/DeviceRepoDb.scala" />
       <jump line="27" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/DeviceRepoDb.scala" />
       <jump line="42" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch.scala" />
+      <jump line="24" column="31" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/service/PushAdminService.scala" />
+      <jump line="72" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/service/PushAdminService.scala" />
+      <jump line="46" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/service/PushAdminService.scala" />
+      <jump line="127" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/service/PushAdminService.scala" />
+      <jump line="97" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/service/PushAdminService.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,7 +318,7 @@
         <text>profileRepo</text>
       </register>
       <register name="&quot;" type="4">
-        <text>주입하기 위해 Service 를 따로</text>
+        <text>prodPg</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2624,16 +2623,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>주입하기 위해 Service 를 따로</text>
+        <text>prodPg</text>
       </register>
       <register name="/" type="4">
-        <text>apsn</text>
+        <text encoding="base64">XDx2YWxpZGF0ZVB1c2hTY2hlZHVsZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>deactivated_at is null and push_token is not null and app_version is not null and os is not null</text>
+      <register name="0" type="2">
+        <text encoding="base64">cm9vdERpciA9ICIva2FrYW9zdG9yeS9ldmVudC90YXJnZXRpbmdwdXNoL3dha2V1cCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAqIEBwYXJhbSBjb25maWcKICAqIEBwYXJhbSBwcm9maWxlUmVwbwogICogQHBhcmFtIGthZmthUHJvZHVjZXIKICAqIEBwYXJhbSBwdXNoU2VuZFNlcnZpY2UK</text>
+        <text encoding="base64">cm9vdERpciA9ICIvdG1wL2V2ZW50L3RhcmdldGluZ3B1c2gvd2FrZXVwIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2660,26 +2659,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwogICAgc3BhcmsudGFibGUoIiIpLndoZXJlKCQiYSIuaXNOb3ROdWxsKS5vcmRlckJ5KCQiMSIuZGVzYykKCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwogICAgc3BhcmsudGFibGUoIiIpLnNlbGVjdCgkImEiLCAkImIiKS5ncm91cEJ5KCJwcm9maWxlX2lkIikuY291bnQoKQoK</text>
+        <text encoding="base64">ICAgICAgICAgIHB1c2hUYXJnZXRzLnVucGVyc2lzdCgpCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICBkZWYgc2VuZChwYXlsb2FkOiBQdXNoUGF5bG9hZCwgZGV2aWNlOiBEZXZpY2UsIGV2ZW50SWQ6IFN0cmluZywgZHJ5UnVuOiBCb29sZWFuKTogVW5pdCA9IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqIEBwYXJhbSBjb25maWcKICAqIEBwYXJhbSBwcm9maWxlUmVwbwogICogQHBhcmFtIGthZmthUHJvZHVjZXIKICAqIEBwYXJhbSBwdXNoU2VuZFNlcnZpY2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNwYXJrLnRhYmxlCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwogICAgc3BhcmsudGFibGUoIiIpLndoZXJlKCQiYSIuaXNOb3ROdWxsKS5vcmRlckJ5KCQiMSIuZGVzYykKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwcmludGwK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBzcGFyay5pbXBsaWNpdHMuXwogICAgc3BhcmsudGFibGUoIiIpLnNlbGVjdCgkImEiLCAkImIiKS5ncm91cEJ5KCJwcm9maWxlX2lkIikuY291bnQoKQoK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-  }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2708,13 +2706,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcWwgPQogICAgICBmciIiInNlbGVjdCAiIiIgKysgRnJhZ21lbnQuY29uc3QoQWxsRmllbGRzLm1rU3RyaW5nKCIsICIpKSArKyBmciIiIgogICAgICAgICAgICB8ZnJvbSAiIiIuc3RyaXBNYXJnaW4gKysgRnJhZ21lbnQuY29uc3QodGFibGVOYW1lKSArKyBmciIiIgogICAgICAgICAgICB8d2hlcmUgcHJvZmlsZV9pZCA9ICRwcm9maWxlSWQiIiIuc3RyaXBNYXJnaW4KCiAgICBzcWxTZXJ2aWNlLnJ1bihzcWxTZXJ2aWNlLnF1ZXJ5W0RldmljZV0oc3FsKSkK</text>
+        <text encoding="base64">ICAgIHNwYXJrLnRhYmxlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwcmludGwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2723,9 +2721,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>apsn</last-search>
+      <last-search encoding="base64">XDx2YWxpZGF0ZVB1c2hTY2hlZHVsZVw+</last-search>
       <last-offset />
-      <last-pattern>apsn</last-pattern>
+      <last-pattern encoding="base64">XDx2YWxpZGF0ZVB1c2hTY2hlZHVsZVw+</last-pattern>
       <last-replace>AdminMaster</last-replace>
       <last-substitute>AdminSlave</last-substitute>
       <last-dir>1</last-dir>
