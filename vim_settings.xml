@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxiY0RyeVJ1blw+</entry>
-        <entry>Etl</entry>
         <entry>ArcusLoad</entry>
         <entry encoding="base64">XDxkZXZpY2VSZXBvXD4=</entry>
         <entry encoding="base64">XDxXYWtlVXBQdXNoU2VuZGVyQmF0Y2hcPg==</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxQdXNoU2VuZGVyVG9waWNcPg==</entry>
         <entry encoding="base64">XDxwdXNoQ29tbW9uU2VydmljZVw+</entry>
         <entry>AdminSlave</entry>
+        <entry>aspn</entry>
+        <entry>apsn</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0cmluZy9TdHJpbmcvZw==</entry>
@@ -170,13 +170,13 @@
         <mark key="^" line="393" column="66" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/KafkaProducerServiceBrokerUrls.scala" timestamp="1589461634653" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/WakeUpPushSendServiceDefault.scala" timestamp="1589465376502">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/WakeUpPushSendServiceDefault.scala" timestamp="1589510402955">
         <mark key="'" line="7" column="33" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch.scala" timestamp="1589508321274">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch.scala" timestamp="1589509763999">
         <mark key="[" line="43" column="30" />
         <mark key="]" line="43" column="40" />
         <mark key="." line="43" column="39" />
@@ -2638,7 +2638,7 @@
         <text>count()</text>
       </register>
       <register name="/" type="4">
-        <text>AdminSlave</text>
+        <text>apsn</text>
       </register>
       <register name="0" type="4">
         <text>deactivated_at is null and push_token is not null and app_version is not null and os is not null</text>
@@ -2734,9 +2734,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>AdminSlave</last-search>
+      <last-search>apsn</last-search>
       <last-offset />
-      <last-pattern>AdminSlave</last-pattern>
+      <last-pattern>apsn</last-pattern>
       <last-replace>AdminMaster</last-replace>
       <last-substitute>AdminSlave</last-substitute>
       <last-dir>1</last-dir>
