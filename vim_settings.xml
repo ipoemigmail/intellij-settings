@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxXYWtlVXBQdXNoU2VuZGVyQmF0Y2hcPg==</entry>
-        <entry encoding="base64">XDxkZXBzXD4=</entry>
         <entry encoding="base64">XDxsb2dTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxkYXRlUGFyc2VyXD4=</entry>
         <entry encoding="base64">XDxrYWZrYVByb2R1Y2VyXD4=</entry>
@@ -27,6 +25,8 @@
         <entry>apsn</entry>
         <entry>valid</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVB1c2hTY2hlZHVsZVw+</entry>
+        <entry>udf</entry>
+        <entry>udf\c</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0cmluZy9TdHJpbmcvZw==</entry>
@@ -165,13 +165,7 @@
         <mark key="." line="26" column="62" />
         <mark key="^" line="27" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatchTest.scala" timestamp="1589465445095">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="25" />
-        <mark key="^" line="25" column="25" />
-        <mark key="." line="25" column="24" />
-      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" timestamp="1589775767058" />
       <file name="$USER_HOME$/Develop/Personal/zio-study/project/Dependencies.scala" timestamp="1589724076678">
         <mark key="[" line="5" column="57" />
         <mark key="]" line="5" column="58" />
