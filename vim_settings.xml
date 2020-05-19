@@ -47,8 +47,8 @@
         <entry>%s/Etl//g</entry>
         <entry>%s/ArcusLoad/WakeUpPushSenderBatch/g</entry>
         <entry>%s/AdminSlave/AdminMaster/g</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -143,6 +143,13 @@
         <mark key="." line="70" column="57" />
         <mark key="^" line="70" column="58" />
       </file>
+      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.4.go" timestamp="1589901009203">
+        <mark key="'" line="34" column="12" />
+        <mark key="[" line="49" column="36" />
+        <mark key="]" line="49" column="40" />
+        <mark key="." line="49" column="39" />
+        <mark key="^" line="49" column="40" />
+      </file>
       <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.2.go" timestamp="1589813765644">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="8" column="29" />
@@ -206,15 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/CommonUtil.scala" />
-      <jump line="20" column="49" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/CommonUtil.scala" />
-      <jump line="33" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="41" column="49" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="30" column="42" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="35" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="37" column="48" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
-      <jump line="15" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/service/push/PushService.scala" />
-      <jump line="32" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
       <jump line="14" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
       <jump line="71" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
       <jump line="94" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
@@ -306,6 +304,15 @@
       <jump line="12" column="24" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.3.go" />
       <jump line="19" column="32" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.3.go" />
       <jump line="27" column="4" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.3.go" />
+      <jump line="7" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.4.go" />
+      <jump line="13" column="4" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.4.go" />
+      <jump line="24" column="4" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.4.go" />
+      <jump line="6" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.4.go" />
+      <jump line="10" column="32" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.4.go" />
+      <jump line="28" column="12" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.4.go" />
+      <jump line="35" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.4.go" />
+      <jump line="52" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.4.go" />
+      <jump line="34" column="12" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.4.go" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,7 +321,7 @@
         <text encoding="base64">ICBkZWYgc2VuZCgKICAgICAgcGF5bG9hZDogUHVzaFBheWxvYWQsCiAgICAgIGV2ZW50SWQ6IFN0cmluZywKICAgICAgdGFyZ2V0QXBwVmVyc2lvbjogTWFwW1N0cmluZywgTWFwW1N0cmluZywgU3RyaW5nXV0sCiAgICAgIGRyeVJ1bjogQm9vbGVhbiA9IHRydWUKICApOiBVbml0ID0gewo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>[]string{}</text>
+        <text>1</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2619,16 +2626,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>[]string{}</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcGVuZFRpbWUyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN0YXJ0KQoJZm10LlByaW50bG4oZW5kKQo=</text>
+      <register name="0" type="4">
+        <text>map[string]map[string]int</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN0YXJ0MSkKCWZtdC5QcmludGxuKGVuZDEpCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2655,25 +2662,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN0YXJ0MikKCWZtdC5QcmludGxuKGVuZDIpCg==</text>
+        <text encoding="base64">CQkJaSA6PSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN0YXJ0KQoJZm10LlByaW50bG4oZW5kKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICBkZWYgc2VuZChwYXlsb2FkOiBQdXNoUGF5bG9hZCwgZGV2aWNlOiBEZXZpY2UsIGV2ZW50SWQ6IFN0cmluZywgZHJ5UnVuOiBCb29sZWFuKTogVW5pdCA9IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN0YXJ0KQoJZm10LlByaW50bG4oZW5kKQo=</text>
+        <text encoding="base64">CSJnb2xhbmctIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHMpCg==</text>
+        <text encoding="base64">CQljb3VudHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHMpCg==</text>
+        <text encoding="base64">CSJzdHJpbmdzIgoJInRpbWUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHN0YXJ0KQoJZm10LlByaW50bG4oZW5kKQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2702,13 +2709,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXMsIHNlcCA9ICIiLCAiIgo=</text>
+        <text encoding="base64">CQlpbnB1dCA6PSBidWZpby5OZXdTY2FubmVyKGYpCgkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXN0ID0gZW5kIC0gc3RhcnQK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
