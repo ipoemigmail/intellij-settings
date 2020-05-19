@@ -176,12 +176,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.3.go" timestamp="1589815974360">
+      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.3.go" timestamp="1589898535115">
         <mark key="'" line="28" column="4" />
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="6" />
-        <mark key="." line="19" column="4" />
-        <mark key="^" line="19" column="6" />
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.1.go" timestamp="1589813664551">
         <mark key="'" line="11" column="0" />
@@ -314,7 +314,7 @@
         <text encoding="base64">ICBkZWYgc2VuZCgKICAgICAgcGF5bG9hZDogUHVzaFBheWxvYWQsCiAgICAgIGV2ZW50SWQ6IFN0cmluZywKICAgICAgdGFyZ2V0QXBwVmVyc2lvbjogTWFwW1N0cmluZywgTWFwW1N0cmluZywgU3RyaW5nXV0sCiAgICAgIGRyeVJ1bjogQm9vbGVhbiA9IHRydWUKICApOiBVbml0ID0gewo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>end1-start1</text>
+        <text>[]string{}</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2619,7 +2619,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>end1-start1</text>
+        <text>[]string{}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcGVuZFRpbWUyXD4=</text>
