@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXBzXD4=</entry>
-        <entry encoding="base64">XDxsb2dTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxkYXRlUGFyc2VyXD4=</entry>
         <entry encoding="base64">XDxrYWZrYVByb2R1Y2VyXD4=</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
@@ -27,6 +25,8 @@
         <entry>valid</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVB1c2hTY2hlZHVsZVw+</entry>
         <entry encoding="base64">XDxlbmRcPg==</entry>
+        <entry encoding="base64">XDxhcmdzXD4=</entry>
+        <entry encoding="base64">XDxzcGVuZFRpbWUyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0cmluZy9TdHJpbmcvZw==</entry>
@@ -176,12 +176,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.3.go" timestamp="1589814794690">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="33" />
-        <mark key="." line="9" column="32" />
-        <mark key="^" line="9" column="33" />
+      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.3.go" timestamp="1589815974360">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="6" />
+        <mark key="." line="19" column="4" />
+        <mark key="^" line="19" column="6" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.1.go" timestamp="1589813664551">
         <mark key="'" line="11" column="0" />
@@ -206,10 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/APIHelper.scala" />
-      <jump line="45" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/APIHelper.scala" />
-      <jump line="7" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/APIHelper.scala" />
-      <jump line="5" column="9" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/CommonUtil.scala" />
       <jump line="35" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/CommonUtil.scala" />
       <jump line="20" column="49" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/CommonUtil.scala" />
       <jump line="33" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/HbaseServiceSimple.scala" />
@@ -306,6 +302,10 @@
       <jump line="24" column="0" filename="/usr/local/Cellar/go/1.14.3/libexec/src/strings/builder.go" />
       <jump line="18" column="32" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.3.go" />
       <jump line="23" column="4" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.3.go" />
+      <jump line="9" column="4" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.3.go" />
+      <jump line="12" column="24" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.3.go" />
+      <jump line="19" column="32" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.3.go" />
+      <jump line="27" column="4" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.3.go" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,7 +314,7 @@
         <text encoding="base64">ICBkZWYgc2VuZCgKICAgICAgcGF5bG9hZDogUHVzaFBheWxvYWQsCiAgICAgIGV2ZW50SWQ6IFN0cmluZywKICAgICAgdGFyZ2V0QXBwVmVyc2lvbjogTWFwW1N0cmluZywgTWFwW1N0cmluZywgU3RyaW5nXV0sCiAgICAgIGRyeVJ1bjogQm9vbGVhbiA9IHRydWUKICApOiBVbml0ID0gewo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>end1-start1</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2619,16 +2619,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>end1-start1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbmRcPg==</text>
+        <text encoding="base64">XDxzcGVuZFRpbWUyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXN0YXJ0IDo9IHRpbWUuTm93KCkKCXMsIHNlcCA6PSAiIiwgIiIKCWZvciBfLCBhcmcgOj0gcmFuZ2Ugb3MuQXJnc1sxOl0gewoJCXMgKz0gc2VwICsgYXJnCgkJc2VwID0gIiAiCgl9CglmbXQuUHJpbnRsbihzKQoJZW5kIDo9IHRpbWUuTm93KCkKCWZtdC5QcmludGxuKCJzcGVuZCB0aW1lOiIsIChlbmQuTmFub3NlY29uZCgpIC0gc3RhcnQuTmFub3NlY29uZCgpKSAvIHRpbWUuTWlsbGlzZWNvbmQpCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHN0YXJ0KQoJZm10LlByaW50bG4oZW5kKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWZvciBpIDo9IDA7IGkgPCAxMDAwMDAwMDsgaSsrIHsKCQlhcmdzLgoJfQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHN0YXJ0MSkKCWZtdC5QcmludGxuKGVuZDEpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2655,25 +2655,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWFyZ3MgOj0gb3MuQXJnc1s6MV0K</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHN0YXJ0MikKCWZtdC5QcmludGxuKGVuZDIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWFyZ3MgPQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHN0YXJ0KQoJZm10LlByaW50bG4oZW5kKQo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICBkZWYgc2VuZChwYXlsb2FkOiBQdXNoUGF5bG9hZCwgZGV2aWNlOiBEZXZpY2UsIGV2ZW50SWQ6IFN0cmluZywgZHJ5UnVuOiBCb29sZWFuKTogVW5pdCA9IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZvciBfLCBhcmcgOj0gcmFuZ2Ugb3MuQXJnc1sxOl0gewoJCXMgKz0gc2VwICsgYXJnCgkJc2VwID0gIiAiCgl9Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHN0YXJ0KQoJZm10LlByaW50bG4oZW5kKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8K</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHN0YXJ0KQoJZm10LlByaW50bG4oZW5kKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2702,10 +2702,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZvciBpLCB2IDo9IHJhbmdlIG9zLkFyZ3NbMTpdIHsKCQlmbXQuUHJpbnRsbihpLCB2KQoJfQo=</text>
+        <text encoding="base64">CXMsIHNlcCA9ICIiLCAiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CXN0ID0gZW5kIC0gc3RhcnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2717,9 +2717,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxlbmRcPg==</last-search>
+      <last-search encoding="base64">XDxzcGVuZFRpbWUyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbmRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzcGVuZFRpbWUyXD4=</last-pattern>
       <last-replace>Device</last-replace>
       <last-substitute>Profile</last-substitute>
       <last-dir>1</last-dir>
