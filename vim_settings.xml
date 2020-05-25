@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwdXNoV2F0Y2hUb3dlck1lc3NhZ2VTZXJ2aWNlXD4=</entry>
-        <entry encoding="base64">XDxleHRyYWN0VGFyZ2V0VXNlclw+</entry>
-        <entry encoding="base64">XDxzZW5kS2Fma2FcPg==</entry>
         <entry encoding="base64">XDxwdXNoQWRtaW5TZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxwcm9maWxlUmVwb1w+</entry>
         <entry encoding="base64">XDxQdXNoQ29tbW9uU2VydmljZVw+</entry>
@@ -20,13 +17,16 @@
         <entry>apsn</entry>
         <entry>valid</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVB1c2hTY2hlZHVsZVw+</entry>
-        <entry>udf</entry>
-        <entry>udf\c</entry>
-        <entry encoding="base64">XDxnZXRcPg==</entry>
-        <entry encoding="base64">XDxqb2JOYW1lXD4=</entry>
-        <entry encoding="base64">XDxqZW5raW5zU2VydmVyVHJ5XD4=</entry>
-        <entry>story</entry>
-        <entry encoding="base64">XDx2aWV3TmFtZVw+</entry>
+        <entry encoding="base64">XDxlbmRcPg==</entry>
+        <entry encoding="base64">XDxhcmdzXD4=</entry>
+        <entry encoding="base64">XDxzcGVuZFRpbWUyXD4=</entry>
+        <entry encoding="base64">XDx3aGl0ZUluZGV4XD4=</entry>
+        <entry encoding="base64">XDxibGFja0luZGV4XD4=</entry>
+        <entry encoding="base64">XDxQYWxldHRlXD4=</entry>
+        <entry encoding="base64">XDxyYW5kXD4=</entry>
+        <entry encoding="base64">XDxsaXNzYWpvdXNcPg==</entry>
+        <entry encoding="base64">XDxpXD4=</entry>
+        <entry encoding="base64">XDxwYWxldHRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0cmluZy9TdHJpbmcvZw==</entry>
@@ -118,87 +118,78 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch-dev.conf" timestamp="1589527539200">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="6" column="29" />
+      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch01/exercise1.5.go" timestamp="1589991174192">
+        <mark key="'" line="58" column="8" />
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="38" />
+        <mark key="^" line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio-streams_2.13/1.0.0-RC19/zio-streams_2.13-1.0.0-RC19-sources.jar!/zio/stream/ZSink.scala" timestamp="1589724432997">
-        <mark key="'" line="455" column="55" />
+      <file name="/usr/local/Cellar/go/1.14.3/libexec/src/strings/strings.go" timestamp="1589814620318">
+        <mark key="[" line="431" column="4" />
+        <mark key="]" line="431" column="4" />
+        <mark key="^" line="431" column="4" />
+        <mark key="." line="431" column="0" />
       </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/offbytwo/jenkins/jenkins-client/0.3.8/jenkins-client-0.3.8-sources.jar!/com/offbytwo/jenkins/client/JenkinsHttpClient.java" timestamp="1589953017919" />
-      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/offbytwo/jenkins/jenkins-client/0.3.8/jenkins-client-0.3.8-sources.jar!/com/offbytwo/jenkins/JenkinsServer.java" timestamp="1589953047917" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/service/PushAdminService.scala" timestamp="1589527449245">
-        <mark key="'" line="97" column="4" />
-      </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_02_fiber_ref/FiberRefSpec.scala" timestamp="1589724333836">
-        <mark key="'" line="70" column="41" />
-        <mark key="[" line="70" column="51" />
-        <mark key="]" line="70" column="58" />
-        <mark key="." line="70" column="57" />
-        <mark key="^" line="70" column="58" />
+      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.4.go" timestamp="1589901255233">
+        <mark key="'" line="42" column="31" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" timestamp="1589963444695">
         <mark key="'" line="179" column="33" />
         <mark key="[" line="170" column="10" />
         <mark key="]" line="170" column="34" />
-        <mark key="^" line="170" column="34" />
         <mark key="." line="170" column="33" />
+        <mark key="^" line="170" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/accountIdExtractor/AccountIdExtractorBatch.scala" timestamp="1589969864471" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch-prod.conf" timestamp="1589527555246">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="50" />
+      <file name="/usr/local/Cellar/go/1.14.3/libexec/src/image/color/color.go" timestamp="1589989858618">
+        <mark key="'" line="279" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/accountIdExtractor/AccountIdExtractorBatch-dev.conf" timestamp="1589965265634">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="21" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="21" />
+      <file name="/usr/local/Cellar/go/1.14.3/libexec/src/strings/builder.go" timestamp="1589814663517">
+        <mark key="'" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsScriptRegisterMain.scala" timestamp="1589953129692" />
+      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch01/exercise1.6/main.go" timestamp="1589992069840">
+        <mark key="'" line="55" column="39" />
+        <mark key="[" line="19" column="52" />
+        <mark key="]" line="19" column="53" />
+        <mark key="^" line="19" column="89" />
+        <mark key="." line="19" column="53" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/videoRank/VideoRankBatch-prod.conf" timestamp="1589938718316">
         <mark key="'" line="14" column="12" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="25" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/project/Dependencies.scala" timestamp="1589724076678">
-        <mark key="[" line="5" column="57" />
-        <mark key="]" line="5" column="58" />
-        <mark key="." line="5" column="57" />
-        <mark key="^" line="5" column="58" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/sender/WakeupPushSender.conf" timestamp="1589938741108">
-        <mark key="[" line="14" column="58" />
-        <mark key="]" line="14" column="58" />
-        <mark key="." line="14" column="58" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch-prod.conf" timestamp="1589527561946">
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="45" />
-        <mark key="^" line="13" column="46" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/WakeUpPushSendServiceDefault.scala" timestamp="1589955784303">
         <mark key="'" line="7" column="33" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
+        <mark key="^" line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/register.sh" timestamp="1589953206947" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch.scala" timestamp="1589528015972">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="33" />
-        <mark key="." line="58" column="0" />
+      <file name="/usr/local/Cellar/go/1.14.3/libexec/src/image/gif/reader.go" timestamp="1589990415801" />
+      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/chapter01/exercise1.3.go" timestamp="1589898535115">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" timestamp="1589725058760">
-        <mark key="[" line="80" column="87" />
-        <mark key="]" line="80" column="89" />
-        <mark key="." line="80" column="88" />
-        <mark key="^" line="80" column="89" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/accountIdExtractor/AccountIdExtractorBatch-dev.conf" timestamp="1589965265634">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="20" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/sender/WakeupPushSender.conf" timestamp="1589938741108">
+        <mark key="[" line="14" column="58" />
+        <mark key="]" line="14" column="58" />
+        <mark key="." line="14" column="58" />
+      </file>
+      <file name="/usr/local/Cellar/go/1.14.3/libexec/src/image/image.go" timestamp="1589990627932" />
       <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/offbytwo/jenkins/jenkins-client/0.3.8/jenkins-client-0.3.8-sources.jar!/com/offbytwo/jenkins/client/validator/HttpResponseValidator.java" timestamp="1589958048041">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="42" />
