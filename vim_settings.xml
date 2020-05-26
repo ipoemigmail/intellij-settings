@@ -139,12 +139,11 @@
         <mark key="[" line="58" column="14" />
         <mark key="]" line="58" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/logback-alpha.xml" timestamp="1590465812104">
+      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/logback-alpha.xml" timestamp="1590467130711">
         <mark key="'" line="8" column="57" />
-        <mark key="[" line="77" column="78" />
-        <mark key="]" line="77" column="82" />
-        <mark key="." line="77" column="81" />
-        <mark key="^" line="77" column="82" />
+        <mark key="[" line="77" column="61" />
+        <mark key="]" line="77" column="61" />
+        <mark key="." line="77" column="61" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumerPool.java" timestamp="1590464868260">
         <mark key="'" line="48" column="12" />
@@ -317,7 +316,7 @@
         <text encoding="base64">ICBkZWYgc2VuZCgKICAgICAgcGF5bG9hZDogUHVzaFBheWxvYWQsCiAgICAgIGV2ZW50SWQ6IFN0cmluZywKICAgICAgdGFyZ2V0QXBwVmVyc2lvbjogTWFwW1N0cmluZywgTWFwW1N0cmluZywgU3RyaW5nXV0sCiAgICAgIGRyeVJ1bjogQm9vbGVhbiA9IHRydWUKICApOiBVbml0ID0gewo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ERROR</text>
+        <text>.Fetcher</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2622,7 +2621,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>ERROR</text>
+        <text>.Fetcher</text>
       </register>
       <register name="/" type="4">
         <text>mapRecords</text>
