@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>AdminSlave</entry>
-        <entry>aspn</entry>
-        <entry>apsn</entry>
         <entry>valid</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVB1c2hTY2hlZHVsZVw+</entry>
         <entry encoding="base64">XDxlbmRcPg==</entry>
@@ -27,6 +24,9 @@
         <entry encoding="base64">XDxjeWNsZXNcPg==</entry>
         <entry encoding="base64">XDxxdWVyeVBhcmFtc1w+</entry>
         <entry encoding="base64">XDxmbXRcPg==</entry>
+        <entry encoding="base64">XDxvcmlnaW5Qb3BDb3VudFw+</entry>
+        <entry encoding="base64">XDxQb3BDb3VudEJ5U2hpZnRpbmdcPg==</entry>
+        <entry encoding="base64">XDxCZW5jaG1hcmtQb3BDb3VudFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0cmluZy9TdHJpbmcvZw==</entry>
@@ -132,11 +132,10 @@
         <mark key="^" line="16" column="60" />
         <mark key="." line="16" column="59" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/main.go" timestamp="1590416207565">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="34" />
-        <mark key="." line="8" column="34" />
-        <mark key="^" line="3" column="30" />
+      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/main.go" timestamp="1590416953658">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.1/main.go" timestamp="1590326173314">
         <mark key="[" line="10" column="12" />
@@ -149,16 +148,6 @@
         <mark key="]" line="9" column="53" />
         <mark key="^" line="9" column="53" />
         <mark key="." line="9" column="52" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" timestamp="1589963444695">
-        <mark key="'" line="179" column="33" />
-        <mark key="[" line="170" column="10" />
-        <mark key="]" line="170" column="34" />
-        <mark key="." line="170" column="33" />
-        <mark key="^" line="170" column="34" />
-      </file>
-      <file name="/usr/local/Cellar/go/1.14.3/libexec/src/image/color/color.go" timestamp="1589989858618">
-        <mark key="'" line="279" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch01/exercise1.6/main.go" timestamp="1590249922431">
         <mark key="'" line="38" column="0" />
@@ -180,11 +169,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="16" column="35" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/popcount.go" timestamp="1590416197503">
+      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/popcount.go" timestamp="1590416477306">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="19" />
-        <mark key="." line="16" column="18" />
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="9" />
+        <mark key="." line="11" column="9" />
         <mark key="^" line="16" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch01/exercise1.8/main.go" timestamp="1590158214640">
@@ -193,18 +182,37 @@
         <mark key="^" line="13" column="33" />
         <mark key="." line="13" column="32" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/golang/src/gopl.io/ch2/popcount/popcount_test.go" timestamp="1590418329654">
+        <mark key="'" line="13" column="28" />
+        <mark key="[" line="59" column="27" />
+        <mark key="]" line="59" column="44" />
+      </file>
+      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main.go" timestamp="1590418530247">
+        <mark key="'" line="113" column="8" />
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="34" column="17" />
+        <mark key="." line="34" column="16" />
+        <mark key="^" line="34" column="17" />
+      </file>
       <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch01/exercise1.9/main.go" timestamp="1590158766526">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="53" />
         <mark key="^" line="20" column="22" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/accountIdExtractor/AccountIdExtractorBatch-dev.conf" timestamp="1589965265634">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="21" />
-        <mark key="^" line="12" column="21" />
-        <mark key="." line="12" column="20" />
+      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/main_test.go" timestamp="1590417152489">
+        <mark key="'" line="3" column="20" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="9" column="26" />
+        <mark key="." line="9" column="25" />
+        <mark key="^" line="9" column="26" />
+      </file>
+      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main_test.go" timestamp="1590418254265">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="33" column="30" />
+        <mark key="^" line="33" column="22" />
+        <mark key="." line="33" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch01/exercise1.10/main.go" timestamp="1590250615355">
         <mark key="'" line="36" column="8" />
@@ -212,10 +220,6 @@
         <mark key="]" line="17" column="18" />
         <mark key="." line="23" column="32" />
         <mark key="^" line="23" column="33" />
-      </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/offbytwo/jenkins/jenkins-client/0.3.8/jenkins-client-0.3.8-sources.jar!/com/offbytwo/jenkins/client/validator/HttpResponseValidator.java" timestamp="1589958048041">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="42" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch01/exercise1.12/main.go" timestamp="1590250836970">
         <mark key="[" line="32" column="0" />
@@ -231,37 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="98" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="120" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="94" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="7" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonService.scala" />
-      <jump line="17" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonService.scala" />
-      <jump line="13" column="42" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonServiceDefault.scala" />
-      <jump line="95" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="35" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" />
-      <jump line="40" column="30" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/base/src/main/scala/story/util/Summary.scala" />
-      <jump line="35" column="5" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="192" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="66" column="45" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="46" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="70" column="19" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="67" column="65" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="63" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="57" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="83" column="45" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="71" column="31" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="69" column="47" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="68" column="44" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="81" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="58" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="82" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="50" column="60" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="382" column="37" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
-      <jump line="343" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
-      <jump line="33" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
-      <jump line="284" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
-      <jump line="85" column="37" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="145" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
       <jump line="70" column="41" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_02_fiber_ref/FiberRefSpec.scala" />
@@ -326,11 +299,42 @@
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount.go" />
       <jump line="2" column="7" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/main.go" />
       <jump line="50" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/main.go" />
-      <jump line="3" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/main.go" />
       <jump line="9" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/popcount.go" />
       <jump line="12" column="14" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/popcount.go" />
       <jump line="5" column="8" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/popcount.go" />
       <jump line="20" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/popcount.go" />
+      <jump line="3" column="4" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/main.go" />
+      <jump line="6" column="7" filename="$USER_HOME$/Develop/Works/golang/src/gopl.io/ch2/popcount/popcount_test.go" />
+      <jump line="88" column="22" filename="$USER_HOME$/Develop/Works/golang/src/gopl.io/ch2/popcount/popcount_test.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/golang/src/gopl.io/ch2/popcount/popcount_test.go" />
+      <jump line="35" column="0" filename="$USER_HOME$/Develop/Works/golang/src/gopl.io/ch2/popcount/popcount_test.go" />
+      <jump line="33" column="5" filename="$USER_HOME$/Develop/Works/golang/src/gopl.io/ch2/popcount/popcount_test.go" />
+      <jump line="65" column="8" filename="$USER_HOME$/Develop/Works/golang/src/gopl.io/ch2/popcount/popcount_test.go" />
+      <jump line="71" column="3" filename="$USER_HOME$/Develop/Works/golang/src/gopl.io/ch2/popcount/popcount_test.go" />
+      <jump line="78" column="3" filename="$USER_HOME$/Develop/Works/golang/src/gopl.io/ch2/popcount/popcount_test.go" />
+      <jump line="85" column="3" filename="$USER_HOME$/Develop/Works/golang/src/gopl.io/ch2/popcount/popcount_test.go" />
+      <jump line="45" column="5" filename="$USER_HOME$/Develop/Works/golang/src/gopl.io/ch2/popcount/popcount_test.go" />
+      <jump line="4" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/main.go" />
+      <jump line="11" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/main.go" />
+      <jump line="13" column="28" filename="$USER_HOME$/Develop/Works/golang/src/gopl.io/ch2/popcount/popcount_test.go" />
+      <jump line="0" column="15" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/main.go" />
+      <jump line="7" column="11" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/main_test.go" />
+      <jump line="3" column="20" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/main_test.go" />
+      <jump line="7" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main_test.go" />
+      <jump line="23" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main.go" />
+      <jump line="13" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main_test.go" />
+      <jump line="31" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main.go" />
+      <jump line="52" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main.go" />
+      <jump line="19" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main_test.go" />
+      <jump line="29" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main_test.go" />
+      <jump line="38" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main.go" />
+      <jump line="105" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main.go" />
+      <jump line="11" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main.go" />
+      <jump line="87" column="8" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main.go" />
+      <jump line="12" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main.go" />
+      <jump line="6" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main_test.go" />
+      <jump line="25" column="0" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main_test.go" />
+      <jump line="111" column="8" filename="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main.go" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,7 +343,7 @@
         <text encoding="base64">ICBkZWYgc2VuZCgKICAgICAgcGF5bG9hZDogUHVzaFBheWxvYWQsCiAgICAgIGV2ZW50SWQ6IFN0cmluZywKICAgICAgdGFyZ2V0QXBwVmVyc2lvbjogTWFwW1N0cmluZywgTWFwW1N0cmluZywgU3RyaW5nXV0sCiAgICAgIGRyeVJ1bjogQm9vbGVhbiA9IHRydWUKICApOiBVbml0ID0gewo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text encoding="base64">Y250ICs9IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2644,16 +2648,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text encoding="base64">Y250ICs9IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmbXRcPg==</text>
+        <text encoding="base64">XDxCZW5jaG1hcmtQb3BDb3VudFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cGNbYnl0ZSh4Pj4oMCo4KSld</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnVuYyBCZW5jaG1hcmtTaGlmdFBvcENvdW50MihiICp0ZXN0aW5nLkIpIHsKCWZvciBpIDo9IDA7IGkgPCBiLk47IGkrKyB7CgkJcG9wY291bnQuU2hpZnRQb3BDb3VudDIoMHgxMjM0NTY3ODkwQUJDREVGKQoJfQp9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aW50KHBjW2J5dGUoeD4+KDAqOCkpXSArCgkJcGNbYnl0ZSh4Pj4oMSo4KSldICsKCQlwY1tieXRlKHg+PigyKjgpKV0gKwoJCXBjW2J5dGUoeD4+KDMqOCkpXSArCgkJcGNbYnl0ZSh4Pj4oNCo4KSldICsKCQlwY1tieXRlKHg+Pig1KjgpKV0gKwoJCXBjW2J5dGUoeD4+KDYqOCkpXSArCgkJcGNbYnl0ZSh4Pj4oNyo4KSldKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2680,25 +2684,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWZ1bmMgUG9wY291bnQoeCB1aW50NjQpIGludCB7CgkJCgl9Cg==</text>
+        <text encoding="base64">CXJldHVybiBpbnQocGNbYnl0ZSh4Pj4oMCo4KSldICsKCQlwY1tieXRlKHg+PigxKjgpKV0gKwoJCXBjW2J5dGUoeD4+KDIqOCkpXSArCgkJcGNbYnl0ZSh4Pj4oMyo4KSldICsKCQlwY1tieXRlKHg+Pig0KjgpKV0gKwoJCXBjW2J5dGUoeD4+KDUqOCkpXSArCgkJcGNbYnl0ZSh4Pj4oNio4KSldICsKCQlwY1tieXRlKHg+Pig3KjgpKV0pCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICBkZWYgc2VuZChwYXlsb2FkOiBQdXNoUGF5bG9hZCwgZGV2aWNlOiBEZXZpY2UsIGV2ZW50SWQ6IFN0cmluZywgZHJ5UnVuOiBCb29sZWFuKTogVW5pdCA9IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXZhciBudW1zIFtdc3RyaW5nCglpZiBsZW4ob3MuQXJncykgPT0gMSB7CgkJbGluZSwgXywgZXJyIDo9IGJ1ZmlvLk5ld1JlYWRlcihvcy5TdGRpbikuUmVhZExpbmUoKQoJCWlmIGVyciAhPSBuaWwgewoJCQlvcy5FeGl0KDEpCgkJfQoJCWZtdC5QcmludGxuKCIje251bXN9MSIpCgkJbnVtcyA9IHN0cmluZ3MuU3BsaXQoc3RyaW5nKGxpbmUpLCAiICIpCgl9IGVsc2UgewoJCW51bXMgPSBvcy5BcmdzWzE6XQoJfQoJZm9yIF8sIGFyZyA6PSByYW5nZSBudW1zIHsKCQl0LCBlcnIgOj0gc3RyY29udi5QYXJzZUZsb2F0KGFyZywgNjQpCgkJaWYgZXJyICE9IG5pbCB7CgkJCWZtdC5GcHJpbnRmKG9zLlN0ZGVyciwgImNmOiAldlxuIiwgZXJyKQoJCQlvcy5FeGl0KDEpCgkJfQoJCWYgOj0gdGVtcGNvbnYuRmFocmVuaGVpdCh0KQoJCWMgOj0gdGVtcGNvbnYuQ2Vsc2l1cyh0KQoJCW0gOj0gTWV0ZXIodCkKCQlmdCA6PSBGZWV0KHQpCgkJcCA6PSBQb3VuZCh0KQoJCWtnIDo9IEtpbG9ncmFtKHQpCgkJZm10LlByaW50ZigiJXMgPSAlcywgJXMgPSAlc1xuIiwgZiwgdGVtcGNvbnYuRlRvQyhmKSwgYywgdGVtcGNvbnYuQ1RvRihjKSkKCQlmbXQuUHJpbnRmKCIlcyA9ICVzLCAlcyA9ICVzXG4iLCBtLCBNZXRlclRvRmVldChtKSwgZnQsIEZlZXRUb01ldGVyKGZ0KSkKCQlmbXQuUHJpbnRmKCIlcyA9ICVzLCAlcyA9ICVzXG4iLCBwLCBQb3VuZFRvS2lsb2dyYW0ocCksIGtnLCBLaWxvZ3JhbVRvUG91bmQoa2cpKQoJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkoeCA+PiA1NCkgJiAxICsKCQkoeCA+PiA1NSkgJiAxICsKCQkoeCA+PiA1NikgJiAxICsKCQkoeCA+PiA1NykgJiAxICsKCQkoeCA+PiA1OCkgJiAxICsKCQkoeCA+PiA1OSkgJiAxICsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICgKCSJidWZpbyIKCSJmbXQiCgkiZ29wbC5pby9jaDIvdGVtcGNvbnYiCgkib3MiCgkic3RyY29udiIKCSJzdHJpbmdzIgopCgp0eXBlIEZlZXQgZmxvYXQ2NAp0eXBlIE1ldGVyIGZsb2F0NjQKdHlwZSBQb3VuZCBmbG9hdDY0CnR5cGUgS2lsb2dyYW0gZmxvYXQ2NAoKZnVuYyAoZiBGZWV0KSBTdHJpbmcoKSBzdHJpbmcgICAgICB7IHJldHVybiBmbXQuU3ByaW50ZigiJWdmdCIsIGYpIH0KZnVuYyAobSBNZXRlcikgU3RyaW5nKCkgc3RyaW5nICAgICB7IHJldHVybiBmbXQuU3ByaW50ZigiJWdtIiwgbSkgfQpmdW5jIChwIFBvdW5kKSBTdHJpbmcoKSBzdHJpbmcgICAgIHsgcmV0dXJuIGZtdC5TcHJpbnRmKCIlZ2xiIiwgcCkgfQpmdW5jIChrZyBLaWxvZ3JhbSkgU3RyaW5nKCkgc3RyaW5nIHsgcmV0dXJuIGZtdC5TcHJpbnRmKCIlZ2tnIiwga2cpIH0KCmZ1bmMgTWV0ZXJUb0ZlZXQobSBNZXRlcikgRmVldCAgeyByZXR1cm4gRmVldChtICogMy4yODA4NCkgfQpmdW5jIEZlZXRUb01ldGVyKGZ0IEZlZXQpIE1ldGVyIHsgcmV0dXJuIE1ldGVyKGZ0IC8gMy4yODA4NCkgfQpmdW5jIFBvdW5kVG9LaWxvZ3JhbShwIFBvdW5kKSBLaWxvZ3JhbSB7IHJldHVybiBLaWxvZ3JhbShwIC8gMi4yMDQ2MjMpIH0KZnVuYyBLaWxvZ3JhbVRvUG91bmQoa2cgS2lsb2dyYW0pIFBvdW5kIHsgcmV0dXJuIFBvdW5kKGtnICogMi4yMDQ2MjMpIH0K</text>
+      <register name="6" type="8">
+        <text>5
+5
+5
+5</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text>4
+4
+4
+4
+4
+4
+4
+4
+4
+4</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2726,11 +2742,29 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="8" type="8">
+        <text>3
+3
+3
+3
+3
+3
+3
+3
+3
+3</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICgKCSJidWZpbyIKCSJmbXQiCgkiZ29wbC5pby9jaDIvdGVtcGNvbnYiCgkib3MiCgkic3RyY29udiIKCSJzdHJpbmdzIgopCgp0eXBlIEZlZXQgZmxvYXQ2NAp0eXBlIE1ldGVyIGZsb2F0NjQKdHlwZSBQb3VuZCBmbG9hdDY0CnR5cGUgS2lsb2dyYW0gZmxvYXQ2NAoKZnVuYyAoZiBGZWV0KSBTdHJpbmcoKSBzdHJpbmcgICAgICB7IHJldHVybiBmbXQuU3ByaW50ZigiJWdmdCIsIGYpIH0KZnVuYyAobSBNZXRlcikgU3RyaW5nKCkgc3RyaW5nICAgICB7IHJldHVybiBmbXQuU3ByaW50ZigiJWdtIiwgbSkgfQpmdW5jIChwIFBvdW5kKSBTdHJpbmcoKSBzdHJpbmcgICAgIHsgcmV0dXJuIGZtdC5TcHJpbnRmKCIlZ2xiIiwgcCkgfQpmdW5jIChrZyBLaWxvZ3JhbSkgU3RyaW5nKCkgc3RyaW5nIHsgcmV0dXJuIGZtdC5TcHJpbnRmKCIlZ2tnIiwga2cpIH0KCmZ1bmMgTWV0ZXJUb0ZlZXQobSBNZXRlcikgRmVldCAgeyByZXR1cm4gRmVldChtICogMy4yODA4NCkgfQpmdW5jIEZlZXRUb01ldGVyKGZ0IEZlZXQpIE1ldGVyIHsgcmV0dXJuIE1ldGVyKGZ0IC8gMy4yODA4NCkgfQpmdW5jIFBvdW5kVG9LaWxvZ3JhbShwIFBvdW5kKSBLaWxvZ3JhbSB7IHJldHVybiBLaWxvZ3JhbShwIC8gMi4yMDQ2MjMpIH0KZnVuYyBLaWxvZ3JhbVRvUG91bmQoa2cgS2lsb2dyYW0pIFBvdW5kIHsgcmV0dXJuIFBvdW5kKGtnICogMi4yMDQ2MjMpIH0KCmZ1bmMgbWFpbigpIHsKCXZhciBudW1zIFtdc3RyaW5nCglpZiBsZW4ob3MuQXJncykgPT0gMSB7CgkJbGluZSwgXywgZXJyIDo9IGJ1ZmlvLk5ld1JlYWRlcihvcy5TdGRpbikuUmVhZExpbmUoKQoJCWlmIGVyciAhPSBuaWwgewoJCQlvcy5FeGl0KDEpCgkJfQoJCWZtdC5QcmludGxuKCIje251bXN9MSIpCgkJbnVtcyA9IHN0cmluZ3MuU3BsaXQoc3RyaW5nKGxpbmUpLCAiICIpCgl9IGVsc2UgewoJCW51bXMgPSBvcy5BcmdzWzE6XQoJfQoJZm9yIF8sIGFyZyA6PSByYW5nZSBudW1zIHsKCQl0LCBlcnIgOj0gc3RyY29udi5QYXJzZUZsb2F0KGFyZywgNjQpCgkJaWYgZXJyICE9IG5pbCB7CgkJCWZtdC5GcHJpbnRmKG9zLlN0ZGVyciwgImNmOiAldlxuIiwgZXJyKQoJCQlvcy5FeGl0KDEpCgkJfQoJCWYgOj0gdGVtcGNvbnYuRmFocmVuaGVpdCh0KQoJCWMgOj0gdGVtcGNvbnYuQ2Vsc2l1cyh0KQoJCW0gOj0gTWV0ZXIodCkKCQlmdCA6PSBGZWV0KHQpCgkJcCA6PSBQb3VuZCh0KQoJCWtnIDo9IEtpbG9ncmFtKHQpCgkJZm10LlByaW50ZigiJXMgPSAlcywgJXMgPSAlc1xuIiwgZiwgdGVtcGNvbnYuRlRvQyhmKSwgYywgdGVtcGNvbnYuQ1RvRihjKSkKCQlmbXQuUHJpbnRmKCIlcyA9ICVzLCAlcyA9ICVzXG4iLCBtLCBNZXRlclRvRmVldChtKSwgZnQsIEZlZXRUb01ldGVyKGZ0KSkKCQlmbXQuUHJpbnRmKCIlcyA9ICVzLCAlcyA9ICVzXG4iLCBwLCBQb3VuZFRvS2lsb2dyYW0ocCksIGtnLCBLaWxvZ3JhbVRvUG91bmQoa2cpKQoJfQp9Cg==</text>
+      <register name="9" type="8">
+        <text>2
+2
+2
+2
+2
+2
+2
+2
+2
+2</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2742,9 +2776,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxmbXRcPg==</last-search>
+      <last-search encoding="base64">XDxCZW5jaG1hcmtQb3BDb3VudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmbXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxCZW5jaG1hcmtQb3BDb3VudFw+</last-pattern>
       <last-replace>Device</last-replace>
       <last-substitute>Profile</last-substitute>
       <last-dir>1</last-dir>
