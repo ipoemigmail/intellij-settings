@@ -7,12 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b3BpY1w+</entry>
-        <entry encoding="base64">XDxzdWJzY3JpYmVkUGFydGl0aW9uc1w+</entry>
-        <entry encoding="base64">XDxyZWNvcmRzUGVyUGFydGl0aW9uXD4=</entry>
-        <entry encoding="base64">XDxwYXJ0aXRpb25zXD4=</entry>
-        <entry encoding="base64">XDxBc3luY1dvcmtlclw+</entry>
-        <entry encoding="base64">XDxlbmRcPg==</entry>
         <entry encoding="base64">XDxjb3VudERvd25MYXRjaFw+</entry>
         <entry encoding="base64">XDxsb2cyR3JhcGhRdWV1ZVw+</entry>
         <entry encoding="base64">XDx6b29rZWVwZXJcPg==</entry>
@@ -27,6 +21,12 @@
         <entry encoding="base64">XDxQT1JUXD4=</entry>
         <entry encoding="base64">XDxjb25zdW1lclw+</entry>
         <entry>alphaka</entry>
+        <entry>logAc</entry>
+        <entry encoding="base64">XDxsb2dBY3Rpb25zXD4=</entry>
+        <entry encoding="base64">XDxMb2dBY3Rpb25cPg==</entry>
+        <entry>user_fee</entry>
+        <entry>user_feeds</entry>
+        <entry>event</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0cmluZy9TdHJpbmcvZw==</entry>
@@ -128,6 +128,9 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" timestamp="1590383932589">
         <mark key="'" line="534" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/model/FeedLog.java" timestamp="1590408735802">
+        <mark key="'" line="6" column="13" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1-sources.jar!/org/apache/kafka/clients/consumer/ConsumerRecords.java" timestamp="1590384294311">
         <mark key="'" line="38" column="52" />
       </file>
@@ -178,7 +181,9 @@
         <mark key="." line="53" column="74" />
         <mark key="^" line="53" column="75" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" timestamp="1590408566533" />
+      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" timestamp="1590408832221">
+        <mark key="'" line="531" column="89" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.class" timestamp="1590383348191">
         <mark key="[" line="174" column="11" />
         <mark key="]" line="174" column="44" />
@@ -200,23 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="82" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="50" column="60" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSender.scala" />
-      <jump line="382" column="37" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
-      <jump line="343" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
-      <jump line="33" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
-      <jump line="284" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
-      <jump line="85" column="37" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
-      <jump line="145" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" />
-      <jump line="70" column="41" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_02_fiber_ref/FiberRefSpec.scala" />
-      <jump line="688" column="0" filename="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio-streams_2.13/1.0.0-RC19/zio-streams_2.13-1.0.0-RC19-sources.jar!/zio/stream/ZSink.scala" />
-      <jump line="455" column="55" filename="$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/dev/zio/zio-streams_2.13/1.0.0-RC19/zio-streams_2.13-1.0.0-RC19-sources.jar!/zio/stream/ZSink.scala" />
-      <jump line="38" column="30" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
-      <jump line="61" column="31" filename="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_08_sink/SinkSpec.scala" />
-      <jump line="14" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/videoRank/VideoRankBatch-prod.conf" />
-      <jump line="10" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/accountIdExtractor/AccountIdExtractorBatch-dev.conf" />
       <jump line="114" column="20" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" />
       <jump line="160" column="26" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" />
       <jump line="164" column="31" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" />
@@ -300,6 +288,23 @@
       <jump line="73" column="25" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/application.properties" />
       <jump line="76" column="25" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/application.properties" />
       <jump line="74" column="26" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/application.properties" />
+      <jump line="1292" column="26" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
+      <jump line="1294" column="20" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
+      <jump line="1295" column="20" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
+      <jump line="66" column="38" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
+      <jump line="125" column="20" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
+      <jump line="126" column="49" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
+      <jump line="134" column="28" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
+      <jump line="135" column="57" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
+      <jump line="907" column="5" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
+      <jump line="897" column="5" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
+      <jump line="877" column="5" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
+      <jump line="858" column="5" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
+      <jump line="836" column="5" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
+      <jump line="515" column="94" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
+      <jump line="531" column="89" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
+      <jump line="6" column="13" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/model/FeedLog.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -2616,7 +2621,7 @@
         <text>alphakafka.iwilab.com:9092</text>
       </register>
       <register name="/" type="4">
-        <text>alphaka</text>
+        <text>event</text>
       </register>
       <register name="0" type="4">
         <text>dev-ay-kafka.daumkakao.io:9092</text>
@@ -2711,9 +2716,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>alphaka</last-search>
+      <last-search>event</last-search>
       <last-offset />
-      <last-pattern>alphaka</last-pattern>
+      <last-pattern>event</last-pattern>
       <last-replace>Device</last-replace>
       <last-substitute>Profile</last-substitute>
       <last-dir>1</last-dir>
