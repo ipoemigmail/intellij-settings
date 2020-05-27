@@ -126,29 +126,34 @@
       <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/model/FeedLog.java" timestamp="1590408735802">
         <mark key="'" line="6" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1-sources.jar!/org/apache/kafka/clients/consumer/ConsumerRecords.java" timestamp="1590384294311">
-        <mark key="'" line="38" column="52" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/script/startup.sh" timestamp="1590465877188">
         <mark key="'" line="39" column="67" />
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="26" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelperMain.scala" timestamp="1590577787905">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/deploy/alpha/script/startup.sh" timestamp="1590462364100">
         <mark key="'" line="29" column="67" />
         <mark key="[" line="29" column="148" />
         <mark key="]" line="29" column="178" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/META-INF/applicationContext-s2graph-client.xml" timestamp="1590384889758">
-        <mark key="'" line="58" column="14" />
-        <mark key="[" line="58" column="14" />
-        <mark key="]" line="58" column="27" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/logback-alpha.xml" timestamp="1590467130711">
         <mark key="'" line="8" column="57" />
         <mark key="[" line="77" column="61" />
         <mark key="]" line="77" column="61" />
         <mark key="." line="77" column="61" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" timestamp="1590577631756">
+        <mark key="'" line="157" column="8" />
+        <mark key="[" line="192" column="23" />
+        <mark key="]" line="193" column="27" />
+        <mark key="." line="193" column="26" />
+        <mark key="^" line="193" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/pom.xml" timestamp="1590463978073">
         <mark key="'" line="27" column="32" />
@@ -159,6 +164,12 @@
       </file>
       <file name="/" timestamp="1590544266027">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/accountIdExtractor/AccountIdExtractorBatch-dev.conf" timestamp="1590577158501">
+        <mark key="[" line="13" column="56" />
+        <mark key="]" line="13" column="57" />
+        <mark key="." line="13" column="56" />
+        <mark key="^" line="13" column="57" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumerPool.java" timestamp="1590464868260">
         <mark key="'" line="48" column="12" />
@@ -190,31 +201,23 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.class" timestamp="1590383348191">
-        <mark key="[" line="174" column="11" />
-        <mark key="]" line="174" column="44" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/activitycategory/ActivityCategoryReference-dev.conf" timestamp="1590576539954">
+        <mark key="'" line="9" column="12" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/META-INF/applicationContext-kafka-client.xml" timestamp="1590385276521">
-        <mark key="[" line="11" column="57" />
-        <mark key="]" line="11" column="64" />
-        <mark key="." line="11" column="63" />
-        <mark key="^" line="11" column="64" />
-      </file>
+      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/offbytwo/jenkins/jenkins-client/0.3.8/jenkins-client-0.3.8-sources.jar!/com/offbytwo/jenkins/client/validator/HttpResponseValidator.java" timestamp="1590577249616" />
       <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/application.properties" timestamp="1590407741485">
         <mark key="'" line="74" column="26" />
         <mark key="[" line="16" column="23" />
         <mark key="]" line="16" column="53" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1590462386756">
+      <file name="/fragment.java" timestamp="1590577902355">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="25" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumerBeanFactoryPostProcessor.java" />
-      <jump line="66" column="74" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumerPool.java" />
-      <jump line="26" column="22" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumerPool.java" />
-      <jump line="335" column="38" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" />
       <jump line="447" column="8" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" />
       <jump line="485" column="11" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" />
       <jump line="503" column="12" filename="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1-sources.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.java" />
@@ -311,6 +314,10 @@
       <jump line="70" column="28" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumer.java" />
       <jump line="52" column="70" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumer.java" />
       <jump line="62" column="38" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumer.java" />
+      <jump line="9" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/activitycategory/ActivityCategoryReference-dev.conf" />
+      <jump line="158" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" />
+      <jump line="188" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" />
+      <jump line="157" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,8 +325,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICBkZWYgc2VuZCgKICAgICAgcGF5bG9hZDogUHVzaFBheWxvYWQsCiAgICAgIGV2ZW50SWQ6IFN0cmluZywKICAgICAgdGFyZ2V0QXBwVmVyc2lvbjogTWFwW1N0cmluZywgTWFwW1N0cmluZywgU3RyaW5nXV0sCiAgICAgIGRyeVJ1bjogQm9vbGVhbiA9IHRydWUKICApOiBVbml0ID0gewo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlY29yZHMgPT0gbnVsbCkgY29udGludWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>args(3)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2624,16 +2631,19 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>records</text>
+        <text>args(3)</text>
       </register>
       <register name="/" type="4">
         <text>mapRecords</text>
       </register>
-      <register name="0" type="4">
-        <text>records</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAvL3ZhbCBtYWluQ2xhc3MgPSBhcmdzKDApCiAgLy92YWwgamVua2luc1NjcmlwdCA9IGFyZ3MoMSkKICAvL3ZhbCBjb25mRmlsZVBhdGggPSBhcmdzKDIpCiAgLy92YWwgcGhhc2UgPSBhcmdzKDMpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlY29yZHMgPT0gbnVsbCkgY29udGludWU7Cg==</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2660,27 +2670,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uYWwub2ZOdWxsYWJsZShyZWNvcmRzKS5pZlByZXNlbnQocnMgLT4gcnMuZm9yRWFjaCh0aGlzOjpwcm9jZXNzUmVjb3JkKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBleC5wcmludFN0YWNrVHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEpvYiBqb2IgPSBudWxsOwogICAgICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSByZWNvcmQudmFsdWUoKTsKICAgICAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5zdGFydHNXaXRoKG1lc3NhZ2UsICJ7IikpIHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBqb2IgPSBBc3luY09iamVjdE1hcHBlckZhY3RvcnkuZ2V0KCkucmVhZFZhbHVlKG1lc3NhZ2UsIEpvYi5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIGlmIChqb2IgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoImpvYj17fSIsIGpvYik7CgogICAgICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvY2Vzcyhqb2IpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKGUuZ2V0TWVzc2FnZSgpLCBlKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgam9iID0gbmV3IEpvYigpOwogICAgICAgICAgICAgICAgICAgIGpvYi5zZXRTb3VyY2UodG9waWMpOwogICAgICAgICAgICAgICAgICAgIGpvYi5zZXRBcmdzKG5ldyBPYmplY3RbXXttZXNzYWdlfSk7CiAgICAgICAgICAgICAgICAgICAgbG9nMkdyYXBoUXVldWUuZW5xdWV1ZShqb2IpOwogICAgICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICBkZWYgc2VuZChwYXlsb2FkOiBQdXNoUGF5bG9hZCwgZGV2aWNlOiBEZXZpY2UsIGV2ZW50SWQ6IFN0cmluZywgZHJ5UnVuOiBCb29sZWFuKTogVW5pdCA9IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oInRlc3QiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlY29yZHMgPT0gbnVsbCkgY29udGludWU7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-        
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uYWwub2ZOdWxsYWJsZShyZWNvcmRzKS5pZlByZXNlbnQocnMgLT4gcnMuZm9yRWFjaCh0aGlzOjpwcm9jZXNzUmVjb3JkKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEpvYiBqb2IgPSBudWxsOwogICAgICAgICAgICAgICAgU3RyaW5nIG1lc3NhZ2UgPSByZWNvcmQudmFsdWUoKTsKICAgICAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5zdGFydHNXaXRoKG1lc3NhZ2UsICJ7IikpIHsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBqb2IgPSBBc3luY09iamVjdE1hcHBlckZhY3RvcnkuZ2V0KCkucmVhZFZhbHVlKG1lc3NhZ2UsIEpvYi5jbGFzcyk7CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIGlmIChqb2IgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoImpvYj17fSIsIGpvYik7CgogICAgICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvY2Vzcyhqb2IpOwogICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmRlYnVnKGUuZ2V0TWVzc2FnZSgpLCBlKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgam9iID0gbmV3IEpvYigpOwogICAgICAgICAgICAgICAgICAgIGpvYi5zZXRTb3VyY2UodG9waWMpOwogICAgICAgICAgICAgICAgICAgIGpvYi5zZXRBcmdzKG5ldyBPYmplY3RbXXttZXNzYWdlfSk7CiAgICAgICAgICAgICAgICAgICAgbG9nMkdyYXBoUXVldWUuZW5xdWV1ZShqb2IpOwogICAgICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2709,10 +2717,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuZW5kLmdldCgpKSB7CiAgICAgICAgICAgICAgICBjb3VudERvd25MYXRjaC5jb3VudERvd24oKTsKICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygiY291bnREb3duTGF0Y2ggaXMgY291bnREb3duIik7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlY29yZHMgPT0gbnVsbCkgY29udGludWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
