@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25zdW1lclw+</entry>
-        <entry>alphaka</entry>
-        <entry>logAc</entry>
-        <entry encoding="base64">XDxsb2dBY3Rpb25zXD4=</entry>
         <entry encoding="base64">XDxMb2dBY3Rpb25cPg==</entry>
         <entry>user_fee</entry>
         <entry>user_feeds</entry>
@@ -27,9 +23,12 @@
         <entry>activity</entry>
         <entry encoding="base64">XDxsYWJlbFw+</entry>
         <entry>glob</entry>
+        <entry>기간</entry>
+        <entry>grade</entry>
+        <entry encoding="base64">XDxncmFkZVw+</entry>
+        <entry>ViewLog</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\[A\]/[StoryRequestLog]/g</entry>
         <entry>%s/MessageRepo/DeviceRepo/g</entry>
         <entry>%s/Message/Device/g</entry>
         <entry>%s/ProfileSlave/DeviceSlave/g</entry>
@@ -49,6 +48,7 @@
         <entry>%s/AccountIdExtractorBatch/ViewLog/g</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>%s/ViewLog/ProfileSearch/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -121,16 +121,8 @@
       <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5-sources.jar!/org/apache/hadoop/fs/FileSystem.java" timestamp="1590640528169">
         <mark key="'" line="1631" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/script/startup.sh" timestamp="1590465877188">
-        <mark key="'" line="39" column="67" />
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="26" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/logback-alpha.xml" timestamp="1590467130711">
-        <mark key="'" line="8" column="57" />
-        <mark key="[" line="77" column="61" />
-        <mark key="]" line="77" column="61" />
-        <mark key="." line="77" column="61" />
+      <file name="$USER_HOME$/Develop/Works/story/story-sray/app/models/Profile.scala" timestamp="1590645295306">
+        <mark key="'" line="65" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" timestamp="1590626026785">
         <mark key="'" line="158" column="8" />
@@ -146,12 +138,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumerPool.java" timestamp="1590464868260">
-        <mark key="'" line="48" column="12" />
-        <mark key="[" line="82" column="83" />
-        <mark key="]" line="82" column="89" />
-        <mark key="." line="82" column="88" />
-        <mark key="^" line="82" column="89" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/profileSearch/ProfileSearch-dev.conf" timestamp="1590645484016">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" timestamp="1590638584776">
         <mark key="'" line="117" column="11" />
@@ -160,20 +150,15 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumer.java" timestamp="1590473643969">
-        <mark key="'" line="83" column="38" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-sray/app/models/dao/BlockHistory.scala" timestamp="1590645235423" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/log/DailyLogDiffReport.scala" timestamp="1590640545634">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="43" column="88" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" timestamp="1590640638877">
-        <mark key="'" line="32" column="85" />
-        <mark key="[" line="29" column="40" />
-        <mark key="]" line="29" column="40" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" timestamp="1590645560531">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="18" column="29" />
         <mark key="." line="29" column="39" />
         <mark key="^" line="29" column="40" />
       </file>
@@ -217,24 +202,11 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="18" column="1" />
       </file>
-      <file name="/fragment.java" timestamp="1590577902355">
+      <file name="/fragment.java" timestamp="1590645420548">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="33" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumerPool.java" />
-      <jump line="31" column="37" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumerPool.java" />
-      <jump line="58" column="12" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumerPool.java" />
-      <jump line="32" column="95" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumerPool.java" />
-      <jump line="14" column="24" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumer.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/script/startup.sh" />
-      <jump line="10" column="0" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/script/startup.sh" />
-      <jump line="16" column="52" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/script/startup.sh" />
-      <jump line="17" column="42" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/script/startup.sh" />
-      <jump line="19" column="13" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/script/startup.sh" />
-      <jump line="29" column="182" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/script/startup.sh" />
-      <jump line="39" column="67" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/script/startup.sh" />
-      <jump line="83" column="52" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumerPool.java" />
       <jump line="55" column="67" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumerPool.java" />
       <jump line="16" column="5" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/application.properties" />
       <jump line="19" column="11" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/application.properties" />
@@ -322,6 +294,19 @@
       <jump line="1623" column="22" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5-sources.jar!/org/apache/hadoop/fs/FileSystem.java" />
       <jump line="1624" column="58" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5-sources.jar!/org/apache/hadoop/fs/FileSystem.java" />
       <jump line="1631" column="39" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5-sources.jar!/org/apache/hadoop/fs/FileSystem.java" />
+      <jump line="17" column="11" filename="$USER_HOME$/Develop/Works/story/story-sray/app/models/Profile.scala" />
+      <jump line="19" column="23" filename="$USER_HOME$/Develop/Works/story/story-sray/app/models/Profile.scala" />
+      <jump line="42" column="37" filename="$USER_HOME$/Develop/Works/story/story-sray/app/models/Profile.scala" />
+      <jump line="65" column="21" filename="$USER_HOME$/Develop/Works/story/story-sray/app/models/Profile.scala" />
+      <jump line="7" column="16" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/profileSearch/ProfileSearch.scala" />
+      <jump line="36" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" />
+      <jump line="57" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" />
+      <jump line="36" column="34" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/profileSearch/ProfileSearch.scala" />
+      <jump line="23" column="23" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" />
+      <jump line="45" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/profileSearch/ProfileSearch.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/profileSearch/ProfileSearch.scala" />
+      <jump line="19" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/profileSearch/ProfileSearch.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,8 +314,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICBkZWYgc2VuZCgKICAgICAgcGF5bG9hZDogUHVzaFBheWxvYWQsCiAgICAgIGV2ZW50SWQ6IFN0cmluZywKICAgICAgdGFyZ2V0QXBwVmVyc2lvbjogTWFwW1N0cmluZywgTWFwW1N0cmluZywgU3RyaW5nXV0sCiAgICAgIGRyeVJ1bjogQm9vbGVhbiA9IHRydWUKICApOiBVbml0ID0gewo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhdGhzLmZpbHRlcihwYXRoID0+IE9wdGlvbihmcy5nbG9iU3RhdHVzKG5ldyBQYXRoKHBhdGgpKSkudG9TZXEuZmxhdHRlbi5ub25FbXB0eSkK</text>
+      <register name="&quot;" type="4">
+        <text>.filter</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2635,16 +2620,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>.filter()</text>
+        <text>.filter</text>
       </register>
       <register name="/" type="4">
-        <text>glob</text>
+        <text>ViewLog</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">LmZpbHRlcihwYXRoID0+IE9wdGlvbihmcy5nbG9iU3RhdHVzKG5ldyBQYXRoKHBhdGgpKSkudG9TZXEuZmxhdHRlbi5ub25FbXB0eSk=</text>
+        <text>Daily(&quot;2020-05-27&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhdGhzLmZpbHRlcihwYXRoID0+IE9wdGlvbihmcy5nbG9iU3RhdHVzKG5ldyBQYXRoKHBhdGgpKSkudG9TZXEuZmxhdHRlbi5ub25FbXB0eSkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5sb2cubW9kZWwuUHJvZmlsZQppbXBvcnQgY29tLmtha2FvLnN0b3J5LmxvZy5zZXJ2aWNlLntQYXRoTWFuYWdlciwgUGF0aE1hbmFnZXJQaGFzZX0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5tb2RlbC5lbnZpcm9ubWVudC57RW52aXJvbm1lbnQsIFRlc3RIYWRvb3BFbnZpcm9ubWVudH0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5tb2RlbC57SGFkb29wQ2x1c3RlciwgUGhhc2V9CmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3Bhcmsuc2VydmljZS5fCmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3BhcmsudHlwZWNsYXNzLkRhdGFzZXRSZWFkZXIKaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLlNwYXJrU2Vzc2lvbgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2671,29 +2656,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNwYXJrLnNwYXJrQ29udGV4dAogICAgICAudGV4dEZpbGUocGF0aHMubWtTdHJpbmcoIiwiKSkKICAgICAgLmZpbHRlcihfLmNvbnRhaW5zKCI0NzExNTUxOV85Mzg1NzIzNzkzOTQ4MTA5MSIpKQogICAgICAudG9ERigpCiAgICAgIC53cml0ZQogICAgICAubW9kZShTYXZlTW9kZS5PdmVyd3JpdGUpCiAgICAgIC5jc3YoIi90bXAvYmVuL2FjdGl2aXR5XzQ3MTE1NTE5XzkzODU3MjM3OTM5NDgxMDkxIikKCiAgICAvL0RhdGFzZXRSZWFkZXJbU3RvcnlSZXF1ZXN0TG9nXQogICAgLy8gIC5yZWFkKHNwYXJrKShEYWlseSgiMjAxNS0wNS0yMSIpLCBEYWlseSgiMjAxNS0wNS0yMSIpKQogICAgLy8gIC5maWx0ZXIoXy5wYXRoSW5mby5jb250YWlucygiNDcxMTU1MTlfOTM4NTcyMzc5Mzk0ODEwOTEiKSkKICAgIC8vICAud3JpdGUKICAgIC8vICAuY3N2KCIvdG1wL2Jlbi9hY3Rpdml0eV80NzExNTUxOV85Mzg1NzIzNzkzOTQ4MTA5MSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgKDAgdG8gMjMpLm1hcAo=</text>
+        <text encoding="base64">ICAgIHZhbCBmczogRmlsZVN5c3RlbSA9IEZpbGVTeXN0ZW0uZ2V0KHNwYXJrLnNwYXJrQ29udGV4dC5oYWRvb3BDb25maWd1cmF0aW9uKQoKICAgIHZhbCBzdGFydER0ID0gbmV3IERhdGVUaW1lKCIyMDE1LTA1LTIxVDAwOjAwOjAwIikKICAgIHZhbCBlbmREdCA9IG5ldyBEYXRlVGltZSgiMjAyMC0wNS0yN1QwMDowMDowMCIpCgogICAgdmFsIGRhdGVzID0gU3RyZWFtLml0ZXJhdGUoc3RhcnREdCkoeCA9PiB4LnBsdXNEYXlzKDEpKS50YWtlV2hpbGUoeCA9PiB4LmdldE1pbGxpcyA8PSBlbmREdC5nZXRNaWxsaXMpLnRvTGlzdAogICAgdmFyIHBhdGhzID0gZGF0ZXMubWFwIHsgeCA9PgogICAgICBzIi9rYWthb3N0b3J5L2V4dGVybmFsL3JlcWxvZy8ke3gudG9TdHJpbmcoInl5eXkiKX0vJHt4LnRvU3RyaW5nKCJNTSIpfS8ke3gudG9TdHJpbmcoImRkIil9LyovKi5neiIKICAgIH0gKysgZGF0ZXMubWFwIHsgeCA9PgogICAgICBzIi9rYWthb3N0b3J5L2V4dGVybmFsL3JlcWxvZ193ZWIvJHt4LnRvU3RyaW5nKCJ5eXl5Iil9LyR7eC50b1N0cmluZygiTU0iKX0vJHt4LnRvU3RyaW5nKCJkZCIpfS8qLyouZ3oiCiAgICB9CgogICAgcGF0aHMgPSBwYXRocy5maWx0ZXIocGF0aCA9PiBPcHRpb24oZnMuZ2xvYlN0YXR1cyhuZXcgUGF0aChwYXRoKSkpLnRvU2VxLmZsYXR0ZW4ubm9uRW1wdHkpCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICBkZWYgc2VuZChwYXlsb2FkOiBQdXNoUGF5bG9hZCwgZGV2aWNlOiBEZXZpY2UsIGV2ZW50SWQ6IFN0cmluZywgZHJ5UnVuOiBCb29sZWFuKTogVW5pdCA9IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5sb2cuc2VydmljZS5QYXRoTWFuYWdlcgppbXBvcnQgb3JnLmFwYWNoZS5oYWRvb3AuZnMue0ZpbGVTeXN0ZW0sIFBhdGh9CmltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLnNxbC57U2F2ZU1vZGUsIFNwYXJrU2Vzc2lvbn0KaW1wb3J0IG9yZy5qb2RhLnRpbWUuRGF0ZVRpbWUK</text>
       </register>
-      <register name="5" type="8">
-        <text>/
-/
-/
-/
-/</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBhdGhzLmZpbHRlcihwYXRoID0+IE9wdGlvbihmcy5nbG9iU3RhdHVzKG5ldyBQYXRoKHBhdGgpKSkudG9TZXEuZmxhdHRlbi5ub25FbXB0eSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBsaW5lID0KICAgICAgIiIiMjAxNTA1MjEJMDM0OTU1NzgzCTIwMAkyMjMuNjIuMTc5LjEyCTMuMC4zXzEwOQkxOQlBbmRyb2lkOmFlMzQzMjAxLWE5YjMtMzlhNS1hZGJlLTQ3MzI2NzkwZDE5YQlhbmRyb2lkCTQuNC4yCVNNLUc5MDZTCTI3NDc2OTAzCTI2NDc1Mzg0CS9hY3Rpdml0aWVzLzQ3MTE1NTE5XzExMTEJYWN0aXZpdGllcwlzaG93CTQ3MTE1NTE5XzExMTEJLQktCTE5NjAJa28JNDUwMDUJbGM9LSZiYz0tJnA9QSZ3dGM9MCZhaWQ9NDcxMTU1MTlfOTM4NTcyMzc5Mzk0ODEwOTEmbXQ9aW1hZ2Umb3Q9LSZ2PS0maHRjPTAmbGlkPS0mbGZyb209LSZpZWh0PS0md3RwaWRzPS0mYWd0PS0JZmM9MjI5JmFjPTQ3NAktCW5vdGkJMTQzMjE0Nzc5MDc3MQlGCS0JQyIiIi5zdHJpcE1hcmdpbgoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLm9wdGlvbigib3ZlcndyaXRlIiwgdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgKDAgdG8gMjMpLm1hcAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2721,19 +2702,18 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="8">
-        <text>//
-//
-//
-//
-//
-//</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="9" type="8">
+        <text>/
+/
+/
+/
+/</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/ViewLog/ProfileSearch/g</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2742,11 +2722,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>glob</last-search>
+      <last-search>ViewLog</last-search>
       <last-offset />
-      <last-pattern>glob</last-pattern>
-      <last-replace>ViewLog</last-replace>
-      <last-substitute>AccountIdExtractorBatch</last-substitute>
+      <last-pattern>ViewLog</last-pattern>
+      <last-replace>ProfileSearch</last-replace>
+      <last-substitute>ViewLog</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
