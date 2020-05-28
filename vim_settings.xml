@@ -7,28 +7,30 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxrYWZrYUNvbnN1bWVyc1w+</entry>
-        <entry encoding="base64">XDxjb25zdW1lcnNcPg==</entry>
-        <entry encoding="base64">XDxjbGllbnRzXD4=</entry>
-        <entry encoding="base64">XDxQSEFTRVw+</entry>
-        <entry encoding="base64">XDxQT1JUXD4=</entry>
-        <entry encoding="base64">XDxjb25zdW1lclw+</entry>
-        <entry>alphaka</entry>
-        <entry>logAc</entry>
-        <entry encoding="base64">XDxsb2dBY3Rpb25zXD4=</entry>
-        <entry encoding="base64">XDxMb2dBY3Rpb25cPg==</entry>
-        <entry>user_fee</entry>
-        <entry>user_feeds</entry>
-        <entry>event</entry>
-        <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
-        <entry encoding="base64">XDxERUJVR1BPUlRcPg==</entry>
-        <entry>meta</entry>
-        <entry>client</entry>
-        <entry encoding="base64">XDxrYWZrYV8yXD4=</entry>
-        <entry>kafka</entry>
-        <entry>mapRecords</entry>
+        <entry>valid</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZVB1c2hTY2hlZHVsZVw+</entry>
+        <entry encoding="base64">XDxlbmRcPg==</entry>
+        <entry encoding="base64">XDxhcmdzXD4=</entry>
+        <entry encoding="base64">XDxzcGVuZFRpbWUyXD4=</entry>
+        <entry encoding="base64">XDx3aGl0ZUluZGV4XD4=</entry>
+        <entry encoding="base64">XDxibGFja0luZGV4XD4=</entry>
+        <entry encoding="base64">XDxQYWxldHRlXD4=</entry>
+        <entry encoding="base64">XDxyYW5kXD4=</entry>
+        <entry encoding="base64">XDxsaXNzYWpvdXNcPg==</entry>
+        <entry encoding="base64">XDxpXD4=</entry>
+        <entry encoding="base64">XDxwYWxldHRlXD4=</entry>
+        <entry encoding="base64">XDxmZXRjaFw+</entry>
+        <entry encoding="base64">XDxjeWNsZVw+</entry>
+        <entry encoding="base64">XDxjeWNsZXNcPg==</entry>
+        <entry encoding="base64">XDxxdWVyeVBhcmFtc1w+</entry>
+        <entry encoding="base64">XDxmbXRcPg==</entry>
+        <entry encoding="base64">XDxvcmlnaW5Qb3BDb3VudFw+</entry>
+        <entry encoding="base64">XDxQb3BDb3VudEJ5U2hpZnRpbmdcPg==</entry>
+        <entry encoding="base64">XDxCZW5jaG1hcmtQb3BDb3VudFw+</entry>
       </history-search>
       <history-cmd>
+        <entry encoding="base64">JzwsJz5zL3N0cmluZy9TdHJpbmcvZw==</entry>
+        <entry>%s/DeviceRefinement/FindKafkaRecord/g</entry>
         <entry>%s/DeviceIdRefinement/FindKafkaRecord/g</entry>
         <entry>%s/\[A\]/[StoryRequestLog]/g</entry>
         <entry>%s/MessageRepo/DeviceRepo/g</entry>
@@ -45,8 +47,6 @@
         <entry>%s/Etl//g</entry>
         <entry>%s/ArcusLoad/WakeUpPushSenderBatch/g</entry>
         <entry>%s/AdminSlave/AdminMaster/g</entry>
-        <entry>q</entry>
-        <entry>%s/mapRecords/records/g</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
@@ -123,24 +123,10 @@
         <mark key="[" line="69" column="0" />
         <mark key="]" line="73" column="49" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/model/FeedLog.java" timestamp="1590408735802">
-        <mark key="'" line="6" column="13" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/script/startup.sh" timestamp="1590465877188">
         <mark key="'" line="39" column="67" />
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="26" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelperMain.scala" timestamp="1590577787905">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="18" />
-        <mark key="^" line="18" column="18" />
-        <mark key="." line="18" column="17" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/deploy/alpha/script/startup.sh" timestamp="1590462364100">
-        <mark key="'" line="29" column="67" />
-        <mark key="[" line="29" column="148" />
-        <mark key="]" line="29" column="178" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/logback-alpha.xml" timestamp="1590467130711">
         <mark key="'" line="8" column="57" />
@@ -155,36 +141,12 @@
         <mark key="." line="193" column="26" />
         <mark key="^" line="193" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/pom.xml" timestamp="1590463978073">
-        <mark key="'" line="27" column="32" />
-        <mark key="[" line="88" column="23" />
-        <mark key="]" line="88" column="25" />
-        <mark key="." line="88" column="24" />
-        <mark key="^" line="88" column="25" />
-      </file>
-      <file name="/" timestamp="1590544266027">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/accountIdExtractor/AccountIdExtractorBatch-dev.conf" timestamp="1590577158501">
-        <mark key="[" line="13" column="56" />
-        <mark key="]" line="13" column="57" />
-        <mark key="." line="13" column="56" />
-        <mark key="^" line="13" column="57" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumerPool.java" timestamp="1590464868260">
         <mark key="'" line="48" column="12" />
         <mark key="[" line="82" column="83" />
         <mark key="]" line="82" column="89" />
         <mark key="." line="82" column="88" />
         <mark key="^" line="82" column="89" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1-sources.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.java" timestamp="1590463405298">
-        <mark key="'" line="106" column="64" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumerBeanFactoryPostProcessor.java" timestamp="1590464168008">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" timestamp="1590458600898">
         <mark key="'" line="531" column="89" />
@@ -201,17 +163,64 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main.go" timestamp="1590418646078">
+        <mark key="'" line="124" column="8" />
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelperMain.scala" timestamp="1590577787905">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="18" column="17" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/deploy/alpha/script/startup.sh" timestamp="1590462364100">
+        <mark key="'" line="29" column="67" />
+        <mark key="[" line="29" column="148" />
+        <mark key="]" line="29" column="178" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/pom.xml" timestamp="1590463978073">
+        <mark key="'" line="27" column="32" />
+        <mark key="[" line="88" column="23" />
+        <mark key="]" line="88" column="25" />
+        <mark key="." line="88" column="24" />
+        <mark key="^" line="88" column="25" />
+      </file>
+      <file name="/" timestamp="1590544266027">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Personal/gopl-exercise/src/ch02/exercise2.3/popcount/main_test.go" timestamp="1590418661652">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="39" column="26" />
+        <mark key="^" line="39" column="26" />
+        <mark key="." line="39" column="25" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/accountIdExtractor/AccountIdExtractorBatch-dev.conf" timestamp="1590577158501">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="13" column="56" />
+        <mark key="]" line="13" column="57" />
+        <mark key="^" line="13" column="57" />
+        <mark key="." line="13" column="56" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/0.8.2.1/kafka-clients-0.8.2.1-sources.jar!/org/apache/kafka/clients/consumer/ConsumerConfig.java" timestamp="1590463405298">
+        <mark key="'" line="106" column="64" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/kafka/KafkaConsumerBeanFactoryPostProcessor.java" timestamp="1590464168008">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/activitycategory/ActivityCategoryReference-dev.conf" timestamp="1590576539954">
         <mark key="'" line="9" column="12" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/offbytwo/jenkins/jenkins-client/0.3.8/jenkins-client-0.3.8-sources.jar!/com/offbytwo/jenkins/client/validator/HttpResponseValidator.java" timestamp="1590577249616" />
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/application.properties" timestamp="1590407741485">
-        <mark key="'" line="74" column="26" />
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="53" />
-        <mark key="." line="16" column="23" />
+      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/offbytwo/jenkins/jenkins-client/0.3.8/jenkins-client-0.3.8-sources.jar!/com/offbytwo/jenkins/client/validator/HttpResponseValidator.java" timestamp="1590577249616">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="42" />
       </file>
       <file name="/fragment.java" timestamp="1590577902355">
         <mark key="[" line="0" column="0" />
