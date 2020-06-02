@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>mapRecords</entry>
-        <entry>AccountIdExtractorBatch</entry>
-        <entry encoding="base64">XDxwYXJzZURhdGVcPg==</entry>
         <entry>activity</entry>
         <entry encoding="base64">XDxsYWJlbFw+</entry>
         <entry>glob</entry>
@@ -27,6 +24,9 @@
         <entry encoding="base64">XDxwaGFzZVw+</entry>
         <entry encoding="base64">XDx5eXl5TU1cPg==</entry>
         <entry>index</entry>
+        <entry encoding="base64">XDxyYXdEZXZpY2VJZFw+</entry>
+        <entry>device\c</entry>
+        <entry encoding="base64">XDxkZXZpY2VVVUlEXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/MessageRepo/DeviceRepo/g</entry>
@@ -159,9 +159,6 @@
         <mark key="[" line="101" column="0" />
         <mark key="]" line="104" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-sray/app/models/Profile.scala" timestamp="1590645295306">
-        <mark key="'" line="65" column="21" />
-      </file>
       <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/aaa.py" timestamp="1590979603751">
         <mark key="[" line="14" column="35" />
         <mark key="]" line="14" column="40" />
@@ -199,7 +196,12 @@
         <mark key="." line="44" column="64" />
         <mark key="^" line="79" column="58" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" timestamp="1591063538442" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" timestamp="1591063596410">
+        <mark key="'" line="63" column="13" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/loggers/RequestLogger.java" timestamp="1591064222734">
+        <mark key="'" line="230" column="79" />
+      </file>
       <file name="/fragment.java" timestamp="1590653216894">
         <mark key="[" line="0" column="0" />
       </file>
@@ -210,12 +212,6 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/stat/s/service/MessageContentBackupServiceDefault.scala" timestamp="1591062862866" />
     </filemarks>
     <jumps>
-      <jump line="105" column="7" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10-sources.jar!/scala/package.scala" />
-      <jump line="148" column="45" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
-      <jump line="15" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/activitycategory/ActivityCategoryReference-dev.conf" />
-      <jump line="10" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog-dev.conf" />
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog-dev.conf" />
-      <jump line="24" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
       <jump line="224" column="9" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
       <jump line="0" column="1" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
       <jump line="117" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
@@ -310,6 +306,12 @@
       <jump line="21" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/stat/s/util/AccountService.scala" />
       <jump line="18" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
       <jump line="9" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
+      <jump line="19" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
+      <jump line="63" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
+      <jump line="56" column="62" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/loggers/RequestLogger.java" />
+      <jump line="278" column="63" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/loggers/RequestLogger.java" />
+      <jump line="32" column="43" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/loggers/RequestLogger.java" />
+      <jump line="230" column="79" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/loggers/RequestLogger.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -2626,7 +2628,7 @@
         <text>Int</text>
       </register>
       <register name="/" type="4">
-        <text>index</text>
+        <text encoding="base64">XDxkZXZpY2VVVUlEXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBvdmVycmlkZSBkZWYgZmluZEJ5SWQoaWQ6IEludCk6IE9wdGlvbltBY2NvdW50U2VydmljZS5BY2NvdW50SW5mb10gPSB7CiAgICBUcnkoY2xpZW50KCkuZmluZEtha2FvQWNjb3VudEJ5SWQoaWQpKSBtYXRjaCB7CiAgICAgIGNhc2UgU3VjY2VzcyhpbmZvKSA9PiBTb21lKEFjY291bnRJbmZvKGluZm8uaWQsIE9wdGlvbihpbmZvLmVtYWlsKSkpCiAgICAgIGNhc2UgXyAgICAgICAgICAgICA9PiBOb25lCiAgICB9CiAgfQo=</text>
@@ -2721,9 +2723,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>index</last-search>
+      <last-search encoding="base64">XDxkZXZpY2VVVUlEXD4=</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern encoding="base64">XDxkZXZpY2VVVUlEXD4=</last-pattern>
       <last-replace>ProfileSearch</last-replace>
       <last-substitute>ViewLog</last-substitute>
       <last-dir>1</last-dir>
