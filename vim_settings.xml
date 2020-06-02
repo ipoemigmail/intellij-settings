@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsYWJlbFw+</entry>
-        <entry>glob</entry>
-        <entry>기간</entry>
-        <entry>grade</entry>
-        <entry encoding="base64">XDxncmFkZVw+</entry>
         <entry>ViewLog</entry>
         <entry>mail</entry>
         <entry encoding="base64">XDxwcm9maWxlUmVwb0RiXD4=</entry>
@@ -27,6 +22,11 @@
         <entry>device\c</entry>
         <entry encoding="base64">XDxkZXZpY2VVVUlEXD4=</entry>
         <entry>s2.krane.9rum.cc</entry>
+        <entry encoding="base64">XDxTUEFSS19ERVBMT1lfSERGU19HTE9CQUxfU0hBUkVEX0xJQlw+</entry>
+        <entry encoding="base64">XDxTUEFSS19ERVBMT1lfSERGU19BUFBfRElSXD4=</entry>
+        <entry encoding="base64">XDxoYWRvb3BDbHVzdGVyXD4=</entry>
+        <entry encoding="base64">XDxyb290XD4=</entry>
+        <entry>root\c</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Message/Device/g</entry>
@@ -47,8 +47,8 @@
         <entry>%s/AccountIdExtractorBatch/ViewLog/g</entry>
         <entry>%s/ViewLog/ProfileSearch/g</entry>
         <entry>%s/s2.krane.9rum.cc/ay1.krane.9rum.cc</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,64 +125,61 @@
         <mark key="^" line="16" column="40" />
         <mark key="." line="16" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountService.scala" timestamp="1591063257765">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="32" />
-        <mark key="^" line="11" column="33" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/model/environment/TestHadoopEtlEnvironment.scala" timestamp="1591084824918">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="54" column="98" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/resources/dev-common.conf" timestamp="1591084593954">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="73" />
+        <mark key="." line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/TestHadoopEnvironment.scala" timestamp="1591084817908">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="47" column="98" />
+        <mark key="." line="46" column="101" />
+        <mark key="^" line="46" column="102" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/arcus.conf" timestamp="1591080011014">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="204" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/profileSearch/ProfileSearch.scala" timestamp="1591062556832">
-        <mark key="'" line="47" column="10" />
-        <mark key="[" line="44" column="64" />
-        <mark key="]" line="44" column="64" />
-        <mark key="." line="44" column="64" />
-        <mark key="^" line="79" column="58" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" timestamp="1591065062121">
         <mark key="'" line="63" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/loggers/RequestLogger.java" timestamp="1591064222734">
-        <mark key="'" line="230" column="79" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" timestamp="1591084222476" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/krb5.conf" timestamp="1591085552883">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="0" column="85" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" timestamp="1591081244546">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="32" />
-        <mark key="." line="21" column="31" />
-        <mark key="^" line="21" column="32" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" timestamp="1591086154049">
+        <mark key="'" line="33" column="22" />
+        <mark key="[" line="40" column="24" />
+        <mark key="]" line="40" column="25" />
+        <mark key="." line="40" column="24" />
+        <mark key="^" line="40" column="25" />
       </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/com/kakao/account/kakao-account-client/1.3.9/kakao-account-client-1.3.9.jar!/com/kakao/account/thrift/TKakaoAccount.class" timestamp="1591063229999">
-        <mark key="'" line="152" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="85" column="23" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/HadoopCluster.scala" timestamp="1591084719473">
+        <mark key="[" line="9" column="53" />
+        <mark key="]" line="9" column="63" />
+        <mark key="." line="9" column="62" />
+        <mark key="^" line="9" column="63" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/log/DailyLogDiffReport.scala" timestamp="1591076171551" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" timestamp="1591062196650">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="4" />
-        <mark key="." line="35" column="4" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/hbase.conf" timestamp="1591079621960">
         <mark key="[" line="6" column="46" />
         <mark key="]" line="6" column="46" />
         <mark key="^" line="4" column="47" />
         <mark key="." line="6" column="46" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/stat/s/util/AccountService.scala" timestamp="1591063055751">
-        <mark key="'" line="21" column="2" />
-        <mark key="[" line="19" column="58" />
-        <mark key="]" line="19" column="70" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/redis.conf" timestamp="1591080108647" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1591081319028" />
-      <file name="/" timestamp="1591060887310">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1591082602612" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/es-cluster.conf" timestamp="1591080454052">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="1" column="53" />
@@ -193,19 +190,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/hdfs.sh" timestamp="1591085684064">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="60" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
-      <jump line="65" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="35" column="65" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" />
-      <jump line="28" column="33" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" />
-      <jump line="32" column="85" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5-sources.jar!/org/apache/hadoop/fs/FileSystem.java" />
-      <jump line="1632" column="48" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5-sources.jar!/org/apache/hadoop/fs/FileSystem.java" />
-      <jump line="1641" column="22" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5-sources.jar!/org/apache/hadoop/fs/FileSystem.java" />
-      <jump line="1643" column="50" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5-sources.jar!/org/apache/hadoop/fs/FileSystem.java" />
-      <jump line="1623" column="22" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5-sources.jar!/org/apache/hadoop/fs/FileSystem.java" />
-      <jump line="1624" column="58" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5-sources.jar!/org/apache/hadoop/fs/FileSystem.java" />
       <jump line="1631" column="39" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5-sources.jar!/org/apache/hadoop/fs/FileSystem.java" />
       <jump line="17" column="11" filename="$USER_HOME$/Develop/Works/story/story-sray/app/models/Profile.scala" />
       <jump line="19" column="23" filename="$USER_HOME$/Develop/Works/story/story-sray/app/models/Profile.scala" />
@@ -295,15 +285,26 @@
       <jump line="230" column="79" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/loggers/RequestLogger.java" />
       <jump line="12" column="45" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/db.conf" />
       <jump line="43" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/db.conf" />
+      <jump line="25" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="32" column="51" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="26" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="13" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/TestHadoopEnvironment.scala" />
+      <jump line="41" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/TestHadoopEnvironment.scala" />
+      <jump line="20" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/TestHadoopEnvironment.scala" />
+      <jump line="29" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/krb5.conf" />
+      <jump line="0" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/krb5.conf" />
+      <jump line="20" column="45" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="35" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="31" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICBkZWYgc2VuZCgKICAgICAgcGF5bG9hZDogUHVzaFBheWxvYWQsCiAgICAgIGV2ZW50SWQ6IFN0cmluZywKICAgICAgdGFyZ2V0QXBwVmVyc2lvbjogTWFwW1N0cmluZywgTWFwW1N0cmluZywgU3RyaW5nXV0sCiAgICAgIGRyeVJ1bjogQm9vbGVhbiA9IHRydWUKICApOiBVbml0ID0gewo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBIYWRvb3BDbHVzdGVyLkRldkhhZG9vcCAgID0+IG5ldyBGaWxlKHMiJHByb2plY3RIb21lL2NvbmYvY2x1c3Rlci9kZXYtaGFkb29wIikudG9VUkkudG9VUkwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ks-batch</text>
+        <text>HADOOP_CONF_DIR</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2602,22 +2603,22 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>s2.krane.9rum.cc</text>
+        <text>CLUSTER_NAME</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>ks-batch</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>s2.krane.9rum.cc</text>
+        <text>root\c</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBleHBvcnQgQ0xVU1RFUl9OQU1FPWtzLWJhdGNoCiAgZXhwb3J0IEhBRE9PUF9IT1NUPWtzLWhhZG9vcAo=</text>
+      <register name="0" type="4">
+        <text>HADOOP_CONF_DIR</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBleHBvcnQgSEFET09QX0hPU1Q9a3MtaGFkb29wCg==</text>
+        <text encoding="base64">ICBlY2hvICIkS1JCNV9DT05GSUciCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2644,25 +2645,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBleHBvcnQgSEFET09QX0hPU1Q9Y29tbW9uLWRldgo=</text>
+        <text encoding="base64">ICAjIAo=</text>
       </register>
       <register name="3" type="2">
-        <text>com.kakao.story.apps.etl.job.spam.cleanPlatform.CleanPlatformServiceTest</text>
+        <text encoding="base64">ZXhwb3J0IFNQQVJLX0RFUExPWV9IREZTX0dMT0JBTF9TSEFSRURfTElCPWhkZnM6Ly8kSEFET09QX0hPU1QvaG9tZS9zcGFyay1hcHBzLSR7UEhBU0V9L3NoYXJlZC9saWIKZXhwb3J0IFNQQVJLX0RFUExPWV9IREZTX0FQUF9ESVI9aGRmczovLyRIQURPT1BfSE9TVC9ob21lL3NwYXJrLWFwcHMtJHtQSEFTRX0vYXBwcwoK</text>
       </register>
       <register name="s" type="2">
-        <text encoding="base64">ICBkZWYgc2VuZChwYXlsb2FkOiBQdXNoUGF5bG9hZCwgZGV2aWNlOiBEZXZpY2UsIGV2ZW50SWQ6IFN0cmluZywgZHJ5UnVuOiBCb29sZWFuKTogVW5pdCA9IHsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgSGFkb29wQ2x1c3Rlci5EZXZIYWRvb3AgPT4KICAgICAgICAgICAgQ29uZmlnVmFsdWVGYWN0b3J5LmZyb21BbnlSZWYoImhkZnM6Ly9kZXYtaGFkb29wL2tha2Fvc3RvcnkvaG9tZS9zcGFyay1hcHBzLWRldi9hcHBzIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgImFscGhhLXN0b3J5LWhiYXNlLWNkaDUucGcxLmtyYW5lLjlydW0uY2M6MjE4MSIK</text>
+        <text encoding="base64">ICAgICAgY2FzZSBIYWRvb3BDbHVzdGVyLktzU3RyZWFtaW5nID0+IG5ldyBGaWxlKHMiJHByb2plY3RIb21lL2NvbmYvY2x1c3Rlci9rcy1zdHJlYW1pbmcxIikudG9VUkkudG9VUkwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAgKiBUT0RPOiAKICAqLwo=</text>
+        <text encoding="base64">ICBleHBvcnQgSEFET09QX0hPU1Q9a3MtaGFkb29wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBleHBvcnQgSEFET09QX0hPU1Q9Y29tbW9uLWRldgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBpZFRvRW1haWwgPSBuZXcgbXV0YWJsZS5IYXNoTWFwW1N0cmluZywgU3RyaW5nXSgpIC8vIHByb2ZpbGVJZCwgZW1haWwKICBwcml2YXRlIHZhbCBpZFRvTmFtZSA9IG5ldyBtdXRhYmxlLkhhc2hNYXBbSW50LCBTdHJpbmddKCkgLy8gcHJvZmlsZUlkLCBuYW1lCgogIG92ZXJyaWRlIGRlZiBnZXROYW1lQW5kRW1haWxCeVByb2ZpbGVJZChpZDogSW50KTogU3RyaW5nID0gewogICAgdmFsIChuYW1lLCBlbWFpbCkgPSBpZiAoaWRUb05hbWUuY29udGFpbnMoaWQpICYmIGlkVG9FbWFpbC5jb250YWlucyhpZC50b1N0cmluZykpIHsKICAgICAgKGlkVG9OYW1lKGlkKSwgaWRUb0VtYWlsKGlkLnRvU3RyaW5nKSkKICAgIH0gZWxzZSB7CiAgICAgIHByb2ZpbGVSZXBvRGIuZmluZEJ5SWQoaWQpIG1hdGNoIHsKICAgICAgICBjYXNlIFNvbWUocHJvZmlsZSkgPT4gKHByb2ZpbGUubmFtZSwgZmluZEVtYWlsQnlBY2NvdW50SWQocHJvZmlsZS5hY2NvdW50X2lkLmdldE9yRWxzZSgwKSwgIi0iKSkKICAgICAgICBjYXNlIF8gPT4gKCItIiwgIi0iKQogICAgICB9CiAgICB9CiAgICBzIiRuYW1lICgkZW1haWwpIgogIH0KCiAgb3ZlcnJpZGUgZGVmIGdldEVtYWlsQnlQcm9maWxlSWQoaWQ6IEludCk6IFN0cmluZyA9IHsKICAgIHZhbCBlbWFpbCA9IGlmIChpZFRvRW1haWwuY29udGFpbnMoaWQudG9TdHJpbmcpKSB7CiAgICAgIGlkVG9FbWFpbChpZC50b1N0cmluZykKICAgIH0gZWxzZSB7CiAgICAgIHByb2ZpbGVSZXBvRGIuZmluZEJ5SWQoaWQpIG1hdGNoIHsKICAgICAgICBjYXNlIFNvbWUocHJvZmlsZSkgPT4gZmluZEVtYWlsQnlBY2NvdW50SWQocHJvZmlsZS5hY2NvdW50X2lkLmdldE9yRWxzZSgwKSwgIi0iKQogICAgICAgIGNhc2UgXyA9PiAiLSIKICAgICAgfQogICAgfQogICAgZW1haWwKICB9CgogIG92ZXJyaWRlIGRlZiBnZXROYW1lQnlQcm9maWxlSWQoaWQ6IEludCk6IFN0cmluZyA9IHsKICAgIGlmIChpZFRvTmFtZS5jb250YWlucyhpZCkpIHsKICAgICAgcmV0dXJuIGlkVG9OYW1lKGlkKQogICAgfQoKICAgIHZhbCBuYW1lID0gcHJvZmlsZVJlcG9EYi5maW5kQnlJZChpZCkgbWF0Y2ggewogICAgICBjYXNlIFNvbWUocHJvZmlsZSkgPT4KICAgICAgICBwcm9maWxlLm5hbWUuZ2V0T3JFbHNlKCItIikKICAgICAgY2FzZSBOb25lID0+CiAgICAgICAgIi0iCiAgICB9CiAgICBpZFRvTmFtZShpZCkgPSBuYW1lCiAgICBuYW1lCiAgfQoKICBvdmVycmlkZSBkZWYgZmluZEFjY291bnRJZEJ5RW1haWwoZW1haWw6IFN0cmluZyk6IE9wdGlvbltJbnRdID0gewogICAgZmluZEJ5RW1haWwoZW1haWwpIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKGFjY291bnQpID0+CiAgICAgICAgU29tZShhY2NvdW50LmlkKQogICAgICBjYXNlIE5vbmUgPT4KICAgICAgICBOb25lCiAgICB9CiAgfQoKICBvdmVycmlkZSBkZWYgZmluZFByb2ZpbGVJZEJ5RW1haWwoZW1haWw6IFN0cmluZyk6IE9wdGlvbltJbnRdID0gewogICAgZmluZEFjY291bnRJZEJ5RW1haWwoZW1haWwpIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKGFjY291bnRJZCkgPT4KICAgICAgICBwcm9maWxlUmVwb0RiLmZpbmRCeUFjY291bnRJZChhY2NvdW50SWQpIG1hdGNoIHsKICAgICAgICAgIGNhc2UgU29tZShwcm9maWxlKSA9PgogICAgICAgICAgICBTb21lKHByb2ZpbGUuaWQuZ2V0KQogICAgICAgICAgY2FzZSBOb25lID0+CiAgICAgICAgICAgIE5vbmUKICAgICAgICB9CiAgICAgIGNhc2UgTm9uZSA9PgogICAgICAgIE5vbmUKICAgIH0KICB9CgogIG92ZXJyaWRlIGRlZiBmaW5kRW1haWxCeUFjY291bnRJZChhY2NvdW50SWQ6IEludCwgZGVmYXVsdDogU3RyaW5nID0gIm5vdC1mb3VuZCIpOiBTdHJpbmcgPSB7CiAgICBmaW5kQnlJZChhY2NvdW50SWQudG9JbnQpIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKGFjY291bnQpID0+CiAgICAgICAgYWNjb3VudC5lbWFpbAogICAgICBjYXNlIE5vbmUgPT4KICAgICAgICBkZWZhdWx0CiAgICB9CiAgfQoKICBvdmVycmlkZSBkZWYgZmluZEVtYWlsQnlQcm9maWxlSWRPckFjY291bnRJZChwcm9maWxlSWQ6IFN0cmluZywgYWNjb3VudElkOiBTdHJpbmcgPSAiIik6IFN0cmluZyA9IHsKICAgIGlmIChpZFRvRW1haWwuY29udGFpbnMocHJvZmlsZUlkKSkgewogICAgICByZXR1cm4gaWRUb0VtYWlsKHByb2ZpbGVJZCkKICAgIH0KCiAgICBpZiAoYWNjb3VudElkICE9ICIiKSB7CiAgICAgIHZhbCBlbWFpbCA9IGZpbmRFbWFpbEJ5QWNjb3VudElkKGFjY291bnRJZC50b0ludCkKICAgICAgaWRUb0VtYWlsKHByb2ZpbGVJZCkgPSBlbWFpbAogICAgICByZXR1cm4gaWRUb0VtYWlsKHByb2ZpbGVJZCkKICAgIH0KCiAgICB2YWwgb3B0UHJvZmlsZSA9IHByb2ZpbGVSZXBvRGIuZmluZEJ5SWQocHJvZmlsZUlkLnRvSW50KQogICAgaWYgKG9wdFByb2ZpbGUuaXNFbXB0eSkgewogICAgICBpZFRvRW1haWwocHJvZmlsZUlkKSA9ICJub3QtZm91bmQiCiAgICAgIHJldHVybiBpZFRvRW1haWwocHJvZmlsZUlkKQogICAgfQoKICAgIG9wdFByb2ZpbGUuZ2V0LmFjY291bnRfaWQgbWF0Y2ggewogICAgICBjYXNlIFNvbWUoaWQpID0+CiAgICAgICAgdmFsIGVtYWlsID0gZmluZEVtYWlsQnlBY2NvdW50SWQoaWQpCiAgICAgICAgaWRUb0VtYWlsKHByb2ZpbGVJZCkgPSBlbWFpbAogICAgICBjYXNlIE5vbmUgPT4KICAgICAgICBpZFRvRW1haWwocHJvZmlsZUlkKSA9ICJub3QtZm91bmQiCiAgICB9CiAgICBpZFRvRW1haWwocHJvZmlsZUlkKQogIH0KCiAgcHJpdmF0ZSBkZWYgZmluZEJ5RW1haWwoZW1haWw6IFN0cmluZyk6IE9wdGlvbltUS2FrYW9BY2NvdW50XSA9IHsKICAgIFRyeShTb21lKGNsaWVudC5maW5kS2FrYW9BY2NvdW50QnlFbWFpbChlbWFpbCkpKS5nZXRPckVsc2UoTm9uZSkKICB9CgogIHByaXZhdGUgZGVmIGZpbmRCeUlkKGFjY291bnRJZDogSW50KTogT3B0aW9uW1RLYWthb0FjY291bnRdID0gewogICAgVHJ5KFNvbWUoY2xpZW50LmZpbmRLYWthb0FjY291bnRCeUlkKGFjY291bnRJZCkpKS5nZXRPckVsc2UoTm9uZSkKICB9CiAgCiAgCg==</text>
+        <text>com.kakao.story.apps.etl.job.spam.cleanPlatform.CleanPlatformServiceTest</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2691,13 +2692,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0TmFtZUFuZEVtYWlsQnlQcm9maWxlSWQoaWQ6IEludCk6IFN0cmluZwogIGRlZiBnZXRFbWFpbEJ5UHJvZmlsZUlkKGlkOiBJbnQpOiBTdHJpbmcKICBkZWYgZ2V0TmFtZUJ5UHJvZmlsZUlkKGlkOiBJbnQpOiBTdHJpbmcKICBkZWYgZmluZFByb2ZpbGVJZEJ5RW1haWwoZW1haWw6IFN0cmluZyk6IE9wdGlvbltJbnRdCiAgZGVmIGZpbmRFbWFpbEJ5QWNjb3VudElkKGFjY291bnRJZDogSW50LCBkZWZhdWx0OiBTdHJpbmcgPSAibm90LWZvdW5kIik6IFN0cmluZwogIGRlZiBmaW5kRW1haWxCeVByb2ZpbGVJZE9yQWNjb3VudElkKHByb2ZpbGVJZDogU3RyaW5nLCBhY2NvdW50SWQ6IFN0cmluZyA9ICIiKTogU3RyaW5nCiAgZGVmIGZpbmRBY2NvdW50SWRCeUVtYWlsKGVtYWlsOiBTdHJpbmcpOiBPcHRpb25bSW50XQo=</text>
+        <text encoding="base64">ICAgICAgImFscGhhLXN0b3J5LWhiYXNlLWNkaDUucGcxLmtyYW5lLjlydW0uY2M6MjE4MSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgX2FjY291bnRTZXJ2aWNlOiBTZXJpYWxpemVkW0FjY291bnRTZXJ2aWNlXSA9IGFjY291bnRTZXJ2aWNlLnRvU2VyaWFsaXplZAo=</text>
+        <text encoding="base64">LyoqCiAgKiBUT0RPOiAKICAqLwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2706,9 +2707,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>s2.krane.9rum.cc</last-search>
+      <last-search>root\c</last-search>
       <last-offset />
-      <last-pattern>s2.krane.9rum.cc</last-pattern>
+      <last-pattern>root\c</last-pattern>
       <last-replace>ay1.krane.9rum.cc</last-replace>
       <last-substitute>s2.krane.9rum.cc</last-substitute>
       <last-dir>1</last-dir>
