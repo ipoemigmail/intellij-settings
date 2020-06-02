@@ -118,48 +118,42 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" timestamp="1590658357626">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="20" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" timestamp="1591063180400">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="40" />
+        <mark key="^" line="16" column="40" />
+        <mark key="." line="16" column="39" />
       </file>
       <file name="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter05/sample01.py" timestamp="1590979500797">
         <mark key="'" line="74" column="25" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="25" column="40" />
       </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/hadoop/hadoop-common/2.6.5/hadoop-common-2.6.5-sources.jar!/org/apache/hadoop/fs/FileSystem.java" timestamp="1590640528169">
-        <mark key="'" line="1631" column="39" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/log/DailyLogDiffReport.scala" timestamp="1590640545634">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="43" column="88" />
-      </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/com/kakao/account/kakao-account-client/1.3.9/kakao-account-client-1.3.9.jar!/com/kakao/account/thrift/TKakaoAccount.class" timestamp="1590651336476">
+      <file name="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/com/kakao/account/kakao-account-client/1.3.9/kakao-account-client-1.3.9.jar!/com/kakao/account/thrift/TKakaoAccount.class" timestamp="1591063229999">
         <mark key="'" line="152" column="0" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="85" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" timestamp="1590718006576">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" timestamp="1591062196650">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="35" column="4" />
         <mark key="]" line="35" column="4" />
         <mark key="." line="35" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountService.scala" timestamp="1590655670021">
-        <mark key="[" line="9" column="54" />
-        <mark key="]" line="9" column="55" />
-        <mark key="." line="9" column="54" />
-        <mark key="^" line="9" column="55" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountService.scala" timestamp="1591063257765">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="33" />
       </file>
       <file name="/aaa" timestamp="1590979604721">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/stat/s/util/AccountService.scala" timestamp="1590652233187">
-        <mark key="'" line="20" column="42" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="21" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/stat/s/util/AccountService.scala" timestamp="1591063055751">
+        <mark key="'" line="21" column="2" />
+        <mark key="[" line="19" column="58" />
+        <mark key="]" line="19" column="70" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/stat/s/MessageHistoryBatch.scala" timestamp="1590652274532">
         <mark key="[" line="101" column="0" />
@@ -198,13 +192,14 @@
         <mark key="]" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/profileSearch/ProfileSearch.scala" timestamp="1590978461237">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/profileSearch/ProfileSearch.scala" timestamp="1591062556832">
         <mark key="'" line="47" column="10" />
-        <mark key="[" line="47" column="26" />
-        <mark key="]" line="47" column="35" />
-        <mark key="^" line="47" column="35" />
-        <mark key="." line="47" column="34" />
+        <mark key="[" line="44" column="64" />
+        <mark key="]" line="44" column="64" />
+        <mark key="." line="44" column="64" />
+        <mark key="^" line="79" column="58" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" timestamp="1591063538442" />
       <file name="/fragment.java" timestamp="1590653216894">
         <mark key="[" line="0" column="0" />
       </file>
@@ -212,12 +207,9 @@
         <mark key="[" line="26" column="0" />
         <mark key="]" line="31" column="71" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/stat/s/service/MessageContentBackupServiceDefault.scala" timestamp="1591062862866" />
     </filemarks>
     <jumps>
-      <jump line="26" column="26" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" />
-      <jump line="24" column="52" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" />
-      <jump line="59" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
-      <jump line="11" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
       <jump line="105" column="7" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10-sources.jar!/scala/package.scala" />
       <jump line="148" column="45" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/model/StoryRequestLog.scala" />
       <jump line="15" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/activitycategory/ActivityCategoryReference-dev.conf" />
@@ -253,9 +245,7 @@
       <jump line="19" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/stat/s/util/AccountService.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
       <jump line="8" column="43" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="10" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
       <jump line="14" column="53" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="15" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
       <jump line="26" column="20" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
       <jump line="27" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
       <jump line="85" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
@@ -278,7 +268,6 @@
       <jump line="15" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountService.scala" />
       <jump line="4" column="43" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountService.scala" />
       <jump line="52" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="9" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
       <jump line="16" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
       <jump line="14" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/profileSearch/ProfileSearch.scala" />
       <jump line="22" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/profileSearch/ProfileSearch.scala" />
@@ -314,6 +303,13 @@
       <jump line="31" column="38" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
       <jump line="78" column="41" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
       <jump line="64" column="23" filename="$USER_HOME$/Develop/Personal/first-learn-data-science/src/chapter17/example01.py" />
+      <jump line="23" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
+      <jump line="20" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
+      <jump line="10" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
+      <jump line="15" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
+      <jump line="21" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/stat/s/util/AccountService.scala" />
+      <jump line="18" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
+      <jump line="9" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,8 +317,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICBkZWYgc2VuZCgKICAgICAgcGF5bG9hZDogUHVzaFBheWxvYWQsCiAgICAgIGV2ZW50SWQ6IFN0cmluZywKICAgICAgdGFyZ2V0QXBwVmVyc2lvbjogTWFwW1N0cmluZywgTWFwW1N0cmluZywgU3RyaW5nXV0sCiAgICAgIGRyeVJ1bjogQm9vbGVhbiA9IHRydWUKICApOiBVbml0ID0gewo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>left</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAgKiBUT0RPOiAKICAqLwo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2627,16 +2623,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>left</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
         <text>index</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGx0LnlsYWJlbCgyLCBob3Jpem9udGFsYWxpZ25tZW50PSJsZWZ0IikK</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgZmluZEJ5SWQoaWQ6IEludCk6IE9wdGlvbltBY2NvdW50U2VydmljZS5BY2NvdW50SW5mb10gPSB7CiAgICBUcnkoY2xpZW50KCkuZmluZEtha2FvQWNjb3VudEJ5SWQoaWQpKSBtYXRjaCB7CiAgICAgIGNhc2UgU3VjY2VzcyhpbmZvKSA9PiBTb21lKEFjY291bnRJbmZvKGluZm8uaWQsIE9wdGlvbihpbmZvLmVtYWlsKSkpCiAgICAgIGNhc2UgXyAgICAgICAgICAgICA9PiBOb25lCiAgICB9CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGx0LnhsYWJlbCgwLCBob3Jpem9udGFsYWxpZ25tZW50PSJsZWZ0IikK</text>
+        <text encoding="base64">LyoqCiAgKiBUT0RPOiAKICAqLwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2663,25 +2659,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGYuc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGx0LnRpdGxlKHZhciArICfroZwg67aE66WY65CcIOu2k+q9gycsIGZvbnRzaXplPTI1KQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBpZFRvRW1haWwgPSBuZXcgbXV0YWJsZS5IYXNoTWFwW1N0cmluZywgU3RyaW5nXSgpIC8vIHByb2ZpbGVJZCwgZW1haWwKICBwcml2YXRlIHZhbCBpZFRvTmFtZSA9IG5ldyBtdXRhYmxlLkhhc2hNYXBbSW50LCBTdHJpbmddKCkgLy8gcHJvZmlsZUlkLCBuYW1lCgogIG92ZXJyaWRlIGRlZiBnZXROYW1lQW5kRW1haWxCeVByb2ZpbGVJZChpZDogSW50KTogU3RyaW5nID0gewogICAgdmFsIChuYW1lLCBlbWFpbCkgPSBpZiAoaWRUb05hbWUuY29udGFpbnMoaWQpICYmIGlkVG9FbWFpbC5jb250YWlucyhpZC50b1N0cmluZykpIHsKICAgICAgKGlkVG9OYW1lKGlkKSwgaWRUb0VtYWlsKGlkLnRvU3RyaW5nKSkKICAgIH0gZWxzZSB7CiAgICAgIHByb2ZpbGVSZXBvRGIuZmluZEJ5SWQoaWQpIG1hdGNoIHsKICAgICAgICBjYXNlIFNvbWUocHJvZmlsZSkgPT4gKHByb2ZpbGUubmFtZSwgZmluZEVtYWlsQnlBY2NvdW50SWQocHJvZmlsZS5hY2NvdW50X2lkLmdldE9yRWxzZSgwKSwgIi0iKSkKICAgICAgICBjYXNlIF8gPT4gKCItIiwgIi0iKQogICAgICB9CiAgICB9CiAgICBzIiRuYW1lICgkZW1haWwpIgogIH0KCiAgb3ZlcnJpZGUgZGVmIGdldEVtYWlsQnlQcm9maWxlSWQoaWQ6IEludCk6IFN0cmluZyA9IHsKICAgIHZhbCBlbWFpbCA9IGlmIChpZFRvRW1haWwuY29udGFpbnMoaWQudG9TdHJpbmcpKSB7CiAgICAgIGlkVG9FbWFpbChpZC50b1N0cmluZykKICAgIH0gZWxzZSB7CiAgICAgIHByb2ZpbGVSZXBvRGIuZmluZEJ5SWQoaWQpIG1hdGNoIHsKICAgICAgICBjYXNlIFNvbWUocHJvZmlsZSkgPT4gZmluZEVtYWlsQnlBY2NvdW50SWQocHJvZmlsZS5hY2NvdW50X2lkLmdldE9yRWxzZSgwKSwgIi0iKQogICAgICAgIGNhc2UgXyA9PiAiLSIKICAgICAgfQogICAgfQogICAgZW1haWwKICB9CgogIG92ZXJyaWRlIGRlZiBnZXROYW1lQnlQcm9maWxlSWQoaWQ6IEludCk6IFN0cmluZyA9IHsKICAgIGlmIChpZFRvTmFtZS5jb250YWlucyhpZCkpIHsKICAgICAgcmV0dXJuIGlkVG9OYW1lKGlkKQogICAgfQoKICAgIHZhbCBuYW1lID0gcHJvZmlsZVJlcG9EYi5maW5kQnlJZChpZCkgbWF0Y2ggewogICAgICBjYXNlIFNvbWUocHJvZmlsZSkgPT4KICAgICAgICBwcm9maWxlLm5hbWUuZ2V0T3JFbHNlKCItIikKICAgICAgY2FzZSBOb25lID0+CiAgICAgICAgIi0iCiAgICB9CiAgICBpZFRvTmFtZShpZCkgPSBuYW1lCiAgICBuYW1lCiAgfQoKICBvdmVycmlkZSBkZWYgZmluZEFjY291bnRJZEJ5RW1haWwoZW1haWw6IFN0cmluZyk6IE9wdGlvbltJbnRdID0gewogICAgZmluZEJ5RW1haWwoZW1haWwpIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKGFjY291bnQpID0+CiAgICAgICAgU29tZShhY2NvdW50LmlkKQogICAgICBjYXNlIE5vbmUgPT4KICAgICAgICBOb25lCiAgICB9CiAgfQoKICBvdmVycmlkZSBkZWYgZmluZFByb2ZpbGVJZEJ5RW1haWwoZW1haWw6IFN0cmluZyk6IE9wdGlvbltJbnRdID0gewogICAgZmluZEFjY291bnRJZEJ5RW1haWwoZW1haWwpIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKGFjY291bnRJZCkgPT4KICAgICAgICBwcm9maWxlUmVwb0RiLmZpbmRCeUFjY291bnRJZChhY2NvdW50SWQpIG1hdGNoIHsKICAgICAgICAgIGNhc2UgU29tZShwcm9maWxlKSA9PgogICAgICAgICAgICBTb21lKHByb2ZpbGUuaWQuZ2V0KQogICAgICAgICAgY2FzZSBOb25lID0+CiAgICAgICAgICAgIE5vbmUKICAgICAgICB9CiAgICAgIGNhc2UgTm9uZSA9PgogICAgICAgIE5vbmUKICAgIH0KICB9CgogIG92ZXJyaWRlIGRlZiBmaW5kRW1haWxCeUFjY291bnRJZChhY2NvdW50SWQ6IEludCwgZGVmYXVsdDogU3RyaW5nID0gIm5vdC1mb3VuZCIpOiBTdHJpbmcgPSB7CiAgICBmaW5kQnlJZChhY2NvdW50SWQudG9JbnQpIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKGFjY291bnQpID0+CiAgICAgICAgYWNjb3VudC5lbWFpbAogICAgICBjYXNlIE5vbmUgPT4KICAgICAgICBkZWZhdWx0CiAgICB9CiAgfQoKICBvdmVycmlkZSBkZWYgZmluZEVtYWlsQnlQcm9maWxlSWRPckFjY291bnRJZChwcm9maWxlSWQ6IFN0cmluZywgYWNjb3VudElkOiBTdHJpbmcgPSAiIik6IFN0cmluZyA9IHsKICAgIGlmIChpZFRvRW1haWwuY29udGFpbnMocHJvZmlsZUlkKSkgewogICAgICByZXR1cm4gaWRUb0VtYWlsKHByb2ZpbGVJZCkKICAgIH0KCiAgICBpZiAoYWNjb3VudElkICE9ICIiKSB7CiAgICAgIHZhbCBlbWFpbCA9IGZpbmRFbWFpbEJ5QWNjb3VudElkKGFjY291bnRJZC50b0ludCkKICAgICAgaWRUb0VtYWlsKHByb2ZpbGVJZCkgPSBlbWFpbAogICAgICByZXR1cm4gaWRUb0VtYWlsKHByb2ZpbGVJZCkKICAgIH0KCiAgICB2YWwgb3B0UHJvZmlsZSA9IHByb2ZpbGVSZXBvRGIuZmluZEJ5SWQocHJvZmlsZUlkLnRvSW50KQogICAgaWYgKG9wdFByb2ZpbGUuaXNFbXB0eSkgewogICAgICBpZFRvRW1haWwocHJvZmlsZUlkKSA9ICJub3QtZm91bmQiCiAgICAgIHJldHVybiBpZFRvRW1haWwocHJvZmlsZUlkKQogICAgfQoKICAgIG9wdFByb2ZpbGUuZ2V0LmFjY291bnRfaWQgbWF0Y2ggewogICAgICBjYXNlIFNvbWUoaWQpID0+CiAgICAgICAgdmFsIGVtYWlsID0gZmluZEVtYWlsQnlBY2NvdW50SWQoaWQpCiAgICAgICAgaWRUb0VtYWlsKHByb2ZpbGVJZCkgPSBlbWFpbAogICAgICBjYXNlIE5vbmUgPT4KICAgICAgICBpZFRvRW1haWwocHJvZmlsZUlkKSA9ICJub3QtZm91bmQiCiAgICB9CiAgICBpZFRvRW1haWwocHJvZmlsZUlkKQogIH0KCiAgcHJpdmF0ZSBkZWYgZmluZEJ5RW1haWwoZW1haWw6IFN0cmluZyk6IE9wdGlvbltUS2FrYW9BY2NvdW50XSA9IHsKICAgIFRyeShTb21lKGNsaWVudC5maW5kS2FrYW9BY2NvdW50QnlFbWFpbChlbWFpbCkpKS5nZXRPckVsc2UoTm9uZSkKICB9CgogIHByaXZhdGUgZGVmIGZpbmRCeUlkKGFjY291bnRJZDogSW50KTogT3B0aW9uW1RLYWthb0FjY291bnRdID0gewogICAgVHJ5KFNvbWUoY2xpZW50LmZpbmRLYWthb0FjY291bnRCeUlkKGFjY291bnRJZCkpKS5nZXRPckVsc2UoTm9uZSkKICB9CiAgCiAgCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICBkZWYgc2VuZChwYXlsb2FkOiBQdXNoUGF5bG9hZCwgZGV2aWNlOiBEZXZpY2UsIGV2ZW50SWQ6IFN0cmluZywgZHJ5UnVuOiBCb29sZWFuKTogVW5pdCA9IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoZGYpCg==</text>
+        <text encoding="base64">ICBkZWYgZ2V0TmFtZUFuZEVtYWlsQnlQcm9maWxlSWQoaWQ6IEludCk6IFN0cmluZwogIGRlZiBnZXRFbWFpbEJ5UHJvZmlsZUlkKGlkOiBJbnQpOiBTdHJpbmcKICBkZWYgZ2V0TmFtZUJ5UHJvZmlsZUlkKGlkOiBJbnQpOiBTdHJpbmcKICBkZWYgZmluZFByb2ZpbGVJZEJ5RW1haWwoZW1haWw6IFN0cmluZyk6IE9wdGlvbltJbnRdCiAgZGVmIGZpbmRFbWFpbEJ5QWNjb3VudElkKGFjY291bnRJZDogSW50LCBkZWZhdWx0OiBTdHJpbmcgPSAibm90LWZvdW5kIik6IFN0cmluZwogIGRlZiBmaW5kRW1haWxCeVByb2ZpbGVJZE9yQWNjb3VudElkKHByb2ZpbGVJZDogU3RyaW5nLCBhY2NvdW50SWQ6IFN0cmluZyA9ICIiKTogU3RyaW5nCiAgZGVmIGZpbmRBY2NvdW50SWRCeUVtYWlsKGVtYWlsOiBTdHJpbmcpOiBPcHRpb25bSW50XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGYucGxvdChraW5kPSdwaWUnLCBmb250c2l6ZT0yMCkK</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgX2FjY291bnRTZXJ2aWNlOiBTZXJpYWxpemVkW0FjY291bnRTZXJ2aWNlXSA9IGFjY291bnRTZXJ2aWNlLnRvU2VyaWFsaXplZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGdldF9pcmlzX2RhdGEoKToKICAgIGRzID0gc2tsZWFybi5kYXRhc2V0cy5sb2FkX2lyaXMoKQogICAgZGYgPSBwZC5EYXRhRnJhbWUoZHNbImRhdGEiXSwgY29sdW1ucz1kc1siZmVhdHVyZV9uYW1lcyJdKQogICAgY29kZV9zcGVjaWVzX21hcCA9IGRpY3QoemlwKHJhbmdlKDMpLCBkc1sidGFyZ2V0X25hbWVzIl0pKQogICAgZGZbInNwZWNpZXMiXSA9IFtjb2RlX3NwZWNpZXNfbWFwW2NdIGZvciBjIGluIGRzWyJ0YXJnZXQiXV0KICAgIHJldHVybiBkZgoKCm1wbC5yY1BhcmFtc1snYXhlcy51bmljb2RlX21pbnVzJ10gPSBGYWxzZQptcGwucmNQYXJhbXNbImZvbnQuZmFtaWx5Il0gPSAiQXBwbGVHb3RoaWMiCgpkZiA9IGdldF9pcmlzX2RhdGEoKQpwcmludChkZikKCnN1bXNfYnlfc3BlY2llcyA9IGRmLmdyb3VwYnkoInNwZWNpZXMiKS5zdW0oKQp2YXIgPSAic2VwYWwgd2lkdGggKGNtKSIKc3Vtc19ieV9zcGVjaWVzW3Zhcl0ucGxvdChraW5kPSdwaWUnLCBmb250c2l6ZT0yMCkKcGx0LnlsYWJlbCh2YXIsIGhvcml6b250YWxhbGlnbm1lbnQ9ImxlZnQiKQpwbHQudGl0bGUodmFyICsgJ+uhnCDrtoTrpZjrkJwg67aT6r2DJywgZm9udHNpemU9MjUpCnBsdC5zaG93KCkKcGx0LmNsb3NlKCkKCnN1bXNfYnlfc3BlY2llcyA9IGRmLmdyb3VwYnkoInNwZWNpZXMiKS5zdW0oKQpzdW1zX2J5X3NwZWNpZXMucGxvdChraW5kPSdwaWUnLCBzdWJwbG90cz1UcnVlLCBsYXlvdXQ9KDIsIDIpLCBsZWdlbmQ9RmFsc2UpCnBsdC50aXRsZSgi7KKF7JeQIOuUsOuluCDsoITssrQg7Lih7KCV6rCSIikKcGx0LnNob3coKQpwbHQuY2xvc2UoKQoKc3Vtc19ieV9zcGVjaWVzID0gZGYuZ3JvdXBieSgic3BlY2llcyIpLnN1bSgpCnZhciA9ICJzZXBhbCB3aWR0aCAoY20pIgpzdW1zX2J5X3NwZWNpZXNbdmFyXS5wbG90KGtpbmQ9J2JhcicsIGZvbnRzaXplPTE1LCByb3Q9MzApCnBsdC50aXRsZSh2YXIgKyAn66GcIOu2hOulmOuQnCDrtpPqvYMnLCBmb250c2l6ZT0yMCkKcGx0LnNob3coKQpwbHQuY2xvc2UoKQoKCnN1bXNfYnlfc3BlY2llcyA9IGRmLmdyb3VwYnkoInNwZWNpZXMiKS5zdW0oKQpzdW1zX2J5X3NwZWNpZXMucGxvdChraW5kPSdiYXInLCBzdWJwbG90cz1UcnVlLCBmb250c2l6ZT0xMikKcGx0LnRpdGxlKCLsooXsl5Ag65Sw66W4IOyghOyytCDsuKHsoJXqsJIiKQpwbHQuc2hvdygpCnBsdC5jbG9zZSgpCgpkZi5wbG90KGtpbmQ9Imhpc3QiLCBzdWJwbG90cz1UcnVlLCBsYXlvdXQ9KDIsIDIpKQpwbHQuc3VwdGl0bGUoIuu2k+q9gyDtnojsiqTthqDqt7jrnqgiLCBmb250c2l6ZT0yMCkKcGx0LnNob3coKQoKZm9yIHNwZWMgaW4gZGZbInNwZWNpZXMiXS51bmlxdWUoKToKICAgIGZvcnNwZWMgPSBkZltkZlsic3BlY2llcyJdID09IHNwZWNdCiAgICBmb3JzcGVjWyJwZXRhbCBsZW5ndGggKGNtKSJdLnBsb3Qoa2luZD0iaGlzdCIsIGFscGhhPTAuNCwgbGFiZWw9c3BlYykKCnBsdC5sZWdlbmQobG9jPSJ1cHBlciByaWdodCIpCnBsdC5zdXB0aXRsZSgi7KKF7JeQIOuUsOuluCDqvYPsno4g6ri47J20IikKcGx0LnNob3coKQpwbHQuY2xvc2UoKQoKY29sID0gZGZbInBldGFsIGxlbmd0aCAoY20pIl0KYXZlcmFnZSA9IGNvbC5tZWFuKCkKc3RkID0gY29sLnN0ZCgpCm1lZGlhbiA9IGNvbC5xdWFudGlsZSgwLjUpCnBlcmNlbnRpbGUyNSA9IGNvbC5xdWFudGlsZSgwLjI1KQpwZXJjZW50aWxlNzUgPSBjb2wucXVhbnRpbGUoMC43NSkKY2xlYW5fYXZnID0gY29sWyhjb2wgPiBwZXJjZW50aWxlMjUpICYgKGNvbCA8IHBlcmNlbnRpbGU3NSldLm1lYW4oKQoKcHJpbnQoZiJhdmVyYWdlOiB7YXZlcmFnZX0iKQpwcmludChmImNsZWFuX2F2Zzoge2NsZWFuX2F2Z30iKQoKY29sID0gInNlcGFsIGxlbmd0aCAoY20pIgpkZlsiaW5kIl0gPSBwZC5TZXJpZXMoZGYuaW5kZXgpLmFwcGx5KGxhbWJkYSBpOiBpICUgNTApCmRmLnBpdm90KCJpbmQiLCAic3BlY2llcyIpW2NvbF0ucGxvdChraW5kPSJib3giKQpwbHQuc2hvdygpCnBsdC5jbG9zZSgpCgpkZi5wbG90KGtpbmQ9InNjYXR0ZXIiLCB4PSJzZXBhbCBsZW5ndGggKGNtKSIsIHk9InNlcGFsIHdpZHRoIChjbSkiKQpwbHQudGl0bGUoIuq4uOydtCDrjIAg64SI67mEIikKcGx0LnNob3coKQpwbHQuY2xvc2UoKQoKY29sb3JzID0gWyJyIiwgImciLCAiYiJdCm1hcmtlcnMgPSBbIi4iLCAiKiIsICJeIl0KZmlnLCBheCA9IHBsdC5zdWJwbG90cygxLCAxKQpmb3IgaSwgc3BlYyBpbiBlbnVtZXJhdGUoZGZbInNwZWNpZXMiXS51bmlxdWUoKSk6CiAgICBkZGYgPSBkZltkZlsic3BlY2llcyJdID09IHNwZWNdCiAgICBkZGYucGxvdChraW5kPSJzY2F0dGVyIiwgeD0ic2VwYWwgd2lkdGggKGNtKSIsIHk9InNlcGFsIGxlbmd0aCAoY20pIiwgYWxwaGE9MC41LCBzPTEwICogKGkgKyAxKSwgYXg9YXgsCiAgICAgICAgICAgICBjb2xvcj1jb2xvcnNbaV0sIG1hcmtlcj1tYXJrZXJzW2ldLCBsYWJlbD1zcGVjKQpwbHQubGVnZW5kKCkKcGx0LnNob3coKQoKc2NhdHRlcl9tYXRyaXgoZGYpCnBsdC5zaG93KCkKcGx0LmNsb3NlKCkK</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgYWNjb3VudENsaWVudDogQWNjb3VudENsaWVudCA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnJlcGFydGl0aW9uKDEpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2710,10 +2706,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLnJlcGFydGl0aW9uKDEpCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBjbGllbnQ6IEFjY291bnRDbGllbnQgPSBuZXcgQWNjb3VudENsaWVudEZhY3RvcnkoKS5jcmVhdGUoUGhhc2UuUHJvZCBtYXRjaCB7CiAgICBjYXNlIFBoYXNlLlByb2QgPT4gQWNjb3VudENsaWVudEZhY3RvcnkuUGhhc2UuUkVMRUFTRQogICAgY2FzZSBfICAgICAgICAgID0+IEFjY291bnRDbGllbnRGYWN0b3J5LlBoYXNlLkFMUEhBCiAgfSkKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhbCBjbGllbnQ6IEFjY291bnRDbGllbnQgPSBuZXcgQWNjb3VudENsaWVudEZhY3RvcnkoKS5jcmVhdGUoUGhhc2UuUHJvZCBtYXRjaCB7CiAgICBjYXNlIFBoYXNlLlByb2QgPT4gQWNjb3VudENsaWVudEZhY3RvcnkuUGhhc2UuUkVMRUFTRQogICAgY2FzZSBfICAgICAgICAgID0+IEFjY291bnRDbGllbnRGYWN0b3J5LlBoYXNlLkFMUEhBCiAgfSkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
