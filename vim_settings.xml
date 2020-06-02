@@ -149,19 +149,23 @@
         <mark key="]" line="1" column="204" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" timestamp="1591084222476" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" timestamp="1591090414045">
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="26" />
+        <mark key="." line="223" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/krb5.conf" timestamp="1591087415954">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" timestamp="1591088998177">
-        <mark key="'" line="39" column="25" />
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="33" column="19" />
-        <mark key="." line="33" column="18" />
-        <mark key="^" line="33" column="19" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" timestamp="1591089227693">
+        <mark key="'" line="26" column="17" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="38" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="37" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/util/hdfs.sh" timestamp="1591088633576">
         <mark key="[" line="1" column="0" />
@@ -273,7 +277,6 @@
       <jump line="43" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/db.conf" />
       <jump line="25" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
       <jump line="32" column="51" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
-      <jump line="26" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
       <jump line="13" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/TestHadoopEnvironment.scala" />
       <jump line="41" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/TestHadoopEnvironment.scala" />
       <jump line="20" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/TestHadoopEnvironment.scala" />
@@ -298,6 +301,7 @@
       <jump line="35" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
       <jump line="36" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
       <jump line="39" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="26" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,7 +310,7 @@
         <text encoding="base64">ICAgICAgY2FzZSBIYWRvb3BDbHVzdGVyLkRldkhhZG9vcCAgID0+IG5ldyBGaWxlKHMiJHByb2plY3RIb21lL2NvbmYvY2x1c3Rlci9kZXYtaGFkb29wIikudG9VUkkudG9VUkwK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cm9vdD0kKGNkICQoZGlybmFtZSAkKHJlYWRsaW5rICQwIHx8IGVjaG8gJDApKS8uLi87L2Jpbi9wd2QpCg==</text>
+        <text encoding="base64">ICAgICR7RVhUUkFfU1VCTUlUX09QVFN9IFwK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2642,16 +2646,16 @@ KAKAOCORP.COM = {
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>/..</text>
+        <text>ben-jeong</text>
       </register>
       <register name="/" type="4">
         <text>root</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cm9vdD0kKGNkICQoZGlybmFtZSAkKHJlYWRsaW5rICQwIHx8IGVjaG8gJDApKS8uLi8uLi87L2Jpbi9wd2QpCg==</text>
+        <text encoding="base64">ICAgICR7RVhUUkFfU1VCTUlUX09QVFN9IFwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm9vdD0kKGNkICQoZGlybmFtZSAkKHJlYWRsaW5rICQwIHx8IGVjaG8gJDApKS8uLi87L2Jpbi9wd2QpCg==</text>
+        <text encoding="base64">ICBleHBvcnQgSEFET09QX1VTRVJfTkFNRT0ia2FrYW9zdG9yeSIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2678,25 +2682,25 @@ KAKAOCORP.COM = {
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cm9vdD0kKGNkICQoZGlybmFtZSAkKHJlYWRsaW5rICQwIHx8IGVjaG8gJDApKS8uLi87L2Jpbi9wd2QpCg==</text>
+        <text encoding="base64">ICBlY2hvICJyb290OiAkcm9vdCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cm9vdD0kKGNkICQoZGlybmFtZSAkKHJlYWRsaW5rICQwIHx8IGVjaG8gJDApKS8uLi87L2Jpbi9wd2QpCg==</text>
+        <text encoding="base64">ICBleHBvcnQgSEFET09QCg==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgIGNhc2UgSGFkb29wQ2x1c3Rlci5EZXZIYWRvb3AgPT4KICAgICAgICAgICAgQ29uZmlnVmFsdWVGYWN0b3J5LmZyb21BbnlSZWYoImhkZnM6Ly9kZXYtaGFkb29wL2tha2Fvc3RvcnkvaG9tZS9zcGFyay1hcHBzLWRldi9hcHBzIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAiSEFET09QX0NPTkZfRElSOiAkSEFET09QX0NPTkZfRElSIgo=</text>
+        <text encoding="base64">ICBleHBvcnQgPWRldgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmVjaG8gIkpBVkFfT1BUUzogJEpBVkFfT1BUUyIK</text>
+        <text encoding="base64">cm9vdD0kKGNkICQoZGlybmFtZSAkKHJlYWRsaW5rICQwIHx8IGVjaG8gJDApKS8uLi87L2Jpbi9wd2QpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBlY2hvICJSRVNVTFQ6ICQ/Igo=</text>
+        <text encoding="base64">cm9vdD0kKGNkICQoZGlybmFtZSAkKHJlYWRsaW5rICQwIHx8IGVjaG8gJDApKS8uLi87L2Jpbi9wd2QpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBlY2hvICJLUkI1X0NPTkZJRzogJEtSQjVfQ09ORklHIgo=</text>
+        <text encoding="base64">cm9vdD0kKGNkICQoZGlybmFtZSAkKHJlYWRsaW5rICQwIHx8IGVjaG8gJDApKS8uLi87L2Jpbi9wd2QpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2725,10 +2729,10 @@ KAKAOCORP.COM = {
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBscyAkS1JCNV9DT05GSUcK</text>
+        <text encoding="base64">ZWNobyAiSEFET09QX0NPTkZfRElSOiAkSEFET09QX0NPTkZfRElSIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmVjaG8gIkpBVkFfT1BUUzogJEpBVkFfT1BUUyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
