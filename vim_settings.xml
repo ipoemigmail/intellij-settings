@@ -7,14 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9maWxlUmVwb0RiXD4=</entry>
-        <entry encoding="base64">XDxpZFRvRW1haWxcPg==</entry>
-        <entry encoding="base64">XDxjcmVhdGVkQXRcPg==</entry>
-        <entry>create</entry>
-        <entry encoding="base64">XDxmaW5kQnlFbWFpbFw+</entry>
-        <entry encoding="base64">XDxmaW5kQnlJZFw+</entry>
-        <entry encoding="base64">XDxwaGFzZVw+</entry>
-        <entry encoding="base64">XDx5eXl5TU1cPg==</entry>
         <entry>index</entry>
         <entry encoding="base64">XDxyYXdEZXZpY2VJZFw+</entry>
         <entry>device\c</entry>
@@ -27,6 +19,14 @@
         <entry>root\c</entry>
         <entry>deploy\c</entry>
         <entry>root</entry>
+        <entry>echo</entry>
+        <entry encoding="base64">XDxpbml0X3BhcmFtZXRlclw+</entry>
+        <entry encoding="base64">XDxhc3NlbWJseV9iYXNlX2xpYnJhcnlcPg==</entry>
+        <entry>realm</entry>
+        <entry>kerberos</entry>
+        <entry encoding="base64">XDxnZXRfeWFybl9hcHBsaWNhdGlvbl9pZFw+</entry>
+        <entry encoding="base64">XDxIQURPT1BfQ09ORl9ESVJcPg==</entry>
+        <entry encoding="base64">XDxDTFVTVEVSX05BTUVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Message/Device/g</entry>
@@ -118,13 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" timestamp="1591077552424">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="40" />
-        <mark key="^" line="16" column="40" />
-        <mark key="." line="16" column="39" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/model/environment/TestHadoopEtlEnvironment.scala" timestamp="1591084824918">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="54" column="98" />
@@ -135,6 +128,7 @@
         <mark key="]" line="3" column="73" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/yarn-site.xml" timestamp="1591093225362" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/TestHadoopEnvironment.scala" timestamp="1591084817908">
         <mark key="'" line="20" column="4" />
         <mark key="[" line="46" column="0" />
@@ -142,17 +136,23 @@
         <mark key="." line="46" column="101" />
         <mark key="^" line="46" column="102" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/core-site.xml" timestamp="1591086243247" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/core-site.xml" timestamp="1591093648355">
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/cluster/setup.sh" timestamp="1591088358211" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/arcus.conf" timestamp="1591080011014">
         <mark key="[" line="1" column="15" />
         <mark key="]" line="1" column="204" />
         <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" timestamp="1591090414045">
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="26" />
-        <mark key="." line="223" column="0" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" timestamp="1591092465833">
+        <mark key="'" line="296" column="9" />
+        <mark key="[" line="212" column="2" />
+        <mark key="]" line="212" column="7" />
+        <mark key="." line="212" column="6" />
+        <mark key="^" line="212" column="7" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/krb5.conf" timestamp="1591087415954">
         <mark key="'" line="0" column="0" />
@@ -160,12 +160,16 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" timestamp="1591089227693">
-        <mark key="'" line="26" column="17" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="38" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="37" column="37" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/keytab/krb5.conf" timestamp="1591090436141">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="84" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" timestamp="1591093987643">
+        <mark key="'" line="49" column="44" />
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="17" column="33" />
+        <mark key="." line="17" column="32" />
+        <mark key="^" line="17" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/util/hdfs.sh" timestamp="1591088633576">
         <mark key="[" line="1" column="0" />
@@ -177,24 +181,22 @@
         <mark key="." line="9" column="62" />
         <mark key="^" line="9" column="63" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/hbase.conf" timestamp="1591079621960">
-        <mark key="[" line="6" column="46" />
-        <mark key="]" line="6" column="46" />
-        <mark key="^" line="4" column="47" />
-        <mark key="." line="6" column="46" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/tools/intellij/story-spark.xml" timestamp="1591090612239">
+        <mark key="'" line="246" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/redis.conf" timestamp="1591080108647" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/sample/src/main/scala/com/kakao/story/apps/sample/_03_spark_app_with_config/SimpleBatch-dev.conf" timestamp="1591089011744" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/sample/src/main/scala/com/kakao/story/apps/sample/_03_spark_app_with_config/SimpleBatch-dev.conf" timestamp="1591091785598">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="28" />
+        <mark key="^" line="0" column="29" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1591082602612" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy.sh" timestamp="1591094022249" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/es-cluster.conf" timestamp="1591080454052">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="1" column="53" />
         <mark key="." line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/cassandra.conf" timestamp="1591079741861">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/hdfs.sh" timestamp="1591085684064">
         <mark key="[" line="2" column="0" />
@@ -202,29 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="53" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="26" column="20" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="27" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="85" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="86" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="91" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="92" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="97" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="98" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="8" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountService.scala" />
-      <jump line="7" column="5" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountService.scala" />
-      <jump line="18" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountService.scala" />
-      <jump line="96" column="4" filename="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/com/kakao/account/kakao-account-client/1.3.9/kakao-account-client-1.3.9.jar!/com/kakao/account/thrift/TKakaoAccount.class" />
-      <jump line="128" column="31" filename="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/com/kakao/account/kakao-account-client/1.3.9/kakao-account-client-1.3.9.jar!/com/kakao/account/thrift/TKakaoAccount.class" />
-      <jump line="152" column="0" filename="$USER_HOME$/.coursier/cache/v1/http/maven.daumcorp.com/content/groups/kakao-storyserver-group/com/kakao/account/kakao-account-client/1.3.9/kakao-account-client-1.3.9.jar!/com/kakao/account/thrift/TKakaoAccount.class" />
-      <jump line="110" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="114" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="28" column="20" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="41" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="90" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
-      <jump line="15" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountService.scala" />
-      <jump line="4" column="43" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountService.scala" />
-      <jump line="52" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
       <jump line="16" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/AccountServiceDefault.scala" />
       <jump line="14" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/profileSearch/ProfileSearch.scala" />
       <jump line="22" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/profileSearch/ProfileSearch.scala" />
@@ -282,10 +261,7 @@
       <jump line="20" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/TestHadoopEnvironment.scala" />
       <jump line="29" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/krb5.conf" />
       <jump line="20" column="45" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
-      <jump line="31" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
-      <jump line="24" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
       <jump line="30" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
-      <jump line="42" column="44" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
       <jump line="44" column="57" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
       <jump line="15" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
       <jump line="16" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
@@ -294,14 +270,40 @@
       <jump line="17" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/krb5.conf" />
       <jump line="7" column="69" filename="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/krb5.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/krb5.conf" />
-      <jump line="23" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
-      <jump line="17" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
       <jump line="33" column="60" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
       <jump line="34" column="62" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
       <jump line="35" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
-      <jump line="36" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
-      <jump line="39" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
       <jump line="26" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="34" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/tools/intellij/story-spark.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/tools/intellij/story-spark.xml" />
+      <jump line="246" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/tools/intellij/story-spark.xml" />
+      <jump line="45" column="1" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="36" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="97" column="9" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" />
+      <jump line="300" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" />
+      <jump line="7" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/core-site.xml" />
+      <jump line="18" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/core-site.xml" />
+      <jump line="32" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/core-site.xml" />
+      <jump line="296" column="9" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy/deploy.sh" />
+      <jump line="173" column="55" filename="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/core-site.xml" />
+      <jump line="192" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/core-site.xml" />
+      <jump line="176" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/core-site.xml" />
+      <jump line="196" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/conf/cluster/dev-hadoop/core-site.xml" />
+      <jump line="48" column="23" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="47" column="44" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="17" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="19" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="21" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="23" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="24" column="9" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="31" column="9" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="39" column="80" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="40" column="82" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="41" column="42" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="42" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="46" column="53" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
+      <jump line="49" column="44" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -310,7 +312,7 @@
         <text encoding="base64">ICAgICAgY2FzZSBIYWRvb3BDbHVzdGVyLkRldkhhZG9vcCAgID0+IG5ldyBGaWxlKHMiJHByb2plY3RIb21lL2NvbmYvY2x1c3Rlci9kZXYtaGFkb29wIikudG9VUkkudG9VUkwK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICR7RVhUUkFfU1VCTUlUX09QVFN9IFwK</text>
+        <text encoding="base64">ICA8cHJvcGVydHk+CiAgICA8bmFtZT5oYWRvb3AucmVnaXN0cnkua2VyYmVyb3MucmVhbG08L25hbWU+CiAgICA8dmFsdWU+S0FLQU8uSEFET09QPC92YWx1ZT4KICA8L3Byb3BlcnR5PgogIDxwcm9wZXJ0eT4KICAgIDxuYW1lPmhhZG9vcC5zZWN1cml0eS5hdXRoX3RvX2xvY2FsPC9uYW1lPgogICAgPHZhbHVlPkRFRkFVTFQ8L3ZhbHVlPgogIDwvcHJvcGVydHk+Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2608,54 +2610,23 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text># https://github.daumkakao.com/hadoop/hadoop-client-env-v2/blob/master/conf/krb5.conf
-
-[libdefaults]
-default_realm = KAKAO.HADOOP
-dns_lookup_kdc = false
-dns_lookup_realm = false
-ticket_lifetime = 86400
-renew_lifetime = 604800
-forwardable = true
-default_tgs_enctypes = aes128-cts-hmac-sha1-96 des3-cbc-sha1 arcfour-hmac des-hmac-sha1 des-cbc-md5 des-cbc-crc
-default_tkt_enctypes = aes128-cts-hmac-sha1-96 des3-cbc-sha1 arcfour-hmac des-hmac-sha1 des-cbc-md5 des-cbc-crc
-permitted_enctypes = aes128-cts-hmac-sha1-96 des3-cbc-sha1 arcfour-hmac des-hmac-sha1 des-cbc-md5 des-cbc-crc
-udp_preference_limit = 1
-kdc_timeout = 3000
-max_retries = 2
-ignore_acceptor_hostname = true
-
-[realms]
-KAKAO.HADOOP = {
-  kdc = hadoop-auth.daumkakao.io
-  admin_server = hadoop-auth.daumkakao.io
-  admin_server = hadoop-auth-gs1.dakao.io
-}
-DAUMKAKAO.COM = {
-  kdc = auth.daumkakao.com
-  admin_server = kadmin.daumkakao.com
-  kpasswd_server = kadmin.daumkakao.com
-}
-KAKAOCORP.COM = {
-  admin_server = bmt-hadoop-auth1.s2.krane.9rum.cc
-  kdc = bmt-hadoop-auth1.s2.krane.9rum.cc
-}</text>
+      <register name="*" type="4">
+        <text>https://github.daumkakao.com/hadoop/hadoop-client-env-v2/blob/master/conf/krb5.conf</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>ben-jeong</text>
+        <text>$root/conf/cluster/${CLUSTER_NAME}/keytab/</text>
       </register>
       <register name="/" type="4">
-        <text>root</text>
+        <text encoding="base64">XDxDTFVTVEVSX05BTUVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICR7RVhUUkFfU1VCTUlUX09QVFN9IFwK</text>
+        <text encoding="base64">ICA8cHJvcGVydHk+CiAgICA8bmFtZT5oYWRvb3AucmVnaXN0cnkua2VyYmVyb3MucmVhbG08L25hbWU+CiAgICA8dmFsdWU+S0FLQU8uSEFET09QPC92YWx1ZT4KICA8L3Byb3BlcnR5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBleHBvcnQgSEFET09QX1VTRVJfTkFNRT0ia2FrYW9zdG9yeSIK</text>
+        <text encoding="base64">ICA8cHJvcGVydHk+CiAgICA8bmFtZT5oYWRvb3AucmVnaXN0cnkua2VyYmVyb3MucmVhbG08L25hbWU+CiAgICA8dmFsdWU+S0FLQU8uSEFET09QPC92YWx1ZT4KICA8L3Byb3BlcnR5PgogIDxwcm9wZXJ0eT4KICAgIDxuYW1lPmhhZG9vcC5zZWN1cml0eS5hdXRoX3RvX2xvY2FsPC9uYW1lPgogICAgPHZhbHVlPkRFRkFVTFQ8L3ZhbHVlPgogIDwvcHJvcGVydHk+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2685,19 +2656,19 @@ KAKAOCORP.COM = {
         <text encoding="base64">ICBlY2hvICJyb290OiAkcm9vdCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBleHBvcnQgSEFET09QCg==</text>
+        <text encoding="base64">ICBleHBvcnQgSEFET09QX1VTRVJfTkFNRT0ia2FrYW9zdG9yeSIK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICAgICAgICAgIGNhc2UgSGFkb29wQ2x1c3Rlci5EZXZIYWRvb3AgPT4KICAgICAgICAgICAgQ29uZmlnVmFsdWVGYWN0b3J5LmZyb21BbnlSZWYoImhkZnM6Ly9kZXYtaGFkb29wL2tha2Fvc3RvcnkvaG9tZS9zcGFyay1hcHBzLWRldi9hcHBzIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBleHBvcnQgPWRldgo=</text>
+        <text encoding="base64">ICBlY2hvICJyb290OiAkcm9vdCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cm9vdD0kKGNkICQoZGlybmFtZSAkKHJlYWRsaW5rICQwIHx8IGVjaG8gJDApKS8uLi87L2Jpbi9wd2QpCg==</text>
+        <text encoding="base64">ICBleHBvcnQgSEFET09QCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cm9vdD0kKGNkICQoZGlybmFtZSAkKHJlYWRsaW5rICQwIHx8IGVjaG8gJDApKS8uLi87L2Jpbi9wd2QpCg==</text>
+        <text encoding="base64">ICBleHBvcnQgPWRldgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">cm9vdD0kKGNkICQoZGlybmFtZSAkKHJlYWRsaW5rICQwIHx8IGVjaG8gJDApKS8uLi87L2Jpbi9wd2QpCg==</text>
@@ -2729,10 +2700,10 @@ KAKAOCORP.COM = {
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAiSEFET09QX0NPTkZfRElSOiAkSEFET09QX0NPTkZfRElSIgo=</text>
+        <text encoding="base64">cm9vdD0kKGNkICQoZGlybmFtZSAkKHJlYWRsaW5rICQwIHx8IGVjaG8gJDApKS8uLi87L2Jpbi9wd2QpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmVjaG8gIkpBVkFfT1BUUzogJEpBVkFfT1BUUyIK</text>
+        <text encoding="base64">cm9vdD0kKGNkICQoZGlybmFtZSAkKHJlYWRsaW5rICQwIHx8IGVjaG8gJDApKS8uLi87L2Jpbi9wd2QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2744,9 +2715,9 @@ KAKAOCORP.COM = {
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>root</last-search>
+      <last-search encoding="base64">XDxDTFVTVEVSX05BTUVcPg==</last-search>
       <last-offset />
-      <last-pattern>root</last-pattern>
+      <last-pattern encoding="base64">XDxDTFVTVEVSX05BTUVcPg==</last-pattern>
       <last-replace>ay1.krane.9rum.cc</last-replace>
       <last-substitute>s2.krane.9rum.cc</last-substitute>
       <last-dir>1</last-dir>
