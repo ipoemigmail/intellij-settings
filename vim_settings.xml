@@ -165,12 +165,12 @@
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="84" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" timestamp="1591147876084">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" timestamp="1591177188827">
         <mark key="'" line="45" column="9" />
-        <mark key="[" line="36" column="2" />
-        <mark key="]" line="36" column="3" />
-        <mark key="." line="36" column="2" />
-        <mark key="^" line="36" column="3" />
+        <mark key="[" line="41" column="11" />
+        <mark key="]" line="41" column="11" />
+        <mark key="." line="41" column="11" />
+        <mark key="^" line="41" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/util/hdfs.sh" timestamp="1591147243718">
         <mark key="[" line="27" column="9" />
@@ -319,7 +319,7 @@
         <text encoding="base64">aW5jbHVkZSBjbGFzc3BhdGgoImRldi1oYWRvb3AuY29uZiIpCgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>devteam</text>
+        <text>=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2624,7 +2624,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>devteam</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>mask\c</text>
