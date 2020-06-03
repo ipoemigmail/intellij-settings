@@ -187,12 +187,12 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/tools/intellij/story-spark.xml" timestamp="1591090612239">
         <mark key="'" line="246" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/sample/src/main/scala/com/kakao/story/apps/sample/_03_spark_app_with_config/SimpleBatch-dev.conf" timestamp="1591148166649">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/sample/src/main/scala/com/kakao/story/apps/sample/_03_spark_app_with_config/SimpleBatch-dev.conf" timestamp="1591175116682">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="58" />
-        <mark key="." line="12" column="10" />
-        <mark key="^" line="1" column="0" />
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1591082602612" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy.sh" timestamp="1591094022249" />
@@ -318,8 +318,8 @@
       <register name="a" type="2">
         <text encoding="base64">aW5jbHVkZSBjbGFzc3BhdGgoImRldi1oYWRvb3AuY29uZiIpCgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8L2xvZ1JvdGF0b3I+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>devteam</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc2VudHJ5U2VydmljZTogU2VudHJ5U2VydmljZSA9IG5ldyBTZW50cnlTZXJ2aWNlLk1vY2sgewogICAgb3ZlcnJpZGUgZGVmIGNhcHR1cmVFcnJvcihuYW1lOiBTdHJpbmcsIGxvZzogU3RyaW5nLCBleDogVGhyb3dhYmxlKTogVW5pdCA9IHt9CiAgICBvdmVycmlkZSBkZWYgY2FwdHVyZVdhcm5pbmcobmFtZTogU3RyaW5nLCBsb2c6IFN0cmluZywgZXg6IFRocm93YWJsZSk6IFVuaXQgPSB7fQogIH0K</text>
@@ -2624,7 +2624,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>devteam</text>
       </register>
       <register name="/" type="4">
         <text>mask\c</text>
