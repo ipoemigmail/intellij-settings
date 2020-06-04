@@ -133,13 +133,6 @@
         <mark key="^" line="69" column="10" />
         <mark key="." line="69" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/service/PathManagerPhase.scala" timestamp="1591182183713">
-        <mark key="'" line="7" column="23" />
-        <mark key="[" line="18" column="52" />
-        <mark key="]" line="18" column="52" />
-        <mark key="^" line="32" column="39" />
-        <mark key="." line="18" column="52" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-etl.sh" timestamp="1591247491751">
         <mark key="'" line="141" column="9" />
         <mark key="[" line="163" column="13" />
@@ -186,6 +179,21 @@
         <mark key="." line="43" column="23" />
         <mark key="^" line="43" column="19" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/resources/properties/common/api/api-alpha.properties" timestamp="1591253059687">
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="52" />
+        <mark key="." line="7" column="52" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/resources/properties/common/api/api-docker.properties" timestamp="1591253064363">
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="52" />
+        <mark key="." line="7" column="52" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/resources/properties/common/api/api-sandbox.properties" timestamp="1591253077262">
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="52" />
+        <mark key="." line="7" column="52" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/errorLogToEs/ErrorLogToEsStreaming-dev.conf" timestamp="1591182333407">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="28" column="16" />
@@ -193,24 +201,15 @@
         <mark key="." line="7" column="48" />
         <mark key="^" line="7" column="49" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/test/resources/config-s2graph-test.properties" timestamp="1591251501932">
-        <mark key="[" line="6" column="52" />
-        <mark key="]" line="6" column="52" />
+      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/test/resources/config-s2graph-test.properties" timestamp="1591252925666">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="50" />
         <mark key="." line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/monitoring/src/main/scala/com/kakao/story/apps/monitoring/SparkAppHealerDev.scala" timestamp="1591180648702">
-        <mark key="'" line="32" column="2" />
-        <mark key="[" line="52" column="33" />
-        <mark key="]" line="52" column="39" />
-        <mark key="." line="52" column="38" />
-        <mark key="^" line="52" column="39" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/srayStat/SrayStatStreaming-dev.conf" timestamp="1591181351866">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="7" column="49" />
-        <mark key="." line="7" column="48" />
-        <mark key="^" line="7" column="49" />
+      <file name="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/resources/properties/common/api/api-local.properties" timestamp="1591253070525">
+        <mark key="[" line="7" column="52" />
+        <mark key="]" line="7" column="52" />
+        <mark key="." line="7" column="52" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorReportBatch-prod.conf" timestamp="1591182576530">
         <mark key="[" line="19" column="0" />
@@ -2625,7 +2624,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>s2counter-alpha.krane.iwilab.com</text>
+        <text>alpha-s2graph.daumkakao.io</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
