@@ -47,8 +47,8 @@
         <entry>%s/ROOT/root/g</entry>
         <entry>1</entry>
         <entry>%s/SparkAppHealerStreaming/SparkAppHealerDev/g</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,11 +118,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/monitoring/src/main/scala/com/kakao/story/apps/monitoring/SparkAppHealerDev-dev.conf" timestamp="1591180680990">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="58" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/monitoring/src/main/scala/com/kakao/story/apps/monitoring/SparkAppHealerDev-dev.conf" timestamp="1591229189145">
+        <mark key="'" line="9" column="12" />
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/monitoring/src/main/scala/com/kakao/story/apps/monitoring/SparkAppHealerBatch-dev.conf" timestamp="1591180329128">
         <mark key="'" line="0" column="0" />
@@ -217,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/arcusLoad/ArcusLoadStreaming-dev.conf" />
       <jump line="34" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/cassandraLoad/CassandraLoadRecovery-dev.conf" />
       <jump line="4" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/cassandraLoad/CassandraLoadRecovery-dev.conf" />
       <jump line="30" column="9" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/cassandraLoad/CassandraLoadStreaming-dev.conf" />
@@ -317,6 +317,7 @@
       <jump line="184" column="9" filename="$USER_HOME$/Develop/Works/story/story-spark/tools/intellij/story-spark.xml" />
       <jump line="39" column="33" filename="$USER_HOME$/Develop/Works/story/story-spark/tools/intellij/story-spark.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/tools/intellij/story-spark.xml" />
+      <jump line="9" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/monitoring/src/main/scala/com/kakao/story/apps/monitoring/SparkAppHealerDev-dev.conf" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -2725,7 +2726,7 @@
         <text encoding="base64">cGFja2FnZSBjb20ua2FrYW8uc3RvcnkuYXBwcy5tb25pdG9yaW5nCgppbXBvcnQgY29tLmtha2FvLnN0b3J5Lm1vZGVsLl8KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5zZXJ2aWNlLl8KCi8qKgogICog67O16rWsIOygiOywqAogICogLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgKiAxLiBTdHJlYW1pbmcgQXBw7J2YIGF1dG8ucmVjb3ZlcnkudHh0IOulvCDqsoDsg4ntlZzri6QuCiAgKiAyLiBhdXRvLnJlY292ZXJ5LnR4dCDtjIzsnbzsnYQg7J207Jqp7ZWY7JesIOyLpO2WiSDspJHsnbTslrTslbztlZjripQgQXBwIOuqqeuhneydhCDqsIDsoLjsmKjri6QuCiAgKiAzLiBZYXJu7JeQIOyLpOygnOuhnCDrlqDsnojripQg7JWx6rO8IDLsl5DshJwg6rCA7KC47JioIOyVsSDrqqnroZ3snYQg67mE6rWQ7ZWc64ukLgogICogNC4g66qp66Gd7J20IOywqOydtOqwgCDsnojsnLzrqbQg7Jq07JiB7J6Q7JeQ6rKMIO2GteuztO2VmOqzoAogICogIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgKiAgIE1vbml0b3JpbmcgfCBSdW5uaW5nIHwgUGhhc2UgfCBBcHAgTmFtZQogICogIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgKiAgTyB8IE8gfCBkZXYgfCBhcHAgMSB8CiAgKiAgTyB8IE8gfCBkZXYgfCBhcHAgMiB8CiAgKiAgTyB8IFggfCBkZXYgfCBhcHAgMyB8CiAgKiA1LiDtlbTri7kgU3RyZWFtaW5nIEFwcOydhCDsi6TtlontlZzri6QuCiAgKi8KZmluYWwgY2xhc3MgU3BhcmtBcHBIZWFsZXJEZXYoCiAgICBpbXBsaWNpdCB2YWwgcGhhc2U6IFBoYXNlLAogICAgdmFsIGxvZ1NlcnZpY2U6IExvZ1NlcnZpY2UsCiAgICB2YWwgbWVzc2FnZVNlcnZpY2U6IE1lc3NhZ2VTZXJ2aWNlKQogICAgZXh0ZW5kcyBTcGFya0FwcEhlYWxlcgoKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
