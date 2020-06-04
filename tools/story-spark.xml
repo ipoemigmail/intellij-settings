@@ -13,256 +13,207 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="deploy_batch_dev" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="dev_deploy" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;bin/deploy.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
+      <option name="PARAMETERS" value="-c &quot;export PHASE=dev; CLUSTER_NAME=dev-hadoop; bin/deploy.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="deploy_batch_prod" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="dev_deploy_skip_assembly" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; bin/deploy.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
+      <option name="PARAMETERS" value="-c &quot;export PHASE=dev; CLUSTER_NAME=dev-hadoop; bin/deploy.sh -sa $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="deploy_batch_dev_skip_assembly" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="dev_deploy_without_library" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;bin/deploy.sh -sa $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
+      <option name="PARAMETERS" value="-c &quot;export PHASE=dev; CLUSTER_NAME=dev-hadoop; bin/deploy.sh -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="deploy_batch_prod_skip_assembly" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="--------------------------" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+  <tool name="dev_deploy_skip_assembly_without_library" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; bin/deploy.sh -sa $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
+      <option name="PARAMETERS" value="-c &quot;export PHASE=dev; CLUSTER_NAME=dev-hadoop; bin/deploy.sh -sa -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="deploy_batch_dev_without_library" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="dev_run" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;bin/deploy.sh -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
+      <option name="PARAMETERS" value="-c &quot;export PHASE=dev; CLUSTER_NAME=dev-hadoop; bin/run.sh --deploy -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="deploy_batch_prod_without_library" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="dev_run_only" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; bin/deploy.sh -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
+      <option name="PARAMETERS" value="-c &quot;export PHASE=dev; CLUSTER_NAME=dev-hadoop; bin/run.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="deploy_batch_dev_skip_assembly_without_library" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="dev_stop" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;bin/deploy.sh -sa -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
+      <option name="PARAMETERS" value="-c &quot;export PHASE=dev; CLUSTER_NAME=dev-hadoop; bin/stop.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="deploy_batch_prod_skip_assembly_without_library" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="dev_kill" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; bin/deploy.sh -sa -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
+      <option name="PARAMETERS" value="-c &quot;export PHASE=dev; CLUSTER_NAME=dev-hadoop; bin/kill.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="deploy_streaming_dev" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="dev_register_to_jenkins" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export CLUSTER_NAME=ks-streaming1; bin/deploy.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
+      <option name="PARAMETERS" value="-c &quot;export PHASE=dev; CLUSTER_NAME=dev-hadoop; bin/register.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="deploy_streaming_prod" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="batch_deploy" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-streaming1; bin/deploy.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
+      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-batch; bin/deploy.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="deploy_streaming_dev_skip_assembly" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="batch_deploy_skip_assembly" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export CLUSTER_NAME=ks-streaming1; bin/deploy.sh -sa $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
+      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-batch; bin/deploy.sh -sa $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="deploy_streaming_prod_skip_assembly" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="batch_deploy_without_library" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-batch; bin/deploy.sh -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="batch_deploy_skip_assembly_without_library" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-batch; bin/deploy.sh -sa -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="batch_run" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-batch; bin/run.sh --deploy -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="batch_run_only" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-batch; bin/run.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="batch_stop" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-batch; bin/stop.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="batch_kill" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-batch; bin/kill.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="batch_register_to_jenkins" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-batch; bin/register.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="streaming_deploy" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/bin/bash" />
+      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-streaming1; bin/deploy.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="streaming_deploy_skip_assembly" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
       <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-streaming1; bin/deploy.sh -sa $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="deploy_streaming_dev_without_library" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export CLUSTER_NAME=ks-streaming1; bin/deploy.sh -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="deploy_streaming_prod_without_library" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="streaming_deploy_without_library" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
       <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-streaming1; bin/deploy.sh -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="deploy_streaming_dev_skip_assembly_without_library" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export CLUSTER_NAME=ks-streaming1; bin/deploy.sh -sa -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="deploy_streaming_prod_skip_assembly_without_library" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="streaming_deploy_skip_assembly_without_library" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
       <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-streaming1; bin/deploy.sh -sa -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot; " />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="run_batch_dev" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;bin/run.sh --deploy -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="run_batch_prod" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; bin/run.sh --deploy -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="run_streaming_dev" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export CLUSTER_NAME=ks-streaming1; bin/run.sh --deploy -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="run_streaming_prod" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="streaming_run" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
       <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-streaming1; bin/run.sh --deploy -sl $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="run_only_batch_dev" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;bin/run.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="run_only_batch_prod" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; bin/run.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="run_only_streaming_dev" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export CLUSTER_NAME=ks-streaming1; bin/run.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="run_only_streaming_prod" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="streaming_run_only" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
       <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-streaming1; bin/run.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="stop_batch_dev" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;bin/stop.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="stop_batch_prod" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; bin/stop.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="stop_streaming_dev" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export CLUSTER_NAME=ks-streaming1; bin/stop.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="stop_streaming_prod" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="streaming_stop" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
       <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-streaming1; bin/stop.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="kill_batch_dev" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;bin/kill.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="kill_batch_prod" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; bin/kill.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="kill_streaming_dev" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export CLUSTER_NAME=ks-streaming1; bin/kill.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="kill_streaming_prod" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="streaming_kill" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
       <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-streaming1; bin/kill.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="register_batch_dev" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;bin/register.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="register_batch_prod" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; bin/register.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="register_streaming_dev" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/bin/bash" />
-      <option name="PARAMETERS" value="-c &quot;export CLUSTER_NAME=ks-streaming1; bin/register.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-  <tool name="register_streaming_prod" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="streaming_register_to_jenkins" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/bin/bash" />
       <option name="PARAMETERS" value="-c &quot;export HADOOP_USER_NAME=hdfs; export PHASE=prod; export CLUSTER_NAME=ks-streaming1; bin/register.sh $FileFQPackage$.$FileNameWithoutAllExtensions$&quot;  " />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="--------------------------" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
     </exec>
   </tool>
 </toolSet>
