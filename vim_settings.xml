@@ -119,16 +119,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/ksHadoopHbase/KsHadoopHbaseRecovery-dev.conf" timestamp="1591260107390">
-        <mark key="'" line="14" column="16" />
         <mark key="[" line="0" column="19" />
         <mark key="]" line="0" column="36" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/monitoring/src/main/scala/com/kakao/story/apps/monitoring/SparkAppHealerDev-dev.conf" timestamp="1591229189145">
-        <mark key="'" line="9" column="12" />
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="13" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/META-INF/applicationContext-s2graph-client.xml" timestamp="1591250352431" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/arcusLoad/service/ArcusLoadService.scala" timestamp="1591248556281">
@@ -161,9 +153,13 @@
         <mark key="]" line="32" column="73" />
         <mark key="." line="31" column="52" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportRecovery-dev.conf" timestamp="1591260135230">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="29" column="58" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/hbase.conf" timestamp="1591260377810">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="39" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportRecovery-dev.conf" timestamp="1591260144012">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="28" />
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/test/scala/com/kakao/story/apps/etl/job/arcusLoad/service/ArcusLoadServiceTest.scala" timestamp="1591248358144">
@@ -313,8 +309,8 @@
       <register name="a" type="2">
         <text encoding="base64">aW5jbHVkZSBjbGFzc3BhdGgoImRldi1oYWRvb3AuY29uZiIpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB1c2VyID0gImRldmVsb3AiCiAgcGFzc3dvcmQgPSAiZGV2dGVhbSIKICBob3N0ID0gImh0dHA6Ly9zdG9yeS1oYWRvb3AtY21kMS5kYWthby5pbzo4MDkwIgo=</text>
+      <register name="&quot;" type="4">
+        <text>hbase-dev-ism-1.ay1.krane.9rum.cc</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">c3BhcmsuZXhlY3V0b3JFbnYubWFwcmVkdWNlLmpvYi51c2VyLm5hbWU9ZGVwbG95Cg==</text>
@@ -2613,7 +2609,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>ks-streaming1.conf</text>
+        <text>hbase-dev-ism-1.ay1.krane.9rum.cc</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
