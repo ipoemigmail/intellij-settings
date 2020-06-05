@@ -46,8 +46,8 @@
         <entry>%s/SparkAppHealerStreaming/SparkAppHealerDev/g</entry>
         <entry>wq</entry>
         <entry>67</entry>
-        <entry>w</entry>
         <entry>a</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -118,95 +118,109 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/ksHadoopHbase/KsHadoopHbaseRecovery-dev.conf" timestamp="1591260107390">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="36" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/pushLoad/PushLoadRecovery.scala" timestamp="1591319943698">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/META-INF/applicationContext-s2graph-client.xml" timestamp="1591250352431" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/arcusLoad/service/ArcusLoadService.scala" timestamp="1591248556281">
-        <mark key="'" line="66" column="12" />
-        <mark key="[" line="68" column="61" />
-        <mark key="]" line="69" column="10" />
-        <mark key="^" line="69" column="10" />
-        <mark key="." line="69" column="9" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationRecovery.scala" timestamp="1591319910934">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="39" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/TestHadoopEnvironment.scala" timestamp="1591258392336" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-etl.sh" timestamp="1591247491751">
-        <mark key="'" line="141" column="9" />
-        <mark key="[" line="163" column="13" />
-        <mark key="]" line="163" column="22" />
-        <mark key="." line="163" column="21" />
-        <mark key="^" line="163" column="22" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/errorLogToEs/ErrorLogToEsRecovery.scala" timestamp="1591319924029">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" timestamp="1591254535549">
-        <mark key="'" line="175" column="12" />
-        <mark key="[" line="164" column="73" />
-        <mark key="]" line="164" column="98" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/spam/filter/SpamFilterRecovery.scala" timestamp="1591319965089">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/ProfileRepoDb.scala" timestamp="1591248454537">
-        <mark key="[" line="59" column="20" />
-        <mark key="]" line="59" column="102" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/slowLogToEs/SlowLogToEsRecovery.scala" timestamp="1591319958486">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/application.properties" timestamp="1591251465240">
-        <mark key="'" line="70" column="44" />
-        <mark key="[" line="32" column="42" />
-        <mark key="]" line="32" column="73" />
-        <mark key="." line="31" column="52" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/redisLoad/RedisLoadRecovery.scala" timestamp="1591319946672">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/hbase.conf" timestamp="1591260377810">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="39" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportRecovery.scala" timestamp="1591319895195">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="37" />
+        <mark key="^" line="14" column="38" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportRecovery-dev.conf" timestamp="1591260144012">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/toros/feedbackToToros/FeedbackToTorosRecovery.scala" timestamp="1591319976634">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/test/scala/com/kakao/story/apps/etl/job/arcusLoad/service/ArcusLoadServiceTest.scala" timestamp="1591248358144">
-        <mark key="'" line="25" column="6" />
-        <mark key="[" line="38" column="6" />
-        <mark key="]" line="38" column="6" />
-        <mark key="^" line="41" column="8" />
-        <mark key="." line="38" column="6" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/ksHadoopHbase/KsHadoopHbaseRecovery.scala" timestamp="1591319939363">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1591239462543">
-        <mark key="[" line="43" column="23" />
-        <mark key="]" line="43" column="23" />
-        <mark key="." line="43" column="23" />
-        <mark key="^" line="43" column="19" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/arcusLoad/ArcusLoadRecovery.scala" timestamp="1591320256654">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/resources/properties/common/api/api-alpha.properties" timestamp="1591253059687">
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="52" />
-        <mark key="." line="7" column="52" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/cassandraLoad/CassandraLoadRecovery.scala" timestamp="1591319902346">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/resources/properties/common/api/api-docker.properties" timestamp="1591253064363">
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="52" />
-        <mark key="." line="7" column="52" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/spam/cleanPlatform/CleanPlatformRecovery.scala" timestamp="1591319961650">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/resources/properties/common/api/api-sandbox.properties" timestamp="1591253077262">
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="52" />
-        <mark key="." line="7" column="52" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/dbLoad/DbLoadRecovery.scala" timestamp="1591319916528">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/test/resources/config-s2graph-test.properties" timestamp="1591252925666">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="50" />
-        <mark key="." line="6" column="52" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/druidLoad/DruidLoadRecovery.scala" timestamp="1591319919995">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/resources/properties/common/api/api-local.properties" timestamp="1591253070525">
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="7" column="52" />
-        <mark key="." line="7" column="52" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommRecovery.scala" timestamp="1591319982061">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/srayStat/SrayStatRecovery.scala" timestamp="1591319968439">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/chReputation/ChReputationRecovery.scala" timestamp="1591319905708">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecovery.scala" timestamp="1591319951314">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/toros/contentToToros/ContentToTorosRecovery.scala" timestamp="1591319971646">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/kakaoMap/KakaoMapRecovery.scala" timestamp="1591319927097">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="9" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/redisLoad/RedisLoadRecovery-dev.conf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/redisLoad/RedisLoadRecovery-dev.conf" />
-      <jump line="39" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/redisLoad/RedisLoadStreaming-dev.conf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/redisLoad/RedisLoadStreaming-dev.conf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecovery-dev.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphStreaming-dev.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/slowLogToEs/SlowLogToEsRecovery-dev.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/slowLogToEs/SlowLogToEsStreaming-dev.conf" />
@@ -302,15 +316,20 @@
       <jump line="171" column="8" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
       <jump line="175" column="12" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" />
       <jump line="14" column="16" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/ksHadoopHbase/KsHadoopHbaseRecovery-dev.conf" />
+      <jump line="53" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
+      <jump line="15" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
+      <jump line="52" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
+      <jump line="54" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
+      <jump line="16" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">aW5jbHVkZSBjbGFzc3BhdGgoImRldi1oYWRvb3AuY29uZiIpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBtZXNzYWdlU2VydmljZTogTWVzc2FnZVNlcnZpY2UsCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>hbase-dev-ism-1.ay1.krane.9rum.cc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbCBtZXNzYWdlU2VydmljZTogTWVzc2FnZVNlcnZpY2UsCg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">c3BhcmsuZXhlY3V0b3JFbnYubWFwcmVkdWNlLmpvYi51c2VyLm5hbWU9ZGVwbG95Cg==</text>
@@ -2615,13 +2634,13 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>:9000</text>
+        <text>LogService</text>
       </register>
       <register name="/" type="4">
         <text>insert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy92YWwgbG9nID0gU3RvcnlMb2cucGFyc2UobGluZSkuZ2V0Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBsb2dTZXJ2aWNlOiBMb2dTZXJ2aWNlLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB1c2VyID0gImRldmVsb3AiCiAgcGFzc3dvcmQgPSAiZGV2dGVhbSIKICBob3N0ID0gImh0dHA6Ly9zdG9yeS1oYWRvb3AtY21kMS5kYWthby5pbzo4MDkwIgo=</text>
