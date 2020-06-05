@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxpc192YWxpZF90YXNrXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2RldmljZS9wdXNoU2NoZWR1bGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0RldmljZS9BZG1pbi9n</entry>
         <entry encoding="base64">JzwsJz5zL1NsYXZlL01hc3Rlci9n</entry>
         <entry>%s/Etl//g</entry>
@@ -47,8 +46,9 @@
         <entry>67</entry>
         <entry>a</entry>
         <entry>%s/ErrorReport/ErrorDelete/g</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>60</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -149,7 +149,7 @@
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="35" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1591327357085">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1591333097237">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="85" column="23" />
         <mark key="]" line="85" column="24" />
@@ -2730,7 +2730,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
