@@ -47,8 +47,8 @@
         <entry>67</entry>
         <entry>a</entry>
         <entry>%s/ErrorReport/ErrorDelete/g</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -130,12 +130,12 @@
         <mark key="]" line="15" column="39" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch.scala" timestamp="1591324163995">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch.scala" timestamp="1591324587910">
         <mark key="'" line="36" column="6" />
-        <mark key="[" line="50" column="15" />
-        <mark key="]" line="50" column="15" />
-        <mark key="^" line="50" column="15" />
-        <mark key="." line="50" column="15" />
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/spam/filter/SpamFilterRecovery.scala" timestamp="1591319965089">
         <mark key="[" line="14" column="0" />
@@ -326,7 +326,7 @@
         <text encoding="base64">ICAgIHZhbCBtZXNzYWdlU2VydmljZTogTWVzc2FnZVNlcnZpY2UsCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">c3BhcmsuZXhlY3V0b3JFbnYubWFwcmVkdWNlLmpvYi51c2VyLm5hbWU9ZGVwbG95Cg==</text>
@@ -2631,7 +2631,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIA==</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>config.</text>
@@ -2726,7 +2726,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
