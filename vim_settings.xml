@@ -203,7 +203,8 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/monitoring/src/main/scala/com/kakao/story/apps/monitoring/SparkAppHealer.scala" timestamp="1591334116292" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/arcusLoad/ArcusLoadStreaming.scala" timestamp="1591321922970" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/util/Jenkins.scala" timestamp="1591334152971" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" timestamp="1591539297405">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" timestamp="1591580090010">
+        <mark key="'" line="144" column="25" />
         <mark key="[" line="150" column="65" />
         <mark key="]" line="150" column="74" />
         <mark key="^" line="150" column="74" />
@@ -214,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="5" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-etl.sh" />
       <jump line="182" column="19" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" />
       <jump line="45" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-etl.sh" />
       <jump line="46" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-etl.sh" />
@@ -314,6 +314,7 @@
       <jump line="85" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/service/TrommService.scala" />
       <jump line="50" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming.scala" />
       <jump line="58" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming.scala" />
+      <jump line="144" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
