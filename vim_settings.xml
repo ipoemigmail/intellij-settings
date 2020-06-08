@@ -47,8 +47,8 @@
         <entry>a</entry>
         <entry>%s/ErrorReport/ErrorDelete/g</entry>
         <entry>60</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -171,20 +171,21 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="49" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming-prod.conf" timestamp="1591539314420">
-        <mark key="[" line="28" column="44" />
-        <mark key="]" line="28" column="45" />
-        <mark key="." line="28" column="45" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming-prod.conf" timestamp="1591542685630">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="23" />
         <mark key="^" line="28" column="45" />
       </file>
       <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/offbytwo/jenkins/jenkins-client/0.3.8/jenkins-client-0.3.8-sources.jar!/com/offbytwo/jenkins/model/Job.java" timestamp="1591334079640">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming.scala" timestamp="1591539484872">
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="37" column="24" />
-        <mark key="." line="37" column="24" />
-        <mark key="^" line="37" column="25" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming.scala" timestamp="1591576253250">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="37" column="26" />
+        <mark key="." line="37" column="25" />
+        <mark key="^" line="37" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/util/JenkinsTest.scala" timestamp="1591334243667">
         <mark key="[" line="10" column="19" />
@@ -213,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/monitoring/src/main/scala/com/kakao/story/apps/monitoring/SparkAppHealerDev-dev.conf" />
-      <jump line="16" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-etl.sh" />
       <jump line="127" column="5" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-etl.sh" />
       <jump line="182" column="19" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" />
       <jump line="45" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-etl.sh" />
@@ -313,6 +312,8 @@
       <jump line="126" column="49" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/offbytwo/jenkins/jenkins-client/0.3.8/jenkins-client-0.3.8-sources.jar!/com/offbytwo/jenkins/model/JobWithDetails.java" />
       <jump line="31" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/service/TrommService.scala" />
       <jump line="85" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/service/TrommService.scala" />
+      <jump line="50" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming.scala" />
+      <jump line="58" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,7 +322,7 @@
         <text encoding="base64">ICAgIHZhbCBtZXNzYWdlU2VydmljZTogTWVzc2FnZVNlcnZpY2UsCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text>80</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">c3BhcmsuZXhlY3V0b3JFbnYubWFwcmVkdWNlLmpvYi51c2VyLm5hbWU9ZGVwbG95Cg==</text>
@@ -2626,7 +2627,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>80</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cm9tbUFscGhhS2Fma2FUb3BpY1w+</text>
@@ -2721,7 +2722,7 @@
         <text encoding="base64">ICBzZWFsZWQgYWJzdHJhY3QgY2xhc3MgRXJyb3JUeXBlKG92ZXJyaWRlIHZhbCBlbnRyeU5hbWU6IFN0cmluZykgZXh0ZW5kcyBFbnVtRW50cnkKICBvYmplY3QgRXJyb3JUeXBlIGV4dGVuZHMgRW51bVtFcnJvclR5cGVdIHsKICAgIGZpbmFsIGNhc2Ugb2JqZWN0IFBhcnNlRXJyb3IgZXh0ZW5kcyBFcnJvclR5cGUoInBhcnNlIikKICAgIGZpbmFsIGNhc2Ugb2JqZWN0IFByb2Nlc3NFcnJvciBleHRlbmRzIEVycm9yVHlwZSgicHJvY2VzcyIpCgogICAgb3ZlcnJpZGUgZGVmIHZhbHVlcyA9IGZpbmRWYWx1ZXMKICB9CgogIGNhc2UgY2xhc3MgQXJnSW5mbyhqb2JOYW1lOiBTdHJpbmcsIGVycm9yVHlwZTogRXJyb3JUeXBlKQoK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
