@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>external</entry>
-        <entry encoding="base64">XDxDTlRcPg==</entry>
         <entry encoding="base64">XDxwcm9maWxlUmVwb1w+</entry>
         <entry encoding="base64">XDxyZWNlbnRQcm9maWxlSWRcPg==</entry>
         <entry encoding="base64">XDxhbHBoYVw+</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxwYXJzZUNvbnRlbnRzXD4=</entry>
         <entry encoding="base64">XDxwaGFzZVw+</entry>
         <entry encoding="base64">XDxqb2JOYW1lXD4=</entry>
+        <entry>scm</entry>
+        <entry>can</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0RldmljZS9BZG1pbi9n</entry>
@@ -47,8 +47,8 @@
         <entry>a</entry>
         <entry>%s/ErrorReport/ErrorDelete/g</entry>
         <entry>60</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -135,6 +135,12 @@
         <mark key="^" line="32" column="83" />
         <mark key="." line="32" column="82" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/test/scala/com/kakao/story/tool/jenkins/JenkinsHelperTest.scala" timestamp="1591693018027">
+        <mark key="'" line="22" column="40" />
+        <mark key="[" line="61" column="12" />
+        <mark key="]" line="61" column="12" />
+        <mark key="." line="61" column="12" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/toros/feedbackToToros/FeedbackToTorosStreaming-prod.conf" timestamp="1591537057241">
         <mark key="[" line="25" column="44" />
         <mark key="]" line="25" column="45" />
@@ -155,10 +161,10 @@
         <mark key="." line="18" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming-prod.conf" timestamp="1591692263256">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="40" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="40" />
         <mark key="." line="22" column="23" />
-        <mark key="^" line="28" column="45" />
+        <mark key="^" line="22" column="45" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphRecovery-dev.conf" timestamp="1591613464458">
         <mark key="[" line="26" column="49" />
@@ -169,21 +175,16 @@
         <mark key="[" line="28" column="41" />
         <mark key="]" line="28" column="82" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming.scala" timestamp="1591692281772">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming.scala" timestamp="1591692296272">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="37" column="23" />
         <mark key="]" line="37" column="28" />
         <mark key="." line="37" column="27" />
         <mark key="^" line="37" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/util/JenkinsTest.scala" timestamp="1591334243667">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="80" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="19" />
-      </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/offbytwo/jenkins/jenkins-client/0.3.8/jenkins-client-0.3.8-sources.jar!/com/offbytwo/jenkins/model/JobWithDetails.java" timestamp="1591334421939">
-        <mark key="'" line="126" column="49" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" timestamp="1591692956956">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/s2Graph/S2GraphStreaming.scala" timestamp="1591613534215" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorReportBatch-dev.conf" timestamp="1591683275116">
@@ -221,10 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/arcusLoad/service/ArcusLoadService.scala" />
-      <jump line="30" column="25" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/application.properties" />
-      <jump line="31" column="51" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/application.properties" />
-      <jump line="32" column="52" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/application.properties" />
       <jump line="54" column="43" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/application.properties" />
       <jump line="57" column="0" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/application.properties" />
       <jump line="70" column="44" filename="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/resources/application.properties" />
@@ -321,6 +318,10 @@
       <jump line="19" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch-dev.conf" />
       <jump line="18" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch-dev.conf" />
       <jump line="18" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch-prod.conf" />
+      <jump line="45" column="33" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/test/scala/com/kakao/story/tool/jenkins/JenkinsHelperTest.scala" />
+      <jump line="59" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/test/scala/com/kakao/story/tool/jenkins/JenkinsHelperTest.scala" />
+      <jump line="60" column="31" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/test/scala/com/kakao/story/tool/jenkins/JenkinsHelperTest.scala" />
+      <jump line="22" column="40" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/test/scala/com/kakao/story/tool/jenkins/JenkinsHelperTest.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,7 +330,7 @@
         <text encoding="base64">ICAgIHZhbCBtZXNzYWdlU2VydmljZTogTWVzc2FnZVNlcnZpY2UsCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>500</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">c3BhcmsuZXhlY3V0b3JFbnYubWFwcmVkdWNlLmpvYi51c2VyLm5hbWU9ZGVwbG95Cg==</text>
@@ -2634,16 +2635,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>500</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqb2JOYW1lXD4=</text>
+        <text>can</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2aWV3TmFtZSA9ICJtb25pdG9yaW5nLWRldiIKICBwYXJhbWV0ZXJzID0gWwogICAgewogICAgICBpbmRleCA9IDAKICAgICAgZGVzY3JpcHRpb24gPSAiIiLrjIDsg4EgRVRMIEpPQiAoRlVMTCBOQU1FKSIiIgogICAgfSwKICAgIHsKICAgICAgaW5kZXggPSAxCiAgICAgIGRlc2NyaXB0aW9uID0gIiIiRVJST1Ig7KKF66WYIChwYXJzZSAvIHByb2Nlc3MpIiIiCiAgICB9CiAgXQogIGNvbmZpZy5vdmVycmlkZSA9IHRydWUKICBkZXNjcmlwdGlvbiA9ICIiIgogICIiIgo=</text>
+        <text encoding="base64">ICA8Y2FuUm9hbT50cnVlPC9jYW5Sb2FtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2aWV3TmFtZSA9ICJtb25pdG9yaW5nIgogIHBhcmFtZXRlcnMgPSBbCiAgICB7CiAgICAgIGluZGV4ID0gMAogICAgICBkZXNjcmlwdGlvbiA9ICIiIuuMgOyDgSBFVEwgSk9CIChGVUxMIE5BTUUpIiIiCiAgICB9LAogICAgewogICAgICBpbmRleCA9IDEKICAgICAgZGVzY3JpcHRpb24gPSAiIiJFUlJPUiDsooXrpZggKHBhcnNlIC8gcHJvY2VzcykiIiIKICAgIH0KICBdCiAgY3JvbkV4cHJlc3Npb24gPSAiKi8zMCAqICogKiAqIgogIGNvbmZpZy5vdmVycmlkZSA9IHRydWUKICBkZXNjcmlwdGlvbiA9ICIiIgogICIiIgo=</text>
+        <text encoding="base64">ICA8Y2FuUm9hbT50cnVlPC9jYW5Sb2FtPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2676,25 +2677,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">am9iLmplbmtpbnMgewogIHVzZXIgPSAiZGV2ZWxvcCIKICBwYXNzd29yZCA9ICJkZXZ0ZWFtIgogIGhvc3QgPSAiaHR0cDovL3N0b3J5LXNwYXJrLWplbmtpbnMtZGV2LmRldmVsLmtha2FvLmNvbS8iCiAgdmlld05hbWUgPSAibW9uaXRvcmluZy1kZXYiCiAgcGFyYW1ldGVycyA9IFsKICAgIHsKICAgICAgaW5kZXggPSAwCiAgICAgIGRlc2NyaXB0aW9uID0gIiIi64yA7IOBIEVUTCBKT0IgKEZVTEwgTkFNRSkiIiIKICAgIH0sCiAgICB7CiAgICAgIGluZGV4ID0gMQogICAgICBkZXNjcmlwdGlvbiA9ICIiIkVSUk9SIOyiheulmCAocGFyc2UgLyBwcm9jZXNzKSIiIgogICAgfQogIF0KICBjb25maWcub3ZlcnJpZGUgPSB0cnVlCiAgZGVzY3JpcHRpb24gPSAiIiIKICAiIiIKfQo=</text>
+        <text encoding="base64">ICB2aWV3TmFtZSA9ICJtb25pdG9yaW5nIgogIHBhcmFtZXRlcnMgPSBbCiAgICB7CiAgICAgIGluZGV4ID0gMAogICAgICBkZXNjcmlwdGlvbiA9ICIiIuuMgOyDgSBFVEwgSk9CIChGVUxMIE5BTUUpIiIiCiAgICB9LAogICAgewogICAgICBpbmRleCA9IDEKICAgICAgZGVzY3JpcHRpb24gPSAiIiJFUlJPUiDsooXrpZggKHBhcnNlIC8gcHJvY2VzcykiIiIKICAgIH0KICBdCiAgY3JvbkV4cHJlc3Npb24gPSAiKi8zMCAqICogKiAqIgogIGNvbmZpZy5vdmVycmlkZSA9IHRydWUKICBkZXNjcmlwdGlvbiA9ICIiIgogICIiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5jbHVkZSBjbGFzc3BhdGgoImRldi1oYWRvb3AuY29uZiIpCg==</text>
+        <text encoding="base64">am9iLmplbmtpbnMgewogIHVzZXIgPSAiZGV2ZWxvcCIKICBwYXNzd29yZCA9ICJkZXZ0ZWFtIgogIGhvc3QgPSAiaHR0cDovL3N0b3J5LXNwYXJrLWplbmtpbnMtZGV2LmRldmVsLmtha2FvLmNvbS8iCiAgdmlld05hbWUgPSAibW9uaXRvcmluZy1kZXYiCiAgcGFyYW1ldGVycyA9IFsKICAgIHsKICAgICAgaW5kZXggPSAwCiAgICAgIGRlc2NyaXB0aW9uID0gIiIi64yA7IOBIEVUTCBKT0IgKEZVTEwgTkFNRSkiIiIKICAgIH0sCiAgICB7CiAgICAgIGluZGV4ID0gMQogICAgICBkZXNjcmlwdGlvbiA9ICIiIkVSUk9SIOyiheulmCAocGFyc2UgLyBwcm9jZXNzKSIiIgogICAgfQogIF0KICBjb25maWcub3ZlcnJpZGUgPSB0cnVlCiAgZGVzY3JpcHRpb24gPSAiIiIKICAiIiIKfQo=</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICB1c2VyID0gImRldmVsb3AiCiAgcGFzc3dvcmQgPSAiZGV2dGVhbSIKICBob3N0ID0gImh0dHA6Ly9zdG9yeS1zcGFyay1qZW5raW5zLWRldi5kZXZlbC5rYWthby5jb20vIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5jbHVkZSBjbGFzc3BhdGgoImRldi1oYWRvb3AuY29uZiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YWwgcGhhc2VUZXh0ID0gcGhhc2UgbWF0Y2ggewogICAgICAgICAgICAgICAgY2FzZSBQaGFzZS5Qcm9kID0+ICJwcm9kIgogICAgICAgICAgICAgICAgY2FzZSBfICAgICAgICAgID0+ICJkZXYiCiAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUGhhc2UuRGV2ID0+ICJkIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YWwgcGhhc2VUZXh0ID0gcGhhc2UgbWF0Y2ggewogICAgICAgICAgICAgICAgY2FzZSBQaGFzZS5Qcm9kID0+ICJwcm9kIgogICAgICAgICAgICAgICAgY2FzZSBfICAgICAgICAgID0+ICJkZXYiCiAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUGhhc2UuRGV2ID0+ICJkIgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2723,13 +2724,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFsIGNtZAo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBoYXNlCg==</text>
+        <text encoding="base64">dmFsIGNtZAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2738,9 +2739,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxqb2JOYW1lXD4=</last-search>
+      <last-search>can</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqb2JOYW1lXD4=</last-pattern>
+      <last-pattern>can</last-pattern>
       <last-replace>ErrorDelete</last-replace>
       <last-substitute>ErrorReport</last-substitute>
       <last-dir>1</last-dir>
