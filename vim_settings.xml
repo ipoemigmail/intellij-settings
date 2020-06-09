@@ -147,11 +147,11 @@
         <mark key="." line="25" column="44" />
         <mark key="^" line="25" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorReportBatch.scala" timestamp="1591704341015">
-        <mark key="[" line="117" column="15" />
-        <mark key="]" line="117" column="18" />
-        <mark key="^" line="117" column="18" />
-        <mark key="." line="117" column="17" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorReportBatch.scala" timestamp="1591706058348">
+        <mark key="[" line="105" column="43" />
+        <mark key="]" line="105" column="45" />
+        <mark key="^" line="105" column="45" />
+        <mark key="." line="105" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch-prod.conf" timestamp="1591692066562">
         <mark key="[" line="18" column="25" />
@@ -329,7 +329,7 @@
         <text encoding="base64">ICAgIHZhbCBtZXNzYWdlU2VydmljZTogTWVzc2FnZVNlcnZpY2UsCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>run</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">c3BhcmsuZXhlY3V0b3JFbnYubWFwcmVkdWNlLmpvYi51c2VyLm5hbWU9ZGVwbG95Cg==</text>
@@ -2634,7 +2634,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>run</text>
       </register>
       <register name="/" type="4">
         <text>can</text>
