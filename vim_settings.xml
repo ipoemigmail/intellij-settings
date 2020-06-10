@@ -46,9 +46,9 @@
         <entry>%s/ErrorReport/ErrorDelete/g</entry>
         <entry>60</entry>
         <entry>19</entry>
-        <entry>wa</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -173,19 +173,25 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" timestamp="1591784711613">
         <mark key="'" line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationRecovery.scala" timestamp="1591790834595">
+        <mark key="[" line="43" column="99" />
+        <mark key="]" line="43" column="102" />
+        <mark key="^" line="43" column="102" />
+        <mark key="." line="43" column="101" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming.scala" timestamp="1591790822933">
+        <mark key="[" line="5" column="84" />
+        <mark key="]" line="5" column="89" />
+        <mark key="^" line="5" column="89" />
+        <mark key="." line="5" column="88" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming-prod.conf" timestamp="1591765531870">
         <mark key="[" line="52" column="10" />
         <mark key="]" line="52" column="47" />
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch.scala" timestamp="1591685441309">
-        <mark key="'" line="46" column="3" />
-        <mark key="[" line="32" column="82" />
-        <mark key="]" line="32" column="83" />
-        <mark key="^" line="32" column="83" />
-        <mark key="." line="32" column="82" />
-      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/resources/ks-streaming1.conf" timestamp="1591787401328" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-etl.sh" timestamp="1591781400787">
         <mark key="[" line="163" column="31" />
         <mark key="]" line="163" column="35" />
@@ -201,11 +207,6 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportStreaming-dev.conf" timestamp="1591774359109">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="40" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorReportBatch-prod.conf" timestamp="1591692034213">
-        <mark key="'" line="14" column="12" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="23" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/restart-all-etl.sh" timestamp="1591784073680">
         <mark key="'" line="5" column="65" />
@@ -224,7 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
       <jump line="15" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
       <jump line="52" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
       <jump line="54" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
@@ -324,6 +324,7 @@
       <jump line="5" column="65" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/restart-all-etl.sh" />
       <jump line="187" column="3" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" />
       <jump line="5" column="65" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" />
+      <jump line="32" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,7 +333,7 @@
         <text encoding="base64">ICAgIHZhbCBtZXNzYWdlU2VydmljZTogTWVzc2FnZVNlcnZpY2UsCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>spark.streaming.kafka.maxRatePerPartition</text>
+        <text encoding="base64">IHsKfQ==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">c3BhcmsuZXhlY3V0b3JFbnYubWFwcmVkdWNlLmpvYi51c2VyLm5hbWU9ZGVwbG95Cg==</text>
@@ -2645,8 +2646,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICBncmVwIC1FICdTdHJlYW1pbmcuc2NhbGF8UmVjb3Zlcnkuc2NhbGEnIHwgXAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBncmVwIC1FICcqU3RyZWFtaW5nLnNjYWxhJyB8IFwK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHsKfQ==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2679,25 +2680,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjZ3JlcCAtRSAnU3RyZWFtaW5nLnNjYWxhJyB8IFwK</text>
+        <text encoding="base64">ICB2YWwgYmF0Y2hTaXplOiBJbnQgPSAxMDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgZWNobyAK</text>
+        <text encoding="base64">ICBncmVwIC1FICcqU3RyZWFtaW5nLnNjYWxhJyB8IFwK</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICB1c2VyID0gImRldmVsb3AiCiAgcGFzc3dvcmQgPSAiZGV2dGVhbSIKICBob3N0ID0gImh0dHA6Ly9zdG9yeS1zcGFyay1qZW5raW5zLWRldi5kZXZlbC5rYWthby5jb20vIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgZWNobyAvYmluL2Jhc2ggLWMgImV4cG9ydCBIQURPT1BfVVNFUl9OQU1FPWhkZnM7IGV4cG9ydCBQSEFTRT1wcm9kOyBleHBvcnQgQ0xVU1RFUl9OQU1FPWtzLXN0cmVhbWluZzE7IGJpbi9ydW4uc2ggJEYiCg==</text>
+        <text encoding="base64">ICAjZ3JlcCAtRSAnU3RyZWFtaW5nLnNjYWxhJyB8IFwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC9iaW4vYmFzaCAtYyAiZXhwb3J0IEhBRE9PUF9VU0VSX05BTUU9aGRmczsgZXhwb3J0IFBIQVNFPXByb2Q7IGV4cG9ydCBDTFVTVEVSX05BTUU9a3Mtc3RyZWFtaW5nMTsgYmluL3J1bi5zaCAkRiIK</text>
+        <text encoding="base64">ICAgIAogICAgZWNobyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVjaG8gL2Jpbi9iYXNoIC1jICJiaW4vcnVuLnNoICRGIgo=</text>
+        <text encoding="base64">ICAgIAogICAgZWNobyAvYmluL2Jhc2ggLWMgImV4cG9ydCBIQURPT1BfVVNFUl9OQU1FPWhkZnM7IGV4cG9ydCBQSEFTRT1wcm9kOyBleHBvcnQgQ0xVU1RFUl9OQU1FPWtzLXN0cmVhbWluZzE7IGJpbi9ydW4uc2ggJEYiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC9iaW4vYmFzaCAtYyAiYmluL3J1bi5zaCAkRiIK</text>
+        <text encoding="base64">ICAgIC9iaW4vYmFzaCAtYyAiZXhwb3J0IEhBRE9PUF9VU0VSX05BTUU9aGRmczsgZXhwb3J0IFBIQVNFPXByb2Q7IGV4cG9ydCBDTFVTVEVSX05BTUU9a3Mtc3RyZWFtaW5nMTsgYmluL3J1bi5zaCAkRiIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2726,13 +2727,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gL2Jpbi9iYXNoIC1jICJiaW4vcnVuLnNoICRGIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChsb2cuaXNBY3Rpdml0eSB8fCBsb2cuaXNDaGFubmVsQWN0aXZpdHkpIHsKICAgICAgaWYgKGxvZy5pc1VwZGF0ZWQpIHsKICAgICAgICBTb21lKGRlbGV0ZVJlZmVyZW5jZUFjdGl2aXR5SXRlbShsb2cpKQogICAgICB9IGVsc2UgaWYgKGxvZy5pc0RlbGV0ZWQpIHsKICAgICAgICBTb21lKGRlbGV0ZVJlZmVyZW5jZUFjdGl2aXR5SXRlbShsb2cpKQogICAgICB9IGVsc2UgewogICAgICAgIFNvbWUoTGlzdC5lbXB0eSkKICAgICAgfQogICAgfSBlbHNlIHsKICAgICAgU29tZShOaWwpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC9iaW4vYmFzaCAtYyAiYmluL3J1bi5zaCAkRiIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
