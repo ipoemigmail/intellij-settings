@@ -137,7 +137,7 @@
         <mark key="^" line="105" column="45" />
         <mark key="." line="105" column="44" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportRecovery-dev.conf" timestamp="1591755178015">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportRecovery-dev.conf" timestamp="1591765556745">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="40" />
       </file>
@@ -163,7 +163,7 @@
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming-prod.conf" timestamp="1591765385256">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming-prod.conf" timestamp="1591765531870">
         <mark key="[" line="52" column="10" />
         <mark key="]" line="52" column="47" />
         <mark key="." line="22" column="23" />
@@ -183,9 +183,9 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportStreaming-dev.conf" timestamp="1591684103224">
-        <mark key="[" line="28" column="41" />
-        <mark key="]" line="28" column="82" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportStreaming-dev.conf" timestamp="1591765678616">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="40" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorReportBatch-prod.conf" timestamp="1591692034213">
         <mark key="'" line="14" column="12" />
@@ -307,7 +307,7 @@
         <text encoding="base64">ICAgIHZhbCBtZXNzYWdlU2VydmljZTogTWVzc2FnZVNlcnZpY2UsCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>http://story-hadoop-cmd1.dakao.io:8090</text>
+        <text>spark.streaming.kafka.maxRatePerPartition</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">c3BhcmsuZXhlY3V0b3JFbnYubWFwcmVkdWNlLmpvYi51c2VyLm5hbWU9ZGVwbG95Cg==</text>
@@ -2606,7 +2606,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>http://story-hadoop-cmd1.dakao.io:8090</text>
+        <text>spark.streaming.kafka.maxRatePerPartition</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
