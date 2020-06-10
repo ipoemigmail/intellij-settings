@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>insert</entry>
         <entry>ErrorReport</entry>
         <entry>config.</entry>
         <entry>contain</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxTS0lQX0xJQlJBUllfT1BUXD4=</entry>
         <entry>Reco</entry>
+        <entry encoding="base64">XDxhc3luY0dldEFjdGl2aXR5QnlJZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1NsYXZlL01hc3Rlci9n</entry>
@@ -118,13 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch-dev.conf" timestamp="1591692059697">
-        <mark key="'" line="18" column="12" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="31" column="5" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="26" column="49" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/test/scala/com/kakao/story/tool/jenkins/JenkinsHelperTest.scala" timestamp="1591693018027">
         <mark key="'" line="22" column="40" />
         <mark key="[" line="61" column="12" />
@@ -185,6 +178,10 @@
         <mark key="^" line="5" column="89" />
         <mark key="." line="5" column="88" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-sray/app/http/StoryAppClient.scala" timestamp="1591791377143">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="56" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming-prod.conf" timestamp="1591765531870">
         <mark key="[" line="52" column="10" />
         <mark key="]" line="52" column="47" />
@@ -225,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
       <jump line="52" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
       <jump line="54" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
       <jump line="16" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
@@ -325,6 +321,7 @@
       <jump line="187" column="3" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" />
       <jump line="5" column="65" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" />
       <jump line="32" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming.scala" />
+      <jump line="176" column="17" filename="$USER_HOME$/Develop/Works/story/story-sray/app/http/StoryAppClient.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,7 +330,7 @@
         <text encoding="base64">ICAgIHZhbCBtZXNzYWdlU2VydmljZTogTWVzc2FnZVNlcnZpY2UsCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHsKfQ==</text>
+        <text>http.server.story-app</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">c3BhcmsuZXhlY3V0b3JFbnYubWFwcmVkdWNlLmpvYi51c2VyLm5hbWU9ZGVwbG95Cg==</text>
@@ -2632,7 +2629,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>spark.streaming.kafka.maxRatePerPartition</text>
+        <text>http.server.story-app</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
@@ -2641,7 +2638,7 @@
         <text>|Recovery.scala</text>
       </register>
       <register name="/" type="4">
-        <text>Reco</text>
+        <text encoding="base64">XDxhc3luY0dldEFjdGl2aXR5QnlJZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBncmVwIC1FICdTdHJlYW1pbmcuc2NhbGF8UmVjb3Zlcnkuc2NhbGEnIHwgXAo=</text>
@@ -2742,9 +2739,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Reco</last-search>
+      <last-search encoding="base64">XDxhc3luY0dldEFjdGl2aXR5QnlJZFw+</last-search>
       <last-offset />
-      <last-pattern>Reco</last-pattern>
+      <last-pattern encoding="base64">XDxhc3luY0dldEFjdGl2aXR5QnlJZFw+</last-pattern>
       <last-replace>ErrorDelete</last-replace>
       <last-substitute>ErrorReport</last-substitute>
       <last-dir>1</last-dir>
