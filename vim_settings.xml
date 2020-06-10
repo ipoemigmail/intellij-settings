@@ -218,7 +218,10 @@
         <mark key="]" line="4" column="66" />
         <mark key="." line="4" column="66" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming-prod.conf" timestamp="1591786000542" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming-prod.conf" timestamp="1591786077893">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="40" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="53" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
@@ -328,8 +331,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIHZhbCBtZXNzYWdlU2VydmljZTogTWVzc2FnZVNlcnZpY2UsCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IOyLpOygnCDsoIHsmqnrkJjrqbQgUHJvZCDtmZjqsr3sl5DshJzrj4Qg64uk66W4IO2ZmOqyveqzvCDrj5nsnbztlZwg66Gc7KeB7Jy866GcIOynhO2Wie2VtOyVvO2VqAogICAgcGhhc2UgbWF0Y2ggewogICAgICBjYXNlIFBoYXNlLlByb2QgPT4KICAgICAgICBpZiAobG9nLmlzQWN0aXZpdHkgfHwgbG9nLmlzQ2hhbm5lbEFjdGl2aXR5KSB7CiAgICAgICAgICBpZiAobG9nLmlzVXBkYXRlZCkgewogICAgICAgICAgICBTb21lKGRlbGV0ZVJlZmVyZW5jZUFjdGl2aXR5SXRlbShsb2cpKQogICAgICAgICAgfSBlbHNlIGlmIChsb2cuaXNEZWxldGVkKSB7CiAgICAgICAgICAgIFNvbWUoZGVsZXRlUmVmZXJlbmNlQWN0aXZpdHlJdGVtKGxvZykpCiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBTb21lKExpc3QuZW1wdHkpCiAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIFNvbWUoTmlsKQogICAgICAgIH0KICAgICAgY2FzZSBfID0+CiAgICAgICAgaWYgKGxvZy5pc0FjdGl2aXR5IHx8IGxvZy5pc0NoYW5uZWxBY3Rpdml0eSkgewogICAgICAgICAgaWYgKGxvZy5pc0NyZWF0ZWQpIHsKICAgICAgICAgICAgU29tZShjcmVhdGVDbGFzc2lmaWNhdGlvbihsb2cpKQogICAgICAgICAgfSBlbHNlIGlmIChsb2cuaXNVcGRhdGVkKSB7CiAgICAgICAgICAgIFNvbWUodXBkYXRlQ2xhc3NpZmljYXRpb24obG9nKSArKyBkZWxldGVSZWZlcmVuY2VBY3Rpdml0eUl0ZW0obG9nKSkKICAgICAgICAgIH0gZWxzZSBpZiAobG9nLmlzRGVsZXRlZCkgewogICAgICAgICAgICBTb21lKGRlbGV0ZUNsYXNzaWZpY2F0aW9uKGxvZykgKysgZGVsZXRlUmVmZXJlbmNlQWN0aXZpdHlJdGVtKGxvZykpCiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBTb21lKExpc3QuZW1wdHkpCiAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIFNvbWUoTmlsKQogICAgICAgIH0KICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>spark.streaming.kafka.maxRatePerPartition</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">c3BhcmsuZXhlY3V0b3JFbnYubWFwcmVkdWNlLmpvYi51c2VyLm5hbWU9ZGVwbG95Cg==</text>
@@ -2627,8 +2630,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IOyLpOygnCDsoIHsmqnrkJjrqbQgUHJvZCDtmZjqsr3sl5DshJzrj4Qg64uk66W4IO2ZmOqyveqzvCDrj5nsnbztlZwg66Gc7KeB7Jy866GcIOynhO2Wie2VtOyVvO2VqAogICAgcGhhc2UgbWF0Y2ggewogICAgICBjYXNlIFBoYXNlLlByb2QgPT4KICAgICAgICBpZiAobG9nLmlzQWN0aXZpdHkgfHwgbG9nLmlzQ2hhbm5lbEFjdGl2aXR5KSB7CiAgICAgICAgICBpZiAobG9nLmlzVXBkYXRlZCkgewogICAgICAgICAgICBTb21lKGRlbGV0ZVJlZmVyZW5jZUFjdGl2aXR5SXRlbShsb2cpKQogICAgICAgICAgfSBlbHNlIGlmIChsb2cuaXNEZWxldGVkKSB7CiAgICAgICAgICAgIFNvbWUoZGVsZXRlUmVmZXJlbmNlQWN0aXZpdHlJdGVtKGxvZykpCiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBTb21lKExpc3QuZW1wdHkpCiAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIFNvbWUoTmlsKQogICAgICAgIH0KICAgICAgY2FzZSBfID0+CiAgICAgICAgaWYgKGxvZy5pc0FjdGl2aXR5IHx8IGxvZy5pc0NoYW5uZWxBY3Rpdml0eSkgewogICAgICAgICAgaWYgKGxvZy5pc0NyZWF0ZWQpIHsKICAgICAgICAgICAgU29tZShjcmVhdGVDbGFzc2lmaWNhdGlvbihsb2cpKQogICAgICAgICAgfSBlbHNlIGlmIChsb2cuaXNVcGRhdGVkKSB7CiAgICAgICAgICAgIFNvbWUodXBkYXRlQ2xhc3NpZmljYXRpb24obG9nKSArKyBkZWxldGVSZWZlcmVuY2VBY3Rpdml0eUl0ZW0obG9nKSkKICAgICAgICAgIH0gZWxzZSBpZiAobG9nLmlzRGVsZXRlZCkgewogICAgICAgICAgICBTb21lKGRlbGV0ZUNsYXNzaWZpY2F0aW9uKGxvZykgKysgZGVsZXRlUmVmZXJlbmNlQWN0aXZpdHlJdGVtKGxvZykpCiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBTb21lKExpc3QuZW1wdHkpCiAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIFNvbWUoTmlsKQogICAgICAgIH0KICAgIH0K</text>
+      <register name="*" type="4">
+        <text>spark.streaming.kafka.maxRatePerPartition</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
