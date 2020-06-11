@@ -47,8 +47,8 @@
         <entry>60</entry>
         <entry>19</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,6 +118,43 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming.scala" timestamp="1591692296272">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="37" column="23" />
+        <mark key="]" line="37" column="28" />
+        <mark key="." line="37" column="27" />
+        <mark key="^" line="37" column="28" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" timestamp="1591692956956">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="33" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" timestamp="1591784711613">
+        <mark key="'" line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationRecovery.scala" timestamp="1591790834595">
+        <mark key="[" line="43" column="99" />
+        <mark key="]" line="43" column="102" />
+        <mark key="^" line="43" column="102" />
+        <mark key="." line="43" column="101" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/resources/ks-streaming1.conf" timestamp="1591787401328" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-etl.sh" timestamp="1591781400787">
+        <mark key="[" line="163" column="31" />
+        <mark key="]" line="163" column="35" />
+        <mark key="." line="163" column="34" />
+        <mark key="^" line="163" column="35" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/converter/ActivityContentConverter.scala" timestamp="1591784889229">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="46" column="5" />
+        <mark key="." line="18" column="52" />
+        <mark key="^" line="18" column="53" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming-prod.conf" timestamp="1591786077893">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="40" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/test/scala/com/kakao/story/tool/jenkins/JenkinsHelperTest.scala" timestamp="1591693018027">
         <mark key="'" line="22" column="40" />
         <mark key="[" line="61" column="12" />
@@ -134,23 +171,10 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming.scala" timestamp="1591692296272">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="37" column="28" />
-        <mark key="." line="37" column="27" />
-        <mark key="^" line="37" column="28" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/real/kpusher.conf" timestamp="1591754084212">
         <mark key="[" line="4" column="60" />
         <mark key="]" line="4" column="60" />
         <mark key="." line="4" column="60" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch-prod.conf" timestamp="1591692066562">
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="18" column="25" />
-        <mark key="^" line="18" column="25" />
-        <mark key="." line="18" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1591784063426">
         <mark key="'" line="5" column="65" />
@@ -158,19 +182,6 @@
         <mark key="]" line="125" column="46" />
         <mark key="." line="195" column="32" />
         <mark key="^" line="195" column="33" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" timestamp="1591692956956">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="33" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" timestamp="1591784711613">
-        <mark key="'" line="75" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationRecovery.scala" timestamp="1591790834595">
-        <mark key="[" line="43" column="99" />
-        <mark key="]" line="43" column="102" />
-        <mark key="^" line="43" column="102" />
-        <mark key="." line="43" column="101" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming.scala" timestamp="1591790822933">
         <mark key="[" line="5" column="84" />
@@ -188,18 +199,11 @@
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/resources/ks-streaming1.conf" timestamp="1591787401328" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-etl.sh" timestamp="1591781400787">
-        <mark key="[" line="163" column="31" />
-        <mark key="]" line="163" column="35" />
-        <mark key="." line="163" column="34" />
-        <mark key="^" line="163" column="35" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/converter/ActivityContentConverter.scala" timestamp="1591784889229">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="46" column="5" />
-        <mark key="." line="18" column="52" />
-        <mark key="^" line="18" column="53" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationRecovery-dev.conf" timestamp="1591795290620">
+        <mark key="[" line="32" column="24" />
+        <mark key="]" line="32" column="32" />
+        <mark key="^" line="32" column="32" />
+        <mark key="." line="32" column="31" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportStreaming-dev.conf" timestamp="1591774359109">
         <mark key="[" line="26" column="0" />
@@ -215,10 +219,6 @@
         <mark key="[" line="4" column="66" />
         <mark key="]" line="4" column="66" />
         <mark key="." line="4" column="66" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming-prod.conf" timestamp="1591786077893">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -2730,7 +2730,7 @@
         <text encoding="base64">ICAgIC9iaW4vYmFzaCAtYyAiYmluL3J1bi5zaCAkRiIK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
