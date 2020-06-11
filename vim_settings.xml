@@ -131,9 +131,9 @@
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="58" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/streaming/kafka/instances/StorySrayDataEventInstances.scala" timestamp="1591864931518">
-        <mark key="[" line="17" column="102" />
-        <mark key="]" line="17" column="103" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/streaming/kafka/instances/StorySrayDataEventInstances.scala" timestamp="1591865468608">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="54" />
         <mark key="^" line="17" column="103" />
         <mark key="." line="17" column="102" />
       </file>
@@ -155,12 +155,8 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/service/StreamingKafkaToHdfs.scala" timestamp="1591863704183">
         <mark key="'" line="18" column="63" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" timestamp="1591865444169">
-        <mark key="'" line="11" column="39" />
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="40" />
-        <mark key="." line="11" column="39" />
-        <mark key="^" line="11" column="40" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" timestamp="1591865476093">
+        <mark key="'" line="21" column="42" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/DeployEnvironment.scala" timestamp="1591862930085" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/event/model/StorySrayData.scala" timestamp="1591861658008">
@@ -281,7 +277,6 @@
       <jump line="102" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-log2hdfs.sh" />
       <jump line="180" column="20" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-log2hdfs.sh" />
       <jump line="56" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstances.scala" />
-      <jump line="20" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" />
       <jump line="21" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" />
       <jump line="20" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/StorySrayRawDataEventCollectStreaming-prod.conf" />
       <jump line="4" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/StorySrayRawDataEventCollectStreaming-prod.conf" />
@@ -306,6 +301,7 @@
       <jump line="27" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StorySrayDataEventInstances.scala" />
       <jump line="25" column="34" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" />
       <jump line="11" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" />
+      <jump line="20" column="42" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -2625,7 +2621,7 @@
         <text>Load</text>
       </register>
       <register name="0" type="4">
-        <text>com.kakao.story.spark.instances</text>
+        <text>com.kakao.story.spark.streaming.kafka.instances</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50bG4oTG9hZGFibGVbU3RvcnlTcmF5UmF3RGF0YUV2ZW50XS5wYXJzZShsaW5lKSkK</text>
