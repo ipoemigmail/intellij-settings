@@ -154,12 +154,6 @@
         <mark key="]" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/resources/ks-streaming1.conf" timestamp="1591787401328" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-etl.sh" timestamp="1591781400787">
-        <mark key="[" line="163" column="31" />
-        <mark key="]" line="163" column="35" />
-        <mark key="." line="163" column="34" />
-        <mark key="^" line="163" column="35" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/log/DailyLogRotateBatch.scala" timestamp="1591840151056" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/converter/ActivityContentConverter.scala" timestamp="1591784889229">
         <mark key="[" line="18" column="0" />
@@ -185,6 +179,12 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportStreaming-prod.conf" timestamp="1591842077721">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="63" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_access_log/StoryAccessRawLogCollectRecovery-dev.conf" timestamp="1591844182524">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="37" />
+        <mark key="." line="1" column="36" />
+        <mark key="^" line="1" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming.scala" timestamp="1591790822933">
         <mark key="[" line="5" column="84" />
@@ -318,7 +318,7 @@
         <text encoding="base64">ICAgIHZhbCBtZXNzYWdlU2VydmljZTogTWVzc2FnZVNlcnZpY2UsCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>kafka.cluster.</text>
+        <text>dev-hadoop.conf</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">c3BhcmsuZXhlY3V0b3JFbnYubWFwcmVkdWNlLmpvYi51c2VyLm5hbWU9ZGVwbG95Cg==</text>
@@ -2617,19 +2617,19 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>http://story-spark-jenkins-prod.devel.kakao.com/</text>
+        <text>&quot;kafka01.iwilab.com:9092&quot;</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>common01.brokerUrls</text>
+        <text>dev-hadoop.conf</text>
       </register>
       <register name="/" type="4">
         <text>pathM</text>
       </register>
-      <register name="0" type="4">
-        <text>kafka.cluster.</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW5jbHVkZSBjbGFzc3BhdGgoImRldi1oYWRvb3AuY29uZiIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBrYWZrYS5ib290c3RyYXBTZXJ2ZXJzPSR7ZGV2LWF5LmJyb2tlclVybHN9Cg==</text>
