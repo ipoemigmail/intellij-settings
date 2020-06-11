@@ -129,8 +129,8 @@
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" timestamp="1591784711613">
-        <mark key="'" line="75" column="0" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" timestamp="1591839692458">
+        <mark key="'" line="72" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationRecovery.scala" timestamp="1591790834595">
         <mark key="[" line="43" column="99" />
@@ -222,8 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
-      <jump line="54" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
       <jump line="16" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
       <jump line="31" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
       <jump line="24" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
@@ -322,6 +320,8 @@
       <jump line="5" column="65" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" />
       <jump line="32" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming.scala" />
       <jump line="176" column="17" filename="$USER_HOME$/Develop/Works/story/story-sray/app/http/StoryAppClient.scala" />
+      <jump line="109" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
+      <jump line="72" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
