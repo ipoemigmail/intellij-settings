@@ -47,8 +47,8 @@
         <entry>60</entry>
         <entry>19</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -131,6 +131,16 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="47" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_access_log/StoryAccessLogAggregateBatch-prod.conf" timestamp="1591846371693">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="47" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-log2hdfs.sh" timestamp="1591846974092">
+        <mark key="[" line="127" column="22" />
+        <mark key="]" line="127" column="30" />
+        <mark key="." line="127" column="29" />
+        <mark key="^" line="127" column="30" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_request_log/StoryRequestRawLogCollectStreaming-dev.conf" timestamp="1591845349371">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="25" />
@@ -161,22 +171,10 @@
         <mark key="]" line="5" column="48" />
         <mark key="." line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_client_log/StoryClientRawLogCollectStreaming-dev.conf" timestamp="1591845282701">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="48" />
-        <mark key="." line="5" column="25" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/StorySrayRawDataEventCollectRecovery-dev.conf" timestamp="1591845361141">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="48" />
-        <mark key="." line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_client_log/StoryClientRawLogCollectRecovery-prod.conf" timestamp="1591845271862">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="50" />
         <mark key="." line="5" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_contents_log/StoryContentsRawLogCollectRecovery-prod.conf" timestamp="1591845298574">
@@ -191,11 +189,7 @@
         <mark key="]" line="5" column="46" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_client_log/StoryClientRawLogCollectRecovery-dev.conf" timestamp="1591845267670">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="48" />
-        <mark key="." line="5" column="25" />
-      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_client_log/StoryClientRawLogCollectRecovery.scala" timestamp="1591846406334" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_request_log/StoryRequestRawLogCollectStreaming-prod.conf" timestamp="1591845353293">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="25" />
@@ -349,7 +343,7 @@
         <text>${kafka.cluster.dev-ay}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;kafka01.iwilab.com:9092&quot;</text>
+        <text>etl</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2654,7 +2648,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;kafka01.iwilab.com:9092&quot;</text>
+        <text>etl</text>
       </register>
       <register name="/" type="4">
         <text>pathM</text>
@@ -2749,7 +2743,7 @@
         <text encoding="base64">ICAgIC9iaW4vYmFzaCAtYyAiZXhwb3J0IEhBRE9PUF9VU0VSX05BTUU9aGRmczsgZXhwb3J0IFBIQVNFPXByb2Q7IGV4cG9ydCBDTFVTVEVSX05BTUU9a3Mtc3RyZWFtaW5nMTsgYmluL3J1bi5zaCAkRiIK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
