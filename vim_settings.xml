@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ErrorReport</entry>
         <entry>config.</entry>
         <entry>contain</entry>
         <entry encoding="base64">XDxFWENFUFRcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxTS0lQX0xJQlJBUllfT1BUXD4=</entry>
         <entry>Reco</entry>
         <entry encoding="base64">XDxhc3luY0dldEFjdGl2aXR5QnlJZFw+</entry>
+        <entry>pathM</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1NsYXZlL01hc3Rlci9n</entry>
@@ -47,8 +47,8 @@
         <entry>60</entry>
         <entry>19</entry>
         <entry>wq</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,16 +118,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming.scala" timestamp="1591692296272">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="37" column="28" />
-        <mark key="." line="37" column="27" />
-        <mark key="^" line="37" column="28" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/log/DailyLogDiffReport-prod.conf" timestamp="1591841084472">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" timestamp="1591692956956">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="33" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/log/MalformedLogMonitorStreaming.scala" timestamp="1591841281201" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_access_log/StoryAccessLogAggregateBatch-prod.conf" timestamp="1591840270075">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="47" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/log/MalformedLogMonitorStreaming-dev.conf" timestamp="1591842111951">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="40" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="27" column="46" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" timestamp="1591839692458">
         <mark key="'" line="72" column="13" />
@@ -138,6 +143,16 @@
         <mark key="^" line="43" column="102" />
         <mark key="." line="43" column="101" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/log/MalformedLogMonitorStreaming-prod.conf" timestamp="1591842114784">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="41" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="27" column="46" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/kafka-cluster.conf" timestamp="1591841191448">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="18" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/resources/ks-streaming1.conf" timestamp="1591787401328" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-etl.sh" timestamp="1591781400787">
         <mark key="[" line="163" column="31" />
@@ -145,36 +160,20 @@
         <mark key="." line="163" column="34" />
         <mark key="^" line="163" column="35" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/log/DailyLogRotateBatch.scala" timestamp="1591840151056" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/converter/ActivityContentConverter.scala" timestamp="1591784889229">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="46" column="5" />
         <mark key="." line="18" column="52" />
         <mark key="^" line="18" column="53" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/monitoring/src/main/scala/com/kakao/story/apps/monitoring/SparkAppHealerBatch-prod.conf" timestamp="1591840299715">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="57" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming-prod.conf" timestamp="1591786077893">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="40" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/test/scala/com/kakao/story/tool/jenkins/JenkinsHelperTest.scala" timestamp="1591693018027">
-        <mark key="'" line="22" column="40" />
-        <mark key="[" line="61" column="12" />
-        <mark key="]" line="61" column="12" />
-        <mark key="." line="61" column="12" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorReportBatch.scala" timestamp="1591752817313">
-        <mark key="[" line="105" column="43" />
-        <mark key="]" line="105" column="45" />
-        <mark key="^" line="105" column="45" />
-        <mark key="." line="105" column="44" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportRecovery-dev.conf" timestamp="1591765556745">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="40" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/real/kpusher.conf" timestamp="1591754084212">
-        <mark key="[" line="4" column="60" />
-        <mark key="]" line="4" column="60" />
-        <mark key="." line="4" column="60" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" timestamp="1591784063426">
         <mark key="'" line="5" column="65" />
@@ -182,6 +181,10 @@
         <mark key="]" line="125" column="46" />
         <mark key="." line="195" column="32" />
         <mark key="^" line="195" column="33" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportStreaming-prod.conf" timestamp="1591842077721">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="63" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming.scala" timestamp="1591790822933">
         <mark key="[" line="5" column="84" />
@@ -193,21 +196,11 @@
         <mark key="[" line="20" column="36" />
         <mark key="]" line="20" column="56" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/tromm/TrommStreaming-prod.conf" timestamp="1591765531870">
-        <mark key="[" line="52" column="10" />
-        <mark key="]" line="52" column="47" />
-        <mark key="." line="22" column="23" />
-        <mark key="^" line="22" column="45" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationRecovery-dev.conf" timestamp="1591795290620">
         <mark key="[" line="32" column="24" />
         <mark key="]" line="32" column="32" />
         <mark key="^" line="32" column="32" />
         <mark key="." line="32" column="31" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/accountReport/AccountReportStreaming-dev.conf" timestamp="1591774359109">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="40" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/restart-all-etl.sh" timestamp="1591784073680">
         <mark key="'" line="5" column="65" />
@@ -215,14 +208,8 @@
         <mark key="]" line="113" column="26" />
         <mark key="." line="113" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/alpha/kpusher.conf" timestamp="1591752852672">
-        <mark key="[" line="4" column="66" />
-        <mark key="]" line="4" column="66" />
-        <mark key="." line="4" column="66" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
       <jump line="31" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
       <jump line="24" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaRecoveryFromHdfsService.scala" />
       <jump line="91" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorReportBatch.scala" />
@@ -322,6 +309,7 @@
       <jump line="176" column="17" filename="$USER_HOME$/Develop/Works/story/story-sray/app/http/StoryAppClient.scala" />
       <jump line="109" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
       <jump line="72" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
+      <jump line="4" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/log/MalformedLogMonitorStreaming-dev.conf" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,7 +318,7 @@
         <text encoding="base64">ICAgIHZhbCBtZXNzYWdlU2VydmljZTogTWVzc2FnZVNlcnZpY2UsCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>http.server.story-app</text>
+        <text>kafka.cluster.</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">c3BhcmsuZXhlY3V0b3JFbnYubWFwcmVkdWNlLmpvYi51c2VyLm5hbWU9ZGVwbG95Cg==</text>
@@ -2629,22 +2617,22 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>http.server.story-app</text>
+        <text>http://story-spark-jenkins-prod.devel.kakao.com/</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>|Recovery.scala</text>
+        <text>common01.brokerUrls</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3luY0dldEFjdGl2aXR5QnlJZFw+</text>
+        <text>pathM</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBncmVwIC1FICdTdHJlYW1pbmcuc2NhbGF8UmVjb3Zlcnkuc2NhbGEnIHwgXAo=</text>
+      <register name="0" type="4">
+        <text>kafka.cluster.</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHsKfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBrYWZrYS5ib290c3RyYXBTZXJ2ZXJzPSR7ZGV2LWF5LmJyb2tlclVybHN9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2677,25 +2665,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgYmF0Y2hTaXplOiBJbnQgPSAxMDAK</text>
+        <text encoding="base64">aW5jbHVkZSBjbGFzc3BhdGgoImthZmthLWNsdXN0ZXIuY29uZi5jb25mIikK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBncmVwIC1FICcqU3RyZWFtaW5nLnNjYWxhJyB8IFwK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IHsKfQ==</text>
       </register>
       <register name="s" type="2">
         <text encoding="base64">ICB1c2VyID0gImRldmVsb3AiCiAgcGFzc3dvcmQgPSAiZGV2dGVhbSIKICBob3N0ID0gImh0dHA6Ly9zdG9yeS1zcGFyay1qZW5raW5zLWRldi5kZXZlbC5rYWthby5jb20vIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjZ3JlcCAtRSAnU3RyZWFtaW5nLnNjYWxhJyB8IFwK</text>
+        <text encoding="base64">ICB2YWwgYmF0Y2hTaXplOiBJbnQgPSAxMDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgZWNobyAK</text>
+        <text encoding="base64">ICBncmVwIC1FICcqU3RyZWFtaW5nLnNjYWxhJyB8IFwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgZWNobyAvYmluL2Jhc2ggLWMgImV4cG9ydCBIQURPT1BfVVNFUl9OQU1FPWhkZnM7IGV4cG9ydCBQSEFTRT1wcm9kOyBleHBvcnQgQ0xVU1RFUl9OQU1FPWtzLXN0cmVhbWluZzE7IGJpbi9ydW4uc2ggJEYiCg==</text>
+        <text encoding="base64">ICAjZ3JlcCAtRSAnU3RyZWFtaW5nLnNjYWxhJyB8IFwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC9iaW4vYmFzaCAtYyAiZXhwb3J0IEhBRE9PUF9VU0VSX05BTUU9aGRmczsgZXhwb3J0IFBIQVNFPXByb2Q7IGV4cG9ydCBDTFVTVEVSX05BTUU9a3Mtc3RyZWFtaW5nMTsgYmluL3J1bi5zaCAkRiIK</text>
+        <text encoding="base64">ICAgIAogICAgZWNobyAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2724,13 +2712,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gL2Jpbi9iYXNoIC1jICJiaW4vcnVuLnNoICRGIgo=</text>
+        <text encoding="base64">ICAgIAogICAgZWNobyAvYmluL2Jhc2ggLWMgImV4cG9ydCBIQURPT1BfVVNFUl9OQU1FPWhkZnM7IGV4cG9ydCBQSEFTRT1wcm9kOyBleHBvcnQgQ0xVU1RFUl9OQU1FPWtzLXN0cmVhbWluZzE7IGJpbi9ydW4uc2ggJEYiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC9iaW4vYmFzaCAtYyAiYmluL3J1bi5zaCAkRiIK</text>
+        <text encoding="base64">ICAgIC9iaW4vYmFzaCAtYyAiZXhwb3J0IEhBRE9PUF9VU0VSX05BTUU9aGRmczsgZXhwb3J0IFBIQVNFPXByb2Q7IGV4cG9ydCBDTFVTVEVSX05BTUU9a3Mtc3RyZWFtaW5nMTsgYmluL3J1bi5zaCAkRiIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2739,9 +2727,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhc3luY0dldEFjdGl2aXR5QnlJZFw+</last-search>
+      <last-search>pathM</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3luY0dldEFjdGl2aXR5QnlJZFw+</last-pattern>
+      <last-pattern>pathM</last-pattern>
       <last-replace>ErrorDelete</last-replace>
       <last-substitute>ErrorReport</last-substitute>
       <last-dir>1</last-dir>
