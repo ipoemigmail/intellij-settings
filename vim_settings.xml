@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>config.</entry>
         <entry>contain</entry>
         <entry encoding="base64">XDxFWENFUFRcPg==</entry>
         <entry>contains</entry>
@@ -27,6 +26,7 @@
         <entry>Reco</entry>
         <entry encoding="base64">XDxhc3luY0dldEFjdGl2aXR5QnlJZFw+</entry>
         <entry>pathM</entry>
+        <entry>etl</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1NsYXZlL01hc3Rlci9n</entry>
@@ -135,11 +135,12 @@
         <mark key="[" line="11" column="10" />
         <mark key="]" line="11" column="47" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-log2hdfs.sh" timestamp="1591846974092">
-        <mark key="[" line="127" column="22" />
-        <mark key="]" line="127" column="30" />
-        <mark key="." line="127" column="29" />
-        <mark key="^" line="127" column="30" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-log2hdfs.sh" timestamp="1591847248592">
+        <mark key="'" line="4" column="28" />
+        <mark key="[" line="127" column="19" />
+        <mark key="]" line="127" column="28" />
+        <mark key="." line="127" column="27" />
+        <mark key="^" line="127" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_request_log/StoryRequestRawLogCollectStreaming-dev.conf" timestamp="1591845349371">
         <mark key="'" line="0" column="0" />
@@ -235,12 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch.scala" />
-      <jump line="21" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-etl.sh" />
-      <jump line="96" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-etl.sh" />
-      <jump line="116" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/register-all-etl.sh" />
-      <jump line="46" column="30" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" />
-      <jump line="200" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" />
       <jump line="102" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" />
       <jump line="78" column="9" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" />
       <jump line="151" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-etl.sh" />
@@ -335,6 +330,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/StorySrayRawDataEventCollectStreaming-prod.conf" />
       <jump line="5" column="49" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/StorySrayRawDataEventCollectRecovery-prod.conf" />
       <jump line="5" column="58" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/StorySrayRawDataEventCollectStreaming-prod.conf" />
+      <jump line="184" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-log2hdfs.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-log2hdfs.sh" />
+      <jump line="124" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-log2hdfs.sh" />
+      <jump line="5" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-log2hdfs.sh" />
+      <jump line="3" column="19" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-log2hdfs.sh" />
+      <jump line="4" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/bin/deploy-all-log2hdfs.sh" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -343,7 +344,7 @@
         <text>${kafka.cluster.dev-ay}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>etl</text>
+        <text>]</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2648,13 +2649,13 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>etl</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>pathM</text>
+        <text>etl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW5jbHVkZSBjbGFzc3BhdGgoImthZmthLWNsdXN0ZXIuY29uZiIpCg==</text>
+        <text encoding="base64">ICBncmVwIC1FICdbXnNlcnZpY2UvU3RyZWFtaW5nLnNjYWxhXScgfCBcCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBrYWZrYS5ib290c3RyYXBTZXJ2ZXJzPSR7ZGV2LWF5LmJyb2tlclVybHN9Cg==</text>
@@ -2752,9 +2753,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pathM</last-search>
+      <last-search>etl</last-search>
       <last-offset />
-      <last-pattern>pathM</last-pattern>
+      <last-pattern>etl</last-pattern>
       <last-replace>ErrorDelete</last-replace>
       <last-substitute>ErrorReport</last-substitute>
       <last-dir>1</last-dir>
