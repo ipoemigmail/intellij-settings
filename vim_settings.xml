@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJzZUNvbnRlbnRzXD4=</entry>
         <entry encoding="base64">XDxwaGFzZVw+</entry>
         <entry encoding="base64">XDxqb2JOYW1lXD4=</entry>
         <entry>scm</entry>
@@ -27,9 +26,9 @@
         <entry>;</entry>
         <entry encoding="base64">XDxnZXRDb250ZW50c1w+</entry>
         <entry>Printf</entry>
+        <entry>KeyValue</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1NsYXZlL01hc3Rlci9n</entry>
         <entry>%s/Etl//g</entry>
         <entry>%s/ArcusLoad/WakeUpPushSenderBatch/g</entry>
         <entry>%s/AdminSlave/AdminMaster/g</entry>
@@ -47,8 +46,9 @@
         <entry>60</entry>
         <entry>19</entry>
         <entry>wq</entry>
-        <entry>wa</entry>
+        <entry>%s/KeyValue/keyValue/g</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -164,9 +164,11 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="112" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" timestamp="1591940554216">
-        <mark key="'" line="81" column="10" />
-        <mark key="^" line="41" column="10" />
+      <file name="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" timestamp="1591943801335">
+        <mark key="'" line="56" column="18" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/package.scala" timestamp="1591862134032">
         <mark key="[" line="0" column="8" />
@@ -199,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="17" filename="$USER_HOME$/Develop/Works/story/story-sray/app/http/StoryAppClient.scala" />
       <jump line="109" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
       <jump line="72" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
       <jump line="4" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/log/MalformedLogMonitorStreaming-dev.conf" />
@@ -279,7 +280,6 @@
       <jump line="26" column="4" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
       <jump line="37" column="0" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
       <jump line="52" column="26" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
-      <jump line="58" column="0" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
       <jump line="34" column="0" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
       <jump line="20" column="17" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
@@ -299,6 +299,8 @@
       <jump line="44" column="297" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
       <jump line="47" column="22" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
       <jump line="81" column="10" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
+      <jump line="58" column="0" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
+      <jump line="55" column="18" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,8 +308,8 @@
       <register name="a" type="4">
         <text>&quot;, &quot;</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>21863933BED63FE8E1E5359BFC5A8C2D3D6F3A1DB66E0000180BE35E2D0D6048~ploBcnS+CgPcdwPZQEs2IwHxduKmeq3e5afvRnEmT1is9mhia0cTJ8//+FxC7xUc+honnILyI5jl3e6dAKABjEl+QCQgVgajk0t0DKvi7r8rtHexF2plLb9lJIkJV9leLZCRH7DB3YNkIKQ4Z/ksm39OvQxtmh02BZVOgxwg/oBFnCqMTIpNB/si6IbwETZlvHESUf3DSqtSb8+/ce0Cn253LD0G8QZgnt+KtzpuK4+gZ2cb4dZkD4EN85EcKZHaLs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2612,16 +2614,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>21863933BED63FE8E1E5359BFC5A8C2D3D6F3A1DB66E0000180BE35E2D0D6048~ploBcnS+CgPcdwPZQEs2IwHxduKmeq3e5afvRnEmT1is9mhia0cTJ8//+FxC7xUc+honnILyI5jl3e6dAKABjEl+QCQgVgajk0t0DKvi7r8rtHexF2plLb9lJIkJV9leLZCRH7DB3YNkIKQ4Z/ksm39OvQxtmh02BZVOgxwg/oBFnCqMTIpNB/si6IbwETZlvHESUf3DSqtSb8+/ce0Cn253LD0G8QZgnt+KtzpuK4+gZ2cb4dZkD4EN85EcKZHaLs</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text>Printf</text>
+        <text>KeyValue</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQl7ImFrX2Jtc2MiLCAiMjE4NjM5MzNCRUQ2M0ZFOEUxRTUzNTlCRkM1QThDMkQzRDZGM0ExREI2NkUwMDAwMTgwQkUzNUUyRDBENjA0OH5wbG9CY25TK0NnUGNkd1BaUUVzMkl3SHhkdUttZXEzZTVhZnZSbkVtVDFpczltaGlhMGNUSjgvLytGeEM3eFVjK2hvbm5JTHlJNWpsM2U2ZEFLQUJqRWwrUUNRZ1ZnYWprMHQwREt2aTdyOHJ0SGV4RjJwbExiOWxKSWtKVjlsZUxaQ1JIN0RCM1lOa0lLUTRaL2tzbTM5T3ZReHRtaDAyQlpWT2d4d2cvb0JGbkNxTVRJcE5CL3NpNklid0VUWmx2SEVTVWYzRFNxdFNiOCsvY2UwQ24yNTNMRDBHOFFaZ250K0t0enB1SzQrZ1oyY2I0ZFprRDRFTjg1RWNLWkhhTHMifSwK</text>
+      <register name="0" type="4">
+        <text>&quot;http://api.noti.daumkakao.io/send/group/kakaotalk&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2653,46 +2655,26 @@
           <key char="112" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text>KeyValue
-KeyValue
-KeyValue
-KeyValue
-KeyValue
-KeyValue
-KeyValue
-KeyValue
-KeyValue</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQlmbXQuUHJpbnRsbihzdHJpbmcoY29udGVudHMpKQo=</text>
       </register>
-      <register name="3" type="8">
-        <text>KeyValue
-KeyValue
-KeyValue
-KeyValue
-KeyValue
-KeyValue
-KeyValue
-KeyValue
-KeyValue
-KeyValue
-KeyValue
-KeyValue
-KeyValue</text>
+      <register name="3" type="2">
+        <text encoding="base64">CWZvciB7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>${kafka.cluster.common01}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWZvciBfLCBjb29raWUgOj0gcmFuZ2UgcmVzcC5Db29raWVzKCkgewoJCWNvb2tpZXNbY29va2llLk5hbWVdID0gY29va2llLlZhbHVlCgl9Cgo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWBgCg==</text>
+        <text encoding="base64">CglzZW5kV2F0Y2hUb3dlcihmbXQuU3ByaW50ZigiJXMg7J6s6rOg7J6I7J2MISEg7ZeI66as7JeFISFcbiIsIGluZm9zLkZpcnN0KCkuRmluZCgibGkuZHNjIikuVGV4dCgpKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSJ2aWV3cHJvZHVjdCJdID0gIiUyQzAyODAwMTAwMDAwNSUyQyIKCSJ0ZXN0Y2syIl0gPSAiYTNlNjUzMzgyMTY3MDgxYTAyNzdjZGIyYzViN2Y1ZDkiCgkiU08iXSA9ICJSRUdDIgoJIlNPIl0gPSAiU089UkVHTyIK</text>
+        <text encoding="base64">CX0pCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2721,13 +2703,13 @@ KeyValue</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSJzaG9wX2xhbmd1YWdlIl0gPSAia29yIgo=</text>
+        <text encoding="base64">CWluZm9zLkVhY2goZnVuYyhpIGludCwgdWwgKmdvcXVlcnkuU2VsZWN0aW9uKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
@@ -2736,11 +2718,11 @@ KeyValue</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Printf</last-search>
+      <last-search>KeyValue</last-search>
       <last-offset />
-      <last-pattern>Printf</last-pattern>
-      <last-replace>ErrorDelete</last-replace>
-      <last-substitute>ErrorReport</last-substitute>
+      <last-pattern>KeyValue</last-pattern>
+      <last-replace>keyValue</last-replace>
+      <last-substitute>KeyValue</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
