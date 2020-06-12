@@ -163,10 +163,6 @@
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/kafka-cluster.conf" timestamp="1591860912784">
-        <mark key="[" line="9" column="2" />
-        <mark key="]" line="9" column="18" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstances.scala" timestamp="1591865007357">
         <mark key="'" line="26" column="36" />
         <mark key="[" line="26" column="109" />
@@ -184,11 +180,18 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="112" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/srayStat/SrayStatStreaming-prod.conf" timestamp="1591860823788">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="27" />
+      <file name="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" timestamp="1591928088634">
+        <mark key="'" line="34" column="30" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/main/check.go" timestamp="1591926013492">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
+        <mark key="^" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/event/model/EventLog.scala" timestamp="1591864893519">
         <mark key="[" line="8" column="19" />
@@ -202,11 +205,6 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/service/StoreServiceProduct.scala" timestamp="1591862596591" />
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorReportBatch.scala" />
-      <jump line="32" column="48" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch.scala" />
-      <jump line="66" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch.scala" />
-      <jump line="33" column="48" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch.scala" />
-      <jump line="46" column="3" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch.scala" />
       <jump line="2" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorReportBatch-prod.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch-prod.conf" />
       <jump line="14" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorReportBatch-prod.conf" />
@@ -302,6 +300,11 @@
       <jump line="25" column="34" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" />
       <jump line="11" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" />
       <jump line="20" column="42" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" />
+      <jump line="18" column="4" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/main/check.go" />
+      <jump line="25" column="44" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/main/check.go" />
+      <jump line="5" column="0" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/main/check.go" />
+      <jump line="31" column="50" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
+      <jump line="32" column="30" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,8 +312,8 @@
       <register name="a" type="4">
         <text>${kafka.cluster.dev-ay}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>instances</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSJnb2xhbmcub3JnL3gvdGV4dC9lbmNvZGluZy9rb3JlYW4iCg==</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2609,22 +2612,22 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>story-sray-data-event</text>
+        <text>gzip</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>instances</text>
+        <text encoding="base64">c2hvcC9zaG9wZGV0YWlsLmh0bWw/YnJhbmR1aWQ9MTAwNzIyOSZ4Y29kZT0wMjgmbWNvZGU9MDAxJnNjb2RlPSZ0eXBlPVgmc29ydD1yZWdkYXRlJmN1cl9jb2RlPTAyOCZHZkRUPWJHOTNVUSUzRCUzRA==</text>
       </register>
       <register name="/" type="4">
         <text>Load</text>
       </register>
-      <register name="0" type="4">
-        <text>com.kakao.story.spark.streaming.kafka.instances</text>
+      <register name="0" type="2">
+        <text encoding="base64">CXVybCA6PSAiaHR0cDovL3d3dy53ZWxrZWVwc21hbGwuY29tL3Nob3Avc2hvcGRldGFpbC5odG1sP2JyYW5kdWlkPTEwMDcyMjkmeGNvZGU9MDI4Jm1jb2RlPTAwMSZzY29kZT0mdHlwZT1YJnNvcnQ9cmVnZGF0ZSZjdXJfY29kZT0wMjgmR2ZEVD1iRzkzVVElM0QlM0QiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oTG9hZGFibGVbU3RvcnlTcmF5UmF3RGF0YUV2ZW50XS5wYXJzZShsaW5lKSkK</text>
+        <text encoding="base64">CSJnb2xhbmcub3JnL3gvdGV4dC9lbmNvZGluZy9rb3JlYW4iCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2657,22 +2660,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExvYWRhYmxlW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W+y2nOyymF0gR28g7JeQ7IScIEVVQy1LUiDrs4DtmZgg7ZWY6riwfOyekeyEseyekCBOZXJzaW9uCg==</text>
       </register>
       <register name="s" type="4">
         <text>${kafka.cluster.common01}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgcGhhc2UgPSBQaGFzZS5UZXN0CiAgaW1wbGljaXQgdmFsIHNlc3Npb25NYW5hZ2VyOiBTZXNzaW9uTWFuYWdlciA9IG5ldyBTZXNzaW9uTWFuYWdlclBoYXNlKFNlc3Npb25NYW5hZ2VyLmdldFNwYXJrQ29uZihDb25maWdGYWN0b3J5LmxvYWQpKQogIGltcGxpY2l0IHZhbCBwYXRoTWFuYWdlciA9IG5ldyBQYXRoTWFuYWdlclBoYXNlCiAgaW1wbGljaXQgdmFsIHN0b3JlU2VydmljZTogU3RvcmVTZXJ2aWNlW1N0b3J5U3JheVJhd0RhdGFFdmVudF0gPSBuZXcgU3RvcmVTZXJ2aWNlUHJvZHVjdAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBQID0gaW1wbGljaXRseVtQcm9kdWN0TGlrZVtTdG9yeVNyYXlSYXdEYXRhRXZlbnQsIEhvdXJseUxvZ11dCiAgICB2YWwgTCA9IExvYWRhYmxlW1N0b3J5U3JheVJhd0RhdGFFdmVudF0KICAgIHZhbCBwID0gUC5ub3JtYWxpemUoTC5wYXJzZShsaW5lKS5nZXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oUC5jb2x1bW5OYW1lcykKICAgIHByaW50bG4oUC5wYXJ0aXRpb25zKQoKICAgIC8vdmFsIHNwYXJrU2Vzc2lvbiA9IHNlc3Npb25NYW5hZ2VyLmdldE9yQ3JlYXRlU2Vzc2lvbgogICAgLy92YWwgcmRkID0gc3BhcmtTZXNzaW9uLnNwYXJrQ29udGV4dC5tYWtlUkREKExpc3QoTC5wYXJzZShsaW5lKS5nZXQpKQogICAgLy9zdG9yZVNlcnZpY2Uuc3RvcmUoc3BhcmtTZXNzaW9uKShyZGQsICIvdG1wL3NyYXl0ZXN0IikK</text>
+        <text encoding="base64">CS8vLmhlYWRlcigiYWNjZXB0IiwgInRleHQvaHRtbCIpCgkvLy5oZWFkZXIoImFjY2VwdCIsICJ0ZXh0L2h0bWwsYXBwbGljYXRpb24veGh0bWwreG1sLGFwcGxpY2F0aW9uL3htbDtxPTAuOSxpbWFnZS93ZWJwLGltYWdlL2FwbmcsKi8qO3E9MC44LGFwcGxpY2F0aW9uL3NpZ25lZC1leGNoYW5nZTt2PWIzO3E9MC45IikKCS8vLmhlYWRlcigiYWNjZXB0LWVuY29kaW5nIiwgImd6aXAsIGRlZmxhdGUsIGJyIikKCS8vLmhlYWRlcigiYWNjZXB0LWxhbmd1YWdlIiwgImtvLUtSLGtvO3E9MC45LGVuLVVTO3E9MC44LGVuO3E9MC43IikKCS8vLmhlYWRlcigidXNlci1hZ2VudCIsICJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xNV8zKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODAuMC4zOTg3LjE0OSBTYWZhcmkvNTM3LjM2IikK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -2704,10 +2707,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvL3ZhbCBzcGFya1Nlc3Npb24gPSBzZXNzaW9uTWFuYWdlci5nZXRPckNyZWF0ZVNlc3Npb24K</text>
+        <text encoding="base64">CXJlcS5IZWFkZXIuQWRkKCJVc2VyLUFnZW50IiwgIk1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzMpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84MC4wLjM5ODcuMTQ5IFNhZmFyaS81MzcuMzYiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgZW52OiBFbnZpcm9ubWVudCA9IFRlc3RMb2NhbEVudmlyb25tZW50KHRoaXMuZ2V0Q2xhc3MsIFBoYXNlLlRlc3QpCiAgaW1wb3J0IGVudi5fCg==</text>
+        <text encoding="base64">CXJlcS5IZWFkZXIuQWRkKCJBY2NlcHQtTGFuZ3VhZ2UiLCAia28tS1Isa287cT0wLjksZW4tVVM7cT0wLjgsZW47cT0wLjciKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
