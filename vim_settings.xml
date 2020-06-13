@@ -47,8 +47,8 @@
         <entry>19</entry>
         <entry>wq</entry>
         <entry>%s/KeyValue/keyValue/g</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -147,6 +147,11 @@
         <mark key="^" line="26" column="110" />
         <mark key="." line="26" column="109" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch-prod.conf" timestamp="1591956392694">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/StorySrayRawDataEventCollectStreaming-prod.conf" timestamp="1591862834486">
         <mark key="'" line="9" column="25" />
         <mark key="[" line="0" column="0" />
@@ -164,12 +169,12 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="112" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" timestamp="1591953761772">
-        <mark key="'" line="67" column="20" />
-        <mark key="[" line="70" column="41" />
-        <mark key="]" line="70" column="41" />
-        <mark key="." line="70" column="41" />
-        <mark key="^" line="70" column="41" />
+      <file name="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" timestamp="1592013763973">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="131" column="32" />
+        <mark key="]" line="131" column="53" />
+        <mark key="^" line="131" column="27" />
+        <mark key="." line="131" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/package.scala" timestamp="1591862134032">
         <mark key="[" line="0" column="8" />
@@ -200,6 +205,7 @@
       <file name="/fragment.java" timestamp="1591861852638">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/log/DailyLogRotateBatch-prod.conf" timestamp="1591962281992" />
     </filemarks>
     <jumps>
       <jump line="4" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/log/MalformedLogMonitorStreaming-dev.conf" />
@@ -274,7 +280,6 @@
       <jump line="57" column="4" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
       <jump line="61" column="4" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
       <jump line="15" column="51" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
-      <jump line="31" column="29" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
       <jump line="42" column="26" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
       <jump line="26" column="4" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
       <jump line="37" column="0" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
@@ -302,6 +307,7 @@
       <jump line="55" column="18" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
       <jump line="24" column="4" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
       <jump line="67" column="20" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
+      <jump line="31" column="0" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -310,7 +316,7 @@
         <text>&quot;, &quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Second</text>
+        <text>1</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2615,13 +2621,13 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>Second</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXJnZXRVcmxcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJbXNnIDo9IGZtdC5TcHJpbnRmKCIlcyDsnqzqs6DsnojsnYwhISDtl4jrpqzsl4UhIVxuIiwgaW5mb3MuRmlyc3QoKS5GaW5kKCJsaS5kc2MiKS5UZXh0KCkpCgkJCWZtdC5QcmludGxuKG1zZykKCQkJc2VuZFdhdGNoVG93ZXIobXNnKQo=</text>
+      <register name="0" type="4">
+        <text>strings.Join(d, &quot;; &quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJc2VuZFdhdGNoVG93ZXIobXNnKQoJCQkK</text>
@@ -2710,7 +2716,7 @@
         <text encoding="base64">CglzZW5kV2F0Y2hUb3dlcihmbXQuU3ByaW50ZigiJXMg7J6s6rOg7J6I7J2MISEg7ZeI66as7JeFISFcbiIsIGluZm9zLkZpcnN0KCkuRmluZCgibGkuZHNjIikuVGV4dCgpKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
