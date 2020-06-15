@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ETL</entry>
-        <entry encoding="base64">XDxTdG9yeVNyYXlSYXdEYXRhRXZlbnRDb2xsZWN0U3RyZWFtaW5nXD4=</entry>
         <entry>Load</entry>
         <entry encoding="base64">XDx3clw+</entry>
         <entry>&quot;</entry>
@@ -27,6 +25,8 @@
         <entry>fs</entry>
         <entry encoding="base64">XDxtYWtlQ2FzZUNsYXNzXD4=</entry>
         <entry encoding="base64">XDxtYWtlXD4=</entry>
+        <entry encoding="base64">XDxleHRyYWN0VGFyZ2V0VXNlcnNcPg==</entry>
+        <entry encoding="base64">XDx0YXJnZXRCZWZvcmVEYXlzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Etl//g</entry>
@@ -121,9 +121,6 @@
       <file name="vim_settings.xml" timestamp="1592202564765">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" timestamp="1591865476093">
-        <mark key="'" line="21" column="42" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-classification-server/src/main/java/com/kakao/story/cl/common/client/elasticsearch/ElasticsearchClient.java" timestamp="1592199174468" />
       <file name="$USER_HOME$/Develop/Works/story/story-classification-server/src/main/java/com/kakao/story/cl/common/client/papi/PapiClient.java" timestamp="1592198438245" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" timestamp="1592199063553">
@@ -166,6 +163,13 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="68" column="6" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpUserExtractorBatch.scala" timestamp="1592209810090">
+        <mark key="'" line="51" column="4" />
+        <mark key="[" line="77" column="89" />
+        <mark key="]" line="77" column="93" />
+        <mark key="." line="77" column="92" />
+        <mark key="^" line="77" column="93" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" timestamp="1592200310444">
         <mark key="'" line="31" column="6" />
         <mark key="[" line="127" column="0" />
@@ -179,20 +183,13 @@
         <mark key="." line="82" column="48" />
         <mark key="^" line="82" column="49" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/main/check.go" timestamp="1591926013492">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
-        <mark key="^" line="9" column="19" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpUserExtractorBatch-prod.conf" timestamp="1592209081493">
+        <mark key="[" line="15" column="57" />
+        <mark key="]" line="15" column="57" />
+        <mark key="." line="15" column="57" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_access_log/StoryAccessRawLogCollectRecovery-prod.conf" />
-      <jump line="27" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_access_log/StoryAccessRawLogCollectStreaming-dev.conf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_access_log/StoryAccessRawLogCollectStreaming-prod.conf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_client_log/StoryClientRawLogCollectRecovery-prod.conf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_client_log/StoryClientRawLogCollectStreaming-dev.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_client_log/StoryClientRawLogCollectStreaming-prod.conf" />
       <jump line="24" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_contents_log/StoryContentsRawLogCollectRecovery-prod.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_contents_log/StoryContentsRawLogCollectRecovery-dev.conf" />
@@ -288,6 +285,11 @@
       <jump line="62" column="4" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
       <jump line="88" column="19" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
       <jump line="90" column="19" filename="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" />
+      <jump line="16" column="20" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpUserExtractorBatch.scala" />
+      <jump line="186" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpUserExtractorBatch.scala" />
+      <jump line="1" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpUserExtractorBatch.scala" />
+      <jump line="60" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpUserExtractorBatch.scala" />
+      <jump line="51" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpUserExtractorBatch.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,7 +298,7 @@
         <text>&quot;, &quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>http://</text>
+        <text>Data</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2601,10 +2603,10 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>http://</text>
+        <text>Data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzbGVlcFw+</text>
+        <text encoding="base64">XDx0YXJnZXRCZWZvcmVEYXlzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>noSoldOuts.Nodes</text>
@@ -2705,9 +2707,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzbGVlcFw+</last-search>
+      <last-search encoding="base64">XDx0YXJnZXRCZWZvcmVEYXlzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzbGVlcFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0YXJnZXRCZWZvcmVEYXlzXD4=</last-pattern>
       <last-replace>keyValue</last-replace>
       <last-substitute>KeyValue</last-substitute>
       <last-dir>1</last-dir>
