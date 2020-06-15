@@ -129,6 +129,11 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/service/ModelGeneratorServiceDefault.scala" timestamp="1592198785774">
         <mark key="'" line="111" column="6" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" timestamp="1592201373741">
+        <mark key="[" line="515" column="78" />
+        <mark key="]" line="515" column="105" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/converter/ActivityContentConverter.scala" timestamp="1592200442820" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/streaming/kafka/instances/StorySrayDataEventInstances.scala" timestamp="1591865468608">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="54" />
@@ -171,11 +176,6 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="68" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/StorySrayRawDataEventCollectStreaming.scala" timestamp="1591864316757">
-        <mark key="'" line="12" column="7" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="112" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" timestamp="1592200310444">
         <mark key="'" line="31" column="6" />
         <mark key="[" line="127" column="0" />
@@ -195,12 +195,6 @@
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="19" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/event/model/EventLog.scala" timestamp="1591864893519">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -312,7 +306,7 @@
         <text encoding="base64">ICAgICAgdmFsIGZzOiBGaWxlU3lzdGVtID0gRmlsZVN5c3RlbS5nZXQoc3Bhcmsuc3BhcmtDb250ZXh0LmhhZG9vcENvbmZpZ3VyYXRpb24pCiAgICAgIHZhbCBmaWxlcyA9IEhvdXJseS5nZXRSYW5nZShmcm9tLCB0bykuZmxhdE1hcChwID0+IEwuZ2V0UGF0aHMobGFiZWwsIHApLm1hcCh4ID0+IHMiJHgvKi5neiIpKQogICAgICB2YWwgZXhpc3RGaWxlcyA9IGZpbGVzLmZpbHRlcihwYXRoID0+IE9wdGlvbihmcy5nbG9iU3RhdHVzKG5ldyBQYXRoKHBhdGgpKSkudG9TZXEuZmxhdHRlbi5ub25FbXB0eSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>filter(hdfsUtil.exists)</text>
+        <text>kakaostory_user_user_feeling</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2611,7 +2605,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>filter(hdfsUtil.exists)</text>
+        <text>kakaostory_user_user_feeling</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
