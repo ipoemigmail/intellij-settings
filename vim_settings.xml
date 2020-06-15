@@ -7,14 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>scm</entry>
-        <entry>can</entry>
-        <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
-        <entry encoding="base64">XDxTS0lQX0xJQlJBUllfT1BUXD4=</entry>
-        <entry>Reco</entry>
-        <entry encoding="base64">XDxhc3luY0dldEFjdGl2aXR5QnlJZFw+</entry>
-        <entry>pathM</entry>
-        <entry>etl</entry>
         <entry>ETL</entry>
         <entry encoding="base64">XDxTdG9yeVNyYXlSYXdEYXRhRXZlbnRDb2xsZWN0U3RyZWFtaW5nXD4=</entry>
         <entry>Load</entry>
@@ -27,6 +19,14 @@
         <entry>KeyValue</entry>
         <entry encoding="base64">XDx0YXJnZXRVcmxcPg==</entry>
         <entry encoding="base64">XDxzbGVlcFw+</entry>
+        <entry>200</entry>
+        <entry encoding="base64">XDxDcmVhdGVDbGFzc2lmaWNhdGlvblw+</entry>
+        <entry>sentry</entry>
+        <entry encoding="base64">XDxzZW50cnlTZXJ2aWNlXD4=</entry>
+        <entry encoding="base64">XDxwcm9maWxlVXJsXD4=</entry>
+        <entry>fs</entry>
+        <entry encoding="base64">XDxtYWtlQ2FzZUNsYXNzXD4=</entry>
+        <entry encoding="base64">XDxtYWtlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Etl//g</entry>
@@ -47,8 +47,8 @@
         <entry>19</entry>
         <entry>wq</entry>
         <entry>%s/KeyValue/keyValue/g</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,58 +118,60 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/model/StorySrayRawDataEvent.scala" timestamp="1591864067272">
-        <mark key="[" line="4" column="40" />
-        <mark key="]" line="4" column="62" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/implicits/package.scala" timestamp="1591862018009">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="58" />
+      <file name="vim_settings.xml" timestamp="1592202564765">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" timestamp="1591865476093">
         <mark key="'" line="21" column="42" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/resources/application.conf" timestamp="1591862857852">
-        <mark key="'" line="4" column="27" />
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
+      <file name="$USER_HOME$/Develop/Works/story/story-classification-server/src/main/java/com/kakao/story/cl/common/client/elasticsearch/ElasticsearchClient.java" timestamp="1592199174468" />
+      <file name="$USER_HOME$/Develop/Works/story/story-classification-server/src/main/java/com/kakao/story/cl/common/client/papi/PapiClient.java" timestamp="1592198438245" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" timestamp="1592199063553">
+        <mark key="'" line="45" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/event/model/StorySrayData.scala" timestamp="1591861658008">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="40" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/service/ModelGeneratorServiceDefault.scala" timestamp="1592198785774">
+        <mark key="'" line="111" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstances.scala" timestamp="1591865007357">
-        <mark key="'" line="26" column="36" />
-        <mark key="[" line="26" column="109" />
-        <mark key="]" line="26" column="110" />
-        <mark key="^" line="26" column="110" />
-        <mark key="." line="26" column="109" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch-prod.conf" timestamp="1592204425439">
+        <mark key="[" line="16" column="64" />
+        <mark key="]" line="16" column="64" />
+        <mark key="." line="16" column="64" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" timestamp="1592201373741">
+        <mark key="[" line="515" column="78" />
+        <mark key="]" line="515" column="105" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/converter/ActivityContentConverter.scala" timestamp="1592200442820" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/log/DailyLogRotateBatch-prod.conf" timestamp="1591962281992" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryLogInstances.scala" timestamp="1592199656560">
+        <mark key="'" line="58" column="41" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="58" column="105" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="20" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" timestamp="1592197511605">
+        <mark key="'" line="6" column="25" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="105" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch-prod.conf" timestamp="1591956392694">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="28" />
         <mark key="." line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/StorySrayRawDataEventCollectStreaming-prod.conf" timestamp="1591862834486">
-        <mark key="'" line="9" column="25" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
-        <mark key="." line="5" column="57" />
-        <mark key="^" line="5" column="58" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryRequestLogInstances.scala" timestamp="1592199726145">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="68" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StorySrayDataEventInstances.scala" timestamp="1591865433210">
-        <mark key="'" line="27" column="10" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="38" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" timestamp="1592200310444">
+        <mark key="'" line="31" column="6" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="107" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/StorySrayRawDataEventCollectStreaming.scala" timestamp="1591864316757">
-        <mark key="'" line="12" column="7" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="112" />
-      </file>
-      <file name="$USER_HOME$/Develop/Personal/zio-study/src/test/scala/ipoemi/zio/study/dataTypes/_14_tQueue/TQueueSpec.scala" timestamp="1592189250390" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming.scala" timestamp="1592199020695" />
       <file name="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" timestamp="1592181499478">
         <mark key="'" line="90" column="19" />
         <mark key="[" line="82" column="35" />
@@ -177,34 +179,12 @@
         <mark key="." line="82" column="48" />
         <mark key="^" line="82" column="49" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/package.scala" timestamp="1591862134032">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="58" />
-      </file>
       <file name="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/main/check.go" timestamp="1591926013492">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="19" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/service/StreamingKafkaToHdfs.scala" timestamp="1591863704183">
-        <mark key="'" line="18" column="63" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/event/model/EventLog.scala" timestamp="1591864893519">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="24" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/streaming/kafka/instances/StorySrayDataEventInstances.scala" timestamp="1591865468608">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="54" />
-        <mark key="^" line="17" column="103" />
-        <mark key="." line="17" column="102" />
-      </file>
-      <file name="/fragment.java" timestamp="1591861852638">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -316,7 +296,7 @@
         <text>&quot;, &quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Nodes</text>
+        <text>/</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2621,7 +2601,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>Nodes</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbGVlcFw+</text>
@@ -2716,7 +2696,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
