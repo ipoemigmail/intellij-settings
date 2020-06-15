@@ -176,7 +176,7 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="112" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" timestamp="1592182545513">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" timestamp="1592200310444">
         <mark key="'" line="31" column="6" />
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="107" />
@@ -195,9 +195,6 @@
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="19" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryAccessLogInstances.scala" timestamp="1592199697534">
-        <mark key="[" line="47" column="105" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/event/model/EventLog.scala" timestamp="1591864893519">
         <mark key="[" line="8" column="19" />
@@ -314,8 +311,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgdmFsIGZzOiBGaWxlU3lzdGVtID0gRmlsZVN5c3RlbS5nZXQoc3Bhcmsuc3BhcmtDb250ZXh0LmhhZG9vcENvbmZpZ3VyYXRpb24pCiAgICAgIHZhbCBmaWxlcyA9IEhvdXJseS5nZXRSYW5nZShmcm9tLCB0bykuZmxhdE1hcChwID0+IEwuZ2V0UGF0aHMobGFiZWwsIHApLm1hcCh4ID0+IHMiJHgvKi5neiIpKQogICAgICB2YWwgZXhpc3RGaWxlcyA9IGZpbGVzLmZpbHRlcihwYXRoID0+IE9wdGlvbihmcy5nbG9iU3RhdHVzKG5ldyBQYXRoKHBhdGgpKSkudG9TZXEuZmxhdHRlbi5ub25FbXB0eSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGhkZnNVdGlsID0gSERGU1V0aWwuZ2V0CiAgICAgIHZhbCBmaWxlcyA9CiAgICAgICAgSG91cmx5LmdldFJhbmdlKGZyb20sIHRvKS5mbGF0TWFwKHAgPT4gTC5nZXRQYXRocyhsYWJlbCwgcCkuZmlsdGVyKGhkZnNVdGlsLmV4aXN0cykubWFwKHggPT4gcyIkeC8qLmd6IikpCg==</text>
+      <register name="&quot;" type="4">
+        <text>filter(hdfsUtil.exists)</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2614,7 +2611,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">aHR0cCUzQSUyRiUyRnd3dy53ZWxrZWVwc21hbGwuY29tJTJGc2hvcCUyRnNob3BicmFuZC5odG1sJTNGYzIzNGE1ODlkMDBkZTgzZjAwY2FiZGJhZWQzMDA1ZWMmdWw9MTU5MTkzMDM0NjY5Nw==</text>
+        <text>filter(hdfsUtil.exists)</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
