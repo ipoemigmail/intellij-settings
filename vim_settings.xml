@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc3luY0dldEFjdGl2aXR5QnlJZFw+</entry>
         <entry>pathM</entry>
         <entry>etl</entry>
         <entry>ETL</entry>
@@ -27,6 +26,7 @@
         <entry>sentry</entry>
         <entry encoding="base64">XDxzZW50cnlTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxwcm9maWxlVXJsXD4=</entry>
+        <entry>fs</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Etl//g</entry>
@@ -136,7 +136,18 @@
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryLogInstances.scala" timestamp="1592195547225" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryLogInstances.scala" timestamp="1592197692136">
+        <mark key="'" line="58" column="41" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="20" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" timestamp="1592197511605">
+        <mark key="'" line="6" column="25" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="105" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstances.scala" timestamp="1591865007357">
         <mark key="'" line="26" column="36" />
         <mark key="[" line="26" column="109" />
@@ -207,16 +218,9 @@
         <mark key="^" line="17" column="103" />
         <mark key="." line="17" column="102" />
       </file>
-      <file name="/fragment.java" timestamp="1591861852638">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/log/DailyLogRotateBatch-prod.conf" timestamp="1591962281992" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_contents_log/StoryContentsRawLogCollectStreaming-dev.conf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_contents_log/StoryContentsRawLogCollectStreaming-prod.conf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_log/StoryRawLogCollectRecovery-dev.conf" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_log/StoryRawLogCollectRecovery-prod.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_log/StoryRawLogCollectStreaming-dev.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_log/StoryRawLogCollectStreaming-prod.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_request_log/StoryRequestLogAggregateBatch-dev.conf" />
@@ -313,15 +317,19 @@
       <jump line="90" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
       <jump line="82" column="50" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
       <jump line="45" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
+      <jump line="37" column="51" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" />
+      <jump line="6" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" />
+      <jump line="61" column="41" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryLogInstances.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="a" type="4">
-        <text>&quot;, &quot;</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgIHZhbCBmczogRmlsZVN5c3RlbSA9IEZpbGVTeXN0ZW0uZ2V0KHNwYXJrLnNwYXJrQ29udGV4dC5oYWRvb3BDb25maWd1cmF0aW9uKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">RnJvbSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2626,16 +2634,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RnJvbSA=</text>
+        <text>files</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9maWxlVXJsXD4=</text>
+        <text>fs</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oCiAgICAgICAgICAgIHMic3RhdHVzQ29kZSE9MjAwKCR7cmVzcG9uc2Uuc3RhdHVzQ29kZX0pIC8gYWN0aW9uOiAke3RhZ2dlZFZhbHVlLnRhZy5lbnRyeU5hbWV9IC8gaWQ6ICRpZCAvIHJlc3BvbnNlOiAke3Jlc3BvbnNlLnRleHQoKX0iCiAgICAgICAgICApCg==</text>
+      <register name="0" type="4">
+        <text>existFiles</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbnRyeVNlcnZpY2UuY2FwdHVyZVdhcm5pbmcoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2668,25 +2676,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbmRUb1dhdGNoVG93ZXIobWVzc2FnZU9wdC5nZXRPckVsc2UoImVtcHR5IikpCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGhkZnNVdGlsID0gSERGU1V0aWwuZ2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGZzOiBGaWxlU3lzdGVtID0gRmlsZVN5c3RlbS5nZXQoc3Bhcmsuc3BhcmtDb250ZXh0LmhhZG9vcENvbmZpZ3VyYXRpb24pCg==</text>
       </register>
-      <register name="s" type="4">
-        <text>${kafka.cluster.common01}</text>
+      <register name="s" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgcCA9IHhzLm1hcChfLl8yKS5maWx0ZXIocGF0aCA9PiBPcHRpb24oZnMuZ2xvYlN0YXR1cyhuZXcgUGF0aChwYXRoKSkpLnRvU2VxLmZsYXR0ZW4ubm9uRW1wdHkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oCiAgICAgICAgICAgIHMic3RhdHVzQ29kZSE9MjAwKCR7cmVzcG9uc2Uuc3RhdHVzQ29kZX0pIC8gYWN0aW9uOiAke3RhZ2dlZFZhbHVlLnRhZy5lbnRyeU5hbWV9IC8gaWQ6ICRpZCAvIHJlc3BvbnNlOiAke3Jlc3BvbnNlLnRleHQoKX0iCiAgICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGhkZnNVdGlsID0gSERGU1V0aWwuZ2V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdnZWRWYWx1ZS50YWcgbWF0Y2ggewogICAgICAgICAgY2FzZSBDcmVhdGVDbGFzc2lmaWNhdGlvbiA9PgogICAgICAgICAgICBpZiAocmVzcG9uc2Uuc3RhdHVzQ29kZSAvIDEwMCAhPSAyICYmIHJlc3BvbnNlLnN0YXR1c0NvZGUgLyAxMDAgISA0KSB7CiAgICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigKICAgICAgICAgICAgICAgIHMic3RhdHVzQ29kZSE9MjAwfDQxMCgke3Jlc3BvbnNlLnN0YXR1c0NvZGV9KSAvIGFjdGlvbjogJHt0YWdnZWRWYWx1ZS50YWcuZW50cnlOYW1lfSAvIGlkOiAkaWQgLyByZXNwb25zZTogJHtyZXNwb25zZS50ZXh0KCl9IgogICAgICAgICAgICAgICkKICAgICAgICAgICAgfQogICAgICAgICAgY2FzZSBfID0+Cg==</text>
+        <text encoding="base64">ICAgICAgL2tha2Fvc3RvcnkvbG9nL2FnZy9wcm9kL3N0b3J5LWxvZy9sYWJlbD1tYWxmb3JtZWQvZGF0ZV9pZD0yMDIwLTA2LTE0L2hvdXI9MDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZtdC5QcmludGYoImNvb2tpZXM6ICVzXG4iLCBzdHJpbmdzLkpvaW4oZCwgIjsgIikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbnRyeVNlcnZpY2UuY2FwdHVyZVdhcm5pbmcoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2715,10 +2723,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJc2VuZFdhdGNoVG93ZXIobXNnKQoJCQkK</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbmRUb1dhdGNoVG93ZXIobWVzc2FnZU9wdC5nZXRPckVsc2UoImVtcHR5IikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vdGFyZ2V0VXJsIDo9ICJodHRwOi8vd3d3LndlbGtlZXBzbWFsbC5jb20vc2hvcC9zaG9wYnJhbmQuaHRtbD90eXBlPVgmeGNvZGU9MDI2Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -2730,9 +2738,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwcm9maWxlVXJsXD4=</last-search>
+      <last-search>fs</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9maWxlVXJsXD4=</last-pattern>
+      <last-pattern>fs</last-pattern>
       <last-replace>keyValue</last-replace>
       <last-substitute>KeyValue</last-substitute>
       <last-dir>1</last-dir>
