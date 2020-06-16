@@ -47,8 +47,8 @@
         <entry>19</entry>
         <entry>wq</entry>
         <entry>%s/KeyValue/keyValue/g</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -176,11 +176,11 @@
         <mark key="]" line="127" column="107" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming.scala" timestamp="1592199020695" />
-      <file name="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" timestamp="1592267340166">
+      <file name="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" timestamp="1592267375723">
         <mark key="'" line="64" column="4" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpUserExtractorBatch-prod.conf" timestamp="1592209081493">
         <mark key="[" line="15" column="57" />
@@ -297,7 +297,7 @@
         <text>&quot;, &quot;</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJbXNnIDo9IGZtdC5TcHJpbnRmKCkK</text>
+        <text encoding="base64">CQkJCW1zZyA6PSAK</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2611,7 +2611,7 @@
         <text encoding="base64">CQkJCW1zZyA6PSBmbXQuU3ByaW50ZigiJXM6IOyerOqzoOyXhuydjCIsIHRpdGxlKQoJCQkJZm10LlByaW50bG4obXNnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJbXNnIDo9IGZtdC5TcHJpbnRmKCkK</text>
+        <text encoding="base64">CQkJCW1zZyA6PSAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2644,25 +2644,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbXNnIDo9IGZtdC5TcHJpbnRmKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>${kafka.cluster.common01}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl0aXRsZSA6PSBkb2MuRmluZCgiI2Zvcm0xIC5pbmZvIC50aXQtcHJkIikuRmlyc3QoKS5UZXh0KCkKCQlpZiBpc1NvbGRPdXQoKmRvYykgewoJCQltc2cgOj0gZm10LlNwcmludGYoIiVzOiDsnqzqs6Dsl4bsnYwiLCB0aXRsZSkKCQkJZm10LlByaW50bG4obXNnKQoJCX0gZWxzZSB7CgkJCW1zZyA6PSBmbXQuU3ByaW50ZigiJXMg7J6s6rOg7J6I7J2MISEg7ZeI66as7JeFISFcbiIsIHRpdGxlKQoJCQlmbXQuUHJpbnRsbihtc2cpCgkJCXNlbmRXYXRjaFRvd2VyKG1zZykKCQl9Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWJ1dHRvbnMgOj0gZG9jLkZpbmQoIiAuc29sZG91dCIpCg==</text>
+        <text encoding="base64">CQl0aXRsZSA6PSBkb2MuRmluZCgiI2Zvcm0xIC5pbmZvIC50aXQtcHJkIikuRmlyc3QoKS5UZXh0KCkKCQlpZiBpc1NvbGRPdXQoKmRvYykgewoJCQltc2cgOj0gZm10LlNwcmludGYoIiVzOiDsnqzqs6Dsl4bsnYwiLCB0aXRsZSkKCQkJZm10LlByaW50bG4obXNnKQoJCX0gZWxzZSB7CgkJCW1zZyA6PSBmbXQuU3ByaW50ZigiJXMg7J6s6rOg7J6I7J2MISEg7ZeI66as7JeFISFcbiIsIHRpdGxlKQoJCQlmbXQuUHJpbnRsbihtc2cpCgkJCXNlbmRXYXRjaFRvd2VyKG1zZykKCQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWJ1dHRvbnMgOj0gCg==</text>
+        <text encoding="base64">CWJ1dHRvbnMgOj0gZG9jLkZpbmQoIiAuc29sZG91dCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWJ1dHRvbnMgOj0gCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2691,13 +2691,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJbXNnIDo9IGZtdC5TcHJpbnRmKCIlcyDsnqzqs6DsnojsnYwhISDtl4jrpqzsl4UhIVxuIiwgdGl0bGUpCgkJCWZtdC5QcmludGxuKG1zZykKCQkJc2VuZFdhdGNoVG93ZXIobXNnKQo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJbXNnIDo9IGZtdC5TcHJpbnRmKCIlczog7J6s6rOg7JeG7J2MIiwgdGl0bGUpCgkJCWZtdC5QcmludGxuKG1zZykK</text>
+        <text encoding="base64">CQkJbXNnIDo9IGZtdC5TcHJpbnRmKCIlcyDsnqzqs6DsnojsnYwhISDtl4jrpqzsl4UhIVxuIiwgdGl0bGUpCgkJCWZtdC5QcmludGxuKG1zZykKCQkJc2VuZFdhdGNoVG93ZXIobXNnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
