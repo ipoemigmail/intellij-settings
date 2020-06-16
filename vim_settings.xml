@@ -186,12 +186,12 @@
         <mark key="]" line="15" column="58" />
         <mark key="." line="15" column="57" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" timestamp="1592300474174">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" timestamp="1592304900217">
         <mark key="'" line="212" column="8" />
-        <mark key="[" line="58" column="29" />
-        <mark key="]" line="58" column="30" />
-        <mark key="." line="58" column="29" />
-        <mark key="^" line="58" column="30" />
+        <mark key="[" line="93" column="84" />
+        <mark key="]" line="93" column="88" />
+        <mark key="." line="93" column="87" />
+        <mark key="^" line="93" column="88" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" timestamp="1592201373741">
         <mark key="[" line="515" column="78" />
@@ -307,7 +307,7 @@
         <text>&quot;, &quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>Test</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2612,7 +2612,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>Test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xsb3dlZXNcPg==</text>
