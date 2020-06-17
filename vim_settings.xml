@@ -47,8 +47,8 @@
         <entry>%s/KeyValue/keyValue/g</entry>
         <entry>81</entry>
         <entry>63</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -178,11 +178,12 @@
         <mark key="]" line="16" column="10" />
         <mark key="." line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" timestamp="1592354316162">
+      <file name="$USER_HOME$/Develop/Personal/web-checker/welkeepsmall/src/check.go" timestamp="1592354379199">
         <mark key="'" line="83" column="4" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
+        <mark key="^" line="36" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpUserExtractorBatch-prod.conf" timestamp="1592291586115">
         <mark key="[" line="15" column="0" />
@@ -310,7 +311,7 @@
         <text>&quot;, &quot;</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWZvciBpIDo9IHJhbmdlCg==</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2620,11 +2621,11 @@
       <register name="/" type="4">
         <text>Compile</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBob3N0ID0gImh0dHA6Ly9zdG9yeS1zcGFyay1qZW5raW5zLXByb2QuZGV2ZWwua2FrYW8uY29tIgo=</text>
+      <register name="0" type="4">
+        <text>1000000</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWZvciBpIDo9IHJhbmdlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2657,25 +2658,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXcuV2FpdCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIGEgPSBzeW5jLldhaXRHcm91cAo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="s" type="4">
         <text>${kafka.cluster.common01}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbgo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWZvciByYW5nZSBbMTAwMDAwXWJvb2wgewoJCWZtdC5QcmludGxuKG4pCgl9Cg==</text>
+        <text encoding="base64">dmFyIGEgPSBzeW5jLldhaXRHcm91cAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZvciByYW5nZSAxMDAwMDAK</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCIxIikK</text>
+        <text encoding="base64">CWZvciByYW5nZSBbMTAwMDAwXWJvb2wgewoJCWZtdC5QcmludGxuKG4pCgl9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2704,13 +2705,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBob3N0ID0gImh0dHA6Ly9zdG9yeS1oYWRvb3AtY21kMS5kYWthby5pbzo4MDkwIgo=</text>
+        <text encoding="base64">CWZvciByYW5nZSAxMDAwMDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCW1zZyA6PSAK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCIxIikK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
