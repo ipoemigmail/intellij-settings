@@ -47,8 +47,8 @@
         <entry>81</entry>
         <entry>63</entry>
         <entry>%s/ViewLog/UserBen/g</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -121,13 +121,6 @@
       <file name="vim_settings.xml" timestamp="1592202564765">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/StoryLogInstances.scala" timestamp="1592199656560">
-        <mark key="'" line="58" column="41" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="58" column="105" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="58" column="20" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch-prod.conf" timestamp="1592302132131">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="29" />
@@ -161,6 +154,11 @@
         <mark key="." line="77" column="92" />
         <mark key="^" line="77" column="93" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-users/user-ben/src/main/scala/com/kakao/story/apps/userBen/UserBen-prod.conf" timestamp="1592368324477">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" timestamp="1592240924561">
         <mark key="'" line="45" column="6" />
       </file>
@@ -169,12 +167,12 @@
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="107" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-users/user-ben/src/main/scala/com/kakao/story/apps/userBen/UserBen.scala" timestamp="1592366296457">
-        <mark key="'" line="20" column="27" />
-        <mark key="[" line="23" column="15" />
-        <mark key="]" line="23" column="16" />
-        <mark key="." line="23" column="15" />
-        <mark key="^" line="23" column="16" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-users/user-ben/src/main/scala/com/kakao/story/apps/userBen/UserBen.scala" timestamp="1592369384202">
+        <mark key="'" line="23" column="93" />
+        <mark key="[" line="28" column="55" />
+        <mark key="]" line="28" column="57" />
+        <mark key="." line="28" column="56" />
+        <mark key="^" line="28" column="57" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch-prod.conf" timestamp="1592204924178">
         <mark key="[" line="16" column="10" />
@@ -220,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="32" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/StorySrayRawDataEventCollectStreaming-prod.conf" />
       <jump line="4" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/StorySrayRawDataEventCollectStreaming-prod.conf" />
       <jump line="2" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/resources/application.conf" />
       <jump line="9" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/StorySrayRawDataEventCollectStreaming-prod.conf" />
@@ -320,6 +317,7 @@
       <jump line="19" column="5" filename="$USER_HOME$/Develop/Works/story/story-spark/project-users/user-ben/src/main/com/kakao/story/apps/userBen/UserBen.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-users/user-ben/src/main/com/kakao/story/apps/userBen/UserBen.scala" />
       <jump line="20" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-users/user-ben/src/main/scala/com/kakao/story/apps/userBen/UserBen.scala" />
+      <jump line="22" column="93" filename="$USER_HOME$/Develop/Works/story/story-spark/project-users/user-ben/src/main/scala/com/kakao/story/apps/userBen/UserBen.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,7 +326,7 @@
         <text>&quot;, &quot;</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICYmIHguY29udHJvbGxlciA9PSAiYWN0aXZpdGllcyIgJiYgeC5hY3Rpb24gIT0gInNob3ci</text>
+        <text encoding="base64">ICYmIHgubG9nVHlwZSA9PSAiYWN0aXZpdHki</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2633,16 +2631,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIHguY29udHJvbGxlciA9PSAiYWN0aXZpdGllcyIgJiYgeC5hY3Rpb24gIT0gInNob3ci</text>
+        <text encoding="base64">ICYmIHgubG9nVHlwZSA9PSAiYWN0aXZpdHki</text>
       </register>
       <register name="/" type="4">
         <text>ViewLog</text>
       </register>
-      <register name="0" type="4">
-        <text>23814805</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIERhdGFzZXRSZWFkZXJbU3RvcnlDb250ZW50c0xvZ10KICAgICAgLnJlYWQoc3BhcmspKERhaWx5KCIyMDIwLTA0LTAxIiksIERhaWx5KCIyMDIwLTA2LTE3IikpCiAgICAgIC5maWx0ZXIgeyB4ID0+CiAgICAgICAgeC5wcm9maWxlSWQgPT0gMjM4MTQ4MDUgJiYgeC5hY3Rpdml0eUlkID09ICIyMzgxNDgwNV8xMDM5ODg3MzMzOTI4NjgwMzUiICYmIHgubG9nVHlwZSA9PSAiYWN0aXZpdHkiCiAgICAgIH0KICAgICAgLnNob3coMTAwMCwgZmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmZpbHRlcih4ID0+IHgucHJvZmlsZUlkID09IDIzODE0ODA1ICYmIHguY29udHJvbGxlciA9PSAiYWN0aXZpdGllcyIgJiYgeC5hY3Rpb24gIT0gInNob3ciKQo=</text>
+        <text encoding="base64">ICAgICAgLm1hcChfLmNvcHkoY29udGVudHMgPSAiIikpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2675,25 +2673,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgLmZpbHRlcih4ID0+IHgucHJvZmlsZUlkID09IDIzODE0ODA1ICYmIHguY29udHJvbGxlciA9PSAiYWN0aXZpdGllcyIgJiYgeC5hY3Rpb24gIT0gInNob3ciKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmNvYWxlc2NlKDEpCiAgICBkcy53cml0ZS5tb2RlKFNhdmVNb2RlLk92ZXJ3cml0ZSkuanNvbigiL3RtcC9iZW4vMjM4MTQ4MDUvbG9ncyIpCg==</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="s" type="4">
         <text>${kafka.cluster.common01}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICgpCg==</text>
+        <text encoding="base64">ICAgICAgLmNvYWxlc2NlKDEpCiAgICBkcy53cml0ZS5tb2RlKFNhdmVNb2RlLk92ZXJ3cml0ZSkuanNvbigiL3RtcC9iZW4vMjM4MTQ4MDUvbG9ncyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ua2FrYW8uc3RvcnkuYXBwcy51c2VyQmVuCgppbXBvcnQgY29tLmtha2FvLnN0b3J5LmxvZy5zZXJ2aWNlLntQYXRoTWFuYWdlciwgUGF0aE1hbmFnZXJQaGFzZX0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5tb2RlbC5lbnZpcm9ubWVudC57RW52aXJvbm1lbnQsIFRlc3RIYWRvb3BFbnZpcm9ubWVudH0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5tb2RlbC57SGFkb29wQ2x1c3RlciwgUGhhc2V9CmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3Bhcmsuc2VydmljZS5fCmltcG9ydCBjb20ua2FrYW8uc3RvcnkubG9nLm1vZGVsLlN0b3J5UmVxdWVzdExvZwppbXBvcnQgY29tLmtha2FvLnN0b3J5LnNwYXJrLnR5cGVjbGFzcy5EYXRhc2V0UmVhZGVyCmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3BhcmsuaW1wbGljaXRzLl8KaW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmZzLntGaWxlU3lzdGVtLCBQYXRofQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwue1NhdmVNb2RlLCBTcGFya1Nlc3Npb259CmltcG9ydCBvcmcuam9kYS50aW1lLkRhdGVUaW1lCgpmaW5hbCBjbGFzcyBVc2VyQmVuKAogICAgaW1wbGljaXQKICAgIHBhdGhNYW5hZ2VyOiBQYXRoTWFuYWdlcgopIGV4dGVuZHMgU2VyaWFsaXphYmxlIHsKICBkZWYgcnVuKHNwYXJrOiBTcGFya1Nlc3Npb24pKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBVbml0ID0gewogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCiAgICAvL0RhdGFzZXRSZWFkZXJbU3RvcnlSZXF1ZXN0TG9nXS5yZWFkKHNwYXJrKShEYWlseSgpKQogIH0KfQoKb2JqZWN0IFVzZXJCZW4gewogIHZhbCBlbnY6IEVudmlyb25tZW50ID0KICAgIEVudmlyb25tZW50LmRlcGxveU9yRWxzZShUZXN0SGFkb29wRW52aXJvbm1lbnQodGhpcy5nZXRDbGFzcywgUGhhc2UuVGVzdCwgSGFkb29wQ2x1c3Rlci5Lc0JhdGNoKSkKICBpbXBvcnQgZW52Ll8KICBpbXBsaWNpdCB2YWwgcGF0aE1hbmFnZXI6IFBhdGhNYW5hZ2VyUGhhc2UgPSBuZXcgUGF0aE1hbmFnZXJQaGFzZSgpKFBoYXNlLlByb2QpCiAgaW1wbGljaXQgdmFsIHNlc3Npb25NYW5hZ2VyOiBTZXNzaW9uTWFuYWdlciA9IG5ldyBTZXNzaW9uTWFuYWdlclBoYXNlKFNlc3Npb25NYW5hZ2VyLmdldFNwYXJrQ29uZihlbnYuY29uZmlnKSkKCiAgdmFsIGFwcCA9IG5ldyBVc2VyQmVuCgogIGRlZiBtYWluKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBVbml0ID0gewogICAgdmFsIHNwYXJrID0gc2Vzc2lvbk1hbmFnZXIuZ2V0T3JDcmVhdGVTZXNzaW9uCiAgICBhcHAucnVuKHNwYXJrKShhcmdzKQogIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ua2FrYW8uc3RvcnkuYXBwcy51c2VyQmVuCgppbXBvcnQgY29tLmtha2FvLnN0b3J5LmxvZy5zZXJ2aWNlLntQYXRoTWFuYWdlciwgUGF0aE1hbmFnZXJQaGFzZX0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5tb2RlbC5lbnZpcm9ubWVudC57RW52aXJvbm1lbnQsIFRlc3RIYWRvb3BFbnZpcm9ubWVudH0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5tb2RlbC57SGFkb29wQ2x1c3RlciwgUGhhc2V9CmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3Bhcmsuc2VydmljZS5fCmltcG9ydCBjb20ua2FrYW8uc3RvcnkubG9nLm1vZGVsLlN0b3J5UmVxdWVzdExvZwppbXBvcnQgY29tLmtha2FvLnN0b3J5LnNwYXJrLnR5cGVjbGFzcy5EYXRhc2V0UmVhZGVyCmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3BhcmsuaW1wbGljaXRzLl8KaW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmZzLntGaWxlU3lzdGVtLCBQYXRofQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwue1NhdmVNb2RlLCBTcGFya1Nlc3Npb259CmltcG9ydCBvcmcuam9kYS50aW1lLkRhdGVUaW1lCgpmaW5hbCBjbGFzcyBVc2VyQmVuKAogICAgaW1wbGljaXQKICAgIHBhdGhNYW5hZ2VyOiBQYXRoTWFuYWdlcgopIGV4dGVuZHMgU2VyaWFsaXphYmxlIHsKICBkZWYgcnVuKHNwYXJrOiBTcGFya1Nlc3Npb24pKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBVbml0ID0gewogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCiAgICBEYXRhc2V0UmVhZGVyW1N0b3J5UmVxdWVzdExvZ10ucmVhZChzcGFyaykoRGFpbHkoKSkKICB9Cn0KCm9iamVjdCBVc2VyQmVuIHsKICB2YWwgZW52OiBFbnZpcm9ubWVudCA9CiAgICBFbnZpcm9ubWVudC5kZXBsb3lPckVsc2UoVGVzdEhhZG9vcEVudmlyb25tZW50KHRoaXMuZ2V0Q2xhc3MsIFBoYXNlLlRlc3QsIEhhZG9vcENsdXN0ZXIuS3NCYXRjaCkpCiAgaW1wb3J0IGVudi5fCiAgaW1wbGljaXQgdmFsIHBhdGhNYW5hZ2VyOiBQYXRoTWFuYWdlclBoYXNlID0gbmV3IFBhdGhNYW5hZ2VyUGhhc2UoKShQaGFzZS5Qcm9kKQogIGltcGxpY2l0IHZhbCBzZXNzaW9uTWFuYWdlcjogU2Vzc2lvbk1hbmFnZXIgPSBuZXcgU2Vzc2lvbk1hbmFnZXJQaGFzZShTZXNzaW9uTWFuYWdlci5nZXRTcGFya0NvbmYoZW52LmNvbmZpZykpCgogIHZhbCBhcHAgPSBuZXcgVXNlckJlbgoKICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsKICAgIHZhbCBzcGFyayA9IHNlc3Npb25NYW5hZ2VyLmdldE9yQ3JlYXRlU2Vzc2lvbgogICAgYXBwLnJ1bihzcGFyaykoYXJncykKICB9Cn0K</text>
+        <text encoding="base64">cGFja2FnZSBjb20ua2FrYW8uc3RvcnkuYXBwcy51c2VyQmVuCgppbXBvcnQgY29tLmtha2FvLnN0b3J5LmxvZy5zZXJ2aWNlLntQYXRoTWFuYWdlciwgUGF0aE1hbmFnZXJQaGFzZX0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5tb2RlbC5lbnZpcm9ubWVudC57RW52aXJvbm1lbnQsIFRlc3RIYWRvb3BFbnZpcm9ubWVudH0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5tb2RlbC57SGFkb29wQ2x1c3RlciwgUGhhc2V9CmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3Bhcmsuc2VydmljZS5fCmltcG9ydCBjb20ua2FrYW8uc3RvcnkubG9nLm1vZGVsLlN0b3J5UmVxdWVzdExvZwppbXBvcnQgY29tLmtha2FvLnN0b3J5LnNwYXJrLnR5cGVjbGFzcy5EYXRhc2V0UmVhZGVyCmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3BhcmsuaW1wbGljaXRzLl8KaW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmZzLntGaWxlU3lzdGVtLCBQYXRofQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwue1NhdmVNb2RlLCBTcGFya1Nlc3Npb259CmltcG9ydCBvcmcuam9kYS50aW1lLkRhdGVUaW1lCgpmaW5hbCBjbGFzcyBVc2VyQmVuKAogICAgaW1wbGljaXQKICAgIHBhdGhNYW5hZ2VyOiBQYXRoTWFuYWdlcgopIGV4dGVuZHMgU2VyaWFsaXphYmxlIHsKICBkZWYgcnVuKHNwYXJrOiBTcGFya1Nlc3Npb24pKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBVbml0ID0gewogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCiAgICAvL0RhdGFzZXRSZWFkZXJbU3RvcnlSZXF1ZXN0TG9nXS5yZWFkKHNwYXJrKShEYWlseSgpKQogIH0KfQoKb2JqZWN0IFVzZXJCZW4gewogIHZhbCBlbnY6IEVudmlyb25tZW50ID0KICAgIEVudmlyb25tZW50LmRlcGxveU9yRWxzZShUZXN0SGFkb29wRW52aXJvbm1lbnQodGhpcy5nZXRDbGFzcywgUGhhc2UuVGVzdCwgSGFkb29wQ2x1c3Rlci5Lc0JhdGNoKSkKICBpbXBvcnQgZW52Ll8KICBpbXBsaWNpdCB2YWwgcGF0aE1hbmFnZXI6IFBhdGhNYW5hZ2VyUGhhc2UgPSBuZXcgUGF0aE1hbmFnZXJQaGFzZSgpKFBoYXNlLlByb2QpCiAgaW1wbGljaXQgdmFsIHNlc3Npb25NYW5hZ2VyOiBTZXNzaW9uTWFuYWdlciA9IG5ldyBTZXNzaW9uTWFuYWdlclBoYXNlKFNlc3Npb25NYW5hZ2VyLmdldFNwYXJrQ29uZihlbnYuY29uZmlnKSkKCiAgdmFsIGFwcCA9IG5ldyBVc2VyQmVuCgogIGRlZiBtYWluKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBVbml0ID0gewogICAgdmFsIHNwYXJrID0gc2Vzc2lvbk1hbmFnZXIuZ2V0T3JDcmVhdGVTZXNzaW9uCiAgICBhcHAucnVuKHNwYXJrKShhcmdzKQogIH0KfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2722,13 +2720,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20ua2FrYW8uc3RvcnkuYXBwcy51c2VyQmVuCgppbXBvcnQgY29tLmtha2FvLnN0b3J5LmxvZy5zZXJ2aWNlLntQYXRoTWFuYWdlciwgUGF0aE1hbmFnZXJQaGFzZX0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5tb2RlbC5lbnZpcm9ubWVudC57RW52aXJvbm1lbnQsIFRlc3RIYWRvb3BFbnZpcm9ubWVudH0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5tb2RlbC57SGFkb29wQ2x1c3RlciwgUGhhc2V9CmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3Bhcmsuc2VydmljZS5fCmltcG9ydCBjb20ua2FrYW8uc3RvcnkubG9nLm1vZGVsLlN0b3J5UmVxdWVzdExvZwppbXBvcnQgY29tLmtha2FvLnN0b3J5LnNwYXJrLnR5cGVjbGFzcy5EYXRhc2V0UmVhZGVyCmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3BhcmsuaW1wbGljaXRzLl8KaW1wb3J0IG9yZy5hcGFjaGUuaGFkb29wLmZzLntGaWxlU3lzdGVtLCBQYXRofQppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwue1NhdmVNb2RlLCBTcGFya1Nlc3Npb259CmltcG9ydCBvcmcuam9kYS50aW1lLkRhdGVUaW1lCgpmaW5hbCBjbGFzcyBVc2VyQmVuKAogICAgaW1wbGljaXQKICAgIHBhdGhNYW5hZ2VyOiBQYXRoTWFuYWdlcgopIGV4dGVuZHMgU2VyaWFsaXphYmxlIHsKICBkZWYgcnVuKHNwYXJrOiBTcGFya1Nlc3Npb24pKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBVbml0ID0gewogICAgaW1wb3J0IHNwYXJrLmltcGxpY2l0cy5fCiAgICBEYXRhc2V0UmVhZGVyW1N0b3J5UmVxdWVzdExvZ10ucmVhZChzcGFyaykoRGFpbHkoKSkKICB9Cn0KCm9iamVjdCBVc2VyQmVuIHsKICB2YWwgZW52OiBFbnZpcm9ubWVudCA9CiAgICBFbnZpcm9ubWVudC5kZXBsb3lPckVsc2UoVGVzdEhhZG9vcEVudmlyb25tZW50KHRoaXMuZ2V0Q2xhc3MsIFBoYXNlLlRlc3QsIEhhZG9vcENsdXN0ZXIuS3NCYXRjaCkpCiAgaW1wb3J0IGVudi5fCiAgaW1wbGljaXQgdmFsIHBhdGhNYW5hZ2VyOiBQYXRoTWFuYWdlclBoYXNlID0gbmV3IFBhdGhNYW5hZ2VyUGhhc2UoKShQaGFzZS5Qcm9kKQogIGltcGxpY2l0IHZhbCBzZXNzaW9uTWFuYWdlcjogU2Vzc2lvbk1hbmFnZXIgPSBuZXcgU2Vzc2lvbk1hbmFnZXJQaGFzZShTZXNzaW9uTWFuYWdlci5nZXRTcGFya0NvbmYoZW52LmNvbmZpZykpCgogIHZhbCBhcHAgPSBuZXcgVXNlckJlbgoKICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsKICAgIHZhbCBzcGFyayA9IHNlc3Npb25NYW5hZ2VyLmdldE9yQ3JlYXRlU2Vzc2lvbgogICAgYXBwLnJ1bihzcGFyaykoYXJncykKICB9Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
