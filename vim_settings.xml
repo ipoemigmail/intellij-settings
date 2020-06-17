@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDb250ZW50c1w+</entry>
-        <entry>Printf</entry>
-        <entry>KeyValue</entry>
         <entry encoding="base64">XDx0YXJnZXRVcmxcPg==</entry>
         <entry encoding="base64">XDxzbGVlcFw+</entry>
         <entry>200</entry>
@@ -27,6 +24,9 @@
         <entry encoding="base64">XDxmb2xsb3dlZXNcPg==</entry>
         <entry>Compile</entry>
         <entry>ViewLog</entry>
+        <entry encoding="base64">XDx0ZXJtc0FncmVlZFw+</entry>
+        <entry>priv</entry>
+        <entry>agreement</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -121,11 +121,17 @@
       <file name="vim_settings.xml" timestamp="1592202564765">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spec/projects/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/agreement/AgreementsController.java" timestamp="1592378064256">
+        <mark key="'" line="315" column="12" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch-prod.conf" timestamp="1592302132131">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="5" column="29" />
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/setting/SettingsController.java" timestamp="1592378379565">
+        <mark key="'" line="1533" column="145" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-users/user-ben/src/main/scala/kakao/story/apps/userBen/UserBen.scala" timestamp="1592362402887">
         <mark key="[" line="23" column="36" />
@@ -155,11 +161,6 @@
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" timestamp="1592240924561">
         <mark key="'" line="45" column="6" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/service/KafkaStreamingService.scala" timestamp="1592200310444">
-        <mark key="'" line="31" column="6" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="107" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-users/user-ben/src/main/scala/com/kakao/story/apps/userBen/UserBen.scala" timestamp="1592376115170">
         <mark key="[" line="22" column="55" />
@@ -198,10 +199,6 @@
         <mark key="." line="66" column="38" />
         <mark key="^" line="66" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-feed-log2graph/src/main/java/com/kakao/story/feed/log2graph/LogQueueConsumer.java" timestamp="1592201373741">
-        <mark key="[" line="515" column="78" />
-        <mark key="]" line="515" column="105" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-users/user-ben/src/main/com/kakao/story/apps/userBen/ViewLog.scala" timestamp="1592360201261">
         <mark key="'" line="57" column="14" />
         <mark key="[" line="10" column="12" />
@@ -212,15 +209,6 @@
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/loggers/RequestLogger.java" timestamp="1592375904805" />
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/StorySrayRawDataEventCollectStreaming-prod.conf" />
-      <jump line="2" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/resources/application.conf" />
-      <jump line="9" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/StorySrayRawDataEventCollectStreaming-prod.conf" />
-      <jump line="12" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/StorySrayRawDataEventCollectStreaming.scala" />
-      <jump line="17" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" />
-      <jump line="6" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" />
-      <jump line="16" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" />
-      <jump line="49" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/service/StreamingKafkaToHdfs.scala" />
-      <jump line="9" column="39" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/service/StreamingKafkaToHdfs.scala" />
       <jump line="18" column="63" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/service/StreamingKafkaToHdfs.scala" />
       <jump line="7" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" />
       <jump line="33" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/test/scala/com/kakao/story/apps/log2hdfs/story_sray_data_event/instances/StorySrayRawDataEventInstancesTest.scala" />
@@ -312,6 +300,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-users/user-ben/src/main/com/kakao/story/apps/userBen/UserBen.scala" />
       <jump line="20" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-users/user-ben/src/main/scala/com/kakao/story/apps/userBen/UserBen.scala" />
       <jump line="22" column="93" filename="$USER_HOME$/Develop/Works/story/story-spark/project-users/user-ben/src/main/scala/com/kakao/story/apps/userBen/UserBen.scala" />
+      <jump line="303" column="16" filename="$USER_HOME$/Develop/Works/story/story-spec/projects/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/agreement/AgreementsController.java" />
+      <jump line="315" column="12" filename="$USER_HOME$/Develop/Works/story/story-spec/projects/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/agreement/AgreementsController.java" />
+      <jump line="1119" column="29" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/setting/SettingsController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/setting/SettingsController.java" />
+      <jump line="60" column="4" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/setting/SettingsController.java" />
+      <jump line="1413" column="23" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/setting/SettingsController.java" />
+      <jump line="1443" column="23" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/setting/SettingsController.java" />
+      <jump line="1532" column="30" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/setting/SettingsController.java" />
+      <jump line="1533" column="145" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/setting/SettingsController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -2628,7 +2625,7 @@
         <text encoding="base64">ICYmIGFjdGl2aXRpZXMudmFsdWUoeC5hY3Rpdml0eUlkKSAmJiB4LmFjdGlvbiA9PSAiZGVzdHJveSI=</text>
       </register>
       <register name="/" type="4">
-        <text>ViewLog</text>
+        <text>agreement</text>
       </register>
       <register name="0" type="4">
         <text>23814805</text>
@@ -2739,9 +2736,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ViewLog</last-search>
+      <last-search>agreement</last-search>
       <last-offset />
-      <last-pattern>ViewLog</last-pattern>
+      <last-pattern>agreement</last-pattern>
       <last-replace>UserBen</last-replace>
       <last-substitute>ViewLog</last-substitute>
       <last-dir>1</last-dir>
