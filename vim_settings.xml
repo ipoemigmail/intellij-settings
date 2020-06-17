@@ -47,8 +47,8 @@
         <entry>81</entry>
         <entry>63</entry>
         <entry>%s/ViewLog/UserBen/g</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -143,9 +143,16 @@
         <mark key="]" line="15" column="58" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1592387522427">
+        <mark key="[" line="56" column="89" />
+        <mark key="]" line="56" column="93" />
+        <mark key="." line="56" column="92" />
+        <mark key="^" line="56" column="93" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/Agreement.java" timestamp="1592379587380">
         <mark key="'" line="35" column="22" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch.scala" timestamp="1592388682530" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/loggers/RequestLogger.java" timestamp="1592375904805" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/setting/SettingsController.java" timestamp="1592378422188">
         <mark key="'" line="1570" column="16" />
@@ -315,8 +322,8 @@
       <register name="a" type="4">
         <text>&quot;, &quot;</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBob3N0ID0gImh0dHA6Ly9zdG9yeS1oYWRvb3AtY21kMS5kYWthby5pbzo4MDkwIgo=</text>
+      <register name="&quot;" type="4">
+        <text>Test</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2726,7 +2733,7 @@
         <text encoding="base64">ICAgICAgLmZpbHRlcih4ID0+IHgucHJvZmlsZUlkID09IDIzODE0ODA1ICYmIHguY29udHJvbGxlciA9PSAiYWN0aXZpdGllcyIgJiYgeC5hY3Rpb24gIT0gInNob3ciKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
