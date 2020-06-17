@@ -165,9 +165,6 @@
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="107" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/service/ModelGeneratorServiceDefault.scala" timestamp="1592198785774">
-        <mark key="'" line="111" column="6" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/modelGenerator/ModelGeneratorBatch-prod.conf" timestamp="1592204924178">
         <mark key="[" line="16" column="10" />
         <mark key="]" line="16" column="10" />
@@ -319,8 +316,8 @@
       <register name="a" type="4">
         <text>&quot;, &quot;</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2625,7 +2622,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>spark.service._</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>ViewLog</text>
