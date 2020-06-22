@@ -131,6 +131,10 @@
         <mark key="^" line="38" column="6" />
         <mark key="." line="37" column="45" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/storage/service/ShardSqlServiceMysqlTest.scala" timestamp="1592819380496">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="98" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" timestamp="1592811442676">
         <mark key="'" line="28" column="11" />
       </file>
@@ -138,7 +142,6 @@
         <mark key="[" line="43" column="12" />
         <mark key="]" line="43" column="128" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/job/TargetUserCountJob.conf" timestamp="1592805006754" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/dbQuery/ActivityCategoryReference.scala" timestamp="1592810789819">
         <mark key="'" line="9" column="9" />
         <mark key="[" line="10" column="0" />
@@ -152,10 +155,7 @@
         <mark key="^" line="16" column="120" />
         <mark key="." line="16" column="119" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/util/PushAdminUtil.scala" timestamp="1592804965117">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="22" column="3" />
-      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/ShardSqlServiceMysql.scala" timestamp="1592819376503" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/batch/HivePartitionRemapBatch-prod.conf" timestamp="1592808344958">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="10" />
@@ -185,7 +185,7 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/ShardConnectionManagerMysql.scala" timestamp="1592816719668">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/ShardConnectionManagerMysql.scala" timestamp="1592817086718">
         <mark key="'" line="83" column="34" />
         <mark key="[" line="24" column="83" />
         <mark key="]" line="24" column="83" />
@@ -215,12 +215,12 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="105" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/dbQuery/DbQuery.scala" timestamp="1592817032281">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/dbQuery/DbQuery.scala" timestamp="1592819562902">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="17" />
-        <mark key="]" line="30" column="17" />
-        <mark key="^" line="29" column="12" />
-        <mark key="." line="30" column="17" />
+        <mark key="[" line="24" column="87" />
+        <mark key="]" line="24" column="90" />
+        <mark key="." line="24" column="89" />
+        <mark key="^" line="24" column="90" />
       </file>
       <file name="/fragment.java" timestamp="1592810731152">
         <mark key="[" line="0" column="0" />
@@ -334,8 +334,8 @@
       <register name="a" type="4">
         <text>logService.info</text>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+      <register name="&quot;" type="4">
+        <text>Prod</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2640,16 +2640,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Prod</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JUZXN0XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>range-size</text>
+        <text>i * rangeSize</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgdmFsIGRiOiBTaGFyZFNxbFNlcnZpY2VbY2x1c3Rlci5BY3Rpdml0eVNsYXZlXSA9CiAgICAgICAgbmV3IFNoYXJkU3FsU2VydmljZU15c3FsW2NsdXN0ZXIuQWN0aXZpdHlTbGF2ZV0oKShhY3Rpdml0eUNvbm5lY3Rpb25NYW5hZ2VyLCBQaGFzZS5Qcm9kKQogICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2682,25 +2682,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHNxbCA9CiAgICAgICAgc3FsIiIic2VsZWN0IGNvdW50KCopCiAgICAgICAgICAgICB8ZnJvbSBhY3Rpdml0aWVzCiAgICAgICAgICAgICB8d2hlcmUgY3JlYXRlZF9hdCA+PSAke2R0LnRvU3RyaW5nKCJ5eXl5LU1NLWRkIEhIOm1tOnNzIil9IAogICAgICAgICAgICAgfGFuZCBjcmVhdGVkX2F0IDwgJHtkdC5wbHVzRGF5cygxKS50b1N0cmluZygieXl5eS1NTS1kZCBISDptbTpzcyIpfQogICAgICAgICAgICAgfGFuZCBhY3Rvcl9pZCA+PSAke30KICAgICAgICAgICAgIHxhbmQgYWN0b3JfaWQgPCAke30iIiIuc3RyaXBNYXJnaW4K</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAgIC8vc3FsLnF1ZXJ5W0ludF0udW5pcXVlLnRyYW5zYWN0KGNvbm4pLnVuc2FmZVJ1blN5bmMoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRyYW5zYWN0b3IgPQogICAgICAgIEhpa2FyaVRyYW5zYWN0b3JbSU9dKGRzLCBFeGVjdXRpb25Db250ZXh0LmZyb21FeGVjdXRvcihwb29sMSksIEJsb2NrZXIubGlmdEV4ZWN1dG9yU2VydmljZShwb29sMikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxvZ1NlcnZpY2UuaW5mbyhzcWwudG9TdHJpbmcpCg==</text>
       </register>
       <register name="s" type="4">
         <text>${kafka.cluster.common01}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgIGlmICghZm9yVGVzdCkgdHggZWxzZSBUcmFuc2FjdG9yLmFmdGVyLnNldCh0eCwgSEMucm9sbGJhY2spCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">IAogCiA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZGIucnVuQnlTaGFyZEtleSgpCg==</text>
       </register>
       <register name="6" type="8">
-        <text encoding="base64">IAogCiA=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ1NlcnZpY2UuaW5mbyhzImFsbCBjb3VudDogJHtjb3VudHMuc3VtfSIpCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHNxbCA9CiAgICAgICAgc3FsIiIic2VsZWN0IGNvdW50KCopCiAgICAgICAgICAgICB8ZnJvbSBhY3Rpdml0aWVzCiAgICAgICAgICAgICB8d2hlcmUgY3JlYXRlZF9hdCA+PSAke2R0LnRvU3RyaW5nKCJ5eXl5LU1NLWRkIEhIOm1tOnNzIil9IAogICAgICAgICAgICAgfGFuZCBjcmVhdGVkX2F0IDwgJHtkdC5wbHVzRGF5cygxKS50b1N0cmluZygieXl5eS1NTS1kZCBISDptbTpzcyIpfQogICAgICAgICAgICAgfGFuZCBhY3Rvcl9pZCA+PSAke30KICAgICAgICAgICAgIHxhbmQgYWN0b3JfaWQgPCAke30iIiIuc3RyaXBNYXJnaW4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2729,10 +2729,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcGFyayA9IHNlc3Npb25NYW5hZ2VyLmdldE9yQ3JlYXRlU2Vzc2lvbgogICAgc3Bhcmsuc3BhcmtDb250ZXh0Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHRyYW5zYWN0b3IgPQogICAgICAgIEhpa2FyaVRyYW5zYWN0b3JbSU9dKGRzLCBFeGVjdXRpb25Db250ZXh0LmZyb21FeGVjdXRvcihwb29sMSksIEJsb2NrZXIubGlmdEV4ZWN1dG9yU2VydmljZShwb29sMikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgIGlmICghZm9yVGVzdCkgdHggZWxzZSBUcmFuc2FjdG9yLmFmdGVyLnNldCh0eCwgSEMucm9sbGJhY2spCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
