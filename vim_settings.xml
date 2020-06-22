@@ -47,8 +47,8 @@
         <entry encoding="base64">JzwsJz5zL0FjY2Vzcy9SZXF1ZXN0L2c=</entry>
         <entry>%s/ActivityCategoryReference/g</entry>
         <entry>%s/ActivityCategoryReference/DbQuery/g</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,12 +125,12 @@
         <mark key="'" line="112" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/ShardSqlServiceMysql.scala" timestamp="1592822369975" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" timestamp="1592825110737">
-        <mark key="'" line="17" column="52" />
-        <mark key="[" line="19" column="72" />
-        <mark key="]" line="20" column="21" />
-        <mark key="." line="20" column="20" />
-        <mark key="^" line="20" column="21" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/viewLog/ViewLog.scala" timestamp="1592826002869">
+        <mark key="'" line="19" column="52" />
+        <mark key="[" line="20" column="55" />
+        <mark key="]" line="20" column="57" />
+        <mark key="." line="20" column="56" />
+        <mark key="^" line="20" column="57" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/stat/src/main/scala/story/stat/admin_stat/dao/plus/PlusDailyStats.scala" timestamp="1592822935783" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/dbQuery/DbQuery-prod.conf" timestamp="1592812069830">
@@ -311,8 +311,8 @@
       <register name="a" type="4">
         <text>logService.info</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>activityId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLnNob3coMSwgZmFsc2UpCg==</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2626,7 +2626,7 @@
         <text>Daily(&quot;2020-06-19&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNwYXJrLgo=</text>
+        <text encoding="base64">ICAgICAgLnNob3coMSwgZmFsc2UpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2659,25 +2659,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNwYXJrLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBmczogRmlsZVN5c3RlbSA9IEZpbGVTeXN0ZW0uZ2V0KHNwYXJrLnNwYXJrQ29udGV4dC5oYWRvb3BDb25maWd1cmF0aW9uKQoKICAgIHZhbCBzdGFydER0ID0gbmV3IERhdGVUaW1lKCIyMDE3LTA1LTAxVDAwOjAwOjAwLjAwMCswOTAwIikKICAgIHZhbCBlbmREdCA9IG5ldyBEYXRlVGltZSgiMjAyMC0wNS0yN1QwMDowMDowMC4wMDArMDkwMCIpCgogICAgdmFsIGRhdGVzID0gU3RyZWFtLml0ZXJhdGUoc3RhcnREdCkoeCA9PiB4LnBsdXNEYXlzKDEpKS50YWtlV2hpbGUoeCA9PiB4LmdldE1pbGxpcyA8PSBlbmREdC5nZXRNaWxsaXMpLnRvTGlzdAogICAgdmFsIHBhdGhzID0gZGF0ZXMubWFwIHsgeCA9PgogICAgICAoCiAgICAgICAgeC50b1N0cmluZygieXl5eS1NTSIpLAogICAgICAgIHMiL2tha2Fvc3RvcnkvZXh0ZXJuYWwvcmVxbG9nLyR7eC50b1N0cmluZygieXl5eSIpfS8ke3gudG9TdHJpbmcoIk1NIil9LyR7eC50b1N0cmluZygiZGQiKX0vKi8qLmd6IgogICAgICApCiAgICB9ICsrIGRhdGVzLm1hcCB7IHggPT4KICAgICAgKAogICAgICAgIHgudG9TdHJpbmcoInl5eXktTU0iKSwKICAgICAgICBzIi9rYWthb3N0b3J5L2V4dGVybmFsL3JlcWxvZ193ZWIvJHt4LnRvU3RyaW5nKCJ5eXl5Iil9LyR7eC50b1N0cmluZygiTU0iKX0vJHt4LnRvU3RyaW5nKCJkZCIpfS8qLyouZ3oiCiAgICAgICkKICAgIH0KCiAgICBwYXRocy5ncm91cEJ5KF8uXzEpLmZvcmVhY2ggewogICAgICBjYXNlICh5eXl5TU0sIHhzKSA9PgogICAgICAgIHZhbCBwID0geHMubWFwKF8uXzIpLmZpbHRlcihwYXRoID0+IE9wdGlvbihmcy5nbG9iU3RhdHVzKG5ldyBQYXRoKHBhdGgpKSkudG9TZXEuZmxhdHRlbi5ub25FbXB0eSkKICAgICAgICBpZiAocC5ub25FbXB0eSkgewogICAgICAgICAgc3Bhcmsuc3BhcmtDb250ZXh0CiAgICAgICAgICAgIC50ZXh0RmlsZShwLm1rU3RyaW5nKCIsIikpCiAgICAgICAgICAgIC5maWx0ZXIoXy5jb250YWlucygiNDcxMTU1MTlfOTM4NTcyMzc5Mzk0ODEwOTEiKSkKICAgICAgICAgICAgLnRvREYoKQogICAgICAgICAgICAucmVwYXJ0aXRpb24oMSkKICAgICAgICAgICAgLndyaXRlCiAgICAgICAgICAgIC5tb2RlKFNhdmVNb2RlLk92ZXJ3cml0ZSkKICAgICAgICAgICAgLmNzdihzIi90bXAvYmVuL2FjdGl2aXR5XzQ3MTE1NTE5XzkzODU3MjM3OTM5NDgxMDkxLyR5eXl5TU0iKQogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>${kafka.cluster.common01}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGRiOiBTaGFyZFNxbFNlcnZpY2VbY2x1c3Rlci5BY3Rpdml0eVNsYXZlXSA9CiAgICAgICAgbmV3IFNoYXJkU3FsU2VydmljZU15c3FsW2NsdXN0ZXIuQWN0aXZpdHlTbGF2ZV0oKShhY3Rpdml0eUNvbm5lY3Rpb25NYW5hZ2VyLCBQaGFzZS5Qcm9kKQogICAgICAK</text>
+        <text encoding="base64">ICAgIHZhbCBmczogRmlsZVN5c3RlbSA9IEZpbGVTeXN0ZW0uZ2V0KHNwYXJrLnNwYXJrQ29udGV4dC5oYWRvb3BDb25maWd1cmF0aW9uKQoKICAgIHZhbCBzdGFydER0ID0gbmV3IERhdGVUaW1lKCIyMDE3LTA1LTAxVDAwOjAwOjAwLjAwMCswOTAwIikKICAgIHZhbCBlbmREdCA9IG5ldyBEYXRlVGltZSgiMjAyMC0wNS0yN1QwMDowMDowMC4wMDArMDkwMCIpCgogICAgdmFsIGRhdGVzID0gU3RyZWFtLml0ZXJhdGUoc3RhcnREdCkoeCA9PiB4LnBsdXNEYXlzKDEpKS50YWtlV2hpbGUoeCA9PiB4LmdldE1pbGxpcyA8PSBlbmREdC5nZXRNaWxsaXMpLnRvTGlzdAogICAgdmFsIHBhdGhzID0gZGF0ZXMubWFwIHsgeCA9PgogICAgICAoCiAgICAgICAgeC50b1N0cmluZygieXl5eS1NTSIpLAogICAgICAgIHMiL2tha2Fvc3RvcnkvZXh0ZXJuYWwvcmVxbG9nLyR7eC50b1N0cmluZygieXl5eSIpfS8ke3gudG9TdHJpbmcoIk1NIil9LyR7eC50b1N0cmluZygiZGQiKX0vKi8qLmd6IgogICAgICApCiAgICB9ICsrIGRhdGVzLm1hcCB7IHggPT4KICAgICAgKAogICAgICAgIHgudG9TdHJpbmcoInl5eXktTU0iKSwKICAgICAgICBzIi9rYWthb3N0b3J5L2V4dGVybmFsL3JlcWxvZ193ZWIvJHt4LnRvU3RyaW5nKCJ5eXl5Iil9LyR7eC50b1N0cmluZygiTU0iKX0vJHt4LnRvU3RyaW5nKCJkZCIpfS8qLyouZ3oiCiAgICAgICkKICAgIH0KCiAgICBwYXRocy5ncm91cEJ5KF8uXzEpLmZvcmVhY2ggewogICAgICBjYXNlICh5eXl5TU0sIHhzKSA9PgogICAgICAgIHZhbCBwID0geHMubWFwKF8uXzIpLmZpbHRlcihwYXRoID0+IE9wdGlvbihmcy5nbG9iU3RhdHVzKG5ldyBQYXRoKHBhdGgpKSkudG9TZXEuZmxhdHRlbi5ub25FbXB0eSkKICAgICAgICBpZiAocC5ub25FbXB0eSkgewogICAgICAgICAgc3Bhcmsuc3BhcmtDb250ZXh0CiAgICAgICAgICAgIC50ZXh0RmlsZShwLm1rU3RyaW5nKCIsIikpCiAgICAgICAgICAgIC5maWx0ZXIoXy5jb250YWlucygiNDcxMTU1MTlfOTM4NTcyMzc5Mzk0ODEwOTEiKSkKICAgICAgICAgICAgLnRvREYoKQogICAgICAgICAgICAucmVwYXJ0aXRpb24oMSkKICAgICAgICAgICAgLndyaXRlCiAgICAgICAgICAgIC5tb2RlKFNhdmVNb2RlLk92ZXJ3cml0ZSkKICAgICAgICAgICAgLmNzdihzIi90bXAvYmVuL2FjdGl2aXR5XzQ3MTE1NTE5XzkzODU3MjM3OTM5NDgxMDkxLyR5eXl5TU0iKQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAgIC8vc3FsLnF1ZXJ5W0ludF0udW5pcXVlLnRyYW5zYWN0KGNvbm4pLnVuc2FmZVJ1blN5bmMoKQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIGRiOiBTaGFyZFNxbFNlcnZpY2VbY2x1c3Rlci5BY3Rpdml0eVNsYXZlXSA9CiAgICAgICAgbmV3IFNoYXJkU3FsU2VydmljZU15c3FsW2NsdXN0ZXIuQWN0aXZpdHlTbGF2ZV0oKShhY3Rpdml0eUNvbm5lY3Rpb25NYW5hZ2VyLCBQaGFzZS5Qcm9kKQogICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvZ1NlcnZpY2UuaW5mbyhzcWwudG9TdHJpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAgIC8vc3FsLnF1ZXJ5W0ludF0udW5pcXVlLnRyYW5zYWN0KGNvbm4pLnVuc2FmZVJ1blN5bmMoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxvZ1NlcnZpY2UuaW5mbyhzcWwudG9TdHJpbmcpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2706,13 +2706,13 @@
         </keys>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgZGIucnVuQnlTaGFyZEtleSgpCg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
