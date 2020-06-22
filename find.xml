@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scala" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,11 +16,11 @@
     <mask>*Serv*</mask>
     <mask>*.sbt</mask>
     <mask>*.sh</mask>
-    <mask>*.scala</mask>
     <mask>*Instances.scala</mask>
-    <mask>*.java</mask>
     <mask>*dev.conf</mask>
     <mask>*prod.conf</mask>
     <mask>*.conf</mask>
+    <mask>*.java</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
