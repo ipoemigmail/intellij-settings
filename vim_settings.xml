@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JUZXN0XD4=</entry>
-        <entry>rum</entry>
         <entry>run</entry>
         <entry>activities</entry>
         <entry encoding="base64">XDxkYXRldGltZVw+</entry>
@@ -26,6 +24,8 @@
         <entry encoding="base64">XDxpZHNcPg==</entry>
         <entry encoding="base64">XDxwdXNoQWRtaW5TZXJ2aWNlXD4=</entry>
         <entry>httpRemote</entry>
+        <entry>phase</entry>
+        <entry encoding="base64">XDxQSEFTRVw+</entry>
         <entry>remote\c</entry>
       </history-search>
       <history-cmd>
@@ -125,10 +125,16 @@
         <mark key="^" line="70" column="128" />
         <mark key="." line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-admin/applicationContext.xml" timestamp="1592900570098">
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-admin/applicationContext.xml" timestamp="1592902234976">
         <mark key="'" line="115" column="68" />
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="82" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources/applicationContext.xml" timestamp="1592902495046">
+        <mark key="'" line="111" column="81" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/deploy/release-feed-g3/script/startup.sh" timestamp="1592902464891">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-prod.conf" timestamp="1592898580926">
         <mark key="'" line="11" column="23" />
@@ -158,13 +164,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" timestamp="1592889379000">
-        <mark key="'" line="71" column="14" />
-        <mark key="[" line="54" column="20" />
-        <mark key="]" line="54" column="27" />
-        <mark key="." line="54" column="26" />
-        <mark key="^" line="54" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" timestamp="1592897043159">
         <mark key="'" line="47" column="6" />
@@ -196,7 +195,6 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources/META-INF/v2/applicationContext-httpRemote.xml" timestamp="1592900292389" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/run.sh" timestamp="1592889180695" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/stat/s/MessageHistoryBatch-prod.conf" timestamp="1592890212400">
         <mark key="'" line="24" column="2" />
         <mark key="[" line="23" column="0" />
@@ -207,11 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="50" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/service/AggregateHdfs.scala" />
-      <jump line="28" column="61" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/batch/HivePartitionRemapBatch.scala" />
-      <jump line="65" column="52" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/service/AggregateHdfs.scala" />
-      <jump line="35" column="62" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/batch/HivePartitionRemapBatch.scala" />
-      <jump line="37" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/batch/HivePartitionRemapBatch.scala" />
       <jump line="19" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_request_log/StoryRequestLogAggregateBatch.scala" />
       <jump line="50" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/batch/HivePartitionRemapBatch.scala" />
       <jump line="4" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/batch/HivePartitionRemapBatch.scala" />
@@ -307,6 +300,11 @@
       <jump line="47" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
       <jump line="93" column="30" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-admin/applicationContext.xml" />
       <jump line="115" column="68" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-admin/applicationContext.xml" />
+      <jump line="11" column="30" filename="$USER_HOME$/Develop/Works/story/story-app-server/deploy/release-feed-g3/script/startup.sh" />
+      <jump line="60" column="73" filename="$USER_HOME$/Develop/Works/story/story-app-server/deploy/release-feed-g3/script/startup.sh" />
+      <jump line="41" column="0" filename="$USER_HOME$/Develop/Works/story/story-app-server/deploy/release-feed-g3/script/startup.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-app-server/deploy/release-feed-g3/script/startup.sh" />
+      <jump line="111" column="81" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources/applicationContext.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
