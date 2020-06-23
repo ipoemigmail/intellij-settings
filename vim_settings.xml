@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25uXD4=</entry>
-        <entry encoding="base64">XDxub1w+</entry>
         <entry encoding="base64">XDxmb3JUZXN0XD4=</entry>
         <entry>rum</entry>
         <entry>run</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxydW5cPg==</entry>
         <entry encoding="base64">XDxpZHNcPg==</entry>
         <entry encoding="base64">XDxwdXNoQWRtaW5TZXJ2aWNlXD4=</entry>
+        <entry>httpRemote</entry>
+        <entry>remote\c</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SparkAppHealerStreaming/SparkAppHealerDev/g</entry>
@@ -125,13 +125,10 @@
         <mark key="^" line="70" column="128" />
         <mark key="." line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/etlErrorReport/EtlErrorDeleteBatch-dev.conf" timestamp="1592888882596">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-admin/app/com/kakao/story/admin/service/PushJobService.java" timestamp="1592888625758">
-        <mark key="'" line="51" column="8" />
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-admin/applicationContext.xml" timestamp="1592900570098">
+        <mark key="'" line="115" column="68" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="82" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-prod.conf" timestamp="1592898580926">
         <mark key="'" line="11" column="23" />
@@ -150,7 +147,6 @@
         <mark key="^" line="17" column="18" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-admin/app/com/kakao/story/admin/service/jenkins/JenkinsService.java" timestamp="1592888849853" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminService.scala" timestamp="1592889934475">
         <mark key="[" line="57" column="42" />
         <mark key="]" line="57" column="60" />
@@ -182,6 +178,7 @@
         <mark key="]" line="18" column="41" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/util/TimeUtil.scala" timestamp="1592890475990" />
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-real/applicationContext.xml" timestamp="1592900332899" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-dev.conf" timestamp="1592898578514">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="20" column="0" />
@@ -198,6 +195,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources/META-INF/v2/applicationContext-httpRemote.xml" timestamp="1592900292389" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/run.sh" timestamp="1592889180695" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/stat/s/MessageHistoryBatch-prod.conf" timestamp="1592890212400">
         <mark key="'" line="24" column="2" />
@@ -209,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/service/AggregateHdfs.scala" />
-      <jump line="15" column="92" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/service/AggregateHdfs.scala" />
       <jump line="26" column="50" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/service/AggregateHdfs.scala" />
       <jump line="28" column="61" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/batch/HivePartitionRemapBatch.scala" />
       <jump line="65" column="52" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/service/AggregateHdfs.scala" />
@@ -309,6 +305,8 @@
       <jump line="120" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
       <jump line="26" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
       <jump line="47" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
+      <jump line="93" column="30" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-admin/applicationContext.xml" />
+      <jump line="115" column="68" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-admin/applicationContext.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,7 +315,7 @@
         <text>pushAdminService</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhdXRoVG9rZW4gPSAicHVzaC5UYXJnZXRVc2VyQ291bnRKb2IiCg==</text>
+        <text encoding="base64">CTxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aCo6TUVUQS1JTkYvdjIvYXBwbGljYXRpb25Db250ZXh0LWh0dHBSZW1vdGUueG1sIiAvPgo=</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2615,8 +2613,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>4262</text>
+      <register name="*" type="2">
+        <text encoding="base64">CTxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aCo6TUVUQS1JTkYvdjIvYXBwbGljYXRpb25Db250ZXh0LWh0dHBSZW1vdGUueG1sIiAvPgo=</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
@@ -2625,7 +2623,7 @@
         <text>story-jenkins.devel.kakao.com</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdXNoQWRtaW5TZXJ2aWNlXD4=</text>
+        <text>remote\c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBhdXRoVG9rZW4gPSAicHVzaC5UYXJnZXRVc2VyQ291bnRKb2IiCg==</text>
@@ -2726,9 +2724,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwdXNoQWRtaW5TZXJ2aWNlXD4=</last-search>
+      <last-search>remote\c</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdXNoQWRtaW5TZXJ2aWNlXD4=</last-pattern>
+      <last-pattern>remote\c</last-pattern>
       <last-replace>DbQuery</last-replace>
       <last-substitute>ActivityCategoryReference</last-substitute>
       <last-dir>1</last-dir>
