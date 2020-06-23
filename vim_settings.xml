@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>db</entry>
         <entry encoding="base64">XDxjb25uXD4=</entry>
         <entry encoding="base64">XDxub1w+</entry>
         <entry encoding="base64">XDxmb3JUZXN0XD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxzdHJpbmdCdWlsZFBhcmFtZXRlclhtbFw+</entry>
         <entry encoding="base64">XDxydW5cPg==</entry>
         <entry encoding="base64">XDxpZHNcPg==</entry>
+        <entry encoding="base64">XDxwdXNoQWRtaW5TZXJ2aWNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SparkAppHealerStreaming/SparkAppHealerDev/g</entry>
@@ -170,8 +170,8 @@
         <mark key="." line="54" column="26" />
         <mark key="^" line="54" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" timestamp="1592890761109">
-        <mark key="'" line="52" column="8" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" timestamp="1592892020308">
+        <mark key="'" line="47" column="6" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
@@ -210,9 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/story_access_log/StoryAccessLogAggregateBatch.scala" />
-      <jump line="29" column="27" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/service/AggregateHdfs.scala" />
-      <jump line="76" column="23" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/service/AggregateHdfs.scala" />
       <jump line="7" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/service/AggregateHdfs.scala" />
       <jump line="15" column="92" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/service/AggregateHdfs.scala" />
       <jump line="26" column="50" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/log2hdfs/src/main/scala/com/kakao/story/apps/log2hdfs/service/AggregateHdfs.scala" />
@@ -310,6 +307,9 @@
       <jump line="10" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-dev.conf" />
       <jump line="10" column="23" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-prod.conf" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch-dev.conf" />
+      <jump line="120" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
+      <jump line="26" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
+      <jump line="47" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -2626,7 +2626,7 @@
         <text>.conf</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZHNcPg==</text>
+        <text encoding="base64">XDxwdXNoQWRtaW5TZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW5jbHVkZSBjbGFzc3BhdGgoImthZmthLWNsdXN0ZXIuY29uZiIpCg==</text>
@@ -2727,9 +2727,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpZHNcPg==</last-search>
+      <last-search encoding="base64">XDxwdXNoQWRtaW5TZXJ2aWNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwdXNoQWRtaW5TZXJ2aWNlXD4=</last-pattern>
       <last-replace>DbQuery</last-replace>
       <last-substitute>ActivityCategoryReference</last-substitute>
       <last-dir>1</last-dir>
