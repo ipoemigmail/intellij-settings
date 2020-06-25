@@ -47,8 +47,8 @@
         <entry encoding="base64">JzwsJz5zL0FjY2Vzcy9SZXF1ZXN0L2c=</entry>
         <entry>%s/ActivityCategoryReference/g</entry>
         <entry>%s/ActivityCategoryReference/DbQuery/g</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -152,11 +152,6 @@
         <mark key="]" line="40" column="52" />
         <mark key="." line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/ks-monitoring.conf" timestamp="1592988192901">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="12" column="1" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" timestamp="1593061845988">
         <mark key="'" line="173" column="51" />
       </file>
@@ -172,6 +167,13 @@
         <mark key="]" line="27" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" timestamp="1593074598180">
+        <mark key="'" line="76" column="25" />
+        <mark key="[" line="76" column="23" />
+        <mark key="]" line="76" column="25" />
+        <mark key="." line="76" column="24" />
+        <mark key="^" line="76" column="25" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" timestamp="1593061605671">
         <mark key="'" line="30" column="8" />
         <mark key="[" line="118" column="0" />
@@ -185,12 +187,6 @@
         <mark key="]" line="9" column="55" />
         <mark key="^" line="9" column="55" />
         <mark key="." line="9" column="54" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/target/scala-2.12/test-classes/application.conf" timestamp="1592989586343">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/resources/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatchTest-dev.conf" timestamp="1592990515120">
         <mark key="[" line="13" column="38" />
@@ -218,26 +214,17 @@
         <mark key="^" line="51" column="107" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/application-context.xml" timestamp="1593071132646" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/converter/ActivityContentConverter.scala" timestamp="1593074529397">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" timestamp="1593071178149">
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="12" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="73" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" />
-      <jump line="70" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" />
-      <jump line="126" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
-      <jump line="124" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
-      <jump line="45" column="60" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
-      <jump line="44" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
-      <jump line="52" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
-      <jump line="24" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/stat/s/MessageHistoryBatch-prod.conf" />
-      <jump line="33" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-dev.conf" />
-      <jump line="10" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch-prod.conf" />
-      <jump line="20" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch-dev.conf" />
-      <jump line="10" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-dev.conf" />
-      <jump line="10" column="23" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-prod.conf" />
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch-dev.conf" />
       <jump line="120" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
       <jump line="26" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
       <jump line="47" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
@@ -324,6 +311,20 @@
       <jump line="17" column="18" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/java/com/kakao/story/admin/service/PushJobService.java" />
       <jump line="51" column="39" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/java/com/kakao/story/admin/service/PushJobService.java" />
       <jump line="62" column="39" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/java/com/kakao/story/admin/service/PushJobService.java" />
+      <jump line="76" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
+      <jump line="78" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
+      <jump line="74" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
+      <jump line="77" column="17" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
+      <jump line="106" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
+      <jump line="107" column="10" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
+      <jump line="108" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
+      <jump line="111" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
+      <jump line="72" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
+      <jump line="112" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
+      <jump line="120" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
+      <jump line="75" column="80" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
+      <jump line="71" column="80" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
+      <jump line="68" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,7 +333,7 @@
         <text>kafkaProducer</text>
       </register>
       <register name="&quot;" type="4">
-        <text>spark.jenkins.job.push.pushSender.token</text>
+        <text>100</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2630,23 +2631,23 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="4">
-        <text>spark.jenkins.job.push.pushSender.token</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIHZhbCBwYXJhbGxlbFNpemUgPSAxMDAKICAgIGRhdGEKICAgICAgLmdyb3VwZWQocGFyYWxsZWxTaXplKQogICAgICAuZmxhdE1hcCB7IHZhbHVlcyA9PgogICAgICAgIHZhbCBmdXR1cmVzID0gdmFsdWVzLm1hcCB7IHRhZ2dlZFZhbHVlID0+CiAgICAgICAgICBGdXR1cmUgewogICAgICAgICAgICB2YWwgaWQgPSB0YWdnZWRWYWx1ZS52YWx1ZS5fMi5pZAogICAgICAgICAgICB2YWwgbWVzc2FnZU9wdCA9IHRhZ2dlZFZhbHVlLnZhbHVlLl8yLm1lc3NhZ2UKCiAgICAgICAgICAgIEVpdGhlci5jYXRjaE5vbkZhdGFsIHsKICAgICAgICAgICAgICB2YWwgcmVzcG9uc2UgPSB0YWdnZWRWYWx1ZS50YWcgbWF0Y2ggewogICAgICAgICAgICAgICAgY2FzZSBDcmVhdGVDbGFzc2lmaWNhdGlvbiA9PiBodHRwUG9zdChjbGFzc2lmaWNhdGlvblVybC5yZXBsYWNlKCJ7YWN0aXZpdHlJZH0iLCBpZCkpCiAgICAgICAgICAgICAgICBjYXNlIFVwZGF0ZUNsYXNzaWZpY2F0aW9uID0+IGh0dHBQdXQoY2xhc3NpZmljYXRpb25VcmwucmVwbGFjZSgie2FjdGl2aXR5SWR9IiwgaWQpKQogICAgICAgICAgICAgICAgY2FzZSBEZWxldGVDbGFzc2lmaWNhdGlvbiA9PiBodHRwRGVsZXRlKGNsYXNzaWZpY2F0aW9uVXJsLnJlcGxhY2UoInthY3Rpdml0eUlkfSIsIGlkKSkKICAgICAgICAgICAgICAgIGNhc2UgRGVsZXRlUmVmZXJlbmNlSXRlbSAgPT4gaHR0cERlbGV0ZShyZWZlcmVuY2VJdGVtVXJsLnJlcGxhY2UoInthY3Rpdml0eUlkfSIsIGlkKSkKICAgICAgICAgICAgICAgIGNhc2UgVW5yZWdpc3RlclByb2ZpbGUgICAgPT4gaHR0cERlbGV0ZShwcm9maWxlVXJsLnJlcGxhY2UoIntwcm9maWxlSWR9IiwgaWQpKQogICAgICAgICAgICAgICAgY2FzZSBOb3RpZnlXYXRjaFRvd2VyID0+IHsKICAgICAgICAgICAgICAgICAgc2VuZFRvV2F0Y2hUb3dlcihtZXNzYWdlT3B0LmdldE9yRWxzZSgiZW1wdHkiKSkKICAgICAgICAgICAgICAgICAgcmVxdWVzdHMuUmVzcG9uc2UoIiIsIDIwMCwgInN1Y2Nlc3MiLCBNYXAuZW1wdHksIG5ldyBSZXNwb25zZUJsb2IoQXJyYXkuZW1wdHkpLCBOb25lKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgaWYgKHJlc3BvbnNlLnN0YXR1c0NvZGUgLyAxMDAgPT0gNCkgewogICAgICAgICAgICAgICAgdmFsIGV4ID0gbmV3IEV4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgcyJzdGF0dXNDb2RlIT0yMDAoJHtyZXNwb25zZS5zdGF0dXNDb2RlfSkgLyBhY3Rpb246ICR7dGFnZ2VkVmFsdWUudGFnLmVudHJ5TmFtZX0gLyBpZDogJGlkIC8gcmVzcG9uc2U6ICR7cmVzcG9uc2UudGV4dCgpfSIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIHZhbCBtc2cgPSBzIk5vdCBBdmFpbGFibGUgUmVzb3VyY2UgKCRjbGFzc2lmaWNhdGlvblNlcnZlckhvc3QpIgogICAgICAgICAgICAgICAgc2VudHJ5U2VydmljZS5jYXB0dXJlV2FybmluZyhzIiR7dGhpcy5nZXRDbGFzcy5nZXROYW1lfS1SZXNvdXJjZUVycm9yIiwgbXNnLCBleCkKICAgICAgICAgICAgICB9IGVsc2UgaWYgKHJlc3BvbnNlLnN0YXR1c0NvZGUgLyAxMDAgIT0gMikgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgcyJzdGF0dXNDb2RlIT0yMDAoJHtyZXNwb25zZS5zdGF0dXNDb2RlfSkgLyBhY3Rpb246ICR7dGFnZ2VkVmFsdWUudGFnLmVudHJ5TmFtZX0gLyBpZDogJGlkIC8gcmVzcG9uc2U6ICR7cmVzcG9uc2UudGV4dCgpfSIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgIGxvZ1NlcnZpY2UuZGVidWcocyJzdGF0dXNDb2RlOiAke3Jlc3BvbnNlLnN0YXR1c0NvZGV9IikKICAgICAgICAgICAgfSBtYXRjaCB7CiAgICAgICAgICAgICAgY2FzZSBMZWZ0KGV4KSA9PiBFdGxSZXN1bHQuUHJvY2Vzc2luZ0Vycm9yKGV4LCB0YWdnZWRWYWx1ZS5jb3B5KHZhbHVlID0gdGFnZ2VkVmFsdWUudmFsdWUuXzEpKQogICAgICAgICAgICAgIGNhc2UgUmlnaHQoXykgPT4gRXRsUmVzdWx0LlN1Y2Nlc3ModGFnZ2VkVmFsdWUuY29weSh2YWx1ZSA9IHRhZ2dlZFZhbHVlLnZhbHVlLl8xKSkKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBBd2FpdC5yZXN1bHQoRnV0dXJlLnNlcXVlbmNlKGZ1dHVyZXMpLCBEdXJhdGlvbi5JbmYpCiAgICAgIH0KICAgICAgLnRvU2VxCg==</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqZW5raW5zSG9zdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsIF9rYWZrYVByb2R1Y2VyOiBLYWZrYVByb2R1Y2VyW1N0cmluZywgU3RyaW5nXSA9IEthZmthUHJvZHVjZXJTZXJ2aWNlQnJva2VyVXJscy5jcmVhdGVLYWZrYVByb2R1Y2VyKGJyb2tlclVybHMpCiAgICAgIGltcGxpY2l0IHZhbCBrYWZrYVByb2R1Y2VyOiBTZXJpYWxpemVkW0thZmthUHJvZHVjZXJbU3RyaW5nLCBTdHJpbmddXSA9IF9rYWZrYVByb2R1Y2VyLnRvU2VyaWFsaXplZAo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuZHVyYXRpb24uRHVyYXRpb24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ua2FrYW8uc3RvcnkuYXBwcy5ldGwuam9iLmNoUmVwdXRhdGlvbgoKaW1wb3J0IGNvbS5rYWthby5zdG9yeS5hcHBzLmV0bC5qb2IuY2hSZXB1dGF0aW9uLnNlcnZpY2UuQ2hSZXB1dGF0aW9uU2VydmljZQppbXBvcnQgY29tLmtha2FvLnN0b3J5LmFwcHMuZXRsLmpvYi5zZXJ2aWNlLntNZWRpYVBhdGhTZXJ2aWNlLCBNZWRpYVBhdGhTZXJ2aWNlS2FnZX0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5hcHBzLmV0bC5tb2RlbC5lbnZpcm9ubWVudC5FdGxFbnZpcm9ubWVudAppbXBvcnQgY29tLmtha2FvLnN0b3J5LnNlcnZpY2UuXwoKLyoqCiAgKiBbXS50b1NlcmlhbGl6ZWQg66mU7IaM65Oc64qUIOyLpO2WieuQmOuKlCBvYmplY3Qg7JeQ7IScIOyEoOyWuO2VtOyVvO2VqAogICog7Jes6riw7JeQ7IScIFNlcmlhbGl6ZWRbQV0g67OA7IiY66W8IOyDneyEse2VmOuptCBTcGFyayDsl5DshJwgU2VyaWFsaXplIOyXkOufrOuCqAogICovCmZpbmFsIGNsYXNzIENoUmVwdXRhdGlvbkRlcHMoZW52OiBFdGxFbnZpcm9ubWVudCkgewogIGltcG9ydCBlbnYuXwogIHZhbCBzdG9yeUxvZ0thZmthU2VuZGVyQnJva2VyVXJsczogQXJyYXlbU3RyaW5nXSA9CiAgICBjb25maWcuZ2V0U3RyaW5nKCJzdG9yeUxvZy5rYWZrYVNlbmRlci5icm9rZXJVcmxzIikuc3BsaXQoIiwiKQoKICBsb2dTZXJ2aWNlLmluZm8ocyJzdG9yeUxvZy5rYWZrYVNlbmRlci5icm9rZXJVcmxzOiAke3N0b3J5TG9nS2Fma2FTZW5kZXJCcm9rZXJVcmxzLnRvTGlzdH0iKQoKICBpbXBsaWNpdCB2YWwga2Fma2FQcm9kdWNlclNlcnZpY2U6IEthZmthUHJvZHVjZXJTZXJ2aWNlW1N0cmluZ10gPQogICAgbmV3IEthZmthUHJvZHVjZXJTZXJ2aWNlQnJva2VyVXJscyhzdG9yeUxvZ0thZmthU2VuZGVyQnJva2VyVXJscykKICBpbXBsaWNpdCB2YWwga2FnZVNlcnZpY2U6IEthZ2VTZXJ2aWNlID0gbmV3IEthZ2VTZXJ2aWNlUGhhc2UKICBpbXBsaWNpdCB2YWwgbWVkaWFQYXRoU2VydmljZTogTWVkaWFQYXRoU2VydmljZSA9IG5ldyBNZWRpYVBhdGhTZXJ2aWNlS2FnZQogIGltcGxpY2l0IHZhbCBldGxTZXJ2aWNlOiBDaFJlcHV0YXRpb25TZXJ2aWNlID0gbmV3IENoUmVwdXRhdGlvblNlcnZpY2UKfQoKb2JqZWN0IENoUmVwdXRhdGlvbkRlcHMgewogIGRlZiBhcHBseShlbnY6IEV0bEVudmlyb25tZW50KTogQ2hSZXB1dGF0aW9uRGVwcyA9IG5ldyBDaFJlcHV0YXRpb25EZXBzKGVudikKfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2679,25 +2680,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IOu2hOulmOyEnOuyhOuhnOu2gO2EsCDsnZHri7Xsi5zqsITsnbQg64qm7Ja07IScIOyKpO2KuOumrOuwjSDrsIDrprwsIOu2hOulmCDshJzrsoTsl5DshJwg67KM7YGs66W8IOunjOuTpOqxsOuCmCDruYTrj5nquLDsspjrpqzrpbwg7ZW07JW87ZWg65OvCiAgICBwaGFzZSBtYXRjaCB7CiAgICAgIGNhc2UgUGhhc2UuUHJvZCA9PgogICAgICAgIGlmIChsb2cuaXNBY3Rpdml0eSB8fCBsb2cuaXNDaGFubmVsQWN0aXZpdHkpIHsKICAgICAgICAgIGlmIChsb2cuaXNVcGRhdGVkKSB7CiAgICAgICAgICAgIFNvbWUoZGVsZXRlUmVmZXJlbmNlQWN0aXZpdHlJdGVtKGxvZykpCiAgICAgICAgICB9IGVsc2UgaWYgKGxvZy5pc0RlbGV0ZWQpIHsKICAgICAgICAgICAgU29tZShkZWxldGVSZWZlcmVuY2VBY3Rpdml0eUl0ZW0obG9nKSkKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIFNvbWUoTGlzdC5lbXB0eSkKICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgU29tZShOaWwpCiAgICAgICAgfQogICAgICBjYXNlIF8gPT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGEubWFwIHsgdGFnZ2VkVmFsdWUgPT4KICAgICAgdmFsIGlkID0gdGFnZ2VkVmFsdWUudmFsdWUuXzIuaWQKICAgICAgdmFsIG1lc3NhZ2VPcHQgPSB0YWdnZWRWYWx1ZS52YWx1ZS5fMi5tZXNzYWdlCgogICAgICBFaXRoZXIuY2F0Y2hOb25GYXRhbCB7CiAgICAgICAgdmFsIHJlc3BvbnNlID0gdGFnZ2VkVmFsdWUudGFnIG1hdGNoIHsKICAgICAgICAgIGNhc2UgQ3JlYXRlQ2xhc3NpZmljYXRpb24gPT4gaHR0cFBvc3QoY2xhc3NpZmljYXRpb25VcmwucmVwbGFjZSgie2FjdGl2aXR5SWR9IiwgaWQpKQogICAgICAgICAgY2FzZSBVcGRhdGVDbGFzc2lmaWNhdGlvbiA9PiBodHRwUHV0KGNsYXNzaWZpY2F0aW9uVXJsLnJlcGxhY2UoInthY3Rpdml0eUlkfSIsIGlkKSkKICAgICAgICAgIGNhc2UgRGVsZXRlQ2xhc3NpZmljYXRpb24gPT4gaHR0cERlbGV0ZShjbGFzc2lmaWNhdGlvblVybC5yZXBsYWNlKCJ7YWN0aXZpdHlJZH0iLCBpZCkpCiAgICAgICAgICBjYXNlIERlbGV0ZVJlZmVyZW5jZUl0ZW0gID0+IGh0dHBEZWxldGUocmVmZXJlbmNlSXRlbVVybC5yZXBsYWNlKCJ7YWN0aXZpdHlJZH0iLCBpZCkpCiAgICAgICAgICBjYXNlIFVucmVnaXN0ZXJQcm9maWxlICAgID0+IGh0dHBEZWxldGUocHJvZmlsZVVybC5yZXBsYWNlKCJ7cHJvZmlsZUlkfSIsIGlkKSkKICAgICAgICAgIGNhc2UgTm90aWZ5V2F0Y2hUb3dlciA9PiB7CiAgICAgICAgICAgIHNlbmRUb1dhdGNoVG93ZXIobWVzc2FnZU9wdC5nZXRPckVsc2UoImVtcHR5IikpCiAgICAgICAgICAgIHJlcXVlc3RzLlJlc3BvbnNlKCIiLCAyMDAsICJzdWNjZXNzIiwgTWFwLmVtcHR5LCBuZXcgUmVzcG9uc2VCbG9iKEFycmF5LmVtcHR5KSwgTm9uZSkKICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGlmIChyZXNwb25zZS5zdGF0dXNDb2RlIC8gMTAwID09IDQpIHsKICAgICAgICAgIHZhbCBleCA9IG5ldyBFeGNlcHRpb24oCiAgICAgICAgICAgIHMic3RhdHVzQ29kZSE9MjAwKCR7cmVzcG9uc2Uuc3RhdHVzQ29kZX0pIC8gYWN0aW9uOiAke3RhZ2dlZFZhbHVlLnRhZy5lbnRyeU5hbWV9IC8gaWQ6ICRpZCAvIHJlc3BvbnNlOiAke3Jlc3BvbnNlLnRleHQoKX0iCiAgICAgICAgICApCiAgICAgICAgICB2YWwgbXNnID0gcyJOb3QgQXZhaWxhYmxlIFJlc291cmNlICgkY2xhc3NpZmljYXRpb25TZXJ2ZXJIb3N0KSIKICAgICAgICAgIHNlbnRyeVNlcnZpY2UuY2FwdHVyZVdhcm5pbmcocyIke3RoaXMuZ2V0Q2xhc3MuZ2V0TmFtZX0tUmVzb3VyY2VFcnJvciIsIG1zZywgZXgpCiAgICAgICAgfSBlbHNlIGlmIChyZXNwb25zZS5zdGF0dXNDb2RlIC8gMTAwICE9IDIpIHsKICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oCiAgICAgICAgICAgIHMic3RhdHVzQ29kZSE9MjAwKCR7cmVzcG9uc2Uuc3RhdHVzQ29kZX0pIC8gYWN0aW9uOiAke3RhZ2dlZFZhbHVlLnRhZy5lbnRyeU5hbWV9IC8gaWQ6ICRpZCAvIHJlc3BvbnNlOiAke3Jlc3BvbnNlLnRleHQoKX0iCiAgICAgICAgICApCiAgICAgICAgfQoKICAgICAgICBsb2dTZXJ2aWNlLmRlYnVnKHMic3RhdHVzQ29kZTogJHtyZXNwb25zZS5zdGF0dXNDb2RlfSIpCiAgICAgIH0gbWF0Y2ggewogICAgICAgIGNhc2UgTGVmdChleCkgPT4gRXRsUmVzdWx0LlByb2Nlc3NpbmdFcnJvcihleCwgdGFnZ2VkVmFsdWUuY29weSh2YWx1ZSA9IHRhZ2dlZFZhbHVlLnZhbHVlLl8xKSkKICAgICAgICBjYXNlIFJpZ2h0KF8pID0+IEV0bFJlc3VsdC5TdWNjZXNzKHRhZ2dlZFZhbHVlLmNvcHkodmFsdWUgPSB0YWdnZWRWYWx1ZS52YWx1ZS5fMSkpCiAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>pushWatchTowerMessageService</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhbCBwcm9wcyA9IG5ldyBQcm9wZXJ0aWVzKCkKCiAgcHJvcHMucHV0KFByb2R1Y2VyQ29uZmlnLkJPT1RTVFJBUF9TRVJWRVJTX0NPTkZJRywgYnJva2VyVXJscy5ta1N0cmluZygiLCIpKQogIHByb3BzLnB1dChQcm9kdWNlckNvbmZpZy5LRVlfU0VSSUFMSVpFUl9DTEFTU19DT05GSUcsICJvcmcuYXBhY2hlLmthZmthLmNvbW1vbi5zZXJpYWxpemF0aW9uLlN0cmluZ1NlcmlhbGl6ZXIiKQogIHByb3BzLnB1dChQcm9kdWNlckNvbmZpZy5WQUxVRV9TRVJJQUxJWkVSX0NMQVNTX0NPTkZJRywgIm9yZy5hcGFjaGUua2Fma2EuY29tbW9uLnNlcmlhbGl6YXRpb24uU3RyaW5nU2VyaWFsaXplciIpCiAgcHJvcHMucHV0KFByb2R1Y2VyQ29uZmlnLkFDS1NfQ09ORklHLCAiMSIpCiAgcHJvcHMucHV0KFByb2R1Y2VyQ29uZmlnLlJFVFJJRVNfQ09ORklHLCAiMyIpCgogIHByaXZhdGUgdmFsIHByb2R1Y2VyOiBLYWZrYVByb2R1Y2VyW1N0cmluZywgU3RyaW5nXSA9IG5ldyBLYWZrYVByb2R1Y2VyW1N0cmluZywgU3RyaW5nXShwcm9wcykKCg==</text>
+        <text encoding="base64">ICAgIC8vZGF0YS5tYXAgeyB0YWdnZWRWYWx1ZSA9PgogICAgLy8gIHZhbCBpZCA9IHRhZ2dlZFZhbHVlLnZhbHVlLl8yLmlkCiAgICAvLyAgdmFsIG1lc3NhZ2VPcHQgPSB0YWdnZWRWYWx1ZS52YWx1ZS5fMi5tZXNzYWdlCgogICAgLy8gIEVpdGhlci5jYXRjaE5vbkZhdGFsIHsKICAgIC8vICAgIHZhbCByZXNwb25zZSA9IHRhZ2dlZFZhbHVlLnRhZyBtYXRjaCB7CiAgICAvLyAgICAgIGNhc2UgQ3JlYXRlQ2xhc3NpZmljYXRpb24gPT4gaHR0cFBvc3QoY2xhc3NpZmljYXRpb25VcmwucmVwbGFjZSgie2FjdGl2aXR5SWR9IiwgaWQpKQogICAgLy8gICAgICBjYXNlIFVwZGF0ZUNsYXNzaWZpY2F0aW9uID0+IGh0dHBQdXQoY2xhc3NpZmljYXRpb25VcmwucmVwbGFjZSgie2FjdGl2aXR5SWR9IiwgaWQpKQogICAgLy8gICAgICBjYXNlIERlbGV0ZUNsYXNzaWZpY2F0aW9uID0+IGh0dHBEZWxldGUoY2xhc3NpZmljYXRpb25VcmwucmVwbGFjZSgie2FjdGl2aXR5SWR9IiwgaWQpKQogICAgLy8gICAgICBjYXNlIERlbGV0ZVJlZmVyZW5jZUl0ZW0gID0+IGh0dHBEZWxldGUocmVmZXJlbmNlSXRlbVVybC5yZXBsYWNlKCJ7YWN0aXZpdHlJZH0iLCBpZCkpCiAgICAvLyAgICAgIGNhc2UgVW5yZWdpc3RlclByb2ZpbGUgICAgPT4gaHR0cERlbGV0ZShwcm9maWxlVXJsLnJlcGxhY2UoIntwcm9maWxlSWR9IiwgaWQpKQogICAgLy8gICAgICBjYXNlIE5vdGlmeVdhdGNoVG93ZXIgPT4gewogICAgLy8gICAgICAgIHNlbmRUb1dhdGNoVG93ZXIobWVzc2FnZU9wdC5nZXRPckVsc2UoImVtcHR5IikpCiAgICAvLyAgICAgICAgcmVxdWVzdHMuUmVzcG9uc2UoIiIsIDIwMCwgInN1Y2Nlc3MiLCBNYXAuZW1wdHksIG5ldyBSZXNwb25zZUJsb2IoQXJyYXkuZW1wdHkpLCBOb25lKQogICAgLy8gICAgICB9CiAgICAvLyAgICB9CgogICAgLy8gICAgaWYgKHJlc3BvbnNlLnN0YXR1c0NvZGUgLyAxMDAgPT0gNCkgewogICAgLy8gICAgICB2YWwgZXggPSBuZXcgRXhjZXB0aW9uKAogICAgLy8gICAgICAgIHMic3RhdHVzQ29kZSE9MjAwKCR7cmVzcG9uc2Uuc3RhdHVzQ29kZX0pIC8gYWN0aW9uOiAke3RhZ2dlZFZhbHVlLnRhZy5lbnRyeU5hbWV9IC8gaWQ6ICRpZCAvIHJlc3BvbnNlOiAke3Jlc3BvbnNlLnRleHQoKX0iCiAgICAvLyAgICAgICkKICAgIC8vICAgICAgdmFsIG1zZyA9IHMiTm90IEF2YWlsYWJsZSBSZXNvdXJjZSAoJGNsYXNzaWZpY2F0aW9uU2VydmVySG9zdCkiCiAgICAvLyAgICAgIHNlbnRyeVNlcnZpY2UuY2FwdHVyZVdhcm5pbmcocyIke3RoaXMuZ2V0Q2xhc3MuZ2V0TmFtZX0tUmVzb3VyY2VFcnJvciIsIG1zZywgZXgpCiAgICAvLyAgICB9IGVsc2UgaWYgKHJlc3BvbnNlLnN0YXR1c0NvZGUgLyAxMDAgIT0gMikgewogICAgLy8gICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKAogICAgLy8gICAgICAgIHMic3RhdHVzQ29kZSE9MjAwKCR7cmVzcG9uc2Uuc3RhdHVzQ29kZX0pIC8gYWN0aW9uOiAke3RhZ2dlZFZhbHVlLnRhZy5lbnRyeU5hbWV9IC8gaWQ6ICRpZCAvIHJlc3BvbnNlOiAke3Jlc3BvbnNlLnRleHQoKX0iCiAgICAvLyAgICAgICkKICAgIC8vICAgIH0KCiAgICAvLyAgICBsb2dTZXJ2aWNlLmRlYnVnKHMic3RhdHVzQ29kZTogJHtyZXNwb25zZS5zdGF0dXNDb2RlfSIpCiAgICAvLyAgfSBtYXRjaCB7CiAgICAvLyAgICBjYXNlIExlZnQoZXgpID0+IEV0bFJlc3VsdC5Qcm9jZXNzaW5nRXJyb3IoZXgsIHRhZ2dlZFZhbHVlLmNvcHkodmFsdWUgPSB0YWdnZWRWYWx1ZS52YWx1ZS5fMSkpCiAgICAvLyAgICBjYXNlIFJpZ2h0KF8pID0+IEV0bFJlc3VsdC5TdWNjZXNzKHRhZ2dlZFZhbHVlLmNvcHkodmFsdWUgPSB0YWdnZWRWYWx1ZS52YWx1ZS5fMSkpCiAgICAvLyAgfQogICAgLy99Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5ldyBLYWZrYVByb2R1Y2VyU2VydmljZUJyb2tlclVybHNbU3RyaW5nXShjb25maWcuZ2V0U3RyaW5nKCJwdXNoS2Fma2FCcm9rZXJVcmxzIikuc3BsaXQoIiwiKSkK</text>
+        <text encoding="base64">ICAgIDgwMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldyBLYWZrYVByb2R1Y2VyU2VydmljZUJyb2tlclVybHNbU3RyaW5nXShjb25maWcuZ2V0U3RyaW5nKCJwdXNoS2Fma2FCcm9rZXJVcmxzIikuc3BsaXQoIiwiKSkKICBpbXBsaWNpdCB2YWwgX2thZmthUHJvZHVjZXJTZXJ2aWNlOiBTZXJpYWxpemVkW0thZmthUHJvZHVjZXJTZXJ2aWNlW1N0cmluZ11dID0ga2Fma2FQcm9kdWNlclNlcnZpY2UudG9TZXJpYWxpemVkCg==</text>
+        <text encoding="base64">ICAgIC8qCiAgICAgIExpc3QoMSwgMiwgMywgNCwgNSkuZ3JvdXBlZCgxMDApID0+IExpc3QoTGlzdCgxLCAyKSwgTGlzdCgzLCA0KSwgTGlzdCg1KSkKICAgICAgTGlzdChMaXN0KDEsIDIpLCBMaXN0KDMsIDQpLCBMaXN0KDUpKS5tYXAgeyB4cyA9PgogICAgICAgIHZhbCBmdXR1cmVzID0geHMubWFwKHggPT4gRnV0dXJlIHsgLi4uIH0pCiAgICAgICAgdmFsIHJlc3VsdCA9IEF3YWl0LnJlc3VsdChmdXR1cmVzLCBEdXJhdGlvbi5JbmYpCiAgICAgIH0KICAgICAqLwogICAgICA4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5ldyBLYWZrYVByb2R1Y2VyU2VydmljZUJyb2tlclVybHNbU3RyaW5nXShjb25maWcuZ2V0U3RyaW5nKCJwdXNoS2Fma2FCcm9rZXJVcmxzIikuc3BsaXQoIiwiKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2726,13 +2727,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgX2thZmthUHJvZHVjZXJTZXJ2aWNlOiBTZXJpYWxpemVkW0thZmthUHJvZHVjZXJTZXJ2aWNlW1N0cmluZ11dID0ga2Fma2FQcm9kdWNlclNlcnZpY2UudG9TZXJpYWxpemVkCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydAogICAgICAgIGh0dHAucmVxdWVzdCA9PgogICAgICAgIGh0dHAucmVxdWVzdCA9PgogICAgICAgIGh0dHAucmVxdWVzdCA9PgogICAgICAgIGh0dHAucmVxdWVzdCA9PgogICAgICAgIGh0dHAucmVxdWVzdCA9PgogICAgICAgIGh0dHAucmVxdWVzdCA9PgogICAgICAgIGh0dHAucmVxdWVzdCA9PgogICAgICAgIGh0dHAucmVxdWVzdCA9PgogICAgICAgIGh0dHAucmVxdWVzdCA9PgogICAgICAgIGh0dHAucmVxdWVzdCA9PgogICAgICAgIGh0dHAucmVxdWVzdCA9PgogICAgICAgIGh0dHAucmVxdWVzdCA9PgogICAgICAgIGVuZCA9PiAycwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgX2thZmthUHJvZHVjZXJTZXJ2aWNlOiBTZXJpYWxpemVkW0thZmthUHJvZHVjZXJTZXJ2aWNlW1N0cmluZ11dID0ga2Fma2FQcm9kdWNlclNlcnZpY2UudG9TZXJpYWxpemVkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
