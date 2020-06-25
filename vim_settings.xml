@@ -132,13 +132,6 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/CustomLocalEnvironment.scala" timestamp="1592988124051">
-        <mark key="'" line="32" column="15" />
-        <mark key="[" line="26" column="10" />
-        <mark key="]" line="26" column="11" />
-        <mark key="^" line="26" column="11" />
-        <mark key="." line="26" column="10" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/resources/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatchTest-dev.conf" timestamp="1592989648579">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="11" column="6" />
@@ -152,8 +145,6 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="17" column="41" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/ProfileInstances.scala" timestamp="1593060196017" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminService.scala" timestamp="1593062202395" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/ks-monitoring.conf" timestamp="1592988192901">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="8" column="0" />
@@ -200,6 +191,7 @@
         <mark key="." line="13" column="43" />
         <mark key="^" line="13" column="44" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/java/com/kakao/story/admin/service/jenkins/JenkinsService.java" timestamp="1593069963033" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/resources/application.conf" timestamp="1592989598953">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="10" />
@@ -218,6 +210,7 @@
         <mark key="." line="51" column="106" />
         <mark key="^" line="51" column="107" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" timestamp="1593069825919" />
     </filemarks>
     <jumps>
       <jump line="182" column="33" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" />
