@@ -118,51 +118,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch.scala" timestamp="1592990153173">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch.scala" timestamp="1593050048742">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
         <mark key="^" line="107" column="2" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources/applicationContext.xml" timestamp="1592902495046">
-        <mark key="'" line="111" column="81" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/resources/application.conf" timestamp="1592989598953">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatchTest.scala" timestamp="1592990557517">
-        <mark key="'" line="51" column="66" />
-        <mark key="[" line="51" column="105" />
-        <mark key="]" line="51" column="107" />
-        <mark key="." line="51" column="106" />
-        <mark key="^" line="51" column="107" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-app-server/deploy/release-feed-g3/script/startup.sh" timestamp="1592902464891">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/CustomLocalEnvironment.scala" timestamp="1592988124051">
-        <mark key="'" line="32" column="15" />
-        <mark key="[" line="26" column="10" />
-        <mark key="]" line="26" column="11" />
-        <mark key="^" line="26" column="11" />
-        <mark key="." line="26" column="10" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/Environment.scala" timestamp="1592987942652" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/resources/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatchTest-dev.conf" timestamp="1592990515120">
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="13" column="44" />
-        <mark key="." line="13" column="43" />
-        <mark key="^" line="13" column="44" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-prod.conf" timestamp="1592977144242">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="16" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch-dev.conf" timestamp="1592989682317">
         <mark key="'" line="0" column="0" />
@@ -171,13 +132,35 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/TestLocalEnvironment.scala" timestamp="1592987997964" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/environment/CustomLocalEnvironment.scala" timestamp="1592988124051">
+        <mark key="'" line="32" column="15" />
+        <mark key="[" line="26" column="10" />
+        <mark key="]" line="26" column="11" />
+        <mark key="^" line="26" column="11" />
+        <mark key="." line="26" column="10" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/resources/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatchTest-dev.conf" timestamp="1592989648579">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="11" column="6" />
         <mark key="." line="11" column="6" />
         <mark key="^" line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch-prod.conf" timestamp="1592989685887">
+        <mark key="'" line="11" column="17" />
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+        <mark key="^" line="17" column="41" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources/applicationContext.xml" timestamp="1592902495046">
+        <mark key="'" line="111" column="81" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/ks-monitoring.conf" timestamp="1592988192901">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="12" column="1" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/job/TestPushSender.scala" timestamp="1593049582683" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" timestamp="1592973078090">
         <mark key="'" line="63" column="28" />
         <mark key="[" line="54" column="20" />
@@ -199,30 +182,43 @@
         <mark key="." line="118" column="0" />
         <mark key="^" line="43" column="38" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/target/scala-2.12/test-classes/application.conf" timestamp="1592989586343">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/resources/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatchTest-dev.conf" timestamp="1592990515120">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="43" />
+        <mark key="^" line="13" column="44" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-prod.conf" timestamp="1592977144242">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="16" column="21" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/resources/application.conf" timestamp="1592989598953">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatchTest.scala" timestamp="1592990557517">
+        <mark key="'" line="51" column="66" />
+        <mark key="[" line="51" column="105" />
+        <mark key="]" line="51" column="107" />
+        <mark key="." line="51" column="106" />
+        <mark key="^" line="51" column="107" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-dev.conf" timestamp="1592977140494">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="16" column="21" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch-prod.conf" timestamp="1592989685887">
-        <mark key="'" line="11" column="17" />
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="11" column="6" />
-        <mark key="." line="11" column="6" />
-        <mark key="^" line="17" column="41" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/ks-monitoring.conf" timestamp="1592988192901">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="12" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/target/scala-2.12/test-classes/application.conf" timestamp="1592989586343">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="10" />
       </file>
       <file name="/fragment.java" timestamp="1592988042025">
         <mark key="[" line="0" column="0" />
