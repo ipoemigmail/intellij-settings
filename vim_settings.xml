@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHJpbmdCdWlsZFBhcmFtZXRlclhtbFw+</entry>
         <entry encoding="base64">XDxydW5cPg==</entry>
         <entry encoding="base64">XDxpZHNcPg==</entry>
         <entry encoding="base64">XDxwdXNoQWRtaW5TZXJ2aWNlXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxrYWZrYVByb2R1Y2VyU2VydmljZVw+</entry>
         <entry>src.pro</entry>
         <entry>DataSetRea\c</entry>
+        <entry encoding="base64">XDxqZW5raW5zSG9zdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SparkAppHealerStreaming/SparkAppHealerDev/g</entry>
@@ -145,6 +145,13 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="17" column="41" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-local.properties" timestamp="1593070909264" />
+      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/java/com/kakao/story/admin/service/PushJobService.java" timestamp="1593071822660">
+        <mark key="'" line="62" column="39" />
+        <mark key="[" line="40" column="14" />
+        <mark key="]" line="40" column="52" />
+        <mark key="." line="16" column="32" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/resources/ks-monitoring.conf" timestamp="1592988192901">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="8" column="0" />
@@ -191,7 +198,7 @@
         <mark key="." line="13" column="43" />
         <mark key="^" line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/java/com/kakao/story/admin/service/jenkins/JenkinsService.java" timestamp="1593069963033" />
+      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/java/com/kakao/story/admin/service/jenkins/JenkinsService.java" timestamp="1593071816833" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/resources/application.conf" timestamp="1592989598953">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="10" />
@@ -210,12 +217,13 @@
         <mark key="." line="51" column="106" />
         <mark key="^" line="51" column="107" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" timestamp="1593069825919" />
+      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/application-context.xml" timestamp="1593071132646" />
+      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" timestamp="1593071178149">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="12" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="33" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" />
-      <jump line="29" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" />
-      <jump line="14" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" />
       <jump line="28" column="73" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" />
       <jump line="70" column="14" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" />
       <jump line="126" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
@@ -313,6 +321,9 @@
       <jump line="43" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/service/KafkaProducerServiceBrokerUrls.scala" />
       <jump line="19" column="68" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/chReputation/ChReputationDeps.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/chReputation/ChReputationDeps.scala" />
+      <jump line="17" column="18" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/java/com/kakao/story/admin/service/PushJobService.java" />
+      <jump line="51" column="39" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/java/com/kakao/story/admin/service/PushJobService.java" />
+      <jump line="62" column="39" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/java/com/kakao/story/admin/service/PushJobService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,8 +331,8 @@
       <register name="a" type="4">
         <text>kafkaProducer</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ua2FrYW8uc3RvcnkuYXBwcy5ldGwuam9iLmNoUmVwdXRhdGlvbgoKaW1wb3J0IGNvbS5rYWthby5zdG9yeS5hcHBzLmV0bC5qb2IuY2hSZXB1dGF0aW9uLnNlcnZpY2UuQ2hSZXB1dGF0aW9uU2VydmljZQppbXBvcnQgY29tLmtha2FvLnN0b3J5LmFwcHMuZXRsLmpvYi5zZXJ2aWNlLntNZWRpYVBhdGhTZXJ2aWNlLCBNZWRpYVBhdGhTZXJ2aWNlS2FnZX0KaW1wb3J0IGNvbS5rYWthby5zdG9yeS5hcHBzLmV0bC5tb2RlbC5lbnZpcm9ubWVudC5FdGxFbnZpcm9ubWVudAppbXBvcnQgY29tLmtha2FvLnN0b3J5LnNlcnZpY2UuXwoKLyoqCiAgKiBbXS50b1NlcmlhbGl6ZWQg66mU7IaM65Oc64qUIOyLpO2WieuQmOuKlCBvYmplY3Qg7JeQ7IScIOyEoOyWuO2VtOyVvO2VqAogICog7Jes6riw7JeQ7IScIFNlcmlhbGl6ZWRbQV0g67OA7IiY66W8IOyDneyEse2VmOuptCBTcGFyayDsl5DshJwgU2VyaWFsaXplIOyXkOufrOuCqAogICovCmZpbmFsIGNsYXNzIENoUmVwdXRhdGlvbkRlcHMoZW52OiBFdGxFbnZpcm9ubWVudCkgewogIGltcG9ydCBlbnYuXwogIHZhbCBzdG9yeUxvZ0thZmthU2VuZGVyQnJva2VyVXJsczogQXJyYXlbU3RyaW5nXSA9CiAgICBjb25maWcuZ2V0U3RyaW5nKCJzdG9yeUxvZy5rYWZrYVNlbmRlci5icm9rZXJVcmxzIikuc3BsaXQoIiwiKQoKICBsb2dTZXJ2aWNlLmluZm8ocyJzdG9yeUxvZy5rYWZrYVNlbmRlci5icm9rZXJVcmxzOiAke3N0b3J5TG9nS2Fma2FTZW5kZXJCcm9rZXJVcmxzLnRvTGlzdH0iKQoKICBpbXBsaWNpdCB2YWwga2Fma2FQcm9kdWNlclNlcnZpY2U6IEthZmthUHJvZHVjZXJTZXJ2aWNlW1N0cmluZ10gPQogICAgbmV3IEthZmthUHJvZHVjZXJTZXJ2aWNlQnJva2VyVXJscyhzdG9yeUxvZ0thZmthU2VuZGVyQnJva2VyVXJscykKICBpbXBsaWNpdCB2YWwga2FnZVNlcnZpY2U6IEthZ2VTZXJ2aWNlID0gbmV3IEthZ2VTZXJ2aWNlUGhhc2UKICBpbXBsaWNpdCB2YWwgbWVkaWFQYXRoU2VydmljZTogTWVkaWFQYXRoU2VydmljZSA9IG5ldyBNZWRpYVBhdGhTZXJ2aWNlS2FnZQogIGltcGxpY2l0IHZhbCBldGxTZXJ2aWNlOiBDaFJlcHV0YXRpb25TZXJ2aWNlID0gbmV3IENoUmVwdXRhdGlvblNlcnZpY2UKfQoKb2JqZWN0IENoUmVwdXRhdGlvbkRlcHMgewogIGRlZiBhcHBseShlbnY6IEV0bEVudmlyb25tZW50KTogQ2hSZXB1dGF0aW9uRGVwcyA9IG5ldyBDaFJlcHV0YXRpb25EZXBzKGVudikKfQo=</text>
+      <register name="&quot;" type="4">
+        <text>spark.jenkins.job.push.pushSender.token</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2620,16 +2631,16 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>11bd2e70ff4441ab36b9a1c8d32fad9787</text>
+        <text>spark.jenkins.job.push.pushSender.token</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>(brokerUrls)</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>DataSetRea\c</text>
+        <text encoding="base64">XDxqZW5raW5zSG9zdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdmFsIF9rYWZrYVByb2R1Y2VyOiBLYWZrYVByb2R1Y2VyW1N0cmluZywgU3RyaW5nXSA9IEthZmthUHJvZHVjZXJTZXJ2aWNlQnJva2VyVXJscy5jcmVhdGVLYWZrYVByb2R1Y2VyKGJyb2tlclVybHMpCiAgICAgIGltcGxpY2l0IHZhbCBrYWZrYVByb2R1Y2VyOiBTZXJpYWxpemVkW0thZmthUHJvZHVjZXJbU3RyaW5nLCBTdHJpbmddXSA9IF9rYWZrYVByb2R1Y2VyLnRvU2VyaWFsaXplZAo=</text>
@@ -2730,9 +2741,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>DataSetRea\c</last-search>
+      <last-search encoding="base64">XDxqZW5raW5zSG9zdFw+</last-search>
       <last-offset />
-      <last-pattern>DataSetRea\c</last-pattern>
+      <last-pattern encoding="base64">XDxqZW5raW5zSG9zdFw+</last-pattern>
       <last-replace>DbQuery</last-replace>
       <last-substitute>ActivityCategoryReference</last-substitute>
       <last-dir>1</last-dir>
