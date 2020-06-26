@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxydW5cPg==</entry>
-        <entry encoding="base64">XDxpZHNcPg==</entry>
-        <entry encoding="base64">XDxwdXNoQWRtaW5TZXJ2aWNlXD4=</entry>
         <entry>httpRemote</entry>
         <entry>phase</entry>
         <entry encoding="base64">XDxQSEFTRVw+</entry>
@@ -27,6 +24,9 @@
         <entry>src.pro</entry>
         <entry>DataSetRea\c</entry>
         <entry encoding="base64">XDxqZW5raW5zSG9zdFw+</entry>
+        <entry encoding="base64">XDxjb3VudExvZ2dlclw+</entry>
+        <entry encoding="base64">XDxkZXZpY2VzXD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVDb3VudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SparkAppHealerStreaming/SparkAppHealerDev/g</entry>
@@ -125,15 +125,13 @@
         <mark key="." line="95" column="39" />
         <mark key="^" line="95" column="40" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" timestamp="1593061845988">
-        <mark key="'" line="173" column="51" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatchTest.scala" timestamp="1592990210776">
-        <mark key="'" line="49" column="15" />
-        <mark key="[" line="49" column="92" />
-        <mark key="]" line="49" column="97" />
-        <mark key="." line="49" column="96" />
-        <mark key="^" line="49" column="97" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/DeviceInstances.scala" timestamp="1593133641439" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" timestamp="1593134069312">
+        <mark key="'" line="137" column="61" />
+        <mark key="[" line="200" column="47" />
+        <mark key="]" line="200" column="48" />
+        <mark key="^" line="200" column="48" />
+        <mark key="." line="200" column="47" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/chReputation/ChReputationDeps.scala" timestamp="1593061561101">
         <mark key="[" line="0" column="0" />
@@ -147,7 +145,7 @@
         <mark key="." line="76" column="24" />
         <mark key="^" line="76" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" timestamp="1593132661041">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" timestamp="1593133748856">
         <mark key="'" line="66" column="2" />
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
@@ -208,7 +206,7 @@
         <mark key="^" line="13" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming.scala" timestamp="1593074720703" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-prod.conf" timestamp="1593131938228">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-prod.conf" timestamp="1593134508077">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="28" />
@@ -216,20 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
-      <jump line="93" column="30" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-admin/applicationContext.xml" />
-      <jump line="115" column="68" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-admin/applicationContext.xml" />
-      <jump line="11" column="30" filename="$USER_HOME$/Develop/Works/story/story-app-server/deploy/release-feed-g3/script/startup.sh" />
-      <jump line="60" column="73" filename="$USER_HOME$/Develop/Works/story/story-app-server/deploy/release-feed-g3/script/startup.sh" />
-      <jump line="41" column="0" filename="$USER_HOME$/Develop/Works/story/story-app-server/deploy/release-feed-g3/script/startup.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-app-server/deploy/release-feed-g3/script/startup.sh" />
-      <jump line="111" column="81" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources/applicationContext.xml" />
-      <jump line="63" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-base/tool/src/main/scala/com/kakao/story/tool/jenkins/JenkinsHelper.scala" />
-      <jump line="29" column="35" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
-      <jump line="128" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
-      <jump line="53" column="66" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
-      <jump line="35" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
-      <jump line="30" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
       <jump line="76" column="44" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch.scala" />
       <jump line="95" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatchTest.scala" />
       <jump line="57" column="54" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatchTest.scala" />
@@ -316,6 +300,20 @@
       <jump line="68" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
       <jump line="11" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
       <jump line="66" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
+      <jump line="145" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
+      <jump line="154" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
+      <jump line="157" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
+      <jump line="171" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
+      <jump line="181" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
+      <jump line="200" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
+      <jump line="196" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
+      <jump line="193" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
+      <jump line="188" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
+      <jump line="192" column="28" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
+      <jump line="189" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
+      <jump line="134" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
+      <jump line="199" column="8" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
+      <jump line="137" column="61" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,7 +322,7 @@
         <text>kafkaProducer</text>
       </register>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>10</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2629,10 +2627,10 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqZW5raW5zSG9zdFw+</text>
+        <text encoding="base64">XDx1cGRhdGVDb3VudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuZHVyYXRpb24uRHVyYXRpb24K</text>
@@ -2733,9 +2731,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxqZW5raW5zSG9zdFw+</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVDb3VudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqZW5raW5zSG9zdFw+</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVDb3VudFw+</last-pattern>
       <last-replace>DbQuery</last-replace>
       <last-substitute>ActivityCategoryReference</last-substitute>
       <last-dir>1</last-dir>
