@@ -125,27 +125,6 @@
         <mark key="." line="95" column="39" />
         <mark key="^" line="95" column="40" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch-dev.conf" timestamp="1592989682317">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="11" column="6" />
-        <mark key="." line="11" column="6" />
-        <mark key="^" line="12" column="44" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch-prod.conf" timestamp="1593061593386">
-        <mark key="'" line="11" column="17" />
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="11" column="6" />
-        <mark key="." line="11" column="6" />
-        <mark key="^" line="17" column="41" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-local.properties" timestamp="1593070909264" />
-      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/java/com/kakao/story/admin/service/PushJobService.java" timestamp="1593071822660">
-        <mark key="'" line="62" column="39" />
-        <mark key="[" line="40" column="14" />
-        <mark key="]" line="40" column="52" />
-        <mark key="." line="16" column="32" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" timestamp="1593061845988">
         <mark key="'" line="173" column="51" />
       </file>
@@ -168,8 +147,8 @@
         <mark key="." line="76" column="24" />
         <mark key="^" line="76" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" timestamp="1593061605671">
-        <mark key="'" line="30" column="8" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" timestamp="1593132661041">
+        <mark key="'" line="66" column="2" />
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
@@ -182,14 +161,7 @@
         <mark key="^" line="9" column="55" />
         <mark key="." line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/resources/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatchTest-dev.conf" timestamp="1592990515120">
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="13" column="44" />
-        <mark key="." line="13" column="43" />
-        <mark key="^" line="13" column="44" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/java/com/kakao/story/admin/service/jenkins/JenkinsService.java" timestamp="1593071816833" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming.scala" timestamp="1593074720703" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/service/KafkaProducerServiceTest.scala" timestamp="1593061356910">
         <mark key="[" line="10" column="97" />
         <mark key="]" line="10" column="97" />
@@ -215,9 +187,35 @@
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch-prod.conf" timestamp="1593061593386">
+        <mark key="'" line="11" column="17" />
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+        <mark key="^" line="17" column="41" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-local.properties" timestamp="1593070909264" />
+      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/java/com/kakao/story/admin/service/PushJobService.java" timestamp="1593071822660">
+        <mark key="'" line="62" column="39" />
+        <mark key="[" line="40" column="14" />
+        <mark key="]" line="40" column="52" />
+        <mark key="." line="16" column="32" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/resources/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatchTest-dev.conf" timestamp="1592990515120">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="43" />
+        <mark key="^" line="13" column="44" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming.scala" timestamp="1593074720703" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-prod.conf" timestamp="1593131938228">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="29" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
       <jump line="47" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
       <jump line="93" column="30" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-admin/applicationContext.xml" />
       <jump line="115" column="68" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-admin/applicationContext.xml" />
@@ -317,6 +315,7 @@
       <jump line="71" column="80" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
       <jump line="68" column="25" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/ClassificationService.scala" />
       <jump line="11" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" />
+      <jump line="66" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,7 +324,7 @@
         <text>kafkaProducer</text>
       </register>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text>5</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2630,7 +2629,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqZW5raW5zSG9zdFw+</text>
