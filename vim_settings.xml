@@ -118,7 +118,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/main/scala/com/kakao/story/spark/instances/DeviceInstances.scala" timestamp="1593133641439" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/test/scala/com/kakao/story/spark/instances/DeviceInstancesTest.scala" timestamp="1593136414523">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="29" />
+        <mark key="^" line="22" column="29" />
+        <mark key="." line="22" column="28" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/service/PushAdminService.scala" timestamp="1593136178059">
         <mark key="'" line="311" column="5" />
       </file>
@@ -151,41 +156,15 @@
         <mark key="." line="118" column="0" />
         <mark key="^" line="43" column="38" />
       </file>
-      <file name="/Dummy.scala" timestamp="1593141617357">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/converter/ActivityContentConverter.scala" timestamp="1593075429692">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" timestamp="1593142204079">
-        <mark key="'" line="126" column="29" />
-        <mark key="[" line="34" column="56" />
-        <mark key="]" line="34" column="69" />
-        <mark key="^" line="34" column="69" />
-        <mark key="." line="34" column="68" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefaultTest.scala" timestamp="1593142155465">
-        <mark key="'" line="32" column="10" />
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="42" column="26" />
-        <mark key="." line="42" column="25" />
-        <mark key="^" line="42" column="26" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/job/PushSenderJob.scala" timestamp="1593165426947" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-base/spark-common/src/test/scala/com/kakao/story/spark/instances/DeviceInstancesTest.scala" timestamp="1593136414523">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="29" />
-        <mark key="^" line="22" column="29" />
-        <mark key="." line="22" column="28" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/ClassificationStreaming.scala" timestamp="1593074720703" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-prod.conf" timestamp="1593142338136">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="6" column="28" />
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="29" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-sray/app/http/StoryAppClient.scala" timestamp="1593399196139" />
+      <file name="/Dummy.scala" timestamp="1593141617357">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/test/scala/com/kakao/story/db/repo/PushScheduleRepoDbTest.scala" timestamp="1593135391558">
         <mark key="[" line="27" column="34" />
@@ -199,9 +178,27 @@
         <mark key="^" line="11" column="2" />
         <mark key="." line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/log/util/Version.scala" timestamp="1593135776981" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/converter/ActivityContentConverter.scala" timestamp="1593075429692">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" timestamp="1593142204079">
+        <mark key="'" line="126" column="29" />
+        <mark key="[" line="34" column="56" />
+        <mark key="]" line="34" column="69" />
+        <mark key="^" line="34" column="69" />
+        <mark key="." line="34" column="68" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-submodule/escher-common/db/src/main/scala/story/model/service/PushSchedule.scala" timestamp="1593142119609">
         <mark key="'" line="48" column="6" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefaultTest.scala" timestamp="1593142155465">
+        <mark key="'" line="32" column="10" />
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="42" column="26" />
+        <mark key="." line="42" column="25" />
+        <mark key="^" line="42" column="26" />
       </file>
       <file name="/fragment.java" timestamp="1593137057588">
         <mark key="[" line="0" column="0" />
