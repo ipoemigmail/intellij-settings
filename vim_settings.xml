@@ -124,6 +124,10 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="28" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-sray/app/service/KafkaProducerService.scala" timestamp="1593399256160">
+        <mark key="[" line="35" column="7" />
+        <mark key="]" line="35" column="26" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/service/PushAdminService.scala" timestamp="1593136178059">
         <mark key="'" line="311" column="5" />
       </file>
@@ -177,11 +181,6 @@
         <mark key="]" line="10" column="17" />
         <mark key="^" line="11" column="2" />
         <mark key="." line="15" column="45" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/converter/ActivityContentConverter.scala" timestamp="1593075429692">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/PushSchedule.scala" timestamp="1593142204079">
         <mark key="'" line="126" column="29" />
@@ -313,7 +312,7 @@
         <text>kafkaProducer</text>
       </register>
       <register name="&quot;" type="4">
-        <text>println(result)</text>
+        <text>KafkaProducerService</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2611,8 +2610,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJhbGxlbFNpemUgPSAxMDAKICAgIGRhdGEKICAgICAgLmdyb3VwZWQocGFyYWxsZWxTaXplKQogICAgICAuZmxhdE1hcCB7IHZhbHVlcyA9PgogICAgICAgIHZhbCBmdXR1cmVzID0gdmFsdWVzLm1hcCB7IHRhZ2dlZFZhbHVlID0+CiAgICAgICAgICBGdXR1cmUgewogICAgICAgICAgICB2YWwgaWQgPSB0YWdnZWRWYWx1ZS52YWx1ZS5fMi5pZAogICAgICAgICAgICB2YWwgbWVzc2FnZU9wdCA9IHRhZ2dlZFZhbHVlLnZhbHVlLl8yLm1lc3NhZ2UKCiAgICAgICAgICAgIEVpdGhlci5jYXRjaE5vbkZhdGFsIHsKICAgICAgICAgICAgICB2YWwgcmVzcG9uc2UgPSB0YWdnZWRWYWx1ZS50YWcgbWF0Y2ggewogICAgICAgICAgICAgICAgY2FzZSBDcmVhdGVDbGFzc2lmaWNhdGlvbiA9PiBodHRwUG9zdChjbGFzc2lmaWNhdGlvblVybC5yZXBsYWNlKCJ7YWN0aXZpdHlJZH0iLCBpZCkpCiAgICAgICAgICAgICAgICBjYXNlIFVwZGF0ZUNsYXNzaWZpY2F0aW9uID0+IGh0dHBQdXQoY2xhc3NpZmljYXRpb25VcmwucmVwbGFjZSgie2FjdGl2aXR5SWR9IiwgaWQpKQogICAgICAgICAgICAgICAgY2FzZSBEZWxldGVDbGFzc2lmaWNhdGlvbiA9PiBodHRwRGVsZXRlKGNsYXNzaWZpY2F0aW9uVXJsLnJlcGxhY2UoInthY3Rpdml0eUlkfSIsIGlkKSkKICAgICAgICAgICAgICAgIGNhc2UgRGVsZXRlUmVmZXJlbmNlSXRlbSAgPT4gaHR0cERlbGV0ZShyZWZlcmVuY2VJdGVtVXJsLnJlcGxhY2UoInthY3Rpdml0eUlkfSIsIGlkKSkKICAgICAgICAgICAgICAgIGNhc2UgVW5yZWdpc3RlclByb2ZpbGUgICAgPT4gaHR0cERlbGV0ZShwcm9maWxlVXJsLnJlcGxhY2UoIntwcm9maWxlSWR9IiwgaWQpKQogICAgICAgICAgICAgICAgY2FzZSBOb3RpZnlXYXRjaFRvd2VyID0+IHsKICAgICAgICAgICAgICAgICAgc2VuZFRvV2F0Y2hUb3dlcihtZXNzYWdlT3B0LmdldE9yRWxzZSgiZW1wdHkiKSkKICAgICAgICAgICAgICAgICAgcmVxdWVzdHMuUmVzcG9uc2UoIiIsIDIwMCwgInN1Y2Nlc3MiLCBNYXAuZW1wdHksIG5ldyBSZXNwb25zZUJsb2IoQXJyYXkuZW1wdHkpLCBOb25lKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgaWYgKHJlc3BvbnNlLnN0YXR1c0NvZGUgLyAxMDAgPT0gNCkgewogICAgICAgICAgICAgICAgdmFsIGV4ID0gbmV3IEV4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgcyJzdGF0dXNDb2RlIT0yMDAoJHtyZXNwb25zZS5zdGF0dXNDb2RlfSkgLyBhY3Rpb246ICR7dGFnZ2VkVmFsdWUudGFnLmVudHJ5TmFtZX0gLyBpZDogJGlkIC8gcmVzcG9uc2U6ICR7cmVzcG9uc2UudGV4dCgpfSIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIHZhbCBtc2cgPSBzIk5vdCBBdmFpbGFibGUgUmVzb3VyY2UgKCRjbGFzc2lmaWNhdGlvblNlcnZlckhvc3QpIgogICAgICAgICAgICAgICAgc2VudHJ5U2VydmljZS5jYXB0dXJlV2FybmluZyhzIiR7dGhpcy5nZXRDbGFzcy5nZXROYW1lfS1SZXNvdXJjZUVycm9yIiwgbXNnLCBleCkKICAgICAgICAgICAgICB9IGVsc2UgaWYgKHJlc3BvbnNlLnN0YXR1c0NvZGUgLyAxMDAgIT0gMikgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigKICAgICAgICAgICAgICAgICAgcyJzdGF0dXNDb2RlIT0yMDAoJHtyZXNwb25zZS5zdGF0dXNDb2RlfSkgLyBhY3Rpb246ICR7dGFnZ2VkVmFsdWUudGFnLmVudHJ5TmFtZX0gLyBpZDogJGlkIC8gcmVzcG9uc2U6ICR7cmVzcG9uc2UudGV4dCgpfSIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgIGxvZ1NlcnZpY2UuZGVidWcocyJzdGF0dXNDb2RlOiAke3Jlc3BvbnNlLnN0YXR1c0NvZGV9IikKICAgICAgICAgICAgfSBtYXRjaCB7CiAgICAgICAgICAgICAgY2FzZSBMZWZ0KGV4KSA9PiBFdGxSZXN1bHQuUHJvY2Vzc2luZ0Vycm9yKGV4LCB0YWdnZWRWYWx1ZS5jb3B5KHZhbHVlID0gdGFnZ2VkVmFsdWUudmFsdWUuXzEpKQogICAgICAgICAgICAgIGNhc2UgUmlnaHQoXykgPT4gRXRsUmVzdWx0LlN1Y2Nlc3ModGFnZ2VkVmFsdWUuY29weSh2YWx1ZSA9IHRhZ2dlZFZhbHVlLnZhbHVlLl8xKSkKICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBBd2FpdC5yZXN1bHQoRnV0dXJlLnNlcXVlbmNlKGZ1dHVyZXMpLCBEdXJhdGlvbi5JbmYpCiAgICAgIH0KICAgICAgLnRvU2VxCg==</text>
+      <register name="*" type="4">
+        <text>KafkaProducerService</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
