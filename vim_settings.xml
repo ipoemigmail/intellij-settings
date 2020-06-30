@@ -12,7 +12,6 @@
         <entry encoding="base64">XDxkZXZpY2VzXD4=</entry>
         <entry encoding="base64">XDxwdXNoQWRtaW5TZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDx0YWxrU3luY0xvZ2dlclw+</entry>
-        <entry encoding="base64">XDxwdXNoU2NoZWR1bGVSZXBvXD4=</entry>
         <entry>PushScheduleMonitorBatch</entry>
         <entry>Tomcat</entry>
         <entry>tomcat\</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxpbmhvdXNlVGVzdFw+</entry>
         <entry encoding="base64">XDxkcnlydW5cPg==</entry>
         <entry>schedule</entry>
+        <entry encoding="base64">XDxwdXNoU2NoZWR1bGVSZXBvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/KeyValue/keyValue/g</entry>
@@ -149,18 +149,28 @@
         <mark key="." line="31" column="43" />
         <mark key="^" line="66" column="54" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/job/TestPushSender.conf" timestamp="1593495900875">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="37" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/pom.xml" timestamp="1593486921967">
         <mark key="'" line="139" column="23" />
         <mark key="[" line="17" column="24" />
         <mark key="]" line="17" column="29" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spec/projects/story-app-server/story-app-service/src/test/resources/common/amqp/amqp-real.properties" timestamp="1593422085258" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TestPushSenderBatch.scala" timestamp="1593495759623">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="104" column="79" />
-        <mark key="]" line="104" column="85" />
-        <mark key="^" line="104" column="85" />
-        <mark key="." line="104" column="84" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TestPushSenderBatch.scala" timestamp="1593497015663">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="34" column="70" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TestPushSenderBatch-dev.conf" timestamp="1593496000127">
+        <mark key="'" line="20" column="20" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="17" />
+        <mark key="." line="51" column="16" />
+        <mark key="^" line="51" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushSenderBatch-dev.conf" timestamp="1593492203169">
         <mark key="'" line="46" column="0" />
@@ -176,6 +186,11 @@
         <mark key="^" line="117" column="65" />
         <mark key="." line="117" column="64" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TestPushSenderBatch-prod.conf" timestamp="1593496004876">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="17" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushSenderBatch.scala" timestamp="1593495618896">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="163" column="51" />
@@ -183,19 +198,10 @@
         <mark key="^" line="199" column="55" />
         <mark key="." line="35" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/resources/META-INF/common/application-context-amqp.xml" timestamp="1593421143055">
-        <mark key="[" line="37" column="39" />
-        <mark key="]" line="37" column="52" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch-prod.conf" timestamp="1593492359890">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="74" />
         <mark key="." line="18" column="13" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/worker/talk/ActivitySendToTalkAdditionalWorker.java" timestamp="1593421534603">
-        <mark key="'" line="21" column="14" />
-        <mark key="[" line="34" column="59" />
-        <mark key="]" line="34" column="74" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-prod.conf" timestamp="1593483855516">
         <mark key="'" line="24" column="0" />
@@ -223,10 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushSenderBatch.scala" />
-      <jump line="371" column="43" filename="$USER_HOME$/Develop/Works/story/story-sray/app/views/spam_suspect/list.scala.html" />
-      <jump line="452" column="33" filename="$USER_HOME$/Develop/Works/story/story-sray/app/views/spam_suspect/list.scala.html" />
-      <jump line="478" column="8" filename="$USER_HOME$/Develop/Works/story/story-sray/app/views/spam_suspect/list.scala.html" />
       <jump line="471" column="29" filename="$USER_HOME$/Develop/Works/story/story-sray/app/views/spam_suspect/list.scala.html" />
       <jump line="492" column="29" filename="$USER_HOME$/Develop/Works/story/story-sray/app/views/spam_suspect/list.scala.html" />
       <jump line="472" column="29" filename="$USER_HOME$/Develop/Works/story/story-sray/app/views/spam_suspect/list.scala.html" />
@@ -323,6 +325,10 @@
       <jump line="270" column="13" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
       <jump line="107" column="33" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TestPushSenderBatch.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TestPushSenderBatch.scala" />
+      <jump line="38" column="5" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TestPushSenderBatch-dev.conf" />
+      <jump line="20" column="20" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TestPushSenderBatch-dev.conf" />
+      <jump line="20" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TestPushSenderBatch-prod.conf" />
+      <jump line="27" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TestPushSenderBatch.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -330,8 +336,8 @@
       <register name="a" type="4">
         <text>Serialized[</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>row.getAs[String](&quot;name&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1c2hTY2hlZHVsZVJlcG86IFNlcmlhbGl6ZWRbUHVzaFNjaGVkdWxlUmVwb10sCg==</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2636,16 +2642,16 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>row.getAs[String](&quot;name&quot;)</text>
+        <text>push schedule id</text>
       </register>
       <register name="/" type="4">
-        <text>schedule</text>
+        <text encoding="base64">XDxwdXNoU2NoZWR1bGVSZXBvXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>row.getAs[String](&quot;name&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBleCkgMCwxLDIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1c2hBZG1pblNlcnZpY2UoKS5zZW5kS2Fma2EocHVzaFNjaGVkdWxlLCBkZXZpY2UsIGQubmFtZSwgZmFsc2UsIHRydWUsIHRydWUpCg==</text>
+        <text encoding="base64">ICAgIHB1c2hTY2hlZHVsZVJlcG86IFNlcmlhbGl6ZWRbUHVzaFNjaGVkdWxlUmVwb10sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2678,25 +2684,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBkZXZpY2UgPSBEZXZpY2UoCiAgICAgICAgICAgIGQuaWQsCiAgICAgICAgICAgIGQucHJvZmlsZV9pZCwKICAgICAgICAgICAgZC5wdXNoX3NlcnZpY2UsCiAgICAgICAgICAgIGQucHVzaF90b2tlbiwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgZC5sYW5nLAogICAgICAgICAgICBkLm9zLAogICAgICAgICAgICBkLmFwcF92ZXJzaW9uLAogICAgICAgICAgICBkLnVzZXJfYWdlbnQsCiAgICAgICAgICAgIE5vbmUKICAgICAgICAgICkK</text>
+        <text encoding="base64">ICBhdXRoVG9rZW4gPSAicHVzaC5QdXNoU2VuZGVySm9iIgogIGRlc2NyaXB0aW9uID0gIiIiCgogICIiIgogIHBhcmFtZXRlcnMgPSBbCiAgICB7CiAgICAgIGluZGV4ID0gMAogICAgICBuYW1lID0gInBoYXNlIgogICAgICBkZXNjcmlwdGlvbiA9ICIiIgogICAgICAgIHBoYXNlIChzdXBwb3J0IG9ubHkgJ3JlYWwnKQogICAgICAiIiIKICAgIH0sCiAgICB7CiAgICAgIGluZGV4ID0gMQogICAgICBuYW1lID0gIm9wZXJhdG9yIgogICAgICBkZXNjcmlwdGlvbiA9ICIiIgogICAgICAgIG9wZXJhdG9yCiAgICAgICIiIgogICAgfSwKICAgIHsKICAgICAgaW5kZXggPSAyCiAgICAgIG5hbWUgPSAicmV0cnlJZCIKICAgICAgZGVzY3JpcHRpb24gPSAiIiIKICAgICAgICByZXRyeUlkCiAgICAgICIiIgogICAgfQogIF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2F0Y2hUb3dlcklkLAo=</text>
+        <text encoding="base64">ICBhdXRoVG9rZW4gPSAicHVzaC5QdXNoU2VuZGVySm9iIgo=</text>
       </register>
       <register name="s" type="4">
         <text>pushWatchTowerMessageService</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2F0Y2hUb3dlcklkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHB1c2hBZG1pblNlcnZpY2UoKS5zZW5kS2Fma2EocHVzaFNjaGVkdWxlLCBkZXZpY2UsIGQubmFtZSwgZmFsc2UsIHRydWUsIHRydWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdhdGNoVG93ZXJJZCwK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBkZXZpY2UgPSBEZXZpY2UoCiAgICAgICAgICAgIGQuaWQsCiAgICAgICAgICAgIGQucHJvZmlsZV9pZCwKICAgICAgICAgICAgZC5wdXNoX3NlcnZpY2UsCiAgICAgICAgICAgIGQucHVzaF90b2tlbiwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgTm9uZSwKICAgICAgICAgICAgZC5sYW5nLAogICAgICAgICAgICBkLm9zLAogICAgICAgICAgICBkLmFwcF92ZXJzaW9uLAogICAgICAgICAgICBkLnVzZXJfYWdlbnQsCiAgICAgICAgICAgIE5vbmUKICAgICAgICAgICkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd2F0Y2hUb3dlcklkLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBvcGVyYXRvciA9IFRyeShQdXNoQWRtaW5VdGlsLmdldE9wZXJhdG9ySWQoYXJncygxKSkuZ2V0KS5nZXRPckVsc2UoInVua25vd24iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2F0Y2hUb3dlcklkLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2725,10 +2731,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb25maWcgPSBDb25maWdGYWN0b3J5LmxvYWQoKQogICAgdmFsIHdhdGNoVG93ZXJJZCA9IGNvbmZpZy5nZXRJbnQoIndhdGNodG93ZXIuZ3JvdXBJZCIpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHdhdGNoVG93ZXJJZCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGRlZiBydW4oKTogVW5pdCA9IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2F0Y2hUb3dlcklkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -2740,9 +2746,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>schedule</last-search>
+      <last-search encoding="base64">XDxwdXNoU2NoZWR1bGVSZXBvXD4=</last-search>
       <last-offset />
-      <last-pattern>schedule</last-pattern>
+      <last-pattern encoding="base64">XDxwdXNoU2NoZWR1bGVSZXBvXD4=</last-pattern>
       <last-replace>logService().info</last-replace>
       <last-substitute>Logger.log</last-substitute>
       <last-dir>1</last-dir>
