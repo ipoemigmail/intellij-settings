@@ -118,6 +118,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch.scala" timestamp="1593570621381" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch-dev.conf" timestamp="1593569626652">
         <mark key="[" line="18" column="73" />
         <mark key="]" line="18" column="77" />
@@ -175,13 +176,6 @@
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/pushLoad/service/PushLoadService.scala" timestamp="1593507035488">
-        <mark key="'" line="193" column="0" />
-        <mark key="[" line="51" column="26" />
-        <mark key="]" line="51" column="26" />
-        <mark key="." line="51" column="26" />
-        <mark key="^" line="99" column="62" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushSenderBatch.scala" timestamp="1593507234028">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="163" column="51" />
@@ -195,9 +189,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch-prod.conf" timestamp="1593569633489">
-        <mark key="[" line="18" column="73" />
-        <mark key="]" line="18" column="78" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch-prod.conf" timestamp="1593570603595">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="77" />
         <mark key="^" line="18" column="78" />
         <mark key="." line="18" column="77" />
       </file>
@@ -337,7 +331,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5hcHBzLmJhdGNoSm9iLmpvYi5wdXNoLnNlcnZpY2UuV2FrZVVwUHVzaENvbW1vblNlcnZpY2VEZWZhdWx0CmltcG9ydCBjb20ua2FrYW8uc3RvcnkuYXBwcy5iYXRjaEpvYi5qb2IucHVzaC53YWtldXAuc2VydmljZS5XYWtlVXBQdXNoQ29tbW9uU2VydmljZQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>com.kakao.story.apps.batchJob.job.push.admin.PushSenderBatch-prod</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2636,7 +2630,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>push-send-result</text>
+        <text>com.kakao.story.apps.batchJob.job.push.admin.PushSenderBatch-prod</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
