@@ -11,7 +11,6 @@
     <mask>*.properties</mask>
     <mask>*_spec.rb</mask>
     <mask>*.rb</mask>
-    <mask>*.xml</mask>
     <mask>*Serv*</mask>
     <mask>*.sbt</mask>
     <mask>*Instances.scala</mask>
@@ -21,5 +20,6 @@
     <mask>*.conf</mask>
     <mask>*.sh</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

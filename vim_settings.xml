@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWJ1Z1w+</entry>
-        <entry encoding="base64">XDxSZWRpc1RUTFw+</entry>
-        <entry encoding="base64">XDxjYWNoZUtleVw+</entry>
         <entry encoding="base64">XDxjb3VudGVyS2V5XD4=</entry>
         <entry>cacheK</entry>
         <entry>dryR</entry>
@@ -27,6 +24,9 @@
         <entry encoding="base64">XDxsb2dTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxzdW1tYXJ5XD4=</entry>
         <entry encoding="base64">XDxlbmRUaW1lc3RhbXBcPg==</entry>
+        <entry>mon</entry>
+        <entry>mongo</entry>
+        <entry>mongo\c</entry>
       </history-search>
       <history-cmd>
         <entry>%s/KeyValue/keyValue/g</entry>
@@ -137,6 +137,17 @@
         <mark key="." line="21" column="88" />
         <mark key="^" line="21" column="89" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-alpha/applicationContext.xml" timestamp="1593585821830">
+        <mark key="'" line="23" column="17" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-deploy/projects-infra/story-mongodb/hosts/alpha.yml" timestamp="1593586277831">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="50" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-deploy/projects-infra/story-mongodb/hosts/production.yml" timestamp="1593586258246">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="31" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" timestamp="1593573598543">
         <mark key="'" line="318" column="13" />
         <mark key="[" line="324" column="24" />
@@ -144,25 +155,17 @@
         <mark key="." line="324" column="68" />
         <mark key="^" line="324" column="69" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1593566651561">
-        <mark key="'" line="26" column="38" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TestPushSenderBatch-dev.conf" timestamp="1593569591368">
-        <mark key="'" line="20" column="20" />
-        <mark key="[" line="18" column="25" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="28" />
-        <mark key="^" line="18" column="29" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch.scala" timestamp="1593575864007">
         <mark key="'" line="62" column="20" />
         <mark key="[" line="58" column="26" />
         <mark key="]" line="58" column="34" />
         <mark key="^" line="58" column="34" />
         <mark key="." line="58" column="33" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-beta-worker/applicationContext.xml" timestamp="1593586064511">
+        <mark key="'" line="100" column="24" />
+        <mark key="[" line="101" column="42" />
+        <mark key="]" line="101" column="77" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushSenderBatch-dev.conf" timestamp="1593569604184">
         <mark key="[" line="18" column="25" />
@@ -184,12 +187,6 @@
         <mark key="." line="29" column="27" />
         <mark key="^" line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" timestamp="1593566627680">
-        <mark key="'" line="38" column="37" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch-prod.conf" timestamp="1593570603595">
         <mark key="[" line="18" column="13" />
         <mark key="]" line="18" column="77" />
@@ -203,26 +200,18 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="16" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpUserExtractorBatch.scala" timestamp="1593567822881">
-        <mark key="'" line="180" column="2" />
-        <mark key="[" line="25" column="46" />
-        <mark key="]" line="25" column="47" />
-        <mark key="." line="25" column="46" />
-        <mark key="^" line="25" column="47" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushSendServiceDefault.scala" timestamp="1593574383864">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestChannelExtractorBatch.scala" timestamp="1593566615608">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="84" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/java/com/kakao/story/common/db/mongodb/MongoClientFactoryBean.java" timestamp="1593585922919">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpUserExtractorBatch-prod.conf" timestamp="1593568871860">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="32" />
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/test/resources/com/kakao/story/v2/dao/mongodb/applicationContext-mongo.xml" timestamp="1593586003015">
+        <mark key="[" line="30" column="68" />
+        <mark key="]" line="30" column="89" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch-prod.conf" timestamp="1593572532389">
         <mark key="[" line="15" column="5" />
@@ -233,9 +222,6 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark/krb5.conf" timestamp="1593582628055" />
     </filemarks>
     <jumps>
-      <jump line="6" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminService.scala" />
-      <jump line="39" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminService.scala" />
-      <jump line="47" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminService.scala" />
       <jump line="27" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
       <jump line="243" column="29" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
       <jump line="90" column="24" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
@@ -333,6 +319,9 @@
       <jump line="13" column="12" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/Summary.scala" />
       <jump line="44" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/model/Summary.scala" />
       <jump line="6" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/model/SummaryTest.scala" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-alpha/applicationContext.xml" />
+      <jump line="23" column="17" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-alpha/applicationContext.xml" />
+      <jump line="100" column="24" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-beta-worker/applicationContext.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,7 +330,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5hcHBzLmJhdGNoSm9iLmpvYi5wdXNoLnNlcnZpY2UuV2FrZVVwUHVzaENvbW1vblNlcnZpY2VEZWZhdWx0CmltcG9ydCBjb20ua2FrYW8uc3RvcnkuYXBwcy5iYXRjaEpvYi5qb2IucHVzaC53YWtldXAuc2VydmljZS5XYWtlVXBQdXNoQ29tbW9uU2VydmljZQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>${out.toString()}</text>
+        <text>alpha-story-mongo03.ay1.krane.9rum.cc</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2640,7 +2629,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>push-send-result</text>
+        <text>alpha-story-mongo03.ay1.krane.9rum.cc</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
@@ -2649,7 +2638,7 @@
         <text>${out.toString()}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbmRUaW1lc3RhbXBcPg==</text>
+        <text>mongo\c</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcyIqKiDqtazqsITrs4Qg7IaM7JqU7Iuc6rCEICoqXG4ke291dC50b1N0cmluZygpfSIK</text>
@@ -2750,9 +2739,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxlbmRUaW1lc3RhbXBcPg==</last-search>
+      <last-search>mongo\c</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbmRUaW1lc3RhbXBcPg==</last-pattern>
+      <last-pattern>mongo\c</last-pattern>
       <last-replace>logService().info</last-replace>
       <last-substitute>Logger.log</last-substitute>
       <last-dir>1</last-dir>
