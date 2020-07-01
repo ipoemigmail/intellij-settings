@@ -125,11 +125,17 @@
         <mark key="^" line="18" column="77" />
         <mark key="." line="18" column="76" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch-dev.conf" timestamp="1593568804733">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch-dev.conf" timestamp="1593572529665">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="6" />
+        <mark key="." line="15" column="6" />
         <mark key="^" line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/instances/WakeUpLogInstances.scala" timestamp="1593572900254">
+        <mark key="[" line="21" column="85" />
+        <mark key="]" line="21" column="89" />
+        <mark key="." line="21" column="88" />
+        <mark key="^" line="21" column="89" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushCommonService.scala" timestamp="1593565718893">
         <mark key="[" line="5" column="6" />
@@ -169,19 +175,17 @@
         <mark key="." line="18" column="28" />
         <mark key="^" line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch.scala" timestamp="1593568893192" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch.scala" timestamp="1593572993288">
+        <mark key="[" line="64" column="37" />
+        <mark key="]" line="64" column="47" />
+        <mark key="^" line="64" column="47" />
+        <mark key="." line="64" column="46" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushSenderBatch-dev.conf" timestamp="1593569604184">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="29" />
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="28" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushSenderBatch.scala" timestamp="1593507234028">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="163" column="51" />
-        <mark key="]" line="163" column="75" />
-        <mark key="^" line="199" column="55" />
-        <mark key="." line="35" column="43" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/SuggestTellerExtractorBatch.scala" timestamp="1593566627680">
         <mark key="'" line="38" column="37" />
@@ -212,10 +216,10 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch-prod.conf" timestamp="1593569437699">
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="20" column="41" />
-        <mark key="." line="20" column="40" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch-prod.conf" timestamp="1593572532389">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="6" />
+        <mark key="." line="15" column="6" />
         <mark key="^" line="20" column="41" />
       </file>
       <file name="/fragment.java" timestamp="1593507484905">
@@ -331,7 +335,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5hcHBzLmJhdGNoSm9iLmpvYi5wdXNoLnNlcnZpY2UuV2FrZVVwUHVzaENvbW1vblNlcnZpY2VEZWZhdWx0CmltcG9ydCBjb20ua2FrYW8uc3RvcnkuYXBwcy5iYXRjaEpvYi5qb2IucHVzaC53YWtldXAuc2VydmljZS5XYWtlVXBQdXNoQ29tbW9uU2VydmljZQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>com.kakao.story.apps.batchJob.job.push.admin.PushSenderBatch-prod</text>
+        <text>User</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2636,7 +2640,7 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>User</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXZpY2VcPg==</text>
