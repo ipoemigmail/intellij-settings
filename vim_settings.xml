@@ -118,12 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/instances/WakeUpLogInstances.scala" timestamp="1593572900254">
-        <mark key="[" line="21" column="85" />
-        <mark key="]" line="21" column="89" />
-        <mark key="." line="21" column="88" />
-        <mark key="^" line="21" column="89" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/resources-alpha/applicationContext.xml" timestamp="1593585821830">
         <mark key="'" line="23" column="17" />
       </file>
@@ -145,6 +139,12 @@
         <mark key="]" line="467" column="74" />
         <mark key="." line="467" column="74" />
         <mark key="^" line="467" column="61" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1593648807320">
+        <mark key="'" line="26" column="38" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/WakeUpPushSendServiceDefault.scala" timestamp="1593590120521">
         <mark key="'" line="44" column="25" />
