@@ -47,8 +47,8 @@
         <entry>%s/Logger.log/logService.info/g</entry>
         <entry>%s/Logger.log/logService().info/g</entry>
         <entry encoding="base64">JzwsJz5zL2ltcGxpY2l0L2ltcGxpY2l0IHByaXZhdGUvZw==</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -153,12 +153,12 @@
         <mark key="." line="532" column="43" />
         <mark key="^" line="532" column="44" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatchTest.scala" timestamp="1593657413545">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatchTest.scala" timestamp="1593672028308">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="39" column="2" />
-        <mark key="]" line="39" column="4" />
-        <mark key="." line="39" column="2" />
-        <mark key="^" line="39" column="4" />
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="205" />
+        <mark key="." line="30" column="5" />
+        <mark key="^" line="30" column="6" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/UserActivityExtractorBatch.scala" timestamp="1593648807320">
         <mark key="'" line="26" column="38" />
@@ -174,12 +174,11 @@
         <mark key="[" line="101" column="42" />
         <mark key="]" line="101" column="77" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushSenderBatch.scala" timestamp="1593666656801">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushSenderBatch.scala" timestamp="1593672366729">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="36" />
-        <mark key="]" line="52" column="46" />
-        <mark key="^" line="52" column="46" />
-        <mark key="." line="52" column="45" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/model/WakeUpLog.scala" timestamp="1593589917515" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/util/PushAdminUtil.scala" timestamp="1593670406176">
@@ -315,8 +314,8 @@
       <register name="a" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5hcHBzLmJhdGNoSm9iLmpvYi5wdXNoLnNlcnZpY2UuV2FrZVVwUHVzaENvbW1vblNlcnZpY2VEZWZhdWx0CmltcG9ydCBjb20ua2FrYW8uc3RvcnkuYXBwcy5iYXRjaEpvYi5qb2IucHVzaC53YWtldXAuc2VydmljZS5XYWtlVXBQdXNoQ29tbW9uU2VydmljZQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>get</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHB1c2hTY2hlZHVsZS5leGlzdHMoXy5pZC5leGlzdHMoXyA9PSA1MikpKSB7CiAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIuyYiOyZuOyymOumrOuQnCDtkbjsi5zsoJXrs7QiKQogICAgICB9Cgo=</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2630,13 +2629,13 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">aHR0cDovL2RldmVsb3A6ZGV2dGVhbUBzdG9yeS1zcGFyay1qZW5raW5zLWRldi5kZXZlbC5rYWthby5jb20vam9iL2NvbS5rYWthby5zdG9yeS5hcHBzLmJhdGNoSm9iLmpvYi5wdXNoLmFkbWluLlB1c2hTZW5kZXJCYXRjaC1kZXYvYnVpbGRXaXRoUGFyYW1ldGVycz90b2tlbj1wdXNoLlB1c2hTZW5kZXJKb2ImcGhhc2U9cmVhbCZvcGVyYXRvcj1tb25pdG9yJnJldHJ5SWQ9MA==</text>
+        <text encoding="base64">Imh0dHA6Ly9zdG9yeS1zcGFyay1qZW5raW5zLWRldi5kZXZlbC5rYWthby5jb20vam9iL2NvbS5rYWthby5zdG9yeS5hcHBzLmJhdGNoSm9iLmpvYi5wdXNoLmFkbWluLlB1c2hTZW5kZXJCYXRjaC1kZXYvYnVpbGRXaXRoUGFyYW1ldGVycz90b2tlbj1wdXNoLlB1c2hTZW5kZXJKb2ImcGhhc2U9cmVhbCZvcGVyYXRvcj1tb25pdG9yJnJldHJ5SWQ9MCI=</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>ignore</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlVGltZVBhdHRlcm5cPg==</text>
@@ -2645,7 +2644,7 @@
         <text>.withHourOfDay(0).withMinuteOfHour(0).withSecondOfMinute(0)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLndpdGgK</text>
+        <text encoding="base64">ICAgICAgaWYgKHB1c2hTY2hlZHVsZS5leGlzdHMoXy5pZC5leGlzdHMoXyA9PSA1MikpKSB7CiAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oIuyYiOyZuOyymOumrOuQnCDtkbjsi5zsoJXrs7QiKQogICAgICB9Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2678,25 +2677,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwga2Fma2FQcm9kdWNlclNlcnZpY2U6IEthZmthUHJvZHVjZXJTZXJ2aWNlW1N0cmluZ10gPSBuZXcgS2Fma2FQcm9kdWNlclNlcnZpY2UuTW9ja1tTdHJpbmddIHt9Cgo=</text>
+        <text encoding="base64">ICAgICAgLndpdGgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwga2Fma2FQcm9kdWNlclNlcnZpY2U6IEthZmthUHJvZHVjZXJTZXJ2aWNlW1N0cmluZ10gPSBuZXcgS2Fma2FQcm9kdWNlclNlcnZpY2UuTW9ja1tTdHJpbmddIHt9Cgo=</text>
       </register>
       <register name="s" type="4">
         <text>pushWatchTowerMessageService</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCByZXNwb25zZSA9IHJlcXVlc3RzLnBvc3QodXJsID0gaW5mby5qb2JVcmwsIGF1dGggPSBSZXF1ZXN0QXV0aC5pbXBsaWNpdEJhc2ljKCAtPiAiZGV2dGVhbSIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB1cmwgPQogICAgICAiaHR0cDovL3N0b3J5LXNwYXJrLWplbmtpbnMtZGV2LmRldmVsLmtha2FvLmNvbS9qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uUHVzaFNlbmRlckJhdGNoLWRldi9idWlsZFdpdGhQYXJhbWV0ZXJzP3Rva2VuPXB1c2guUHVzaFNlbmRlckpvYiZwaGFzZT1yZWFsJm9wZXJhdG9yPW1vbml0b3ImcmV0cnlJZD0wIgo=</text>
+        <text encoding="base64">ICAgIHZhbCByZXNwb25zZSA9IHJlcXVlc3RzLnBvc3QodXJsID0gaW5mby5qb2JVcmwsIGF1dGggPSBSZXF1ZXN0QXV0aC5pbXBsaWNpdEJhc2ljKCAtPiAiZGV2dGVhbSIpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFwcC4K</text>
+        <text encoding="base64">ICAgIHZhbCB1cmwgPQogICAgICAiaHR0cDovL3N0b3J5LXNwYXJrLWplbmtpbnMtZGV2LmRldmVsLmtha2FvLmNvbS9qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uUHVzaFNlbmRlckJhdGNoLWRldi9idWlsZFdpdGhQYXJhbWV0ZXJzP3Rva2VuPXB1c2guUHVzaFNlbmRlckpvYiZwaGFzZT1yZWFsJm9wZXJhdG9yPW1vbml0b3ImcmV0cnlJZD0wIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXJhbXMgPSBMaXN0KAogICAgICAidG9rZW4iIC0+ICJwdXNoLlB1c2hTZW5kZXJKb2IiLAogICAgICAicGhhc2UiIC0+ICJyZWFsIiwKICAgICAgIm9wZXJhdG9yIiAtPiAibW9uaXRvciIsCiAgICAgICJyZXRyeUlkIiAtPiAiMCIKICAgICkK</text>
+        <text encoding="base64">ICAgIGFwcC4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2725,13 +2724,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vdmFsIHVybCA9CiAgICAvLyAgImh0dHA6Ly9zdG9yeS1zcGFyay1qZW5raW5zLWRldi5kZXZlbC5rYWthby5jb20vam9iL2NvbS5rYWthby5zdG9yeS5hcHBzLmJhdGNoSm9iLmpvYi5wdXNoLmFkbWluLlB1c2hTZW5kZXJCYXRjaC1kZXYvYnVpbGRXaXRoUGFyYW1ldGVycyIK</text>
+        <text encoding="base64">ICAgIHZhbCBwYXJhbXMgPSBMaXN0KAogICAgICAidG9rZW4iIC0+ICJwdXNoLlB1c2hTZW5kZXJKb2IiLAogICAgICAicGhhc2UiIC0+ICJyZWFsIiwKICAgICAgIm9wZXJhdG9yIiAtPiAibW9uaXRvciIsCiAgICAgICJyZXRyeUlkIiAtPiAiMCIKICAgICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHMiJHNjaGVtZTovLyR1c2VyOiRwYXNzd29yZEAkaG9zdE5hbWUvam9iLyRqb2JOYW1lL2J1aWxkV2l0aFBhcmFtZXRlcnM/JHF1ZXJ5UGFyYW0iCg==</text>
+        <text encoding="base64">ICAgIC8vdmFsIHVybCA9CiAgICAvLyAgImh0dHA6Ly9zdG9yeS1zcGFyay1qZW5raW5zLWRldi5kZXZlbC5rYWthby5jb20vam9iL2NvbS5rYWthby5zdG9yeS5hcHBzLmJhdGNoSm9iLmpvYi5wdXNoLmFkbWluLlB1c2hTZW5kZXJCYXRjaC1kZXYvYnVpbGRXaXRoUGFyYW1ldGVycyIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
