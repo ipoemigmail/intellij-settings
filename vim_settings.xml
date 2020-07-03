@@ -118,27 +118,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/Collect.scala" timestamp="1593754634650">
-        <mark key="'" line="156" column="4" />
+      <file name="/Dummy.txt" timestamp="1593681192252">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" timestamp="1593750672282" />
-      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/logback/logback-alpha.xml" timestamp="1593681886208">
-        <mark key="'" line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/etl/src/main/scala/com/kakao/story/apps/etl/job/classification/service/converter/ActivityContentConverter.scala" timestamp="1593755418623" />
       <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-local.properties" timestamp="1593683913449">
         <mark key="[" line="169" column="0" />
         <mark key="]" line="169" column="0" />
         <mark key="^" line="168" column="0" />
         <mark key="." line="169" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/Collect.scala" timestamp="1593754634650">
+        <mark key="'" line="156" column="4" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-beta.properties" timestamp="1593683920218">
+        <mark key="[" line="161" column="39" />
+        <mark key="]" line="161" column="43" />
+        <mark key="." line="161" column="42" />
+        <mark key="^" line="161" column="43" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/logback/logback-local.xml" timestamp="1593681787883">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-admin/script/startup-alpha.sh" timestamp="1593680821142">
-        <mark key="'" line="40" column="54" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" timestamp="1593756372807">
+        <mark key="[" line="460" column="0" />
+        <mark key="]" line="461" column="40" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-alpha.properties" timestamp="1593683907699">
         <mark key="'" line="169" column="0" />
@@ -147,8 +152,6 @@
         <mark key="." line="178" column="101" />
         <mark key="^" line="178" column="102" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/DeleteAlpha.scala" timestamp="1593750994272" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/CacheDeleteMonitor.scala" timestamp="1593751008779" />
       <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/java/com/kakao/story/admin/service/jenkins/JenkinsService.java" timestamp="1593684270613">
         <mark key="'" line="48" column="27" />
         <mark key="[" line="63" column="0" />
@@ -156,12 +159,18 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="59" column="30" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/logback/logback-alpha.xml" timestamp="1593681886208">
+        <mark key="'" line="2" column="4" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TestPushSenderBatch-dev.conf" timestamp="1593683792598">
         <mark key="'" line="16" column="10" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="18" column="29" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-admin/script/startup-alpha.sh" timestamp="1593680821142">
+        <mark key="'" line="40" column="54" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-sray/app/models/dao/BlockHistory.scala" timestamp="1593743018835">
         <mark key="'" line="63" column="81" />
@@ -175,16 +184,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593681192252">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-beta.properties" timestamp="1593683920218">
-        <mark key="[" line="161" column="39" />
-        <mark key="]" line="161" column="43" />
-        <mark key="." line="161" column="42" />
-        <mark key="^" line="161" column="43" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/SendPush.scala" timestamp="1593750969423" />
       <file name="/fragment.java" timestamp="1593681192237">
         <mark key="[" line="0" column="0" />
       </file>
@@ -303,8 +302,8 @@
       <register name="a" type="2">
         <text encoding="base64">IyMgc3Bhcmstam9iMjogcHVzaApzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRhcmdldFVzZXJDb3VudD1qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uVGFyZ2V0VXNlckNvdW50QmF0Y2gtZGV2LwpzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRhcmdldFVzZXJDb3VudC50b2tlbj1wdXNoLlRhcmdldFVzZXJDb3VudEpvYgpzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRlc3RQdXNoU2VuZGVyPWpvYi9jb20ua2FrYW8uc3RvcnkuYXBwcy5iYXRjaEpvYi5qb2IucHVzaC5hZG1pbi5UZXN0UHVzaFNlbmRlckJhdGNoLWRldi8Kc3BhcmsuamVua2lucy5qb2IucHVzaC50ZXN0UHVzaFNlbmRlci50b2tlbj1wdXNoLlRlc3RQdXNoU2VuZGVyCnNwYXJrLmplbmtpbnMuam9iLnB1c2gucHVzaFNlbmRlcj1qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uUHVzaFNlbmRlckJhdGNoLWRldi8Kc3BhcmsuamVua2lucy5qb2IucHVzaC5wdXNoU2VuZGVyLnRva2VuPXB1c2guUHVzaFNlbmRlckpvYgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;...&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIERhdGFzZXRSZWFkZXJbRGV2aWNlXQogICAgICAucmVhZChzcGFyaykobm93UGVyaW9kLCBub3dQZXJpb2QpCg==</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2618,7 +2617,7 @@
         </keys>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmFubm90YXRpb24udGFpbHJlYwo=</text>
+        <text encoding="base64">ICAgIERhdGFzZXRSZWFkZXJbRGV2aWNlXQogICAgICAucmVhZChzcGFyaykobm93UGVyaW9kLCBub3dQZXJpb2QpCg==</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
@@ -2629,8 +2628,9 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyZWZpbmVkUmVhc29uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmFubm90YXRpb24udGFpbHJlYwo=</text>
+      <register name="0" type="4">
+        <text>DatasetReader[Device]
+      .read(spark)(nowPeriod, nowPeriod)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBmaW5hbCB2YWwgVHJpcGxlRG90OiBTdHJpbmcgPSAiLi4uIgo=</text>
