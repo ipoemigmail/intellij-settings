@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>mongo</entry>
-        <entry>mongo\c</entry>
-        <entry encoding="base64">XDxwdXNoU2VuZFNlcnZpY2VcPg==</entry>
         <entry>device</entry>
         <entry>implicit</entry>
         <entry encoding="base64">XDx0elNlb3VsXD4=</entry>
@@ -27,6 +24,9 @@
         <entry encoding="base64">XDxyZWFzb25cPg==</entry>
         <entry encoding="base64">XDxNeXNxbFRleHRUeXBlTGVuZ3RoXD4=</entry>
         <entry encoding="base64">XDxyZWZpbmVkUmVhc29uXD4=</entry>
+        <entry>grade</entry>
+        <entry>leap</entry>
+        <entry>birthL</entry>
       </history-search>
       <history-cmd>
         <entry>81</entry>
@@ -121,7 +121,11 @@
       <file name="/Dummy.txt" timestamp="1593681192252">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/Profile.java" timestamp="1594001625626" />
+      <file name="$USER_HOME$/Develop/Works/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/Profile.java" timestamp="1594001777895">
+        <mark key="'" line="187" column="14" />
+        <mark key="[" line="212" column="19" />
+        <mark key="]" line="212" column="31" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-local.properties" timestamp="1593683913449">
         <mark key="[" line="169" column="0" />
         <mark key="]" line="169" column="0" />
@@ -180,6 +184,7 @@
         <mark key="^" line="57" column="17" />
         <mark key="." line="57" column="16" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/explore/ExploreProfile.java" timestamp="1594001673333" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/TargetUserCountBatch-dev.conf" timestamp="1593683789994">
         <mark key="'" line="4" column="8" />
         <mark key="[" line="0" column="0" />
@@ -196,9 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/admin/PushScheduleMonitorBatch.scala" />
-      <jump line="18" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/util/PushAdminUtil.scala" />
-      <jump line="16" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/util/PushAdminUtil.scala" />
       <jump line="42" column="55" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/util/PushAdminUtil.scala" />
       <jump line="527" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/service/PushAdminServiceDefault.scala" />
       <jump line="174" column="16" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" />
@@ -296,6 +298,9 @@
       <jump line="38" column="3" filename="$USER_HOME$/Develop/Works/story/story-sray/app/models/dao/BlockHistory.scala" />
       <jump line="36" column="0" filename="$USER_HOME$/Develop/Works/story/story-sray/app/models/dao/BlockHistory.scala" />
       <jump line="63" column="81" filename="$USER_HOME$/Develop/Works/story/story-sray/app/models/dao/BlockHistory.scala" />
+      <jump line="247" column="0" filename="$USER_HOME$/Develop/Works/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/Profile.java" />
+      <jump line="84" column="0" filename="$USER_HOME$/Develop/Works/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/Profile.java" />
+      <jump line="187" column="14" filename="$USER_HOME$/Develop/Works/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/Profile.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,8 +308,8 @@
       <register name="a" type="2">
         <text encoding="base64">IyMgc3Bhcmstam9iMjogcHVzaApzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRhcmdldFVzZXJDb3VudD1qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uVGFyZ2V0VXNlckNvdW50QmF0Y2gtZGV2LwpzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRhcmdldFVzZXJDb3VudC50b2tlbj1wdXNoLlRhcmdldFVzZXJDb3VudEpvYgpzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRlc3RQdXNoU2VuZGVyPWpvYi9jb20ua2FrYW8uc3RvcnkuYXBwcy5iYXRjaEpvYi5qb2IucHVzaC5hZG1pbi5UZXN0UHVzaFNlbmRlckJhdGNoLWRldi8Kc3BhcmsuamVua2lucy5qb2IucHVzaC50ZXN0UHVzaFNlbmRlci50b2tlbj1wdXNoLlRlc3RQdXNoU2VuZGVyCnNwYXJrLmplbmtpbnMuam9iLnB1c2gucHVzaFNlbmRlcj1qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uUHVzaFNlbmRlckJhdGNoLWRldi8Kc3BhcmsuamVua2lucy5qb2IucHVzaC5wdXNoU2VuZGVyLnRva2VuPXB1c2guUHVzaFNlbmRlckpvYgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIERhdGFzZXRSZWFkZXJbRGV2aWNlXQogICAgICAucmVhZChzcGFyaykobm93UGVyaW9kLCBub3dQZXJpb2QpCg==</text>
+      <register name="&quot;" type="4">
+        <text>birthLeapType</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2617,8 +2622,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIERhdGFzZXRSZWFkZXJbRGV2aWNlXQogICAgICAucmVhZChzcGFyaykobm93UGVyaW9kLCBub3dQZXJpb2QpCg==</text>
+      <register name="*" type="4">
+        <text>birthLeapType</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
@@ -2627,7 +2632,7 @@
         <text>&quot;...&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWZpbmVkUmVhc29uXD4=</text>
+        <text>birthL</text>
       </register>
       <register name="0" type="4">
         <text>DatasetReader[Device]
@@ -2729,9 +2734,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZWZpbmVkUmVhc29uXD4=</last-search>
+      <last-search>birthL</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWZpbmVkUmVhc29uXD4=</last-pattern>
+      <last-pattern>birthL</last-pattern>
       <last-replace>implicit private</last-replace>
       <last-substitute>implicit</last-substitute>
       <last-dir>1</last-dir>
