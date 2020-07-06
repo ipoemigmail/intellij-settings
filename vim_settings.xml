@@ -166,6 +166,10 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="59" column="30" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/db/Profiles.scala" timestamp="1594009510334">
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="44" column="30" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/logback/logback-alpha.xml" timestamp="1593681886208">
         <mark key="'" line="2" column="4" />
       </file>
@@ -176,12 +180,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetuser/WakeupUserExtractor.scala" timestamp="1594008502569">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetuser/WakeupUserExtractor.scala" timestamp="1594009428618">
         <mark key="[" line="25" column="46" />
         <mark key="]" line="25" column="56" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-admin/script/startup-alpha.sh" timestamp="1593680821142">
-        <mark key="'" line="40" column="54" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-sray/app/models/dao/BlockHistory.scala" timestamp="1593743018835">
         <mark key="'" line="63" column="81" />
@@ -315,7 +316,7 @@
         <text encoding="base64">IyMgc3Bhcmstam9iMjogcHVzaApzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRhcmdldFVzZXJDb3VudD1qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uVGFyZ2V0VXNlckNvdW50QmF0Y2gtZGV2LwpzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRhcmdldFVzZXJDb3VudC50b2tlbj1wdXNoLlRhcmdldFVzZXJDb3VudEpvYgpzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRlc3RQdXNoU2VuZGVyPWpvYi9jb20ua2FrYW8uc3RvcnkuYXBwcy5iYXRjaEpvYi5qb2IucHVzaC5hZG1pbi5UZXN0UHVzaFNlbmRlckJhdGNoLWRldi8Kc3BhcmsuamVua2lucy5qb2IucHVzaC50ZXN0UHVzaFNlbmRlci50b2tlbj1wdXNoLlRlc3RQdXNoU2VuZGVyCnNwYXJrLmplbmtpbnMuam9iLnB1c2gucHVzaFNlbmRlcj1qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uUHVzaFNlbmRlckJhdGNoLWRldi8Kc3BhcmsuamVua2lucy5qb2IucHVzaC5wdXNoU2VuZGVyLnRva2VuPXB1c2guUHVzaFNlbmRlckpvYgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>src.profile</text>
+        <text>src.profiles</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2629,7 +2630,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>src.profile</text>
+        <text>src.profiles</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
