@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxQcm9jZXNzaW5nTG9nZ2VyXD4=</entry>
-        <entry encoding="base64">XDxyZWFzb25cPg==</entry>
         <entry encoding="base64">XDxNeXNxbFRleHRUeXBlTGVuZ3RoXD4=</entry>
         <entry encoding="base64">XDxyZWZpbmVkUmVhc29uXD4=</entry>
         <entry>grade</entry>
@@ -27,6 +25,8 @@
         <entry>timehopId</entry>
         <entry>hlen</entry>
         <entry encoding="base64">XDxwcm9maWxlSWRzXD4=</entry>
+        <entry encoding="base64">XDxtYXhUb3RhbENvbm5lY3Rpb25zXD4=</entry>
+        <entry encoding="base64">XDxzdG9yeVJlc3RUZW1wbGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SuggestChannelExtractor/PushScheduleMonitor/g</entry>
@@ -118,23 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/ChActivityMonitorStatus.scala" timestamp="1594087076095">
-        <mark key="'" line="4" column="79" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="26" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/RedisServiceProxy.scala" timestamp="1594099714057">
-        <mark key="[" line="246" column="52" />
-        <mark key="]" line="246" column="52" />
-        <mark key="." line="246" column="52" />
-        <mark key="^" line="247" column="28" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopInfoRepoRedis.scala" timestamp="1594100749381">
-        <mark key="'" line="63" column="18" />
-        <mark key="[" line="52" column="18" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" timestamp="1594100223749">
         <mark key="'" line="173" column="49" />
         <mark key="[" line="173" column="49" />
@@ -146,14 +129,13 @@
         <mark key="^" line="15" column="36" />
         <mark key="." line="18" column="89" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/TimehopAutoConfig.scala" timestamp="1594086871114">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="88" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Develop/Works/story/story-classification-server/src/main/java/com/kakao/story/cl/common/client/kurma/KurmaClient.java" timestamp="1594103536311">
+        <mark key="'" line="37" column="33" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/beachape/enumeratum_2.12/1.5.14/enumeratum_2.12-1.5.14-sources.jar!/enumeratum/values/ValueEnumEntry.scala" timestamp="1594087039908">
-        <mark key="'" line="43" column="15" />
-      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-classification-server/src/main/resources-real/config/application.properties" timestamp="1594103378179" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/RedisServiceSingle.scala" timestamp="1594099700063">
         <mark key="[" line="75" column="88" />
         <mark key="]" line="75" column="88" />
@@ -166,66 +148,44 @@
         <mark key="." line="152" column="24" />
         <mark key="^" line="152" column="12" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.1.RELEASE/spring-web-5.2.1.RELEASE.jar!/org/springframework/web/client/RestTemplate.class" timestamp="1594103890435">
+        <mark key="q" line="430" column="20" />
+        <mark key="'" line="442" column="34" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/RedisServiceProxy.scala" timestamp="1594099714057">
+        <mark key="[" line="246" column="52" />
+        <mark key="]" line="246" column="52" />
+        <mark key="." line="246" column="52" />
+        <mark key="^" line="247" column="28" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopInfoRepoRedis.scala" timestamp="1594100749381">
+        <mark key="[" line="52" column="18" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/RedisServiceShard.scala" timestamp="1594099673261">
         <mark key="[" line="82" column="58" />
         <mark key="]" line="82" column="58" />
         <mark key="." line="82" column="58" />
         <mark key="^" line="82" column="54" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/TimehopStatus.scala" timestamp="1594093623894">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="28" />
+      <file name="$USER_HOME$/Develop/Works/story/story-classification-server/src/main/java/com/kakao/story/cl/core/config/KurmaClientConfig.java" timestamp="1594103493304">
+        <mark key="'" line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/TimehopConfig.scala" timestamp="1594093714955">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="5" column="84" />
-        <mark key="]" line="5" column="98" />
-        <mark key="." line="5" column="97" />
-        <mark key="^" line="5" column="98" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-submodule/escher-common/db/src/main/resources/real/redis.conf" timestamp="1594100988707">
+        <mark key="[" line="51" column="7" />
+        <mark key="]" line="51" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" timestamp="1594097121582">
-        <mark key="'" line="60" column="35" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="58" column="4" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-submodule/escher-common/db/src/main/resources/alpha/redis.conf" timestamp="1594100943939">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="5" column="59" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/BannedUserRepo.scala" timestamp="1594087230852">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="15" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepo.scala" timestamp="1594097065311">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="28" column="45" />
-        <mark key="]" line="28" column="50" />
-        <mark key="." line="28" column="49" />
-        <mark key="^" line="28" column="50" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/repo/ShardGenFindRepo.scala" timestamp="1594094578607">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="33" column="5" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/BannedUserRepoDb.scala" timestamp="1594094694726">
-        <mark key="'" line="40" column="83" />
-        <mark key="[" line="32" column="18" />
-        <mark key="]" line="32" column="73" />
+      <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-13.jdk/Contents/Home/lib/src.zip!/java.base/java/net/URL.java" timestamp="1594103847603">
+        <mark key="'" line="1128" column="25" />
       </file>
       <file name="/fragment.java" timestamp="1594099142094">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="32" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.3.RELEASE/spring-web-5.2.3.RELEASE.jar!/org/springframework/web/util/UriComponentsBuilder.class" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.3.RELEASE/spring-web-5.2.3.RELEASE.jar!/org/springframework/web/util/UriComponentsBuilder.class" />
-      <jump line="55" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.3.RELEASE/spring-web-5.2.3.RELEASE.jar!/org/springframework/web/util/UriComponentsBuilder.class" />
-      <jump line="77" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.3.RELEASE/spring-web-5.2.3.RELEASE.jar!/org/springframework/web/util/UriComponentsBuilder.class" />
-      <jump line="9" column="2" filename="$USER_HOME$/Develop/Works/story/story-admin/script/startup-alpha.sh" />
-      <jump line="19" column="37" filename="$USER_HOME$/Develop/Works/story/story-admin/script/startup-alpha.sh" />
-      <jump line="21" column="42" filename="$USER_HOME$/Develop/Works/story/story-admin/script/startup-alpha.sh" />
       <jump line="23" column="9" filename="$USER_HOME$/Develop/Works/story/story-admin/script/startup-alpha.sh" />
       <jump line="27" column="6" filename="$USER_HOME$/Develop/Works/story/story-admin/script/startup-alpha.sh" />
       <jump line="37" column="57" filename="$USER_HOME$/Develop/Works/story/story-admin/script/startup-alpha.sh" />
@@ -319,6 +279,13 @@
       <jump line="76" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopInfoRepoRedis.scala" />
       <jump line="73" column="21" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopInfoRepoRedis.scala" />
       <jump line="63" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopInfoRepoRedis.scala" />
+      <jump line="51" column="33" filename="$USER_HOME$/Develop/Works/story/story-classification-server/src/main/java/com/kakao/story/cl/core/config/KurmaClientConfig.java" />
+      <jump line="29" column="20" filename="$USER_HOME$/Develop/Works/story/story-classification-server/src/main/java/com/kakao/story/cl/core/config/KurmaClientConfig.java" />
+      <jump line="37" column="33" filename="$USER_HOME$/Develop/Works/story/story-classification-server/src/main/java/com/kakao/story/cl/common/client/kurma/KurmaClient.java" />
+      <jump line="430" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.1.RELEASE/spring-web-5.2.1.RELEASE.jar!/org/springframework/web/client/RestTemplate.class" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.1.RELEASE/spring-web-5.2.1.RELEASE.jar!/org/springframework/web/client/RestTemplate.class" />
+      <jump line="1128" column="25" filename="/Library/Java/JavaVirtualMachines/adoptopenjdk-13.jdk/Contents/Home/lib/src.zip!/java.base/java/net/URL.java" />
+      <jump line="442" column="34" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.1.RELEASE/spring-web-5.2.1.RELEASE.jar!/org/springframework/web/client/RestTemplate.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,7 +294,7 @@
         <text encoding="base64">IyMgc3Bhcmstam9iMjogcHVzaApzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRhcmdldFVzZXJDb3VudD1qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uVGFyZ2V0VXNlckNvdW50QmF0Y2gtZGV2LwpzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRhcmdldFVzZXJDb3VudC50b2tlbj1wdXNoLlRhcmdldFVzZXJDb3VudEpvYgpzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRlc3RQdXNoU2VuZGVyPWpvYi9jb20ua2FrYW8uc3RvcnkuYXBwcy5iYXRjaEpvYi5qb2IucHVzaC5hZG1pbi5UZXN0UHVzaFNlbmRlckJhdGNoLWRldi8Kc3BhcmsuamVua2lucy5qb2IucHVzaC50ZXN0UHVzaFNlbmRlci50b2tlbj1wdXNoLlRlc3RQdXNoU2VuZGVyCnNwYXJrLmplbmtpbnMuam9iLnB1c2gucHVzaFNlbmRlcj1qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uUHVzaFNlbmRlckJhdGNoLWRldi8Kc3BhcmsuamVua2lucy5qb2IucHVzaC5wdXNoU2VuZGVyLnRva2VuPXB1c2guUHVzaFNlbmRlckpvYgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yeVJlc3RUZW1wbGF0ZS4K</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2641,7 +2608,7 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>timehopAuto</text>
+        <text>story-timehop.redis.daumkakao.io:6379/1</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
@@ -2650,13 +2617,13 @@
         <text>.getOrElse(0L).</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9maWxlSWRzXD4=</text>
+        <text encoding="base64">XDxzdG9yeVJlc3RUZW1wbGF0ZVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ewogICAgdmFsIGtleSA9IHMidGltZWhvcDokdGltZWhvcElkIgoKICAgIHZhbCBwcm9maWxlSWRzID0gc2NhbGEuY29sbGVjdGlvbi5tdXRhYmxlLkhhc2hTZXQuZW1wdHlbSW50XQoKICAgIHZhbCBwcm9maWxlSWRTaXplID0gVGltZWhvcFJlZGlzLndpdGhDbGllbnQoa2V5KSB7IGltcGxpY2l0IHJlZGlzID0+CiAgICAgIHJlZGlzLmhsZW4oa2V5KS5nZXRPckVsc2UoMEwpLnRvRG91YmxlCiAgICB9CgogICAgdmFyIGN1cnNvciA9IDAKCiAgICBkbyB7CiAgICAgIGN1cnNvciA9IFRpbWVob3BSZWRpcy53aXRoQ2xpZW50KGtleSkgeyBpbXBsaWNpdCByZWRpcyA9PgogICAgICAgIHJlZGlzLmhzY2FuKGtleSwgY3Vyc29yLCAiKiIsIDEwMDApIG1hdGNoIHsKICAgICAgICAgIGNhc2UgU29tZShkYXRhKSA9PiBkYXRhIG1hdGNoIHsKICAgICAgICAgICAgY2FzZSAoU29tZShuZXh0Q3Vyc29yKSwgU29tZShpdGVtcykpID0+CiAgICAgICAgICAgICAgaXRlbXMuc2xpZGluZygxLCAyKS5mbGF0dGVuLmZvcmVhY2ggewogICAgICAgICAgICAgICAgY2FzZSBTb21lKHBpZCkgPT4KICAgICAgICAgICAgICAgICAgcHJvZmlsZUlkcyArPSBwaWQudG9JbnQKICAgICAgICAgICAgICAgIGNhc2UgXyA9PiBOb25lCiAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIG5leHRDdXJzb3IKICAgICAgICAgICAgY2FzZSBfID0+IDAKICAgICAgICAgIH0KICAgICAgICAgIGNhc2UgXyA9PiAwCiAgICAgICAgfQogICAgICB9CgogICAgICBwcmludGxuKGYiU2NhbiBwcm9maWxlSWRzICgke3Byb2ZpbGVJZHMuc2l6ZSAqIDEwMCAvIHByb2ZpbGVJZFNpemV9JS4yZiUlKSIpCiAgICB9IHdoaWxlIChjdXJzb3IgIT0gMCkKCiAgICBwcm9maWxlSWRzLnRvU2VxCiAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yeVJlc3RUZW1wbGF0ZS4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2689,22 +2656,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlZGlzLmhzY2FuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHJlZGlzLmhzY2FuCg==</text>
       </register>
       <register name="s" type="4">
         <text>pushWatchTowerMessageService</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvdW50LnRvSW50Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBzZW50VXNlckNvdW50LnRvSW50Cg==</text>
+        <text encoding="base64">ICAgIGNvdW50LnRvSW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CiAgICBzZW50VXNlckNvdW50LnRvSW50Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -2736,10 +2703,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRpbWVob3BSZWRpcy53aXRoQ2xpZW50KGtleSkgeyBpbXBsaWNpdCByZWRpcyA9Pgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIFRpbWVob3BSZWRpcy53aXRoQ2xpZW50KGtleSkgeyBpbXBsaWNpdCByZWRpcyA9Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2751,9 +2718,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwcm9maWxlSWRzXD4=</last-search>
+      <last-search encoding="base64">XDxzdG9yeVJlc3RUZW1wbGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9maWxlSWRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdG9yeVJlc3RUZW1wbGF0ZVw+</last-pattern>
       <last-replace>id</last-replace>
       <last-substitute>timehopId</last-substitute>
       <last-dir>1</last-dir>
