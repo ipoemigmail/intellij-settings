@@ -132,10 +132,10 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/Collect.scala" timestamp="1594086783281">
         <mark key="'" line="156" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" timestamp="1594095049094">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" timestamp="1594096313340">
         <mark key="'" line="22" column="72" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="107" />
+        <mark key="[" line="69" column="79" />
+        <mark key="]" line="69" column="89" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/TimehopAutoConfig.scala" timestamp="1594086871114">
         <mark key="[" line="2" column="0" />
@@ -159,12 +159,12 @@
         <mark key="." line="5" column="97" />
         <mark key="^" line="5" column="98" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" timestamp="1594095108487">
-        <mark key="'" line="44" column="22" />
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="36" column="26" />
-        <mark key="." line="36" column="26" />
-        <mark key="^" line="36" column="77" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" timestamp="1594096920918">
+        <mark key="'" line="53" column="98" />
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="33" />
+        <mark key="^" line="9" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/jdbc/StoryPlusDetailsLoader-prod.conf" timestamp="1594084685135">
         <mark key="[" line="12" column="11" />
@@ -218,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="25" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" />
       <jump line="171" column="0" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" />
       <jump line="172" column="0" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" />
       <jump line="175" column="0" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" />
@@ -318,6 +317,7 @@
       <jump line="27" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" />
       <jump line="43" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" />
       <jump line="40" column="83" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/BannedUserRepoDb.scala" />
+      <jump line="53" column="98" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,7 +326,7 @@
         <text encoding="base64">IyMgc3Bhcmstam9iMjogcHVzaApzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRhcmdldFVzZXJDb3VudD1qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uVGFyZ2V0VXNlckNvdW50QmF0Y2gtZGV2LwpzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRhcmdldFVzZXJDb3VudC50b2tlbj1wdXNoLlRhcmdldFVzZXJDb3VudEpvYgpzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRlc3RQdXNoU2VuZGVyPWpvYi9jb20ua2FrYW8uc3RvcnkuYXBwcy5iYXRjaEpvYi5qb2IucHVzaC5hZG1pbi5UZXN0UHVzaFNlbmRlckJhdGNoLWRldi8Kc3BhcmsuamVua2lucy5qb2IucHVzaC50ZXN0UHVzaFNlbmRlci50b2tlbj1wdXNoLlRlc3RQdXNoU2VuZGVyCnNwYXJrLmplbmtpbnMuam9iLnB1c2gucHVzaFNlbmRlcj1qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uUHVzaFNlbmRlckJhdGNoLWRldi8Kc3BhcmsuamVua2lucy5qb2IucHVzaC5wdXNoU2VuZGVyLnRva2VuPXB1c2guUHVzaFNlbmRlckpvYgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>CAST(</text>
+        <text>JsonUtil</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2640,22 +2640,22 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>findByIds</text>
+        <text>timehopAuto</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>CAST(</text>
+        <text>JsonUtil</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydW5CeVNoYXJkS2V5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNxbFNlcnZpY2UucnVuKHNxbFNlcnZpY2UucXVlcnlbQ29sbGVjdERhdGVdKHNxbCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS51dGlsLkpzb25VdGlsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcWwgPSBmciIiIlNFTEVDVCAiIiIgKysgRnJhZ21lbnQuY29uc3QoQWxsRmllbGRzLm1rU3RyaW5nKCIsICIpKSArKyBmciIiIiBGUk9NIHRpbWVob3AgV0hFUkUgaWQgPSAkaWQiIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2688,28 +2688,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc3FsU2VydmljZS5ydW4oaWQubWFwKGZpbmRCeUlkU3RhdGVtZW50KS5zZXF1ZW5jZS5tYXAoXy5mbGF0dGVuKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzcWwgPSBmciIiIlNFTEVDVCAiIiIgKysgRnJhZ21lbnQuY29uc3QoQWxsRmllbGRzLm1rU3RyaW5nKCIsICIpKSArKyBmciIiIiBGUk9NIHRpbWVob3AgV0hFUkUgaWQgPSAkaWQiIiIK</text>
       </register>
       <register name="s" type="4">
         <text>pushWatchTowerMessageService</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcWwgPSBmciIiIlNFTEVDVCAiIiIgKysgRnJhZ21lbnQuY29uc3QoQWxsRmllbGRzLm1rU3RyaW5nKCIsICIpKSArKyBmciIiIiBGUk9NIHRpbWVob3AgV0hFUkUgaWQgPSAkaWQiIiIK</text>
+        <text encoding="base64">ICAgICAgc3FsU2VydmljZS5ydW4oaWQubWFwKGZpbmRCeUlkU3RhdGVtZW50KS5zZXF1ZW5jZS5tYXAoXy5mbGF0dGVuKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAoc2hhcmRLZXksIGlkczEpID0+Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzcWwgPSBmciIiIlNFTEVDVCAiIiIgKysgRnJhZ21lbnQuY29uc3QoQWxsRmllbGRzLm1rU3RyaW5nKCIsICIpKSArKyBmciIiIiBGUk9NIHRpbWVob3AgV0hFUkUgaWQgPSAkaWQiIiIK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-    val sql = fr&quot;&quot;&quot;SELECT &quot;&quot;&quot; ++ Fragment.const(AllFields.mkString(&quot;, &quot;)) ++ fr&quot;&quot;&quot; FROM timehop WHERE id = $id&quot;&quot;&quot;
-    sqlService.run(sqlService.querySingle[TimehopConfig](sql))
-  }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2738,10 +2735,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSAoc2hhcmRLZXksIGlkczEpID0+Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text>{
+    val sql = fr&quot;&quot;&quot;SELECT &quot;&quot;&quot; ++ Fragment.const(AllFields.mkString(&quot;, &quot;)) ++ fr&quot;&quot;&quot; FROM timehop WHERE id = $id&quot;&quot;&quot;
+    sqlService.run(sqlService.querySingle[TimehopConfig](sql))
+  }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
