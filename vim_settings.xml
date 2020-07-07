@@ -128,41 +128,34 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/Collect.scala" timestamp="1594025394006">
         <mark key="'" line="156" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" timestamp="1594029854451">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" timestamp="1594082939117">
         <mark key="'" line="67" column="6" />
       </file>
       <file name="$USER_HOME$/Develop/Works/golang/src/github.com/ipoemi/servicetmpl/container/usecasefactory/useCaseFactory.go" timestamp="1594041214616">
         <mark key="'" line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/typeclass/Cacheable.scala" timestamp="1594026219685" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/onetime/ContentMigration.scala" timestamp="1594008462462" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/CacheDeleteMonitor.scala" timestamp="1594024963192" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/jdbc/StoryPlusDetailsLoader-prod.conf" timestamp="1594084685135">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="28" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/db/Profiles.scala" timestamp="1594009510334">
         <mark key="[" line="44" column="19" />
         <mark key="]" line="44" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/data-processing/src/main/scala/com/kakao/story/apps/profileSearch/ProfileSearch.scala" timestamp="1594010761482" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/RedisService.scala" timestamp="1594026356711" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch.scala" timestamp="1594010706436">
         <mark key="[" line="55" column="28" />
         <mark key="]" line="55" column="41" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/instances/JsonInstances.scala" timestamp="1594026333114" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" timestamp="1594021874260" />
-      <file name="$USER_HOME$/Develop/Works/golang/src/github.com/ipoemi/servicetmpl/dataservice/txdataservice/txDataServie.go" timestamp="1594041398511" />
-      <file name="$USER_HOME$/Develop/Works/golang/src/github.com/ipoemi/servicetmpl/container/logger/logger.go" timestamp="1594041295545" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetuser/WakeupUserExtractor.scala" timestamp="1594009428618">
         <mark key="[" line="25" column="46" />
         <mark key="]" line="25" column="56" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/golang/src/github.com/ipoemi/servicetmpl/container/usecasefactory/listCourseFactory.go" timestamp="1594041227949" />
       <file name="$USER_HOME$/Develop/Works/golang/src/github.com/ipoemi/servicetmpl/container/datastorefactory/couchdbFactory.go" timestamp="1594041353492">
         <mark key="[" line="39" column="11" />
         <mark key="]" line="39" column="12" />
         <mark key="." line="39" column="11" />
         <mark key="^" line="39" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/golang/src/github.com/ipoemi/servicetmpl/config/appConfig.go" timestamp="1594041000523" />
     </filemarks>
     <jumps>
       <jump line="30" column="23" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" />
