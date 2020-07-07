@@ -47,8 +47,8 @@
         <entry>%s/ChActivityMonitor/Timehop/g</entry>
         <entry>%s/BannedUser/TimehopConfig/g</entry>
         <entry encoding="base64">JzwsJz5zL1RpbWVob3BTdGF0dXMvU3RhdHVzL2c=</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -132,10 +132,10 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/Collect.scala" timestamp="1594086783281">
         <mark key="'" line="156" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" timestamp="1594094982948">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" timestamp="1594095049094">
         <mark key="'" line="22" column="72" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="51" column="46" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="107" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/TimehopAutoConfig.scala" timestamp="1594086871114">
         <mark key="[" line="2" column="0" />
@@ -159,12 +159,12 @@
         <mark key="." line="5" column="97" />
         <mark key="^" line="5" column="98" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" timestamp="1594095006965">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" timestamp="1594095108487">
         <mark key="'" line="44" column="22" />
-        <mark key="[" line="32" column="36" />
-        <mark key="]" line="32" column="47" />
-        <mark key="." line="32" column="46" />
-        <mark key="^" line="32" column="47" />
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="26" />
+        <mark key="." line="36" column="26" />
+        <mark key="^" line="36" column="77" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/jdbc/StoryPlusDetailsLoader-prod.conf" timestamp="1594084685135">
         <mark key="[" line="12" column="11" />
@@ -326,7 +326,7 @@
         <text encoding="base64">IyMgc3Bhcmstam9iMjogcHVzaApzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRhcmdldFVzZXJDb3VudD1qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uVGFyZ2V0VXNlckNvdW50QmF0Y2gtZGV2LwpzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRhcmdldFVzZXJDb3VudC50b2tlbj1wdXNoLlRhcmdldFVzZXJDb3VudEpvYgpzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRlc3RQdXNoU2VuZGVyPWpvYi9jb20ua2FrYW8uc3RvcnkuYXBwcy5iYXRjaEpvYi5qb2IucHVzaC5hZG1pbi5UZXN0UHVzaFNlbmRlckJhdGNoLWRldi8Kc3BhcmsuamVua2lucy5qb2IucHVzaC50ZXN0UHVzaFNlbmRlci50b2tlbj1wdXNoLlRlc3RQdXNoU2VuZGVyCnNwYXJrLmplbmtpbnMuam9iLnB1c2gucHVzaFNlbmRlcj1qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uUHVzaFNlbmRlckJhdGNoLWRldi8Kc3BhcmsuamVua2lucy5qb2IucHVzaC5wdXNoU2VuZGVyLnRva2VuPXB1c2guUHVzaFNlbmRlckpvYgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>TimehopConfig</text>
+        <text>CAST(</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2646,13 +2646,13 @@
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>TimehopConfig</text>
+        <text>CAST(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydW5CeVNoYXJkS2V5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgU1FMIiIiCiAgICAgICAgU0VMRUNUIHN0YXJ0ZWRfYXQgQVMgc3RhcnRlZEF0LCBlbmRlZF9hdCBBUyBlbmRlZEF0CiAgICAgICAgRlJPTSB0aW1laG9wX2NvbGxlY3RfZGF0ZXMKICAgICAgICBXSEVSRSB0aW1laG9wX2lkID0gJHRpbWVob3BJZAogICAgICAgIE9SREVSIEJZIHN0YXJ0ZWRfYXQgREVTQywgZW5kZWRfYXQgREVTQwogICAgICAiIiIuYXMoTWFjcm8ubmFtZWRQYXJzZXJbQ29sbGVjdERhdGVdLiopCg==</text>
+        <text encoding="base64">ICAgIHNxbFNlcnZpY2UucnVuKHNxbFNlcnZpY2UucXVlcnlbQ29sbGVjdERhdGVdKHNxbCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHZhbCBzcWwgPSBmciIiIlNFTEVDVCAiIiIgKysgRnJhZ21lbnQuY29uc3QoQWxsRmllbGRzLm1rU3RyaW5nKCIsICIpKSArKyBmciIiIiBGUk9NIHRpbWVob3AgV0hFUkUgaWQgPSAkaWQiIiIK</text>
@@ -2744,7 +2744,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
