@@ -132,10 +132,10 @@
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/Collect.scala" timestamp="1594086783281">
         <mark key="'" line="156" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" timestamp="1594094313739">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" timestamp="1594094982948">
         <mark key="'" line="22" column="72" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="99" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="51" column="46" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/TimehopAutoConfig.scala" timestamp="1594086871114">
         <mark key="[" line="2" column="0" />
@@ -159,12 +159,12 @@
         <mark key="." line="5" column="97" />
         <mark key="^" line="5" column="98" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" timestamp="1594094325570">
-        <mark key="'" line="13" column="18" />
-        <mark key="[" line="9" column="49" />
-        <mark key="]" line="9" column="59" />
-        <mark key="." line="9" column="58" />
-        <mark key="^" line="9" column="59" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" timestamp="1594095006965">
+        <mark key="'" line="44" column="22" />
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="47" />
+        <mark key="." line="32" column="46" />
+        <mark key="^" line="32" column="47" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/jdbc/StoryPlusDetailsLoader-prod.conf" timestamp="1594084685135">
         <mark key="[" line="12" column="11" />
@@ -187,6 +187,10 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="25" column="36" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/repo/ShardGenFindRepo.scala" timestamp="1594094578607">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="33" column="5" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/SimpleActivity.scala" timestamp="1594086848464">
         <mark key="[" line="0" column="55" />
         <mark key="]" line="1" column="0" />
@@ -204,19 +208,16 @@
         <mark key="." line="39" column="11" />
         <mark key="^" line="39" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/BannedUserRepoDb.scala" timestamp="1594094218335">
-        <mark key="'" line="40" column="56" />
-        <mark key="[" line="40" column="32" />
-        <mark key="]" line="40" column="105" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/BannedUserRepoDb.scala" timestamp="1594094694726">
+        <mark key="'" line="40" column="83" />
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="73" />
       </file>
       <file name="/fragment.java" timestamp="1594094005106">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="25" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-local.properties" />
-      <jump line="165" column="0" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-local.properties" />
-      <jump line="169" column="0" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" />
       <jump line="170" column="25" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" />
       <jump line="171" column="0" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" />
       <jump line="172" column="0" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" />
@@ -311,9 +312,12 @@
       <jump line="32" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/BannedUserRepoDb.scala" />
       <jump line="10" column="7" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" />
       <jump line="4" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/BannedUserRepoDb.scala" />
-      <jump line="40" column="56" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/BannedUserRepoDb.scala" />
       <jump line="25" column="15" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" />
       <jump line="23" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" />
+      <jump line="24" column="1" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" />
+      <jump line="27" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" />
+      <jump line="43" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" />
+      <jump line="40" column="83" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/BannedUserRepoDb.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,7 +326,7 @@
         <text encoding="base64">IyMgc3Bhcmstam9iMjogcHVzaApzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRhcmdldFVzZXJDb3VudD1qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uVGFyZ2V0VXNlckNvdW50QmF0Y2gtZGV2LwpzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRhcmdldFVzZXJDb3VudC50b2tlbj1wdXNoLlRhcmdldFVzZXJDb3VudEpvYgpzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRlc3RQdXNoU2VuZGVyPWpvYi9jb20ua2FrYW8uc3RvcnkuYXBwcy5iYXRjaEpvYi5qb2IucHVzaC5hZG1pbi5UZXN0UHVzaFNlbmRlckJhdGNoLWRldi8Kc3BhcmsuamVua2lucy5qb2IucHVzaC50ZXN0UHVzaFNlbmRlci50b2tlbj1wdXNoLlRlc3RQdXNoU2VuZGVyCnNwYXJrLmplbmtpbnMuam9iLnB1c2gucHVzaFNlbmRlcj1qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uUHVzaFNlbmRlckJhdGNoLWRldi8Kc3BhcmsuamVua2lucy5qb2IucHVzaC5wdXNoU2VuZGVyLnRva2VuPXB1c2guUHVzaFNlbmRlckpvYgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>AdminMaster</text>
+        <text>TimehopConfig</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2636,22 +2640,22 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>ChActivityMonitor</text>
+        <text>findByIds</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>AdminMaster</text>
+        <text>TimehopConfig</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydW5CeVNoYXJkS2V5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgU1FMIiIiU0VMRUNUICogRlJPTSB0aW1laG9wIFdIRVJFIGlkID0gJHt0aW1laG9wSWR9IiIiLmFzKE1hY3JvLm5hbWVkUGFyc2VyW1RpbWVob3BDb25maWddLiopCg==</text>
+        <text encoding="base64">ICAgICAgU1FMIiIiCiAgICAgICAgU0VMRUNUIHN0YXJ0ZWRfYXQgQVMgc3RhcnRlZEF0LCBlbmRlZF9hdCBBUyBlbmRlZEF0CiAgICAgICAgRlJPTSB0aW1laG9wX2NvbGxlY3RfZGF0ZXMKICAgICAgICBXSEVSRSB0aW1laG9wX2lkID0gJHRpbWVob3BJZAogICAgICAgIE9SREVSIEJZIHN0YXJ0ZWRfYXQgREVTQywgZW5kZWRfYXQgREVTQwogICAgICAiIiIuYXMoTWFjcm8ubmFtZWRQYXJzZXJbQ29sbGVjdERhdGVdLiopCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzcWwgPSBmciIiIlNFTEVDVCAiIiIgKysgRnJhZ21lbnQuY29uc3QoQWxsRmllbGRzLm1rU3RyaW5nKCIsICIpKSArKyBmciIiIiBGUk9NIHRpbWVob3AgV0hFUkUgaWQgPSAkaWQiIiIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2684,25 +2688,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc3FsU2VydmljZS5ydW4oaWQubWFwKGZpbmRCeUlkU3RhdGVtZW50KS5zZXF1ZW5jZS5tYXAoXy5mbGF0dGVuKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>pushWatchTowerMessageService</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzcWwgPSBmciIiIlNFTEVDVCAiIiIgKysgRnJhZ21lbnQuY29uc3QoQWxsRmllbGRzLm1rU3RyaW5nKCIsICIpKSArKyBmciIiIiBGUk9NIHRpbWVob3AgV0hFUkUgaWQgPSAkaWQiIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2YWwgY206IENvbm5lY3Rpb25NYW5hZ2VyW2NsdXN0ZXIuQWRtaW5NYXN0ZXJdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZyIiIic2VsZWN0ICIiIiArKyBGcmFnbWVudC5jb25zdChBbGxGaWVsZHMubWtTdHJpbmcoIiwgIikpICsrIGZyIiIiCiAgICAgICAgfGZyb20gIiIiLnN0cmlwTWFyZ2luICsrIEZyYWdtZW50LmNvbnN0KHRhYmxlTmFtZSkgKysgZnIiIiIKICAgICAgICB8d2hlcmUgdG9fcHJvZmlsZV9pZCBpbiAiIiIuc3RyaXBNYXJnaW4gKysgRnJhZ21lbnQuY29uc3QoaWRzLm1rU3RyaW5nKCIoJyIsICInLCciLCAiJykiKSkgKysgZnIiIiIKICAgICAgICB8YW5kIGRlYWN0aXZhdGVkX2F0IElTIE5VTEwiIiIuc3RyaXBNYXJnaW4K</text>
+        <text encoding="base64">ICAgICAgY2FzZSAoc2hhcmRLZXksIGlkczEpID0+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNxbCIiIiIiIgo=</text>
+      <register name="7" type="4">
+        <text>{
+    val sql = fr&quot;&quot;&quot;SELECT &quot;&quot;&quot; ++ Fragment.const(AllFields.mkString(&quot;, &quot;)) ++ fr&quot;&quot;&quot; FROM timehop WHERE id = $id&quot;&quot;&quot;
+    sqlService.run(sqlService.querySingle[TimehopConfig](sql))
+  }</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2731,10 +2738,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgaW5pdFRpbWVob3BVc2VyQ291bnQoaWQ6IEludCk6IFVuaXQKCiAgZGVmIGluaXRUaW1laG9wUHVzaENvdW50KGlkOiBJbnQpOiBVbml0CgogIGRlZiBnZXRUaW1laG9wRGF0ZShpZDogSW50KTogTGlzdFtDb2xsZWN0RGF0ZV0KCiAgZGVmIGdldFRpbWVob3BTdGF0dXMoaWQ6IEludCk6IE9wdGlvbltUaW1laG9wQ29uZmlnLlN0YXR1c10KCiAgZGVmIGdldEZpbmlzaGVkVGltZWhvcElkcyhlbmRlZEF0OiBTdHJpbmcpOiBTZXFbSW50XQoKICBkZWYgZ2V0VGltZWhvcEF1dG9Db25maWcocGhhc2U6IFN0cmluZyk6IE9wdGlvbltUaW1laG9wQXV0b0NvbmZpZ10KCiAgZGVmIHVwZGF0ZVRpbWVob3BTdGF0dXModGltZWhvcElkOiBJbnQsIHN0YXR1czogVGltZWhvcENvbmZpZy5TdGF0dXMpOiBVbml0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
