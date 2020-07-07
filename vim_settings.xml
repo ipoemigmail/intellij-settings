@@ -47,8 +47,8 @@
         <entry>%s/Logger.log/logService.info/g</entry>
         <entry>%s/Logger.log/logService().info/g</entry>
         <entry encoding="base64">JzwsJz5zL2ltcGxpY2l0L2ltcGxpY2l0IHByaXZhdGUvZw==</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,7 +134,6 @@
       <file name="$USER_HOME$/Develop/Works/golang/src/github.com/ipoemi/servicetmpl/container/usecasefactory/useCaseFactory.go" timestamp="1594041214616">
         <mark key="'" line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/admin/service/PushAdminService.scala" timestamp="1594002838545" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/typeclass/Cacheable.scala" timestamp="1594026219685" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/onetime/ContentMigration.scala" timestamp="1594008462462" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/CacheDeleteMonitor.scala" timestamp="1594024963192" />
@@ -150,6 +149,7 @@
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/instances/JsonInstances.scala" timestamp="1594026333114" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/bin/env.sh" timestamp="1594021874260" />
+      <file name="$USER_HOME$/Develop/Works/golang/src/github.com/ipoemi/servicetmpl/dataservice/txdataservice/txDataServie.go" timestamp="1594041398511" />
       <file name="$USER_HOME$/Develop/Works/golang/src/github.com/ipoemi/servicetmpl/container/logger/logger.go" timestamp="1594041295545" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetuser/WakeupUserExtractor.scala" timestamp="1594009428618">
         <mark key="[" line="25" column="46" />
@@ -2688,7 +2688,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vLnVzZXJJbmZvKHVzZXJJZCArICI6IiArIHVzZXJBcGlUb2tlbikK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgIHZhbCBkYXRhID0gc3BhcmsucmVhZAogICAgICAub3B0aW9uKCJkZWxpbWl0ZXIiLCAiXHQiKQogICAgICAuY3N2KCIvdXNlci9kZXBsb3kvYmVuL2FjdGl2aXRpZXNfYWxsb3dlZF9wcm9maWxlX2lkcy8qLmd6IikKICAgICAgLmZsYXRNYXAgeyByb3cgPT4KICAgICAgICB2YWwgYzAgPSByb3cuZ2V0QXNbU3RyaW5nXSgwKQogICAgICAgIHZhbCBjMSA9IHJvdy5nZXRBc1tTdHJpbmddKDEpCiAgICAgICAgdmFsIGMyID0gcm93LmdldEFzW1N0cmluZ10oMikKCiAgICAgICAgaWYgKGMxICE9ICJudWxsIikgewogICAgICAgICAgU29tZSgKICAgICAgICAgICAgQWN0aXZpdHlBbGxvd2VkUHJvZmlsZUlkcygKICAgICAgICAgICAgICBjMCwKICAgICAgICAgICAgICBjMS5zcGxpdCgiLCIpLm1hcChfLnRvSW50KS50b1NlcS5zb21lLAogICAgICAgICAgICAgIGMyLnRvSW50LnNvbWUKICAgICAgICAgICAgKSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgTm9uZQogICAgICAgIH0KICAgICAgfQo=</text>
