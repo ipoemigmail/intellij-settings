@@ -7,12 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0elNlb3VsXD4=</entry>
-        <entry encoding="base64">XDxkYXRlVGltZVBhdHRlcm5cPg==</entry>
-        <entry>time</entry>
-        <entry>spark.jenkins</entry>
-        <entry>test\c</entry>
-        <entry>post</entry>
         <entry>user</entry>
         <entry>pass</entry>
         <entry encoding="base64">XDxQT1JUXD4=</entry>
@@ -27,10 +21,14 @@
         <entry>birthL</entry>
         <entry encoding="base64">XDxUaW1laG9wQXV0b0NvbmZpZ1w+</entry>
         <entry encoding="base64">XDxVc2VDYXNlSW50ZXJmYWNlXD4=</entry>
+        <entry encoding="base64">XDxDb2xsZWN0RGF0ZVw+</entry>
+        <entry encoding="base64">XDxQcm9maWxlXD4=</entry>
+        <entry encoding="base64">XDxzdGF0dXNDb2RlXD4=</entry>
+        <entry encoding="base64">XDxJbnRFbnVtRW50cnlcPg==</entry>
+        <entry>ChActivityMonitor</entry>
+        <entry>BannedUser</entry>
       </history-search>
       <history-cmd>
-        <entry>81</entry>
-        <entry>63</entry>
         <entry>%s/ViewLog/UserBen/g</entry>
         <entry>q</entry>
         <entry>%s/SuggestChannelExtractor/PushScheduleMonitor/g</entry>
@@ -48,6 +46,8 @@
         <entry>%s/Logger.log/logService().info/g</entry>
         <entry encoding="base64">JzwsJz5zL2ltcGxpY2l0L2ltcGxpY2l0IHByaXZhdGUvZw==</entry>
         <entry>wa</entry>
+        <entry>%s/ChActivityMonitor/Timehop/g</entry>
+        <entry>%s/BannedUser/TimehopConfig/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -118,37 +118,80 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/storage/service/RedisServiceSingleTest.scala" timestamp="1594028719326">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="33" column="43" />
-        <mark key="]" line="33" column="44" />
-        <mark key="." line="33" column="44" />
-        <mark key="^" line="27" column="12" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/ChActivityMonitorStatus.scala" timestamp="1594087076095">
+        <mark key="'" line="4" column="79" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/Collect.scala" timestamp="1594025394006">
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/IdAndBirth.scala" timestamp="1594086825544">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/Collect.scala" timestamp="1594086783281">
         <mark key="'" line="156" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" timestamp="1594082939117">
-        <mark key="'" line="67" column="6" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" timestamp="1594087170372">
+        <mark key="'" line="22" column="72" />
+        <mark key="[" line="87" column="27" />
+        <mark key="]" line="87" column="41" />
       </file>
       <file name="$USER_HOME$/Develop/Works/golang/src/github.com/ipoemi/servicetmpl/container/usecasefactory/useCaseFactory.go" timestamp="1594041214616">
         <mark key="'" line="19" column="5" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/TimehopAutoConfig.scala" timestamp="1594086871114">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="88" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/beachape/enumeratum_2.12/1.5.14/enumeratum_2.12-1.5.14-sources.jar!/enumeratum/values/ValueEnumEntry.scala" timestamp="1594087039908">
+        <mark key="'" line="43" column="15" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/TimehopStatus.scala" timestamp="1594087177722">
+        <mark key="'" line="4" column="22" />
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/TimehopConfig.scala" timestamp="1594086658282">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/jdbc/StoryPlusDetailsLoader-prod.conf" timestamp="1594084685135">
         <mark key="[" line="12" column="11" />
         <mark key="]" line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-core/log-model/src/main/scala/story/log/db/Profiles.scala" timestamp="1594009510334">
-        <mark key="[" line="44" column="19" />
-        <mark key="]" line="44" column="30" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/CollectDate.scala" timestamp="1594086721477">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/push/wakeup/WakeUpPushSenderBatch.scala" timestamp="1594010706436">
-        <mark key="[" line="55" column="28" />
-        <mark key="]" line="55" column="41" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/BannedUserRepo.scala" timestamp="1594087230852">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/push/src/main/scala/story/etl/job/push/wakeup/targetuser/WakeupUserExtractor.scala" timestamp="1594009428618">
-        <mark key="[" line="25" column="46" />
-        <mark key="]" line="25" column="56" />
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepo.scala" timestamp="1594087256643">
+        <mark key="'" line="4" column="6" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/SimpleActivity.scala" timestamp="1594086848464">
+        <mark key="[" line="0" column="55" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/TimeHopConfig.scala" timestamp="1594086666824">
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/Works/golang/src/github.com/ipoemi/servicetmpl/container/datastorefactory/couchdbFactory.go" timestamp="1594041353492">
         <mark key="[" line="39" column="11" />
@@ -158,18 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="23" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" />
-      <jump line="80" column="15" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" />
-      <jump line="104" column="16" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" />
-      <jump line="108" column="14" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" />
-      <jump line="112" column="11" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" />
-      <jump line="146" column="17" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-real.properties" />
-      <jump line="148" column="10" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-local.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-beta.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-alpha.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-sandbox.properties" />
-      <jump line="161" column="0" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-sandbox.properties" />
-      <jump line="162" column="0" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-sandbox.properties" />
       <jump line="160" column="25" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-sandbox.properties" />
       <jump line="168" column="0" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-alpha.properties" />
       <jump line="170" column="0" filename="$USER_HOME$/Develop/Works/story/story-admin/src/main/resources/properties/application/application-alpha.properties" />
@@ -255,9 +286,21 @@
       <jump line="187" column="14" filename="$USER_HOME$/Develop/Works/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/Profile.java" />
       <jump line="3" column="42" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/storage/service/RedisServiceSingleTest.scala" />
       <jump line="36" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/storage/service/RedisServiceSingleTest.scala" />
-      <jump line="22" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" />
       <jump line="67" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" />
       <jump line="19" column="5" filename="$USER_HOME$/Develop/Works/golang/src/github.com/ipoemi/servicetmpl/container/usecasefactory/useCaseFactory.go" />
+      <jump line="16" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" />
+      <jump line="44" column="43" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" />
+      <jump line="51" column="31" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" />
+      <jump line="18" column="11" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" />
+      <jump line="22" column="72" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" />
+      <jump line="43" column="15" filename="$USER_HOME$/.coursier/cache/v1/https/repo1.maven.org/maven2/com/beachape/enumeratum_2.12/1.5.14/enumeratum_2.12-1.5.14-sources.jar!/enumeratum/values/ValueEnumEntry.scala" />
+      <jump line="4" column="79" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/model/ChActivityMonitorStatus.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/TimehopStatus.scala" />
+      <jump line="5" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/TimehopStatus.scala" />
+      <jump line="6" column="38" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/BannedUserRepo.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/BannedUserRepo.scala" />
+      <jump line="5" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepo.scala" />
+      <jump line="2" column="6" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepo.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -265,8 +308,8 @@
       <register name="a" type="2">
         <text encoding="base64">IyMgc3Bhcmstam9iMjogcHVzaApzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRhcmdldFVzZXJDb3VudD1qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uVGFyZ2V0VXNlckNvdW50QmF0Y2gtZGV2LwpzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRhcmdldFVzZXJDb3VudC50b2tlbj1wdXNoLlRhcmdldFVzZXJDb3VudEpvYgpzcGFyay5qZW5raW5zLmpvYi5wdXNoLnRlc3RQdXNoU2VuZGVyPWpvYi9jb20ua2FrYW8uc3RvcnkuYXBwcy5iYXRjaEpvYi5qb2IucHVzaC5hZG1pbi5UZXN0UHVzaFNlbmRlckJhdGNoLWRldi8Kc3BhcmsuamVua2lucy5qb2IucHVzaC50ZXN0UHVzaFNlbmRlci50b2tlbj1wdXNoLlRlc3RQdXNoU2VuZGVyCnNwYXJrLmplbmtpbnMuam9iLnB1c2gucHVzaFNlbmRlcj1qb2IvY29tLmtha2FvLnN0b3J5LmFwcHMuYmF0Y2hKb2Iuam9iLnB1c2guYWRtaW4uUHVzaFNlbmRlckJhdGNoLWRldi8Kc3BhcmsuamVua2lucy5qb2IucHVzaC5wdXNoU2VuZGVyLnRva2VuPXB1c2guUHVzaFNlbmRlckpvYgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>db</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBmaW5kQnlJZChpZDogKEludCwgSW50KSk6IE9wdGlvbltUaW1laG9wQ29uZmlnXSA9ID8/PwogICAgZGVmIGZpbmRCeUlkcyhpZHM6IExpc3RbKEludCwgSW50KV0pOiBMaXN0W1RpbWVob3BDb25maWddID0gPz8/CiAgICBkZWYgZmluZEJ5VG9Qcm9maWxlSWRzKHRvUHJvZmlsZUlkczogU2VxW0ludF0pOiBMaXN0W1RpbWVob3BDb25maWddID0gPz8/Cg==</text>
       </register>
       <register name="d" type="4">
         <text>${kafka.cluster.prodPg}</text>
@@ -2580,22 +2623,22 @@
         </keys>
       </register>
       <register name="*" type="4">
-        <text>DatasetReader[</text>
+        <text>ChActivityMonitor</text>
       </register>
       <register name="k" type="4">
         <text>ggjjjjjjjjjj</text>
       </register>
       <register name="-" type="4">
-        <text>db</text>
+        <text encoding="base64">UGFzc2VkIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVc2VDYXNlSW50ZXJmYWNlXD4=</text>
+        <text>BannedUser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0ZXN0KCJpbmNyIikgewogICAgd2l0aFJlZGlzKCkgeyBwb3J0ID0+CiAgICAgIHZhbCBzZXJ2aWNlOiBSZWRpc1NlcnZpY2UgPSBuZXcgUmVkaXNTZXJ2aWNlU2hhcmQoTGlzdChzImxvY2FsaG9zdDokcG9ydC8wIikpCiAgICAgIHZhbCBrZXkgPSAibXlrZXk6MTIzOjE6IgogICAgICBzZXJ2aWNlLnNldChrZXksIDEpIHNob3VsZCBiZSh0cnVlKQogICAgICBzZXJ2aWNlLmluY3Ioa2V5KQogICAgICBzZXJ2aWNlLmdldFtJbnRdKGtleSkgc2hvdWxkIGJlKFNvbWUoMikpCiAgICB9CiAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5kYi5tb2RlbC5CYW5uZWRVc2VyCmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3RvcmFnZS5yZXBvLlNoYXJkRmluZFJlcG8KCnRyYWl0IEJhbm5lZFVzZXJSZXBvIGV4dGVuZHMgU2hhcmRGaW5kUmVwb1tCYW5uZWRVc2VyLCAoSW50LCBJbnQpXSB7CiAgZGVmIGZpbmRCeVRvUHJvZmlsZUlkcyh0b1Byb2ZpbGVJZHM6IFNlcVtJbnRdKTogTGlzdFtCYW5uZWRVc2VyXQp9CgpvYmplY3QgQmFubmVkVXNlclJlcG8gewogIHRyYWl0IE1vY2sgZXh0ZW5kcyBCYW5uZWRVc2VyUmVwbyB7CiAgICBkZWYgZmluZEJ5SWQoaWQ6IChJbnQsIEludCkpOiBPcHRpb25bQmFubmVkVXNlcl0gPSA/Pz8KICAgIGRlZiBmaW5kQnlJZHMoaWRzOiBMaXN0WyhJbnQsIEludCldKTogTGlzdFtCYW5uZWRVc2VyXSA9ID8/PwogICAgZGVmIGZpbmRCeVRvUHJvZmlsZUlkcyh0b1Byb2ZpbGVJZHM6IFNlcVtJbnRdKTogTGlzdFtCYW5uZWRVc2VyXSA9ID8/PwogIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBmaW5kQnlJZChpZDogKEludCwgSW50KSk6IE9wdGlvbltUaW1laG9wQ29uZmlnXSA9ID8/PwogICAgZGVmIGZpbmRCeUlkcyhpZHM6IExpc3RbKEludCwgSW50KV0pOiBMaXN0W1RpbWVob3BDb25maWddID0gPz8/CiAgICBkZWYgZmluZEJ5VG9Qcm9maWxlSWRzKHRvUHJvZmlsZUlkczogU2VxW0ludF0pOiBMaXN0W1RpbWVob3BDb25maWddID0gPz8/Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2628,25 +2671,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0ZXN0KCIxIikgewogICAgdmFsIGplbmtpbnMgPSBuZXcgSmVua2luc1NlcnZlcihuZXcgVVJJKCJodHRwOi8vc3RvcnktamVua2lucy5kZXZlbC5rYWthby5jb20iKSwgImRldmVsb3AiLCAiZGV2dGVhbSIpCiAgICB2YWwgbGFzdHMgPSBqZW5raW5zLmdldEpvYnMuYXNTY2FsYQogICAgICAubWFwKHggPT4gamVua2lucy5nZXRKb2IoeC5fMSkpCiAgICAgIC5maWx0ZXIoXy5pc0J1aWxkYWJsZSkKICAgICAgLmZvcmVhY2ggeyBqb2JXaXRoRGV0YWlsID0+CiAgICAgICAgdmFsIGJ1aWxkID0gam9iV2l0aERldGFpbC5nZXRMYXN0QnVpbGQKICAgICAgICBwcmludGxuKAogICAgICAgICAgcyIke2pvYldpdGhEZXRhaWwuZ2V0RGlzcGxheU5hbWV9XHQke25ldyBEYXRlVGltZShidWlsZC5kZXRhaWxzLmdldFRpbWVzdGFtcCl9XHQke2J1aWxkLmRldGFpbHMoKS5nZXREdXJhdGlvbn0iCiAgICAgICAgKQogICAgICB9CiAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5kYi5tb2RlbC5CYW5uZWRVc2VyCmltcG9ydCBjb20ua2FrYW8uc3Rvcnkuc3RvcmFnZS5yZXBvLlNoYXJkRmluZFJlcG8KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmaW5hbCB2YWwgVHJpcGxlRG90OiBTdHJpbmcgPSAiLi4uIgo=</text>
+        <text encoding="base64">Y2xhc3MgVGltZWhvcENvbmZpZ1JlcG8gewoKfQo=</text>
       </register>
       <register name="s" type="4">
         <text>pushWatchTowerMessageService</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBCbG9ja0hpc3RvcnkuXwo=</text>
+        <text encoding="base64">aW1wb3J0IGVudW1lcmF0dW0uXwppbXBvcnQgZW51bWVyYXR1bS52YWx1ZXMuSW50RW51bUVudHJ5CgpzZWFsZWQgYWJzdHJhY3QgY2xhc3MgVGltZWhvcFN0YXR1cyhvdmVycmlkZSB2YWwgdmFsdWU6IEludCkgZXh0ZW5kcyBJbnRFbnVtRW50cnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgTXlzcWxUZXh0VHlwZUxlbmd0aCA9IDY1NTM1Cg==</text>
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlCg==</text>
+        <text encoding="base64">Y2xhc3MgVGltZWhvcEF1dG9Db25maWcgewoKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWwgTXlzcWxUZXh0VHlwZUxlbmd0aCA9IAo=</text>
+        <text encoding="base64">Y2xhc3MgU2ltcGxlQWN0aXZpdHkgewoKfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2675,10 +2718,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y2xhc3MgSWRBbmRCaXJ0aCB7Cgp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vLnVzZXJJbmZvKHVzZXJJZCArICI6IiArIHVzZXJBcGlUb2tlbikK</text>
+        <text encoding="base64">Y2xhc3MgQ29sbGVjdERhdGUgewoKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2690,11 +2733,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxVc2VDYXNlSW50ZXJmYWNlXD4=</last-search>
+      <last-search>BannedUser</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVc2VDYXNlSW50ZXJmYWNlXD4=</last-pattern>
-      <last-replace>implicit private</last-replace>
-      <last-substitute>implicit</last-substitute>
+      <last-pattern>BannedUser</last-pattern>
+      <last-replace>TimehopConfig</last-replace>
+      <last-substitute>BannedUser</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
