@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9maWxlSWRzXD4=</entry>
         <entry encoding="base64">XDxtYXhUb3RhbENvbm5lY3Rpb25zXD4=</entry>
         <entry encoding="base64">XDxzdG9yeVJlc3RUZW1wbGF0ZVw+</entry>
         <entry encoding="base64">XDxnZXRQdXNoS2V5XD4=</entry>
@@ -23,10 +22,11 @@
         <entry encoding="base64">XDxwdXNoTWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxzZXJ2aWNlTmFtZVw+</entry>
         <entry encoding="base64">XDxLUHVzaFNlbmRlclw+</entry>
-        <entry encoding="base64">XDxwbHVzUHVzaFNlbmRlclw+</entry>
         <entry encoding="base64">XDxub3RpZmljYXRpb25QdXNoZXJcPg==</entry>
         <entry>ttl\c</entry>
         <entry encoding="base64">XDxleHBpcmVDYWNoZVw+</entry>
+        <entry encoding="base64">XDxwbHVzUHVzaFNlbmRlclw+</entry>
+        <entry encoding="base64">XDxzZW5kZXJJZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SuggestChannelExtractor/PushScheduleMonitor/g</entry>
@@ -121,24 +121,22 @@
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/push/PushSettingController.java" timestamp="1594180136213" />
       <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" timestamp="1594178410752" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/push/FeedbackController.java" timestamp="1594179179797" />
-      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/PlusDeviceDao.java" timestamp="1594185243557" />
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/PlusDeviceDao.java" timestamp="1594185325279" />
       <file name="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/java/com/kakao/story/common/cache/arcus/ArcusCacheTemplate.java" timestamp="1594184997364">
         <mark key="'" line="1289" column="59" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/PlusCustomPusher.java" timestamp="1594184099249">
         <mark key="'" line="44" column="31" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/DeviceDao.java" timestamp="1594185057380">
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/DeviceDao.java" timestamp="1594185452287">
         <mark key="'" line="60" column="8" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar!/org/apache/commons/lang3/StringUtils.java" timestamp="1594178311531">
-        <mark key="'" line="8513" column="103" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/LikePusher.java" timestamp="1594179308232" />
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/LikePusher.java" timestamp="1594186355621" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/PlusPushSettingServiceImpl.java" timestamp="1594184712915" />
-      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" timestamp="1594180456614">
-        <mark key="'" line="189" column="21" />
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" timestamp="1594186212924">
+        <mark key="'" line="130" column="155" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/PlusAuthenticationServiceImpl.java" timestamp="1594185854366" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/TimehopPusher.java" timestamp="1594179429212" />
       <file name="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/java/com/kakao/story/common/service/thrift/kpusher/KPushSender.java" timestamp="1594180429288">
         <mark key="'" line="21" column="42" />
@@ -146,18 +144,12 @@
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/AuthenticationServiceImpl.java" timestamp="1594181299561" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/FeedbackServiceImpl.java" timestamp="1594184850116" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/WithCommentPusher.java" timestamp="1594179456244" />
-      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar!/org/apache/commons/lang3/CharSequenceUtils.java" timestamp="1594178346067">
-        <mark key="'" line="292" column="17" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/PlusNoticePusher.java" timestamp="1594180515443" />
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/RestrictPusher.java" timestamp="1594187240015" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/PushServiceType.java" timestamp="1594180367739" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/DeviceServiceImpl.java" timestamp="1594178539813" />
     </filemarks>
     <jumps>
-      <jump line="27" column="18" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" />
-      <jump line="43" column="22" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" />
-      <jump line="40" column="83" filename="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/data/src/main/scala/com/kakao/story/db/repo/BannedUserRepoDb.scala" />
-      <jump line="53" column="98" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" />
       <jump line="57" column="35" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" />
       <jump line="60" column="35" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepoDb.scala" />
       <jump line="112" column="23" filename="$USER_HOME$/Develop/Works/story/story-spark-job2/project-service/timehop/src/main/scala/timehop/TimehopConfigManager.scala" />
@@ -243,7 +235,6 @@
       <jump line="103" column="52" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" />
       <jump line="18" column="47" filename="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/java/com/kakao/story/common/service/thrift/kpusher/KPushSender.java" />
       <jump line="21" column="42" filename="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/java/com/kakao/story/common/service/thrift/kpusher/KPushSender.java" />
-      <jump line="37" column="24" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" />
       <jump line="189" column="21" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" />
       <jump line="116" column="16" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/PlusCustomPusher.java" />
       <jump line="108" column="16" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/PlusCustomPusher.java" />
@@ -254,6 +245,11 @@
       <jump line="1289" column="59" filename="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/java/com/kakao/story/common/cache/arcus/ArcusCacheTemplate.java" />
       <jump line="172" column="16" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/DeviceDao.java" />
       <jump line="60" column="8" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/DeviceDao.java" />
+      <jump line="37" column="24" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" />
+      <jump line="172" column="12" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" />
+      <jump line="115" column="15" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" />
+      <jump line="127" column="16" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" />
+      <jump line="130" column="155" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -2585,7 +2581,7 @@
         <text>.toInt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHBpcmVDYWNoZVw+</text>
+        <text encoding="base64">XDxzZW5kZXJJZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5zdG9yYWdlLnR5cGVjbGFzcy5DYWNoZWFibGUK</text>
@@ -2686,9 +2682,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxleHBpcmVDYWNoZVw+</last-search>
+      <last-search encoding="base64">XDxzZW5kZXJJZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHBpcmVDYWNoZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kZXJJZFw+</last-pattern>
       <last-replace>id</last-replace>
       <last-substitute>timehopId</last-substitute>
       <last-dir>1</last-dir>
