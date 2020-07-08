@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxJbnRFbnVtRW50cnlcPg==</entry>
-        <entry>ChActivityMonitor</entry>
-        <entry>BannedUser</entry>
         <entry>TimehopStatus</entry>
         <entry encoding="base64">XDxydW5CeVNoYXJkS2V5XD4=</entry>
         <entry>timehopId</entry>
@@ -27,6 +24,9 @@
         <entry encoding="base64">XDxpZ25vcmVDYXNlXD4=</entry>
         <entry encoding="base64">XDxwdXNoU2VuZGVyXD4=</entry>
         <entry encoding="base64">XDxwdXNoTWVzc2FnZVw+</entry>
+        <entry encoding="base64">XDxzZXJ2aWNlTmFtZVw+</entry>
+        <entry encoding="base64">XDxLUHVzaFNlbmRlclw+</entry>
+        <entry encoding="base64">XDxwbHVzUHVzaFNlbmRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/SuggestChannelExtractor/PushScheduleMonitor/g</entry>
@@ -124,29 +124,10 @@
         <mark key="[" line="173" column="49" />
         <mark key="]" line="205" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/test/scala/com/kakao/story/storage/instances/JsonInstancesTest.scala" timestamp="1594114226763">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="39" column="77" />
-        <mark key="]" line="39" column="78" />
-        <mark key="." line="39" column="77" />
-        <mark key="^" line="39" column="78" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" timestamp="1594178410752" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/push/FeedbackController.java" timestamp="1594179179797" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/PlusDeviceDao.java" timestamp="1594175251156" />
-      <file name="$USER_HOME$/.ivy2_sbt/cache/net.debasishg/redisclient_2.11/srcs/redisclient_2.11-3.4-sources.jar!/com/redis/HashOperations.scala" timestamp="1594116423534" />
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/RedisServiceSingle.scala" timestamp="1594115983650">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/RedisService.scala" timestamp="1594115960236">
-        <mark key="'" line="160" column="88" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="160" column="89" />
-      </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/PlusCustomPusher.java" timestamp="1594180493400" />
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/test/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopInfoRepoRedisTest.scala" timestamp="1594116576192">
         <mark key="'" line="12" column="30" />
         <mark key="[" line="10" column="2" />
@@ -157,12 +138,6 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar!/org/apache/commons/lang3/StringUtils.java" timestamp="1594178311531">
         <mark key="'" line="8513" column="103" />
       </file>
-      <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/RedisServiceProxy.scala" timestamp="1594115978618">
-        <mark key="'" line="38" column="77" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopInfoRepoRedis.scala" timestamp="1594174277157">
         <mark key="[" line="49" column="15" />
         <mark key="]" line="49" column="28" />
@@ -170,26 +145,28 @@
         <mark key="^" line="47" column="60" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/LikePusher.java" timestamp="1594179308232" />
-      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" timestamp="1594179633538">
-        <mark key="'" line="103" column="52" />
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" timestamp="1594180456614">
+        <mark key="'" line="189" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/TimehopPusher.java" timestamp="1594179429212" />
+      <file name="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/java/com/kakao/story/common/service/thrift/kpusher/KPushSender.java" timestamp="1594180429288">
+        <mark key="'" line="21" column="42" />
+      </file>
       <file name="$USER_HOME$/Develop/Works/story/story-spark/project-submodule/story-spark-base/core/src/main/scala/com/kakao/story/storage/service/RedisServiceShard.scala" timestamp="1594116560006">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/AuthenticationServiceImpl.java" timestamp="1594181299561" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/WithCommentPusher.java" timestamp="1594179456244" />
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7-sources.jar!/org/apache/commons/lang3/CharSequenceUtils.java" timestamp="1594178346067">
         <mark key="'" line="292" column="17" />
       </file>
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/PlusNoticePusher.java" timestamp="1594180515443" />
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/PushServiceType.java" timestamp="1594180367739" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/DeviceServiceImpl.java" timestamp="1594178539813" />
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepo.scala" />
-      <jump line="18" column="2" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepo.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/TimehopStatus.scala" />
-      <jump line="4" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/TimehopStatus.scala" />
       <jump line="20" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/TimehopConfig.scala" />
       <jump line="9" column="4" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/model/TimehopConfig.scala" />
       <jump line="48" column="0" filename="$USER_HOME$/Develop/Works/story/story-spark/project-app/batch-job/src/main/scala/com/kakao/story/apps/batchJob/job/timehop/repo/TimehopConfigRepo.scala" />
@@ -286,6 +263,10 @@
       <jump line="111" column="93" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" />
       <jump line="109" column="110" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" />
       <jump line="103" column="52" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" />
+      <jump line="18" column="47" filename="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/java/com/kakao/story/common/service/thrift/kpusher/KPushSender.java" />
+      <jump line="21" column="42" filename="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/java/com/kakao/story/common/service/thrift/kpusher/KPushSender.java" />
+      <jump line="37" column="24" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" />
+      <jump line="189" column="21" filename="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/DefaultNotificationPusher.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -2617,7 +2598,7 @@
         <text>.toInt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdXNoTWVzc2FnZVw+</text>
+        <text encoding="base64">XDxwbHVzUHVzaFNlbmRlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5rYWthby5zdG9yeS5zdG9yYWdlLnR5cGVjbGFzcy5DYWNoZWFibGUK</text>
@@ -2718,9 +2699,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwdXNoTWVzc2FnZVw+</last-search>
+      <last-search encoding="base64">XDxwbHVzUHVzaFNlbmRlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdXNoTWVzc2FnZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwbHVzUHVzaFNlbmRlclw+</last-pattern>
       <last-replace>id</last-replace>
       <last-substitute>timehopId</last-substitute>
       <last-dir>1</last-dir>
