@@ -119,7 +119,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/push/PushSettingController.java" timestamp="1594180136213" />
-      <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-12.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" timestamp="1594178410752" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/push/FeedbackController.java" timestamp="1594179179797" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/PlusDeviceDao.java" timestamp="1594185325279" />
       <file name="$USER_HOME$/Develop/Works/story/story-common/story-common/src/main/java/com/kakao/story/common/cache/arcus/ArcusCacheTemplate.java" timestamp="1594184997364">
@@ -145,7 +144,8 @@
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/FeedbackServiceImpl.java" timestamp="1594184850116" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/WithCommentPusher.java" timestamp="1594179456244" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/PlusNoticePusher.java" timestamp="1594180515443" />
-      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/RestrictPusher.java" timestamp="1594187240015" />
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/v2/RestrictPusher.java" timestamp="1594187622503" />
+      <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/integration-test/java/com/kakao/story/v2/dao/DeviceDaoIntegrationTest.java" timestamp="1594187617506" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/pusher/PushServiceType.java" timestamp="1594180367739" />
       <file name="$USER_HOME$/Develop/Works/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/DeviceServiceImpl.java" timestamp="1594178539813" />
     </filemarks>
