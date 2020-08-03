@@ -11,6 +11,9 @@
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="Scala.ScalaMethodChainInlayHintsSettingsModel" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseLambdas" value="false" />
     <option name="collapseOneLineMethods" value="false" />
