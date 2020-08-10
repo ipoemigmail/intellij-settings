@@ -284,6 +284,32 @@
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/gssapi-1.2.0/examples" />
       </excluded>
     </library>
+    <library name="http_parser.rb (v0.6.0, ruby-2.1.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/ext" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/bench" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/ext" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/bench" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/ext" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/bench" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/http_parser.rb-0.6.0/tasks" />
+      </excluded>
+    </library>
     <library name="i18n (v0.9.1, ruby-2.1.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1034,6 +1060,18 @@
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/semantic_logger-4.2.0/test" />
       </excluded>
     </library>
+    <library name="sigdump (v0.2.4, ruby-2.1.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/sigdump-0.2.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/sigdump-0.2.4/lib" />
+      </SOURCES>
+    </library>
     <library name="sinatra (v1.4.3, ruby-2.1.0-p0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1163,6 +1201,26 @@
       <excluded>
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/sshkit-1.8.1/test" />
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/sshkit-1.8.1/examples" />
+      </excluded>
+    </library>
+    <library name="strptime (v0.2.4, ruby-2.1.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/strptime-0.2.4/bin" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/strptime-0.2.4/ext" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/strptime-0.2.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/strptime-0.2.4/bin" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/strptime-0.2.4/ext" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/strptime-0.2.4/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/strptime-0.2.4/bin" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/strptime-0.2.4/ext" />
       </excluded>
     </library>
     <library name="terminal-table (v1.8.0, ruby-2.1.0-p0) [gem]" type="rubylib">
@@ -1313,6 +1371,38 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/unicode-display_width-1.7.0/data" />
+      </excluded>
+    </library>
+    <library name="yajl-ruby (v1.4.1, ruby-2.1.0-p0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/spec" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/tasks" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/script" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/examples" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/benchmark" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/spec" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/tasks" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/script" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/examples" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/benchmark" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/ext" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/spec" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/tasks" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/script" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/examples" />
+        <root url="file://$USER_HOME$/.story-spec/opt/ruby/lib/ruby/gems/2.1.0/gems/yajl-ruby-1.4.1/benchmark" />
       </excluded>
     </library>
     <library name="zookeeper (v1.4.11, ruby-2.1.0-p0) [gem]" type="rubylib">
