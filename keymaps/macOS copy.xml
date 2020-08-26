@@ -6,12 +6,6 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
-  <action id="EditorDown">
-    <keyboard-shortcut first-keystroke="down" />
-  </action>
-  <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
-  </action>
   <action id="Jdbc.OpenConsole.New" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
