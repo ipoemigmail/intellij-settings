@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sh" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,9 +17,9 @@
     <mask>*prod.conf</mask>
     <mask>*.scala</mask>
     <mask>*.conf</mask>
-    <mask>*.sh</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*-prod.conf</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
