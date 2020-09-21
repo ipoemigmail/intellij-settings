@@ -9,6 +9,7 @@
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="ReqLogToSrayHBaseStreaming.conf" type="PLAIN_TEXT" />
+      <mapping pattern="topology" type="PLAIN_TEXT" />
       <mapping pattern="sample_contents_logs" type="PLAIN_TEXT" />
       <mapping ext="hql" type="PLAIN_TEXT" />
       <mapping ext="keytab" type="PLAIN_TEXT" />
