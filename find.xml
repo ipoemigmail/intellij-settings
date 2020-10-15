@@ -14,10 +14,11 @@
     <mask>*Instances.scala</mask>
     <mask>*dev.conf</mask>
     <mask>*prod.conf</mask>
-    <mask>*.scala</mask>
-    <mask>*.conf</mask>
-    <mask>*.sh</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*-prod.conf</mask>
+    <mask>*.sh</mask>
+    <mask>*.conf</mask>
+    <mask>*.scala</mask>
   </component>
 </application>

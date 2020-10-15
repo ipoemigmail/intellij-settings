@@ -2,6 +2,7 @@
   <action id="Cargo.RustfmtFile">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
@@ -10,9 +11,13 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="ServiceView.GroupByServiceGroups" />
+  <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleFindInSelection" />
   <action id="Tool_External Tools_MacVim">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
+  <action id="UsageGrouping.Directory" />
+  <action id="UsageGrouping.Package" />
   <action id="rspec.LetIntroduce" />
 </keymap>
