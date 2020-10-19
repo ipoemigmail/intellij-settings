@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*Recovery-dev.conf" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,5 +23,7 @@
     <mask>*Streaming-dev.conf</mask>
     <mask>*Streaming-prod.conf</mask>
     <mask>*.java</mask>
+    <mask>*Recovery-prod.conf</mask>
+    <mask>*Recovery-dev.conf</mask>
   </component>
 </application>
