@@ -17,12 +17,12 @@
     <mask>*.xml</mask>
     <mask>*.sh</mask>
     <mask>*.conf</mask>
-    <mask>*.scala</mask>
     <mask>*Streaming-dev.conf</mask>
     <mask>*Streaming-prod.conf</mask>
     <mask>*Recovery-prod.conf</mask>
     <mask>*Recovery-dev.conf</mask>
     <mask>*.java</mask>
     <mask>*-prod.conf</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
