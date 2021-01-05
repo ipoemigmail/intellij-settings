@@ -1,0 +1,30 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="ReqLogToSrayHBaseStreaming.conf" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="WakeUpPushSender" type="PLAIN_TEXT" />
+      <mapping pattern="sample_contents_logs" type="PLAIN_TEXT" />
+      <mapping pattern="topology" type="PLAIN_TEXT" />
+      <mapping pattern=".scalafmt" type="PLAIN_TEXT" />
+      <mapping ext="hql" type="PLAIN_TEXT" />
+      <mapping ext="keytab" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+    </extensionMap>
+  </component>
+</application>

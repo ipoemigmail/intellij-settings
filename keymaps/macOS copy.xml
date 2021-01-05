@@ -1,0 +1,23 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Cargo.RustfmtFile">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ServiceView.GroupByServiceGroups" />
+  <action id="TodoViewGroupByShowPackages" />
+  <action id="ToggleFindInSelection" />
+  <action id="Tool_External Tools_MacVim">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
+  <action id="UsageGrouping.Directory" />
+  <action id="UsageGrouping.Package" />
+  <action id="rspec.LetIntroduce" />
+</keymap>
