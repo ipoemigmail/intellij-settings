@@ -1260,9 +1260,9 @@
           </stepping-filters>
         </configuration>
       </debugger>
-      <debugger id="kotlin_debugger">
+      <debugger id="Rust">
         <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
+          <option name="lldbPath" value="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/intellij-rust/lldb" />
         </configuration>
       </debugger>
     </debuggers>

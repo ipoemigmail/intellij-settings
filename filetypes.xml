@@ -9,8 +9,8 @@
       <mapping pattern="ReqLogToSrayHBaseStreaming.conf" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="WakeUpPushSender" type="PLAIN_TEXT" />
-      <mapping pattern="sample_contents_logs" type="PLAIN_TEXT" />
       <mapping pattern="topology" type="PLAIN_TEXT" />
+      <mapping pattern="sample_contents_logs" type="PLAIN_TEXT" />
       <mapping pattern=".scalafmt" type="PLAIN_TEXT" />
       <mapping ext="hql" type="PLAIN_TEXT" />
       <mapping ext="keytab" type="PLAIN_TEXT" />
