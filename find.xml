@@ -22,8 +22,8 @@
     <mask>*Recovery-dev.conf</mask>
     <mask>*-prod.conf</mask>
     <mask>*.java</mask>
-    <mask>*.scala</mask>
     <mask>*.conf</mask>
     <mask>*.py</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
