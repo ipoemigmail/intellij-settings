@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Streaming-sandbox.conf" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -26,7 +27,7 @@
     <mask>*.scala</mask>
     <mask>*.html</mask>
     <mask>*-sandbox.conf</mask>
-    <mask>*Streaming-sandbox.conf</mask>
     <mask>*Streaming-alpha.conf</mask>
+    <mask>*Streaming-sandbox.conf</mask>
   </component>
 </application>
