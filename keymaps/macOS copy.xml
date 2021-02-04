@@ -7,9 +7,13 @@
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="Jdbc.OpenConsole.New" />
+  <action id="JumpToLastWindow" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="ServiceView.GroupByServiceGroups" />
   <action id="TodoViewGroupByShowPackages" />
