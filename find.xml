@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*_spec.rb</mask>
@@ -24,6 +23,11 @@
     <mask>*.java</mask>
     <mask>*.conf</mask>
     <mask>*.py</mask>
+    <mask>*.html</mask>
+    <mask>*-sandbox.conf</mask>
+    <mask>*Streaming-alpha.conf</mask>
+    <mask>*Streaming-sandbox.conf</mask>
+    <mask>*Batch-alpha.conf</mask>
     <mask>*.scala</mask>
   </component>
 </application>
