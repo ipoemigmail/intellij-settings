@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Batch.scala" />
+    <option name="FILE_MASK" value="*.sh" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
@@ -15,7 +15,6 @@
     <mask>*dev.conf</mask>
     <mask>*prod.conf</mask>
     <mask>*.xml</mask>
-    <mask>*.sh</mask>
     <mask>*Streaming-dev.conf</mask>
     <mask>*Streaming-prod.conf</mask>
     <mask>*Recovery-prod.conf</mask>
@@ -32,5 +31,6 @@
     <mask>*.scala</mask>
     <mask>*Deps.scala</mask>
     <mask>*Batch.scala</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
