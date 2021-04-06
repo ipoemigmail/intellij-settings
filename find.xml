@@ -5,13 +5,13 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sbt" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*_spec.rb</mask>
     <mask>*.rb</mask>
     <mask>*Serv*</mask>
-    <mask>*.sbt</mask>
     <mask>*Instances.scala</mask>
     <mask>*dev.conf</mask>
     <mask>*prod.conf</mask>
@@ -33,5 +33,6 @@
     <mask>*.sh</mask>
     <mask>*.scala</mask>
     <mask>*.conf</mask>
+    <mask>*.sbt</mask>
   </component>
 </application>
