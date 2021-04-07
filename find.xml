@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
@@ -9,25 +11,27 @@
     <mask>*_spec.rb</mask>
     <mask>*.rb</mask>
     <mask>*Serv*</mask>
-    <mask>*.sbt</mask>
     <mask>*Instances.scala</mask>
     <mask>*dev.conf</mask>
     <mask>*prod.conf</mask>
     <mask>*.xml</mask>
-    <mask>*.sh</mask>
     <mask>*Streaming-dev.conf</mask>
     <mask>*Streaming-prod.conf</mask>
     <mask>*Recovery-prod.conf</mask>
     <mask>*Recovery-dev.conf</mask>
     <mask>*-prod.conf</mask>
     <mask>*.java</mask>
-    <mask>*.conf</mask>
     <mask>*.py</mask>
     <mask>*.html</mask>
     <mask>*-sandbox.conf</mask>
     <mask>*Streaming-alpha.conf</mask>
     <mask>*Streaming-sandbox.conf</mask>
     <mask>*Batch-alpha.conf</mask>
+    <mask>*Deps.scala</mask>
+    <mask>*Batch.scala</mask>
+    <mask>*.sh</mask>
     <mask>*.scala</mask>
+    <mask>*.conf</mask>
+    <mask>*.sbt</mask>
   </component>
 </application>
