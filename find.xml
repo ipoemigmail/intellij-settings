@@ -27,9 +27,9 @@
     <mask>*Batch-alpha.conf</mask>
     <mask>*Deps.scala</mask>
     <mask>*Batch.scala</mask>
-    <mask>*.sh</mask>
     <mask>*.scala</mask>
     <mask>*.conf</mask>
     <mask>*.sbt</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
