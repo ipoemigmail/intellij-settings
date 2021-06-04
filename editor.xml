@@ -4,10 +4,13 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="FiraCodeHan NF" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Book" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
     <option name="LINE_SPACING" value="1.0" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
