@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
+    <option name="FILE_MASK" value="*claim*.sql" />
     <mask>*_spec.rb</mask>
     <mask>*.rb</mask>
     <mask>*Serv*</mask>
@@ -33,5 +33,6 @@
     <mask>*Deps*</mask>
     <mask>*.scala</mask>
     <mask>*-real.conf</mask>
+    <mask>*claim*.sql</mask>
   </component>
 </application>
