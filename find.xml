@@ -3,9 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
-    <mask>*.jsp</mask>
-    <mask>*.properties</mask>
     <mask>*_spec.rb</mask>
     <mask>*.rb</mask>
     <mask>*Serv*</mask>
@@ -27,9 +24,14 @@
     <mask>*Batch-alpha.conf</mask>
     <mask>*Deps.scala</mask>
     <mask>*Batch.scala</mask>
-    <mask>*.sh</mask>
-    <mask>*.scala</mask>
-    <mask>*.conf</mask>
     <mask>*.sbt</mask>
+    <mask>*-beta.conf</mask>
+    <mask>*.sql</mask>
+    <mask>*.sh</mask>
+    <mask>*.conf</mask>
+    <mask>*Deps*</mask>
+    <mask>*-real.conf</mask>
+    <mask>*claim*.sql</mask>
+    <mask>*.scala</mask>
   </component>
 </application>
