@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="dummy" type="AUTO_DETECTED" />
       <mapping pattern="Makefile" type="AUTO_DETECTED" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
