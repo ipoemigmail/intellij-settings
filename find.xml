@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sh" />
     <mask>*.rb</mask>
     <mask>*Serv*</mask>
     <mask>*Instances.scala</mask>
@@ -27,7 +28,6 @@
     <mask>*.sbt</mask>
     <mask>*-beta.conf</mask>
     <mask>*.sql</mask>
-    <mask>*.sh</mask>
     <mask>*Deps*</mask>
     <mask>*-real.conf</mask>
     <mask>*claim*.sql</mask>
@@ -35,5 +35,6 @@
     <mask>*.conf</mask>
     <mask>*.scala</mask>
     <mask>*.java</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
