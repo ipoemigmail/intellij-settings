@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.rb</mask>
     <mask>*Serv*</mask>
     <mask>*Instances.scala</mask>
@@ -14,7 +15,6 @@
     <mask>*Recovery-prod.conf</mask>
     <mask>*Recovery-dev.conf</mask>
     <mask>*-prod.conf</mask>
-    <mask>*.java</mask>
     <mask>*.py</mask>
     <mask>*.html</mask>
     <mask>*-sandbox.conf</mask>
@@ -27,11 +27,12 @@
     <mask>*-beta.conf</mask>
     <mask>*.sql</mask>
     <mask>*.sh</mask>
-    <mask>*.conf</mask>
     <mask>*Deps*</mask>
     <mask>*-real.conf</mask>
     <mask>*claim*.sql</mask>
-    <mask>*.scala</mask>
     <mask>order*.sql</mask>
+    <mask>*.conf</mask>
+    <mask>*.scala</mask>
+    <mask>*.java</mask>
   </component>
 </application>
