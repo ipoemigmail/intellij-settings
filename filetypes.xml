@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="dummy" type="AUTO_DETECTED" />
       <mapping pattern="Makefile" type="AUTO_DETECTED" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -19,7 +18,6 @@
       <mapping ext="hql" type="PLAIN_TEXT" />
       <mapping ext="keytab" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="TSV" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -32,6 +30,7 @@
       <removed_mapping ext="qrc" approved="true" type="XML" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
