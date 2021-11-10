@@ -3,21 +3,14 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*_spec.rb</mask>
-    <mask>*.rb</mask>
-    <mask>*Serv*</mask>
-    <mask>*Instances.scala</mask>
     <mask>*dev.conf</mask>
     <mask>*prod.conf</mask>
-    <mask>*.xml</mask>
     <mask>*Streaming-dev.conf</mask>
     <mask>*Streaming-prod.conf</mask>
     <mask>*Recovery-prod.conf</mask>
     <mask>*Recovery-dev.conf</mask>
     <mask>*-prod.conf</mask>
-    <mask>*.java</mask>
     <mask>*.py</mask>
-    <mask>*.html</mask>
     <mask>*-sandbox.conf</mask>
     <mask>*Streaming-alpha.conf</mask>
     <mask>*Streaming-sandbox.conf</mask>
@@ -27,11 +20,18 @@
     <mask>*.sbt</mask>
     <mask>*-beta.conf</mask>
     <mask>*.sql</mask>
-    <mask>*.sh</mask>
-    <mask>*.conf</mask>
     <mask>*Deps*</mask>
     <mask>*-real.conf</mask>
     <mask>*claim*.sql</mask>
+    <mask>order*.sql</mask>
+    <mask>*.conf</mask>
+    <mask>*.sh</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
     <mask>*.scala</mask>
   </component>
 </application>
