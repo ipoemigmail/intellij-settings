@@ -2,10 +2,10 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="dummy" type="AUTO_DETECTED" />
-      <mapping pattern="Makefile" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="Makefile" type="Makefile" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern=".scalafmt" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
