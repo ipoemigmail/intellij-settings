@@ -18,6 +18,9 @@
   <action id="ServiceView.GroupByServiceGroups" />
   <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleFindInSelection" />
+  <action id="ToggleInlayHintsGloballyAction">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
   <action id="Tool_External Tools_MacVim">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
